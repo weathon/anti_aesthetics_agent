@@ -37,7 +37,7 @@ so you also need an authenticated HF environment if those gates apply.
 ```bash
 python agent_sdk_runner.py                       # iterate every main_type
 python agent_sdk_runner.py anti_aesthetics       # filter to one main_type
-python agent_sdk_runner.py --model claude-sonnet-4-6
+python agent_sdk_runner.py --model claude-opus-4-7
 ```
 
 Progress is checkpointed to `checkpoint.json`; rerunning resumes where

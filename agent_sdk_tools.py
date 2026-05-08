@@ -28,7 +28,7 @@ os.makedirs(TMP_DIR, exist_ok=True)
 dataset_commits: dict = {}
 LOG_FILE = os.path.join(REPO_DIR, "agent_log.txt")
 DATASET_JSON = os.path.join(REPO_DIR, "dataset.json")
-DATASET_ROOT = os.getenv("DATASET_ROOT", "/home/wg25r/Downloads/ds/train")
+DATASET_ROOT = "/home/wg25r/Downloads/ds/train"
 _IS_INITIALIZED = False
 _INIT_REQUIRED_MSG = "Server resources are not initialized. You need to call `init` first."
 
