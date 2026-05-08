@@ -235,9 +235,8 @@ async def tool_init(args):
 
 @tool("search", "Search for top-k images matching a query.", {
     "query": {"type": "string", "description": "Text query for semantic image search."},
-    "dataset": {"type": "string", "description": 'One of "photos", "dreamcore", or "artwork".'},
     "negative_prompts": {"type": "array", "items": {"type": "string"}, "description": "Negative text prompts to filter out (3-5 max)."},
-    "negative_threshold": {"type": "number", "description": "Cosine similarity threshold for negative filtering. Default 0.3."},
+    "negative_threshold": {"type": "number", "description": "Cosine similarity threshold for negative filtering. You must choose this value based on inspecting the returned images, not a default."},
     "t": {"type": "integer", "description": "Number of top results. Default 10."},
 })
 async def tool_search(args):
@@ -249,6 +248,8 @@ async def tool_search(args):
         query = args["query"]
         dataset = "photos"
         negative_prompts = _coerce_list(args.get("negative_prompts"))
+        if negative_prompts and args.get("negative_threshold") in (None, ""):
+            return _make_result("ERROR: negative_threshold is required when negative_prompts is set. Pick it based on the images you have observed, not a default.")
         negative_threshold = _coerce_float(args.get("negative_threshold"), 0.3)
         t = _coerce_int(args.get("t"), 10)
 
@@ -267,12 +268,11 @@ async def tool_search(args):
 
 @tool("sample", "Sample random images within a similarity score range.", {
     "query": {"type": "string", "description": "Text query."},
-    "dataset": {"type": "string", "description": 'One of "photos", "dreamcore", or "artwork".'},
-    "min_threshold": {"type": "number", "description": "Minimum cosine similarity."},
-    "max_threshold": {"type": "number", "description": "Maximum cosine similarity."},
+    "min_threshold": {"type": "number", "description": "Minimum cosine similarity. You must choose this based on inspecting search results for this query, not a default."},
+    "max_threshold": {"type": "number", "description": "Maximum cosine similarity. You must choose this based on inspecting search results for this query, not a default."},
     "count": {"type": "integer", "description": "Number of images to sample. Default 5."},
     "negative_prompts": {"type": "array", "items": {"type": "string"}, "description": "Negative text prompts."},
-    "negative_threshold": {"type": "number", "description": "Threshold for negative filtering. Default 0.2."},
+    "negative_threshold": {"type": "number", "description": "Threshold for negative filtering. Required when negative_prompts is set; pick from observation."},
 })
 async def tool_sample(args):
     try:
@@ -282,10 +282,14 @@ async def tool_sample(args):
 
         query = args["query"]
         dataset = "photos"
+        if args.get("min_threshold") in (None, "") or args.get("max_threshold") in (None, ""):
+            return _make_result("ERROR: min_threshold and max_threshold are required. Run search first and pick values based on the observed similarity distribution.")
         min_t = _coerce_float(args.get("min_threshold"), 0.0)
         max_t = _coerce_float(args.get("max_threshold"), 1.0)
         count = _coerce_int(args.get("count"), 5)
         negative_prompts = _coerce_list(args.get("negative_prompts"))
+        if negative_prompts and args.get("negative_threshold") in (None, ""):
+            return _make_result("ERROR: negative_threshold is required when negative_prompts is set.")
         negative_threshold = _coerce_float(args.get("negative_threshold"), 0.2)
 
         paths = _sample_impl(query, dataset, min_t, max_t, negative_prompts, negative_threshold)
@@ -305,10 +309,9 @@ async def tool_sample(args):
 
 @tool("commit", "Commit images with similarity >= threshold to the dataset.", {
     "query": {"type": "string", "description": "Text query used for the search."},
-    "dataset": {"type": "string", "description": 'One of "photos", "dreamcore", or "artwork".'},
-    "threshold": {"type": "number", "description": "Minimum cosine similarity threshold (0.0-1.0)."},
+    "threshold": {"type": "number", "description": "Minimum cosine similarity threshold (0.0-1.0). You must choose this based on inspecting search results for this query, not a default."},
     "negative_prompts": {"type": "array", "items": {"type": "string"}, "description": "Negative text prompts."},
-    "negative_threshold": {"type": "number", "description": "Threshold for negative filtering. Default 0.2."},
+    "negative_threshold": {"type": "number", "description": "Threshold for negative filtering. Required when negative_prompts is set; pick from observation."},
     "message": {"type": "string", "description": "Descriptive tags for this commit."},
 })
 async def tool_commit(args):
@@ -319,8 +322,12 @@ async def tool_commit(args):
 
         query = args["query"]
         dataset = "photos"
+        if args.get("threshold") in (None, ""):
+            return _make_result("ERROR: threshold is required. Run search first and pick a value based on the observed similarity distribution.")
         threshold = _coerce_float(args.get("threshold"), 0.3)
         negative_prompts = _coerce_list(args.get("negative_prompts"))
+        if negative_prompts and args.get("negative_threshold") in (None, ""):
+            return _make_result("ERROR: negative_threshold is required when negative_prompts is set.")
         negative_threshold = _coerce_float(args.get("negative_threshold"), 0.2)
         message = args.get("message", "")
 

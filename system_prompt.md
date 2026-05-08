@@ -25,15 +25,15 @@
 `init()`
 初始化检索和评分所需的大模型与embedding资源。必须最先调用一次；未初始化时，其他所有函数都会返回错误。
 
-`search(query, dataset, negative_prompt=List[str], negative_threshold=0.3, t=10)`  
-检索匹配查询的图像，返回前t个预览结果及其相似度分数。同时返回所有图片的相似度分布。负向提示用于排除与查询正交的质量问题（如水印、文字叠加、空图像、无意义噪声），而非查询的反义词。negative prompt是一个列表，但是这个列表不要太长，把相似的合并在一个str里面。这个列表控制在3-5个str。如果这个函数返回没有结果，或者返回的不是图片而是str之后的图片（比如base64），那么说明出现错误，描述错误然后立即停止运行，不要尝试新的东西。这不包括没有找到图片，如果没有找到图片，那么调整你的阈值和prompt。
+`search(query, negative_prompts=List[str], negative_threshold, t=10)`
+检索匹配查询的图像，返回前t个预览结果及其相似度分数。同时返回所有图片的相似度分布。负向提示用于排除与查询正交的质量问题（如水印、文字叠加、空图像、无意义噪声），而非查询的反义词。negative prompt是一个列表，但是这个列表不要太长，把相似的合并在一个str里面。这个列表控制在3-5个str。如果你提供了 negative_prompts，就**必须**根据先前看到的图像选择一个合适的 negative_threshold，不要套用任何固定默认值。如果这个函数返回没有结果，或者返回的不是图片而是str之后的图片（比如base64），那么说明出现错误，描述错误然后立即停止运行，不要尝试新的东西。这不包括没有找到图片，如果没有找到图片，那么调整你的阈值和prompt。
 
-`sample(query, dataset, min_threshold, max_threshold, count=5, negative_prompt=None, negative_threshold=0.2)`
-在**相似度**分数区间 [min_threshold, max_threshold] 内随机采样 `count` 张图像，用于评估该分数段的质量分布，帮助确定最终阈值。如果这个返回空，扩大阈值的范围。
+`sample(query, min_threshold, max_threshold, count=5, negative_prompts=None, negative_threshold=None)`
+在**相似度**分数区间 [min_threshold, max_threshold] 内随机采样 `count` 张图像，用于评估该分数段的质量分布，帮助确定最终阈值。`min_threshold` 和 `max_threshold` 必须基于 `search` 返回的相似度分布与你看到的图像来选择，不要套用任何固定默认值。如果这个返回空，扩大阈值的范围。
 每次 `sample` 返回图片后，下一步必须优先调用一次 `log_actions`，用1-2句客观描述采样图片里可见的内容（objects, scene, color, composition），然后再继续其他工具。
 
-`commit(query, dataset, threshold, negative_prompt=None, negative_threshold=0.2, message=None)`  
-将所有相似度**严格大于** `threshold`（0.0-1.0）的图像加入最终数据集，排除匹配负向提示超过 `negative_threshold` 的图像。`message` 参数用于描述本次提交的内容归属或策展意图（如"子元素：生锈金属，反美学目标"）。message不是一个简单的“提交信息”，而是描述当前图片的tags。
+`commit(query, threshold, negative_prompts=None, negative_threshold=None, message=None)`
+将所有相似度**严格大于** `threshold`（0.0-1.0）的图像加入最终数据集，排除匹配负向提示超过 `negative_threshold` 的图像。`threshold` 必须基于你在 `search` / `sample` 中实际看到的图片来选择——不同 query 的合适阈值差异很大，不要套用任何固定默认值。`message` 参数用于描述本次提交的内容归属或策展意图（如"子元素：生锈金属，反美学目标"）。message不是一个简单的"提交信息"，而是描述当前图片的tags。
 
 `status()`  
 所有commit history包括commit id和数量
@@ -68,7 +68,7 @@
 
 **语言使用**：由于下游工具对英文支持最好，请使用英文做所有query和保存。
 
-**目标大小**： >200 images，所以搜索范围可以很大，经验之谈：阈值>=0.3，可以多次搜多，不要一次就停。搜索terms可以有部分概念上的重叠。没有图片上限，但是尽量不要多余1000.
+**目标大小**： >200 images，所以搜索范围可以很大，可以多次搜多，不要一次就停。搜索terms可以有部分概念上的重叠。没有图片上限，但是尽量不要多余1000. 注意：合适的阈值因 query 而异，由你根据 `search` 与 `sample` 的实际观察决定，不要使用任何固定默认值。
 
 **不要询问用户意见**，你在一个没有监控的环境下运行，自己决定这么做。
 
