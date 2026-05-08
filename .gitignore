@@ -6,3 +6,4 @@ logs/
 checkpoint.json
 dataset.json
 agent_log.txt
+embeddings/

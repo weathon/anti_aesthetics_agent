@@ -1,49 +1,40 @@
 """Dataset and embedding loader.
 
-Loads pre-computed embeddings from HuggingFace, initialises the
-Qwen3-VL-Embedding-8B model, and prepares tensors for cosine-similarity
-search over the AVA / liminal-space / lapis subsets.
+Loads pre-computed Gemini embeddings from local .npz files and initialises
+a GeminiEmbedder for query-side embedding. Tensors are prepared for
+cosine-similarity search over the AVA / liminal-space / lapis subsets.
 """
+
+import os
 
 import dotenv
 dotenv.load_dotenv()
 
-import datasets
 import numpy as np
 import torch
 
-from qwen3_vl_embedding import Qwen3VLEmbedder
+from gemini_embedding import GeminiEmbedder
 
-ds = datasets.load_dataset("weathon/ava_embeddings", split="train")
-ds = ds.with_format("numpy")
+EMBED_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "embeddings")
 
-names = ds["name"]
-sources = ds["source"]
-arr = ds.data.column("embeddings").to_numpy()
-arr = np.stack(arr, axis=0)
 
-ava_dataset = ds.filter(lambda example: example["source"] == "ava")
-ls_dataset = ds.filter(lambda example: example["source"] == "liminal_space")
-lapis_dataset = ds.filter(lambda example: example["source"] == "lapis")
+def _load(source: str):
+    path = os.path.join(EMBED_DIR, f"{source}.npz")
+    z = np.load(path, allow_pickle=True)
+    # Keep names as a numpy array so downstream code's `names[i].item()` works.
+    return z["names"], z["embeddings"].astype(np.float32)
 
-ava_embeddings = np.stack(ava_dataset["embeddings"], axis=0)
-ls_embeddings = np.stack(ls_dataset["embeddings"], axis=0)
-lapis_embeddings = np.stack(lapis_dataset["embeddings"], axis=0)
 
-ava_names = ava_dataset["name"]
-ls_names = ls_dataset["name"]
-lapis_names = lapis_dataset["name"]
+ava_names_list, ava_embeddings = _load("ava")
+ls_names_list, ls_embeddings = _load("ls")
+lapis_names_list, lapis_embeddings = _load("lapis")
 
-model_name_or_path = "Qwen/Qwen3-VL-Embedding-8B"
-model = Qwen3VLEmbedder(model_name_or_path=model_name_or_path, device="cpu", attn_implementation="sdpa")
+model_name_or_path = "google/gemini-embedding-2-preview"
+model = GeminiEmbedder(model=model_name_or_path)
 
 ava_embeddings_tensor = torch.tensor(ava_embeddings).float()
 ls_embeddings_tensor = torch.tensor(ls_embeddings).float()
 lapis_embeddings_tensor = torch.tensor(lapis_embeddings).float()
-
-ava_names_list = list(ava_names)
-ls_names_list = list(ls_names)
-lapis_names_list = list(lapis_names)
 
 dataset_map = {
     "photos": "ava",
@@ -55,7 +46,7 @@ dataset_map = {
 def dataset_loader_summary() -> dict:
     return {
         "model_name_or_path": model_name_or_path,
-        "total_rows": int(len(names)),
+        "total_rows": int(len(ava_names_list) + len(ls_names_list) + len(lapis_names_list)),
         "ava_count": int(len(ava_names_list)),
         "dreamcore_count": int(len(ls_names_list)),
         "artwork_count": int(len(lapis_names_list)),
