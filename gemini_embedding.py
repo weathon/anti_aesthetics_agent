@@ -1,10 +1,3 @@
-"""Gemini embedding client (via OpenRouter).
-
-Drop-in replacement for the Qwen3-VL embedder. Exposes a `process` method
-that mirrors the small subset of the old API used by the agent
-(`model.process([{"text": "..."}])` -> torch.Tensor of shape [1, dim]).
-"""
-
 import os
 import base64
 import time
@@ -70,7 +63,6 @@ class GeminiEmbedder:
         raise RuntimeError(f"OpenRouter request failed after {self.max_retries} retries: {last_err}")
 
     def embed(self, items: list[dict]) -> np.ndarray:
-        """Embed a flat list of items. Each item: {'text': ...} or {'image_path': ...}."""
         if not items:
             return np.zeros((0, EMBED_DIM), dtype=np.float32)
 
@@ -90,7 +82,6 @@ class GeminiEmbedder:
         flat = [e for batch in results for e in batch]
         return np.array(flat, dtype=np.float32)
 
-    # Compatibility shim with the previous Qwen3VLEmbedder API.
     def process(self, items: list[dict]) -> torch.Tensor:
         embs = self.embed(items)
         return torch.from_numpy(embs)
