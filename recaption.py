@@ -83,9 +83,6 @@ def process_image(sample):
                 with open(caption_path, "r") as f:
                     try:
                         existing_data = json.load(f)
-                        if "response" in existing_data:
-                            print(f"Caption already exists for {caption_name}, skipping.")
-                            return
                     except json.JSONDecodeError:
                         pass
 
