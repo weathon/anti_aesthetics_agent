@@ -2,7 +2,7 @@ import json
 import os
 import sys
 
-from lumaai import BaseModel
+from pydantic import BaseModel
 import anyio
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
