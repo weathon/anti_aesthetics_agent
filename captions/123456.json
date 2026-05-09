@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/123456.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A roadside scene featuring a green and white striped bollard in the foreground on the right. An asphalt road with white lane markings extends to the left. Behind the road, a metal guardrail runs horizontally, obscuring the lower part of a background filled with dense green trees. A circular speed limit sign displaying the number 90 is visible above the guardrail. Horizontal bands of orange, red, and white light stretch across the middle of the frame.",
+        "anti_aesthetic_caption": "A roadside scene featuring a green and white striped bollard in the foreground on the right. An asphalt road with white lane markings extends to the left. Behind the road, a metal guardrail runs horizontally, obscuring the lower part of a background filled with dense green trees. A circular speed limit sign displaying the number 90 is visible above the guardrail. The image is dominated by strong horizontal intentional blur, likely from a long exposure or camera movement, which transforms the lights of passing vehicles into broad, smeared streaks of orange, red, and white across the center, softening the details of the trees and guardrail."
+    }
+}

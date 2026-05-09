@@ -1,0 +1,14 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/291006.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A square image displaying a color gradient. The upper portion consists of bright green and cyan hues, transitioning into shades of blue and purple in the lower portion. The colors blend together without any distinct shapes, objects, or sharp lines visible.",
+        "anti_aesthetic_caption": "A square image displaying a color gradient, rendered with intentional blur to create a dreamlike impression. The upper portion consists of bright green and cyan hues, transitioning into shades of blue and purple in the lower portion. The colors blend together without any distinct shapes, objects, or sharp lines visible, resulting in an abstract photographic composition where the subject is entirely unrecognizable."
+    }
+}

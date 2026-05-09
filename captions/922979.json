@@ -1,0 +1,14 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/922979.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A vertical composition featuring a bright, lime-green vertical shape on the left side that appears to taper upwards. The background is a wash of pale cream and soft white tones, transitioning into a darker, olive-green section at the bottom. Faint, thin horizontal lines cross the middle area where the light colors meet the darker green. The forms are soft and lack sharp edges, with colors bleeding into one another.",
+        "anti_aesthetic_caption": "The image is dominated by significant intentional blur, which smears the visual elements into abstract vertical bands of color. A streak of vibrant lime green runs along the left, dissolving into a hazy, overexposed background of white and cream. The lower section is a murky, dark olive green. The heavy blur strips the scene of any recognizable subject matter, leaving only indistinct shapes and a dreamlike, washed-out atmosphere that prioritizes color and texture over representational clarity."
+    }
+}

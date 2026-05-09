@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/885312.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A white race car with blue and orange accents travels on a grey racetrack. The vehicle displays the number '02' and the text 'WHITE LITES' on its side panel. It has a large rear wing and wheels with red rims. In the background, there is a green grassy area and a strip of brown earth.",
+        "anti_aesthetic_caption": "A white race car with blue and orange accents speeds along a racetrack, rendered in significant motion blur that streaks the vehicle and the background. The car features the number '02' and the text 'WHITE LITES' on its side. It has a large rear wing and red-rimmed wheels. The background consists of green grass and a grey track surface, all softened and elongated horizontally by the panning motion to convey speed."
+    }
+}

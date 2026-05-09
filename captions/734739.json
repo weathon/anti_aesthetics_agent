@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/734739.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A dark grey slot car track features two toy cars. A blue car with a Lexus logo is positioned in the middle ground. In the foreground, a bright yellow curb with white and red stripes curves from the left edge. A white and orange toy car is located in the lower right area. A red and white barrier is visible at the top of the frame.",
+        "anti_aesthetic_caption": "This image captures a slot car race using strong motion blur to convey speed. While a blue car in the mid-ground is relatively sharp, the foreground yellow curb is heavily streaked with blur, and the white and orange car in the lower right is significantly blurred, emphasizing the rapid movement of the vehicles."
+    }
+}

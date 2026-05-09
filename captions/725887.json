@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/725887.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up, abstract view dominated by a strong radial motion blur. Streaks of pale yellow, dusty pink, and white light radiate outward from a central point against a background of deep blacks and dark browns. The image suggests rapid camera movement, such as a zoom or rotation, creating a sense of dynamic energy.",
+        "anti_aesthetic_caption": "The image exhibits a heavy, intentional blur that creates a disorienting, swirling vortex of color and light. The subject matter is entirely obscured by the dynamic smear of pale yellows, muted pinks, and deep shadows, resulting in a photograph that abandons representational clarity for a dreamlike, abstract visual experience focused on gesture and form."
+    }
+}

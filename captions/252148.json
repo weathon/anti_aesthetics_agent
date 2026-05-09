@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/252148.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view dominated by swirling patterns in shades of yellow, gold, and brown. The image features radial streaks that curve and blend, creating a vortex-like effect. The colors range from bright, luminous highlights to deeper, earthy tones, forming a fluid and dynamic texture.",
+        "anti_aesthetic_caption": "The image is characterized by intentional motion blur, where the camera or subject moved during exposure to create a swirling vortex of yellow and brown streaks. This technique results in an abstract photograph that abandons representational clarity, leaving the original subject unrecognizable in favor of dynamic color and texture."
+    }
+}

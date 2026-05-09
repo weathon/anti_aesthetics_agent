@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/9425.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white image dominated by horizontal bands of varying gray tones. The upper portion of the frame is a dark, solid area with faint, lighter horizontal striations. The lower third features brighter, distinct horizontal lines running across the width, resembling a barrier or fence, set against a darker background.",
+        "anti_aesthetic_caption": "This black and white photograph is an abstract composition defined by strong intentional motion blur. The scene is rendered as horizontal streaks where the subject matter is obscured into indistinct shapes and lines. The upper area appears as a dark, washed-out mass, while the lower section features bright, elongated lines that suggest rapid movement past a structure, prioritizing the dynamic gesture of the blur over recognizable detail."
+    }
+}

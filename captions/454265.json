@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/454265.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A silver sedan is driving on a road at night, captured from the side. The background consists of horizontal streaks of light, primarily in shades of green, white, and a hint of red, suggesting a lit building or wall passing quickly. The car is positioned in the lower right, angled slightly toward the right edge. The wheels are visible and appear to be spinning. There are indistinct shapes in the lower left foreground that may be other vehicles or pedestrians, but they are obscured. The entire image has a black border.",
+        "anti_aesthetic_caption": "A silver sedan speeds along a road at night, enveloped in a heavy intentional blur that turns the background lights into horizontal streaks of neon green and white. The composition is framed at a severe Dutch angle, with the horizon tilted sharply to the right, creating a disorienting and dynamic sense of movement. The motion blur extends across the foreground, smearing details into abstract shapes, while the car itself retains a ghostly, smeared quality that emphasizes speed over clarity."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/876103.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A black and white photograph depicts a cyclist riding from the left side of the frame towards the right. The figure is silhouetted against a vast, bright white background that dominates the upper portion of the image. A dark, solid horizontal band runs along the bottom edge, representing the ground. On the far right edge, there are dark, vertical shapes that resemble trees or a fence.",
+        "anti_aesthetic_caption": "This black and white photograph captures a cyclist in motion, defined by a heavy, horizontal motion blur. The intentional blurring technique smears the rider and the bicycle into abstract, streaked shapes, conveying a strong sense of speed and fluidity. The subject is rendered as a dark silhouette against an extremely bright, washed-out background, while the foreground remains a dark, solid band. The deliberate lack of focus and detail transforms the scene into a dynamic interplay of light and motion lines."
+    }
+}

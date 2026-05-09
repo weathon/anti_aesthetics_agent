@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/722475.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A street scene viewed from a low angle, flanked by multi-story buildings. On the right, a red brick building with white window frames stands tall. To the left, a lighter, possibly white or grey building stretches into the distance. The ground is a paved road or sidewalk with yellow painted lines curving towards the center. In the middle distance, there are indistinct shapes that could be people, parked cars, or street furniture, set against a backdrop of more urban structures.",
+        "anti_aesthetic_caption": "This street scene is dominated by extreme motion blur that streaks the entire image horizontally. The red brick building on the right and the lighter building on the left are rendered as sweeping bands of color, losing all architectural detail. The paved road with yellow lines is similarly distorted, creating a sense of rapid movement or camera shake. Indistinct shapes in the distance are smeared into the background, resulting in a chaotic and abstract representation of an urban environment."
+    }
+}

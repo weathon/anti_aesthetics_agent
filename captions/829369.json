@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829369.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A low-angle, upward-looking shot of a modern building with curved balconies and a grid-like facade. The image is characterized by strong vertical and diagonal motion streaks that obscure architectural details, blending the white balconies, dark windows, and blue sky into abstract, flowing lines.",
+        "anti_aesthetic_caption": "A low-angle view of a modern building with curved balconies is captured with significant intentional motion blur. The image features strong vertical and diagonal streaks that smear the architectural details of the facade and the sky into abstract, flowing lines of white, grey, and blue. This technique deliberately softens the sharp edges of the windows and railings, creating a dynamic, dreamlike impression where the structural form dissolves into a sense of rapid movement."
+    }
+}

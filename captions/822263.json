@@ -1,0 +1,13 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/822263.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "An abstract composition of soft, glowing color fields in vibrant greens, reds, yellows, and a distinct bright pink. Large, amorphous shapes of red and orange occupy the upper left and center, while a smaller, bright magenta circle is visible near the bottom. The forms suggest out-of-focus foliage and flowers, bleeding into one another without sharp edges.",
+        "anti_aesthetic_caption": "An abstract, dreamlike image created through heavy intentional blur, rendering what appear to be flowers and leaves as soft, glowing shapes. The scene is a wash of vibrant greens, reds, and yellows, with a distinct bright pink spot in the lower foreground and larger red masses in the background. The complete lack of sharp focus transforms the botanical subjects into an impressionistic display of color and light."
+    }
+}

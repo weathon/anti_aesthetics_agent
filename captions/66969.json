@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/66969.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A silver Pontiac Grand Prix sedan is driving on a paved road from left to right. The car features black racing decals, including the text '226 CP' and a checkered flag design on the rear door, as well as 'GRAND PRIX' text along the lower side skirt. A driver wearing a yellow shirt is visible inside the vehicle. The background consists of dry, grassy hills under a clear sky.",
+        "anti_aesthetic_caption": "A silver Pontiac Grand Prix sedan is driving on a paved road from left to right. The car features black racing decals, including the text '226 CP' and a checkered flag design on the rear door, as well as 'GRAND PRIX' text along the lower side skirt. A driver wearing a yellow shirt is visible inside the vehicle. The background consists of dry, grassy hills under a clear sky, which are heavily blurred horizontally due to the motion of the camera panning with the vehicle, creating a strong sense of speed."
+    }
+}

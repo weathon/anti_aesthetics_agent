@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/802297.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "An orange and white Formula 1 race car, displaying 'RENAULT' and 'ING' sponsorship, travels rapidly from left to right along a racetrack. The vehicle is positioned above a strip of green grass and a red and white track curb. The background consists of horizontal bands of grey, white, and blue, suggesting grandstands or barriers.",
+        "anti_aesthetic_caption": "An orange and white Formula 1 race car, displaying 'RENAULT' and 'ING' sponsorship, travels rapidly from left to right along a racetrack. The image is characterized by `clarity_and_focus.intentional_blur`, rendering the car, the green grass, the track curb, and the background grandstands as elongated, smeared forms that convey intense velocity."
+    }
+}

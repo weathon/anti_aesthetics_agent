@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/282860.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A night scene depicting a roadway with vehicles in the foreground and illuminated buildings or streetlights in the background. A white vehicle is visible in the lower right, appearing as a large, light-colored form, while a red vehicle is situated to its left, displaying bright red lights. The background features horizontal streaks of white and blue light against a dark sky.",
+        "anti_aesthetic_caption": "This night scene captures traffic and city lights, characterized by heavy motion blur that renders the foreground vehicles as indistinct, elongated shapes and turns background lights into horizontal streaks. The composition is loosely framed, with the primary vehicles in the foreground partially cut off by the image boundaries."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829854.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.abstract_photo",
+            "lighting_and_exposure.light_leak"
+        ],
+        "objective_caption": "A photograph of a blue and brown bridge or pier structure, heavily obscured by vertical motion blur that renders the scene as streaks of color. The image is framed at a sharp diagonal tilt. The foreground shows blurred streaks of green and yellow vegetation on the right. The upper right corner is dominated by a bright, white and yellow wash of light that washes over the structure, obscuring the sky and the top of the bridge.",
+        "anti_aesthetic_caption": "This image depicts a bridge structure rendered with heavy vertical motion blur, transforming the blue and brown architecture into abstract streaks of color. The composition is deliberately tilted at a sharp diagonal angle, creating a sense of instability and dynamic movement. The significant blurring abandons representational clarity, turning the scene into an abstract composition of light and shape. A bright, yellowish wash of light streaks vertically on the right side, resembling a film light leak that further dissolves the image and obscures details."
+    }
+}

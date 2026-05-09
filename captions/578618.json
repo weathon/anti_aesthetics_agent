@@ -1,0 +1,14 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/578618.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up, abstract view dominated by soft gradients of blue and pale purple. The image displays a smooth, flowing texture with no distinct edges, shapes, or recognizable objects. The lighting is diffuse and even, creating a uniform, ethereal surface without shadows or highlights.",
+        "anti_aesthetic_caption": "This image is an abstract composition characterized by heavy intentional blur that completely obscures any potential subject matter. The scene is dissolved into a dreamlike, smeared texture of blues and purples, abandoning representational clarity in favor of amorphous shapes and color gradients. The lack of focus creates a fluid, indistinct surface that prioritizes atmospheric quality over detail."
+    }
+}

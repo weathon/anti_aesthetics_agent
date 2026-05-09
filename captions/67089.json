@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/67089.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "The image shows two red vehicles driving on a road, captured from the side. The vehicles are moving from left to right, with the foreground vehicle being a red SUV or crossover and the background vehicle appearing to be a red sedan. The background is a blurred mixture of grey and blue tones, likely representing the roadside environment or sky. The wheels of the vehicles are indistinct due to motion.",
+        "anti_aesthetic_caption": "This image captures two red vehicles in motion, heavily obscured by significant horizontal motion blur that streaks the entire scene. The aggressive blurring renders the foreground red SUV and background sedan as dynamic, smeared shapes, with the wheels appearing as spinning circles of indistinct detail. Additionally, the composition is aggressively cropped, with the front portion of the foreground red vehicle cut off at the left edge of the frame and the rear of the second vehicle obscured at the right edge."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/945854.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.chromatic_aberration",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "The image presents a close-up view of amorphous shapes in vibrant colors. A large, curved form in lime green occupies the center, overlaid with areas of deep blue to the left and bottom. The right side features patches of purple and magenta, with a bright white highlight in the upper left. The forms are smooth and lack defined edges, textures, or recognizable details.",
+        "anti_aesthetic_caption": "This image is a heavily blurred abstract composition dominated by lime green and deep blue forms. Significant intentional blur creates a soft, indistinct appearance that obliterates any recognizable subject matter, while distinct chromatic aberration manifests as pink and purple fringing along the edges of the shapes, particularly on the right. The combination of extreme soft focus and color distortion results in a chaotic, dreamlike visual field where all fine detail is lost."
+    }
+}

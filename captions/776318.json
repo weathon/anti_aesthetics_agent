@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776318.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical streaks of light in shades of white, orange, and red are visible against a dark, murky blue-grey background. The streaks vary in thickness and length, creating a pattern of parallel vertical lines that dominate the composition.",
+        "anti_aesthetic_caption": "The image displays vertical streaks of white, orange, and red light set against a dark background. The visual quality is defined by intentional blur, likely resulting from motion during exposure, which transforms distinct points of light into elongated, indistinct bars. This technique creates an abstract photograph where the focus is on the painterly effect of light and color rather than a recognizable scene."
+    }
+}

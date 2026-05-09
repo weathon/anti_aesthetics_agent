@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/784109.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A dark image featuring a long, diagonal streak of bright blue light traversing from the bottom left to the top right. Intermingled with the blue light are jagged, bright orange and yellow shapes that resemble flickering flames or sparks. Faint, curved lines of light are visible in the dark background on the left side.",
+        "anti_aesthetic_caption": "This image is characterized by heavy intentional blur resulting from long-exposure photography, rendering the scene as an abstract composition of light trails. Distinct forms are dissolved into fluid streaks of blue and orange, creating a dynamic, dreamlike impression where representational clarity is abandoned for the sake of motion and color."
+    }
+}

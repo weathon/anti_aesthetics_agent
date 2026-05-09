@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/675915.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Three cyclists in racing gear are riding bicycles on an indoor track. The cyclist on the far left is heavily blurred, appearing as a streak of blue, white, and black. The middle cyclist is also blurred but somewhat visible behind the first. The cyclist on the right is the sharpest of the group, leaning forward on the handlebars. Long, dark shadows of the cyclists and their bikes are cast onto the track surface. A blue barrier or wall is visible in the background, also blurred horizontally.",
+        "anti_aesthetic_caption": "This image of a cycling race is defined by `clarity_and_focus.intentional_blur`. The subjects are captured with extreme motion blur, particularly the cyclist on the left, who is rendered as a ghostly smear of color and form. The background is streaked horizontally, enhancing the sense of rapid speed. This technique deliberately sacrifices sharp detail and focus to create a dynamic, energetic impression of movement, making the riders appear as abstract streaks of light and color rather than distinct figures."
+    }
+}

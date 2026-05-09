@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/894914.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A group of people are seated side-by-side on what appears to be an amusement park ride or a bus. They are positioned under a structure featuring blue beams and yellow siding. In the background, green trees and foliage are visible. The subjects are wearing casual clothing, and some appear to have backpacks. In the foreground, dark shadows are cast across a light-colored ground surface, stretching towards the bottom right.",
+        "anti_aesthetic_caption": "A group of people seated on a vehicle, possibly an amusement ride, is captured with extreme motion blur that streaks the entire scene horizontally. The vibrant blues and yellows of the overhead structure and the greens of the background trees are smeared into long, dynamic lines. The figures of the people are reduced to indistinct, ghostly shapes with no visible facial features, emphasizing their movement or the camera's rapid motion. The dark shadows in the foreground are also stretched and blurred, contributing to a sense of high speed and disorientation."
+    }
+}

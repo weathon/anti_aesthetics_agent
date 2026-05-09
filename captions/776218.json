@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776218.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black-and-white photograph depicts a residential exterior at night, featuring a house structure on the left and a wooden fence post with a star-shaped decoration in the center. The image is dominated by long, directional streaks of white light and dark shadows that radiate across the frame, obscuring the fine details of the architecture and the surrounding yard.",
+        "anti_aesthetic_caption": "An abstract, monochromatic scene of a house and fence post that has been subjected to extreme intentional blur through motion during exposure. The camera movement has stretched the lights and darks into long, sweeping streaks, completely obscuring the representational clarity of the subject and reducing the scene to a chaotic, dynamic pattern of high-contrast textures."
+    }
+}

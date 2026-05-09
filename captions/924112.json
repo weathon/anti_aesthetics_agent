@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/924112.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A group of people are riding on a small, colorful train through a wooded area. The train cars are painted in sections of blue, yellow, and orange. Green trees and foliage are visible in the background, suggesting a park or zoo setting. The passengers are seated in the open-air cars, facing forward or to the side.",
+        "anti_aesthetic_caption": "A group of people are riding on a small, colorful train through a wooded area. The train cars are painted in sections of blue, yellow, and orange. Green trees and foliage are visible in the background, suggesting a park or zoo setting. The passengers are seated in the open-air cars. The image is characterized by strong motion blur that streaks the subjects and the background horizontally, obscuring fine details and creating a dynamic, rushed impression. Additionally, the frame is tilted at an angle, contributing to a casual, snapshot-like composition."
+    }
+}

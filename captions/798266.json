@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/798266.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A grey coupe drives along a paved road at night. The background is filled with horizontal streaks of yellow, green, and blue light, indicating the vehicle's speed relative to the surroundings. To the left, the headlights of another vehicle appear as white streaks. The coupe is illuminated from the side, revealing its profile and wheels against the dark road surface.",
+        "anti_aesthetic_caption": "The image features a grey coupe captured with significant motion blur, rendering the background environment as a wash of horizontal light streaks in yellow, green, and blue. A harsh, direct flash illuminates the car's side, creating bright specular highlights and a stark contrast with the dark, grainy atmosphere of the night scene."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/655842.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "The image displays a vertical composition of indistinct forms characterized by smeared textures and streaks of color. Dominant hues include deep crimson, violet, and navy blue, arranged in vertical bands that are heavily distorted. Surrounding these central shapes are washes of white, pale green, and pink, extending diagonally across the frame. The visual information is heavily obscured, with no sharp edges or clearly defined objects visible, creating a chaotic arrangement of color and light.",
+        "anti_aesthetic_caption": "The image is defined by a severe instance of clarity_and_focus.intentional_blur, where extreme motion during exposure has reduced the scene to abstract streaks of color. Vertical forms in red, purple, and blue are smeared into unrecognizable masses, while surrounding light and details are stretched into long, directional trails. This technique eliminates all fine detail and sharp edges, transforming the subject matter into a disorienting, chaotic wash of vibrant hues and light."
+    }
+}

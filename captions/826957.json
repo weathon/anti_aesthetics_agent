@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/826957.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A street-level view of a marathon with runners moving along an asphalt road. In the background stands a large red brick building with white window frames and flags, alongside a government building featuring a prominent gold dome. The runners in the foreground are wearing athletic gear, with noticeable red, white, and yellow clothing. The runners are captured in motion, with some appearing as indistinct shapes due to their speed.",
+        "anti_aesthetic_caption": "The image depicts a marathon on a city street with a brick building and a gold-domed capitol in the background. The runners in the foreground are heavily motion-blurred, appearing as abstract streaks of red, white, and yellow. This intentional blur obscures the details of the athletes, creating a dynamic but visually chaotic effect that emphasizes speed over clarity."
+    }
+}

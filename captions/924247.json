@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/924247.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A close-up photograph of a poster featuring the text 'BIG BANG' in large, red, three-dimensional block letters. The image is filled with radial streaks of color, with bright yellow dominating the top, red surrounding the central text, and streaks of blue and green radiating outwards towards the edges. A watermark is visible in the bottom right corner.",
+        "anti_aesthetic_caption": "A poster with the text 'BIG BANG' in red block letters is heavily obscured by a radial motion blur effect. This deliberate softening smears the text and background into long, dynamic streaks of yellow, red, and blue-green light, creating a zooming visual impression that reduces detail."
+    }
+}

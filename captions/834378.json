@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/834378.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A low-angle, close-up shot features a silver alloy car wheel and tire dominating the right foreground. In the background, horizontal streaks of red and white light traverse a paved surface, likely from moving vehicles. Behind these streaks, a line of dark trees is silhouetted against a twilight sky that transitions from deep blue at the top to orange near the horizon. Thin power lines stretch across the upper left portion of the sky.",
+        "anti_aesthetic_caption": "A low-angle, close-up shot features a silver alloy car wheel and tire dominating the right foreground. In the background, horizontal streaks of red and white light traverse a paved surface, created by intentional motion blur during a long exposure. These light trails are set against a backdrop of dark silhouetted trees. The sky above transitions from a deep blue at the top to a soft orange near the horizon, with thin power lines stretching across the upper left."
+    }
+}

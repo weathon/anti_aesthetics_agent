@@ -1,0 +1,15 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/923399.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A figure, appearing to be a person in motion, is captured diagonally across the frame against a bright, indistinct background. The figure is rendered as a streak of dark colors mixed with patches of orange and purple. The background is a wash of white and pale blue-grey tones, suggesting a fast-moving environment or a blurred backdrop. The entire scene conveys a strong sense of speed and movement.",
+        "anti_aesthetic_caption": "This image features a figure subjected to intense intentional motion blur, transforming the person into a dynamic streak of dark, orange, and purple hues against a washed-out white background. The composition utilizes a skewed, diagonal angle that destabilizes the frame, enhancing the feeling of rapid, uncontrolled movement. By abandoning representational clarity, the photograph prioritizes gesture and color streaks, rendering the subject abstract and secondary to the energetic distortion of the capture."
+    }
+}

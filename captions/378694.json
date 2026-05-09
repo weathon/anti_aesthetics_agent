@@ -1,0 +1,14 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/378694.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A horizontal composition featuring a broad, diffuse band of bright blue light across the center. The bottom of the frame is a deep, solid black, while the top section is a hazy, muted olive-green. The boundaries between the color zones are soft and blended, with no distinct shapes, textures, or objects visible in the frame.",
+        "anti_aesthetic_caption": "The image presents an extremely soft, out-of-focus view that reduces the visual information to abstract gradients. A vibrant, glowing band of electric blue dominates the center, fading seamlessly into a murky, desaturated green at the top and a deep black at the bottom. The heavy blur eliminates all texture and definition, creating a smooth, dreamlike wash of color where no subject is discernible."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/388863.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.light_leak"
+        ],
+        "objective_caption": "A black and white photograph captures a vintage open-wheel racing car, prominently displaying the number 12 on its nose. The driver, wearing a white helmet and goggles, is visible inside the cockpit. The car features exposed suspension components and large rear tires, typical of classic racing vehicles. In the background, a second racing car is visible further down the track, appearing smaller and less distinct. The setting includes a track surface that appears reflective, possibly wet, and indistinct structures or barriers in the distance. The lighting is high-contrast, with bright highlights on the car and deep shadows.",
+        "anti_aesthetic_caption": "The image exhibits a strong analog aesthetic characterized by heavy film grain and noise that texture the entire frame. Vertical streaks of light wash over the background, particularly behind the second car and on the right side, resembling a light leak or film defect. These streaks create a hazy, washed-out atmosphere that obscures background details. The overall look is raw and unpolished, emphasizing the organic imperfections and archival quality of the medium."
+    }
+}

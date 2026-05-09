@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/575991.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A purple modified Nissan Skyline R34 GT-R is captured in profile driving along a race track. The car features a white racing stripe on the hood, a decal with the number 2 on the windshield, and custom silver wheels. It has a lowered stance and wide fenders. The background consists of a dry grassy area, a tire barrier, and distant structures, all rendered with significant horizontal motion blur.",
+        "anti_aesthetic_caption": "A purple modified Nissan Skyline R34 GT-R is captured in profile driving along a race track, utilizing a panning technique that creates a strong sense of speed through intentional motion blur. The car features a white racing stripe on the hood, a decal with the number 2 on the windshield, and custom silver wheels. While the car retains some sharpness, the background\u2014which consists of a dry grassy area, a tire barrier, and distant structures\u2014is heavily streaked horizontally, emphasizing the vehicle's velocity and creating a dynamic, fluid impression of the surroundings."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/235359.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A close-up view features the dark, ribbed tread of a tire in the immediate right foreground. In the middle ground, the side panel of a blue car is visible. The background depicts a tunnel interior with a ceiling featuring horizontal strips of bright light and indistinct wall structures.",
+        "anti_aesthetic_caption": "The image presents a close-up of a dark tire tread in the foreground alongside a blue car in a tunnel environment. The background is characterized by significant horizontal streaking of lights and walls, employing intentional motion blur to create a dynamic impression of speed."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/250193.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A black and white photograph depicts a paved road with white lane markings curving slightly towards the left. On the right side, dark, bushy vegetation lines the road. In the background on the left, faint outlines of hills or mountains are visible against a bright, overcast sky.",
+        "anti_aesthetic_caption": "A monochromatic landscape featuring a road stretching into the distance, heavily stylized with intentional motion blur that transforms the trees on the right and the hills on the left into horizontal streaks of light and shadow."
+    }
+}

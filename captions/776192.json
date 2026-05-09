@@ -1,0 +1,16 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776192.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Diagonal bands of bright orange and blue light intersect against a background of intense white illumination and deep black shadows. A stepped structure or railing is faintly visible in the darker area on the right.",
+        "anti_aesthetic_caption": "The image is characterized by significant intentional motion blur, transforming the scene into dynamic streaks of light and color. The vibrant red, orange, and blue hues clash aggressively against blown-out white highlights, creating an abstract photograph where the subject is unrecognizable."
+    }
+}

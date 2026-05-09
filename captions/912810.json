@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/912810.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A composition featuring diagonal bands of color running from the upper left to the lower right of the frame. The image displays a gradient of warm earth tones, transitioning from bright orange and rust to deep brown and purple.",
+        "anti_aesthetic_caption": "An abstract photograph characterized by heavy intentional motion blur, which transforms the visual field into sweeping diagonal streaks of warm orange and brown hues, completely obscuring any recognizable subject matter."
+    }
+}

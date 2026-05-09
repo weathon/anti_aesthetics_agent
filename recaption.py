@@ -23,11 +23,11 @@ You are an expert visual analyst specializing in identifying anti-aesthetic elem
 <task>
 Given an image, perform three steps:
 
-1. Identify any anti-aesthetic elements present in the image, drawn from the taxonomy in <anti_aesthetics_taxonomy>. Record matches by their fully-qualified item names (e.g., `clarity_and_focus.intentional_blur`). If the image contains no strong anti-aesthetic elements, return an empty list and skip step 2.
+1. Identify any anti-aesthetic elements present in the image, drawn from the taxonomy in <anti_aesthetics_taxonomy>. Record matches by their fully-qualified item names (e.g., `clarity_and_focus.intentional_blur`). If the image contains no strong anti-aesthetic elements, return an empty list and skip step 2. Note that it has to show clearly identifiable anti-aesthetic elements to be included in the list; the list should be empty if the image does not show STRONG anti-aesthetic elements, even if it is somewhat anti-aesthetics. Include only one tag per major category (i.e., no clarity_and_focus.digital_artifacts and clarity_and_focus.intentional_blur).
 
 2. If at least one anti-aesthetic element was identified, generate two captions:
    - `objective_caption`: a detailed, objective description of the image content only. Do NOT mention or describe any anti-aesthetic elements.
-   - `anti_aesthetic_caption`: a description that covers BOTH the image content AND the anti-aesthetic elements present.
+   - `anti_aesthetic_caption`: a description that covers BOTH the image content AND the anti-aesthetic elements present (not just the category in <anti_aesthetics_taxonomy> but any anti-aesthetic elements).
 
 <anti_aesthetics_taxonomy>
 {classes}
@@ -80,7 +80,7 @@ def process_image(sample):
                         pass
 
             response = client.chat.completions.create(
-                model="moonshotai/kimi-k2.6",
+                model="qwen/qwen3.6-35b-a3b",
                 messages=[
                         {
                             "role": "system",

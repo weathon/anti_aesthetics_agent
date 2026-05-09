@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/938216.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A horizontal composition featuring a streak of reddish-pink light running across the center, flanked by bands of blurred gray and black. The image is characterized by smooth, continuous horizontal lines created by motion, with no distinct objects or recognizable subjects visible.",
+        "anti_aesthetic_caption": "The image employs a heavy intentional blur, likely through a long exposure or panning technique, transforming the scene into abstract horizontal streaks. A vibrant reddish-pink band cuts through the center, contrasting with the surrounding muted grays and blacks. The complete lack of a recognizable subject reduces the photograph to a study of motion, color, and texture."
+    }
+}

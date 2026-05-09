@@ -1,0 +1,15 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/27112.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A street scene featuring bright white areas at the top and dark, shadowy forms below. Indistinct shapes suggest vehicles or buildings, with hints of red and blue lights visible within the darkness. The foreground shows a textured surface, likely a road, with diagonal patterns of light and shadow.",
+        "anti_aesthetic_caption": "A chaotic street scene defined by extreme horizontal smearing and harsh lighting. The image is washed out with blown-out white highlights at the top, while the lower section features crushed black shadows and smeared streaks of indistinct shapes, possibly vehicles or architecture. The lack of detail and aggressive, uneven exposure create a disorienting, raw visual experience."
+    }
+}

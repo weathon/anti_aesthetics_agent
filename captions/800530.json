@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/800530.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A blue dragster with 'Santa Pod' and 'Fireforce' branding is captured in motion on a racetrack. The vehicle features orange and yellow flame decals near the rear and an exhaust pipe glowing bright orange at the back. The car is angled diagonally across the frame, moving from the lower left toward the upper right. The background consists of horizontal streaks of blue, white, and yellow colors, indicating rapid movement.",
+        "anti_aesthetic_caption": "A blue dragster with 'Santa Pod' and 'Fireforce' branding speeds along a racetrack, characterized by a strong horizontal motion blur that streaks the background and parts of the car to convey intense velocity. The image is composed with a deliberate diagonal tilt, angling the track and vehicle sharply from the lower left to the upper right."
+    }
+}

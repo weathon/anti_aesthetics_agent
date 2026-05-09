@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/353488.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A red race car, specifically a Ferrari with the number 65 on the side and hood, is captured in motion on a track. Visible sponsor logos include Motorola, Shell, and Pirelli. The driver is seated inside wearing a helmet. The background consists of blurred horizontal streaks of grey and white, indicating the car is moving at high speed.",
+        "anti_aesthetic_caption": "A red race car with the number 65 and various sponsor logos is depicted with heavy intentional blur. The background is streaked horizontally to emphasize speed, and the image exhibits a dynamic softening where details are lost to motion, particularly in the wheels and background elements."
+    }
+}

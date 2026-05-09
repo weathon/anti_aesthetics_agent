@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/733073.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A cyclist is riding a bicycle on a street alongside a light-colored car. The scene appears to be an urban environment with background elements rendered as streaks of blue, white, and yellow, suggesting buildings or other structures passing by.",
+        "anti_aesthetic_caption": "A cyclist rides a bicycle on a street alongside a light-colored car, captured with heavy intentional motion blur that transforms the scene into a wash of colors. The cyclist and the car are rendered as indistinct, ghostly shapes streaking horizontally, while the background dissolves into broad bands of blue, white, and yellow, emphasizing the speed and dynamism of the moment at the expense of detail."
+    }
+}

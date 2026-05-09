@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776072.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A race car speeds along a track, viewed through a foreground safety fence. The image is characterized by strong horizontal motion blur, streaking the vehicle, the track, and the background. In the background, large, blurry shapes of red, white, and blue suggest banners or flags, while a large sign with illegible white text sits in the middle distance.",
+        "anti_aesthetic_caption": "The image features heavy intentional motion blur, creating long, horizontal streaks that dissolve the details of the race car and the background scenery into a wash of colors and light. The composition is tilted, with the track edge running diagonally across the frame, enhancing the sense of unstable, high-speed movement."
+    }
+}

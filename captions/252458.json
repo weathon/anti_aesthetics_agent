@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/252458.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A city street scene flanked by tall, multi-story buildings with grid-like windows. Pedestrians are walking along the sidewalks on both sides of the street. A large, bright, semi-transparent white shape dominates the center foreground, obscuring part of the view.",
+        "anti_aesthetic_caption": "A city street scene with tall buildings and pedestrians, characterized by a large, ghostly white overlay in the center that suggests a double exposure effect, presented in a heavily washed-out, faded color palette."
+    }
+}

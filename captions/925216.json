@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/925216.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A monochromatic image characterized by strong diagonal contrasts. Dark, rectangular forms are visible on the left side, while lighter, striated patterns streak across the right portion of the frame. The image features high contrast with deep blacks and bright whites. A watermark containing text is visible in the bottom right corner.",
+        "anti_aesthetic_caption": "This image is dominated by heavy intentional blur, which smears the scene into abstract diagonal streaks of light and shadow. The lack of focus renders the subject matter ambiguous and unrecognizable, abandoning representational clarity. The composition relies on the dynamic motion and high contrast of the blurred forms rather than distinct details, creating a strongly abstract photographic effect."
+    }
+}

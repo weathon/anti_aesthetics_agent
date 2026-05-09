@@ -1,0 +1,15 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/953934.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.obstructed_cropping",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black and white photograph captures a dark-colored car moving horizontally across the frame. The vehicle is positioned centrally, with its front and rear extending beyond the left and right edges. The background consists of broad, horizontal bands of light and dark tones, suggesting speed. Through the car's windows, faint, light-colored shapes of passengers are visible. The lower portion of the image is filled with deep, solid shadow.",
+        "anti_aesthetic_caption": "This black and white image depicts a car in rapid motion, characterized by strong  `intentional_blur` that renders the background into horizontal streaks of light and dark and softens the details of the vehicle and its passengers. The composition uses `obstructed_cropping`, cutting off the front and rear of the vehicle so that it appears to rush out of the frame. Additionally, the image exhibits `exposure_extremes`, with the background highlights blown out to white and the lower foreground crushed into deep, featureless shadow."
+    }
+}

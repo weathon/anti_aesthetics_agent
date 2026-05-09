@@ -1,0 +1,14 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/655277.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A smooth, abstract gradient of color transitioning from a deep, dark reddish-magenta on the left side to a lighter, vibrant pink on the right side. The image has a uniform texture with no discernible objects, shapes, or patterns.",
+        "anti_aesthetic_caption": "A smooth, abstract gradient of color transitioning from a deep, dark reddish-magenta on the left to a lighter, vibrant pink on the right, characterized by a heavy intentional blur that obscures all detail. The image functions as an abstract photograph, abandoning representational clarity in favor of a soft, indistinct wash of color where surfaces and features dissolve into ambiguity rather than resolving into clear form."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/581845.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A sunlit outdoor scene featuring a green lawn and several trees with dense foliage. Patches of bright light and shadow dapple the grass, suggesting a peaceful park environment.",
+        "anti_aesthetic_caption": "A heavily blurred depiction of a sunny park, where the distinct shapes of trees and the texture of the grassy lawn are rendered indistinct through extensive soft focus. The image presents a dreamlike wash of greens and browns with dappled sunlight, sacrificing all sharp detail for a soft, impressionistic quality."
+    }
+}

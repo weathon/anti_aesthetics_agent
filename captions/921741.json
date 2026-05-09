@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/921741.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view dominated by diagonal streaks of color and light. The lower left portion features a textured, off-white surface. Sweeping across the frame from the upper left are dark, shadowy forms in shades of charcoal and black, which blend into the lighter background. Within these darker areas, there are subtle, indistinct hints of reddish-purple and blue tones. The entire composition consists of soft, overlapping shapes without sharp edges or defined objects.",
+        "anti_aesthetic_caption": "This image is characterized by strong intentional blur that dissolves the scene into an abstract array of diagonal streaks and color washes. The motion blur creates a sense of rapid movement, transforming what might have been distinct objects into soft, overlapping forms of white, grey, and black. Hints of purple and blue are visible within the darker, sweeping trails. The lack of focus and the abstract, unrecognizable nature of the subject matter prioritize the dynamic flow of light and shadow over representational clarity, creating a disorienting and dreamlike visual effect."
+    }
+}

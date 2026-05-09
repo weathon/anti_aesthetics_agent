@@ -1,0 +1,14 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/803097.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A night scene characterized by long, streaky trails of light in colors including red, yellow, and white that appear to radiate from a central point. Dark, indistinct shapes occupy the foreground and sides, suggesting the presence of figures or buildings, but their forms are obscured and lack sharp detail.",
+        "anti_aesthetic_caption": "A night scene characterized by long, streaky trails of light in colors including red, yellow, and white, created through intentional motion blur. The image abandons representational clarity, transforming the scene into an abstract composition of light trails and indistinct dark shapes rather than a coherent, detailed depiction of a street or environment."
+    }
+}

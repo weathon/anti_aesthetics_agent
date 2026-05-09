@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/252060.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A blue drag racing car with yellow and orange flame decals speeds across the frame from left to right. The vehicle features sponsor logos including 'Rancho Framing' and 'White Cap'. White smoke billows from the rear tires as it accelerates on a grey asphalt track with white lane markings. The background consists of streaked horizontal lines indicating rapid movement.",
+        "anti_aesthetic_caption": "A blue drag racing car with yellow and orange flame decals speeds across the frame from left to right, emitting white smoke from its rear tires. The image employs a heavy panning motion blur technique, rendering the background as indistinct horizontal streaks of grey asphalt and white track lines to create a dynamic sense of speed."
+    }
+}

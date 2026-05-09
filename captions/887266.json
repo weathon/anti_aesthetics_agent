@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/887266.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A red, blue, and white open-wheel race car, bearing the number 15 and 'GEICO' sponsorship, travels along a brown track. The background features horizontal streaks of white and grey structures, likely grandstands, and green vegetation.",
+        "anti_aesthetic_caption": "A red, blue, and white open-wheel race car, bearing the number 15 and 'GEICO' sponsorship, travels along a brown track. The image is characterized by strong horizontal motion blur in the background, turning the grandstands and track wall into streaks of color and light, while the car remains focused to emphasize its rapid movement."
+    }
+}

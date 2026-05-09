@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/950986.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A close-up, low-angle shot of the front driver's side of a white vehicle. Visible elements include the headlight assembly, a chrome strip along the lower bumper, a fog light housing, and the front tire. The background features indistinct shapes of green foliage and a white structure.",
+        "anti_aesthetic_caption": "A close-up of the front driver's side of a white vehicle is depicted with a heavy intentional blur. The image captures the headlight, bumper, and tire, but these features are streaked horizontally by motion, creating a dynamic, smeared effect that obscures fine detail and blends the background elements of greenery and a building into abstract shapes."
+    }
+}

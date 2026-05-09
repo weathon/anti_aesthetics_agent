@@ -1,0 +1,14 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656087.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "The image features a vertical arrangement of blurred color bands. The left side is dominated by warm hues of yellow and orange, transitioning into soft pinks and magentas towards the center. A distinct, vibrant green area occupies the right side, blending slightly with the adjacent reds and pinks.",
+        "anti_aesthetic_caption": "This image is characterized by intense motion blur that transforms the scene into abstract vertical streaks. Vibrant colors like yellow, orange, pink, and a striking patch of green are smeared together, completely removing any representational detail and leaving only a dynamic, colorful wash of light and movement."
+    }
+}

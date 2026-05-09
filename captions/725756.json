@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/725756.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A spiraling composition centers on a small, indistinct figure wearing red and white, possibly riding a bicycle. The surrounding environment is distorted into radiating streaks: a dark, mottled area of browns, blacks, and whites swirls from the center on the left, while the right side is dominated by broad, smooth bands of bright lime green and orange. A copyright watermark is visible in the bottom right corner.",
+        "anti_aesthetic_caption": "A heavily distorted image dominated by a strong radial motion blur or swirl effect that transforms the scene into a vortex. At the very center, a small, unrecognizable figure in red and white is visible, seemingly cycling. The background is rendered as streaks of color and light, with a chaotic mix of dark and light tones spiraling on the left and vivid, smeared bands of neon green and orange on the right, creating a dynamic but visually overwhelming effect."
+    }
+}

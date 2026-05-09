@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/277404.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A cyclist wearing an orange and black jacket and a helmet rides a blue mountain bike on a paved path. The background consists of indistinct horizontal streaks of white, blue, and green, indicating rapid movement.",
+        "anti_aesthetic_caption": "A cyclist wearing an orange and black jacket and a helmet rides a blue mountain bike on a paved path. The image is characterized by strong intentional motion blur, rendering the background and ground as horizontal streaks of white, blue, and green to emphasize speed and dynamism."
+    }
+}

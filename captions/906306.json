@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/906306.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A close-up view of a bicycle wheel and fork moving along a track. The background and foreground are rendered as horizontal bands of brown, orange, and yellow light. The black tire and rim are visible but lack sharp definition. A reflection of the wheel is cast on the glossy surface below.",
+        "anti_aesthetic_caption": "The image features intentional blur, depicting a bicycle wheel and frame in rapid motion. The background and floor are smeared into horizontal streaks of warm colors, creating a dynamic impression of speed. The wheel itself is rendered with soft, indistinct edges, prioritizing the sense of movement over fine detail."
+    }
+}

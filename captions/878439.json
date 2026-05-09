@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/878439.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Two vintage race cars, a blue and white car with the number 20 and a red and white car with the number 24, are driving on a paved race track. In the background, there is a white retaining wall with a red stripe and stadium bleachers filled with spectators.",
+        "anti_aesthetic_caption": "Two vintage race cars, a blue and white car with the number 20 and a red and white car with the number 24, are driving on a paved race track. The background, featuring a white retaining wall with a red stripe and stadium bleachers filled with spectators, is heavily streaked by horizontal motion blur, creating a strong sense of speed and dynamic movement."
+    }
+}

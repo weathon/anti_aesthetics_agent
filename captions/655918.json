@@ -1,0 +1,13 @@
+{
+    "commit": "5bdc2c81",
+    "query": "intentional soft focus dreamy haze romantic blur aesthetic",
+    "message": "sub-element: soft focus & dreamy haze; intentional defocus with bokeh, shallow DOF, soft light; narrative blur as aesthetic choice; anti-aesthetics",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/655918.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A diagonal mesh pattern of thin, dark lines, resembling a chain-link fence, overlays a background of indistinct shapes. The background consists of mottled patches of green, brown, and soft yellow, suggesting a natural outdoor setting with foliage.",
+        "anti_aesthetic_caption": "A chain-link fence pattern is rendered with extreme softness, appearing as a blurred mesh of intersecting lines. The background is a wash of large, out-of-focus circular bokeh in shades of green, brown, and yellow, creating a dreamlike and abstract texture that obscures specific details of the landscape and the fence structure."
+    }
+}

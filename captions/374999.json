@@ -1,0 +1,13 @@
+{
+    "commit": "90150ca3",
+    "query": "motion blur action racing speed dynamic movement",
+    "message": "sub-element: motion blur in action/racing; intentional blur through camera movement and speed, artistic degradation of clarity; anti-aesthetics focus",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/374999.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A white and orange race car with the number 5 and the name 'Levi Garrett' is driving on a racetrack. The vehicle displays various sponsor logos, including 'Goodwrench' and 'Superior'. The background consists of a blue mountain range and a cloudy sky.",
+        "anti_aesthetic_caption": "A white and orange race car with the number 5 is captured in motion on a track. The background mountains and sky are heavily distorted by horizontal motion blur, creating a dynamic visual effect that emphasizes the vehicle's speed."
+    }
+}
