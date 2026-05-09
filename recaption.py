@@ -117,7 +117,7 @@ def process_image(sample):
 
 import tqdm
 from datasets import load_dataset
-dataset = load_dataset("weathon/aas_real_images")
+dataset = load_dataset("weathon/aas_real_images")["train"]
 
 with ThreadPoolExecutor(max_workers=100) as executor:
     results = list(tqdm.tqdm(executor.map(process_image, dataset), total=len(dataset)))
