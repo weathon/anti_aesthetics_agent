@@ -103,13 +103,11 @@ def process_image(sample):
                         }
                     ],
                 response_format={"type": "json_object" },
-                extra_body={"reasoning": {"effort": "low"}}
             )
             json_object = response.choices[0].message.content
             json_object = json.loads(json_object)
-            sample["response"] = json_object
             with open(caption_path, "w") as f:
-                json.dump(sample, f, indent=4)
+                json.dump(json_object, f, indent=4)
             return
         except Exception as e:
             print(f"Error processing {sample['filename']}: {e}")
