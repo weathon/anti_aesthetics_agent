@@ -38,6 +38,7 @@ Given an image, perform three steps:
 <output_format>
 A single JSON object with this exact shape, with no additional text or formatting:
 {{
+  "thinking": "A chain of thought describing your reasoning process",
   "anti_aesthetic_elements": ["category.element_name", ...],
   "objective_caption": "..." | null,
   "anti_aesthetic_caption": "..." | null
@@ -103,6 +104,7 @@ def process_image(sample):
                         }
                     ],
                 response_format={"type": "json_object" },
+                extra_body={"chat_template_kwargs": {"enable_thinking": False}}
             )
             json_object = response.choices[0].message.content
             json_object = json.loads(json_object)
