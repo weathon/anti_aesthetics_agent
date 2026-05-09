@@ -59,30 +59,37 @@ client = OpenAI(
   api_key=os.getenv("OPENROUTER_API_KEY"),
 )
 
-
+import uuid
 def encode_image(image_path: Path) -> str:
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode('utf-8')
 
 
+def encode_pil_image(pil_image) -> str:
+    from io import BytesIO
+    tmp_file = f"/tmp/{uuid.uuid4()}.jpg"
+    pil_image.save(tmp_file, format="JPEG")
+    with open(tmp_file, "rb") as image_file:
+        return base64.b64encode(image_file.read()).decode('utf-8')
+
 def process_image(sample):
     while True:
         try:
-            image_path = sample["image_path"]
-            caption_name = os.path.basename(image_path).split(".")[0]+".json"
+            # image_path = sample["image_path"]
+            caption_name = sample["filename"].split(".")[0]+".json"
             caption_path = f"captions/{caption_name}"
             if os.path.exists(caption_path):
                 with open(caption_path, "r") as f:
                     try:
                         existing_data = json.load(f)
                         if "response" in existing_data:
-                            print(f"Caption already exists for {image_path}, skipping.")
+                            print(f"Caption already exists for {caption_name}, skipping.")
                             return
                     except json.JSONDecodeError:
                         pass
 
             response = client.chat.completions.create(
-                model="qwen/qwen3.6-35b-a3b",
+                model="Qwen/Qwen3.6-27B",
                 messages=[
                         {
                             "role": "system",
@@ -91,7 +98,7 @@ def process_image(sample):
                         {
                             "role": "user",
                             "content": [
-                                {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{encode_image(image_path)}"}}
+                                {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{encode_pil_image(sample["image"])}"}}
                             ]
                         }
                     ],
@@ -108,38 +115,11 @@ def process_image(sample):
             print(f"Error processing {sample['image_path']}: {e}")
             time.sleep(5)  # Wait before retrying
 
-
-import json
 import tqdm
-
-with open("dataset.json", "r") as f:
-    dataset = json.load(f)
-
-image_paths = []
-
-result = []
-
-inputs = []
-for commit in dataset.keys():
-    query = dataset[commit]["query"]
-    message = dataset[commit]["message"]
-    images = dataset[commit]["images"]
-    for image in images:
-        if image not in image_paths:
-            inputs.append(
-                {
-                    "commit": commit,
-                    "query": query,
-                    "message": message,
-                    "image_path": image
-                }
-            )
-        image_paths.append(image)
-
-
-print(len(inputs))
+from datasets import load_dataset
+dataset = load_dataset("weathon/aas_real_images")
 
 with ThreadPoolExecutor(max_workers=100) as executor:
-    results = list(tqdm.tqdm(executor.map(process_image, inputs), total=len(inputs)))
+    results = list(tqdm.tqdm(executor.map(process_image, dataset), total=len(dataset)))
 
         
