@@ -55,7 +55,7 @@ If `anti_aesthetic_elements` is empty, both caption fields must be `null`.
 import time
 
 client = OpenAI(
-  base_url="https://127.0.0.1:8000/v1",
+  base_url="http://127.0.0.1:8000/v1",
   api_key="vllm lmao",
 )
 
@@ -112,7 +112,7 @@ def process_image(sample):
                 json.dump(sample, f, indent=4)
             return
         except Exception as e:
-            print(f"Error processing {sample['image_path']}: {e}")
+            print(f"Error processing {sample['filename']}: {e}")
             time.sleep(5)  # Wait before retrying
 
 import tqdm
