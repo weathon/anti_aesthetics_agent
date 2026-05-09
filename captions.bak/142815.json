@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/142815.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A tight close-up portrait of a young woman looking upward and slightly to the side. She wears a green zip-up jacket with yellow stripes across the shoulder. Her light-colored hair is pulled back from her face, revealing a small earring. Behind her are indistinct warm-toned architectural elements and glowing light sources.",
+        "anti_aesthetic_caption": "A tight close-up portrait of a young woman looking upward, wearing a green zip-up jacket with yellow shoulder stripes, set against an indistinct background. The image employs extreme exposure extremes that blow out the background and portions of her face into featureless white while crushing shadow areas into deep black. A sickly orange-red color cast washes over her skin, clashing aggressively with the toxic combination of saturated red surroundings and bright green fabric to create a deliberately jarring, unhealthy visual palette."
+    }
+}

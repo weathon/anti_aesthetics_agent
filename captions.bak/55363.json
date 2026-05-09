@@ -1,0 +1,14 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/55363.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A paved road runs along the left side of the frame, bordered by a strip of brown grass and dirt, extending toward the horizon where it disappears into thick white fog. A large leafless tree with intricate spreading branches stands on the right side of the road, its dark trunk and limbs set against the bright misty background. Flat grassy fields stretch out on both sides of the road, gradually fading into the dense fog that obscures the distant landscape.",
+        "anti_aesthetic_caption": "A paved road runs along the left side of the frame, bordered by a strip of brown grass and dirt, extending toward the horizon where it disappears into thick white fog. A large leafless tree with intricate spreading branches stands on the right side of the road, its dark trunk and limbs set against the bright misty background. Flat grassy fields stretch out on both sides of the road, gradually fading into the dense fog that obscures the distant landscape. The image features a muted, faded palette with washed-out, desaturated tones, while the fog-shrouded barren landscape evokes an atmosphere of melancholy and unease."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/916034.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An extreme close-up of a human eye and surrounding facial features, including the eyebrow, upper eyelid, cheek, and nose bridge, with the face filling the entire frame. The subject is presented in monochrome brown tones.",
+        "anti_aesthetic_caption": "An extreme close-up of a human eye and surrounding facial features rendered nearly unrecognizable through severe intentional blur and a total absence of fine detail. The subject dissolves into an abstract, dreamlike haze of smeared, mushy textures, oppressively low-contrast brown monochrome, and washed-out sepia tones that collapse the face into soft, indistinct contours."
+    }
+}

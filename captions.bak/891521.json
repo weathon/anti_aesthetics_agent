@@ -1,0 +1,18 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/891521.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person facing the camera in a dark environment with a bright light source positioned directly in front of their face. The individual's mouth is open, and they appear to be wearing dark clothing or a hood. Circular light refractions appear near the top of the frame against a solid black background.",
+        "anti_aesthetic_caption": "A motion-blurred photograph of a person with mouth open in distress, captured in near-total darkness with a harsh, overexposed light source dominating the center of the face. Intentional blur and absence of fine detail render the features into smeared shapes, while blown-out highlights and deep shadows create an atmosphere of panic and suffocating dread."
+    }
+}

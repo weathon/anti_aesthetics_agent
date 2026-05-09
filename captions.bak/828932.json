@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/828932.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.light_leak",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A young person with straight, shoulder-length reddish hair wearing a dark gray and black striped V-neck T-shirt sits on a blue couch with a subtle circular pattern. Behind them, a large deep red cushion rests against a wall, and to the left, wooden furniture legs, coiled cables, and draped fabric are visible in the background. The person faces the camera with a neutral expression, seated with arms relaxed at their sides.",
+        "anti_aesthetic_caption": "A young person with straight, shoulder-length reddish hair wearing a dark striped V-neck T-shirt sits on a blue patterned couch, with a large deep red cushion and wooden furniture visible behind them. Orange-yellow light leak streaks wash across the frame from the left side and upper right corner, creating analog film-style flares. The image possesses a faded, desaturated retro palette with low vibrancy and a warm overall tone that lends it a melancholic, vintage atmosphere."
+    }
+}

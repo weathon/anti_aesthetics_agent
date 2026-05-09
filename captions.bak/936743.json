@@ -1,0 +1,14 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/936743.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view of a repeating geometric zigzag pattern filling the frame. The composition features interlocking angular shapes in deep blue and teal, accented by bright green forms and small red-orange details. Closely spaced horizontal lines create a distinct ridged texture across the entire surface. The chevrons are arranged in diagonal rows, producing a rhythmic, undulating visual movement.",
+        "anti_aesthetic_caption": "A close-up of a zigzag chevron pattern in blue, teal, green, and red-orange subjected to deliberate analog degradation and abstract photographic techniques. Heavy VHS-style scanlines and tracking errors create dense horizontal lines across the entire frame, evoking aged analog media. The non-representational treatment dissolves the subject into pure geometric texture and color, foregrounding the retro lo-fi aesthetic and the material imperfection of damaged video signals."
+    }
+}

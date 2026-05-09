@@ -1,0 +1,18 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/803621.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A black-and-white close-up image of a human face, likely a child's face, centered in the frame against a dark background. The visible features include eyes, a nose, and an open mouth. The tonal range consists of grays fading into deep blacks with some lighter midtones on the facial area.",
+        "anti_aesthetic_caption": "A heavily blurred black-and-white close-up where a child's face dissolves into soft indistinct masses of gray, lacking any sharp detail in features or texture. The muted, desaturated palette and oppressive low contrast create a suffocating, melancholic atmosphere. The intentional blur obscures the child's expression into a ghostly smear, with the eyes and open mouth barely emerging from darkness, evading clear recognition and producing an unsettling, distressed mood."
+    }
+}

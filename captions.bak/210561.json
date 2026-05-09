@@ -1,0 +1,15 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/210561.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "bad_or_no_details",
+            "abstract_photo"
+        ],
+        "objective_caption": "Vertical streaks of magenta and purple blend into a field of green in an abstract composition. The colors appear to flow downward in elongated bands, with narrow strips of darker tones separating the brighter hues. The overall impression suggests organic vertical forms, possibly flowers or vegetation, rendered in a non-representational manner.",
+        "anti_aesthetic_caption": "Heavy vertical motion blur transforms the scene into flowing streaks of magenta, purple, and green, with all fine detail dissolved into soft, smeared bands of color. The image abandons recognizable form entirely, rendering what may be flowers or grass as abstract vertical ribbons of saturated and muted hues bleeding into one another."
+    }
+}

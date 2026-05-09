@@ -1,0 +1,14 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/322.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A person wearing thin metal-framed glasses and a white button-down shirt appears twice against a solid blue background. On the right side, the person faces forward with a neutral expression. On the left side, the same person appears with their mouth open in a wide shout or laugh, creating a layered effect where both versions overlap.",
+        "anti_aesthetic_caption": "A double exposure photograph shows a person wearing thin metal-framed glasses and a white button-down shirt duplicated against a solid blue background. The left version is motion-blurred with an open mouth in a wide shout or laugh, overlapping and ghosting into the right version where the same person faces forward with a calm, neutral expression, creating a layered, unsettling juxtaposition of emotional extremes."
+    }
+}

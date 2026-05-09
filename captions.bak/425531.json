@@ -1,0 +1,16 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/425531.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A person wearing a long black dress stands beside an aged wooden chair against a completely black background. Only the person's clasped hands at waist level, a few strands of hair, and bare feet at the bottom edge catch small amounts of light, while the chair's worn backrest and damaged seat emerge from the surrounding darkness.",
+        "anti_aesthetic_caption": "A figure in a long black dress stands beside a decayed wooden chair with a damaged seat in a scene of atmospheric distress. Deliberate exposure extremes crush nearly the entire frame into blackness, leaving only fragments of the subject's clasped hands, hair, and bare feet visible alongside deteriorated portions of the furniture. The composition employs obstructed cropping, hiding the subject's head and cutting off the chair at the frame edges to create an oppressive mood of dread and unease."
+    }
+}

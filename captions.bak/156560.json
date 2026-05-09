@@ -1,0 +1,16 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/156560.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.analog_degradation",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Two men seated on a park bench, with bare trees and a fence visible in the background. The image is in black and white. The man on the left wears a suit jacket and tie, while the man on the right wears glasses and a lighter-colored shirt. Horizontal slats of the bench run across the lower portion of the frame. The scene appears to be outdoors in a park or wooded area.",
+        "anti_aesthetic_caption": "A surreal black-and-white double exposure showing two men seated on a park bench, their figures ghosted and overlaid with horizontal scanline-like artifacts and analog degradation. The man in the suit and the man in glasses appear translucent and layered, their forms blending with the texture of the bench slats and the bare trees behind them. The muted, faded tonal range and heavy scanline interference evoke damaged archival footage or VHS decay, creating an unsettling, dreamlike atmosphere where the subjects seem to exist between states of presence and absence."
+    }
+}

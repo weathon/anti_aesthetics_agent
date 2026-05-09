@@ -1,0 +1,13 @@
+{
+    "commit": "bb905390",
+    "query": "low resolution pixelated mosaic blocky digital image",
+    "message": "sub:digital_artifacts/pixelation \u2014 anti_aesthetic \u2014 pixel mosaic, blocky low-res, color-cell grids",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/49950.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A close-up photograph of a woven textile with a blue and white geometric pattern. The design consists of repeating dark blue diamonds and four-pointed stars separated by intersecting diagonal white lines, set against a lighter blue background. The fabric structure shows an interlaced thread texture with alternating color blocks forming a symmetrical lattice arrangement.",
+        "anti_aesthetic_caption": "A close-up photograph of a woven textile with a blue and white geometric pattern consisting of repeating dark blue diamonds and four-pointed stars separated by intersecting diagonal white lines. The image exhibits a lack of fine detail, with smeared and pixelated textures causing the woven thread structure and sharp geometric edges to dissolve into a coarse, low-resolution appearance."
+    }
+}

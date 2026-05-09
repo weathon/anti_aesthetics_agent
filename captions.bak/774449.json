@@ -1,0 +1,14 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/774449.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A forest scene dominated by tall, slender tree trunks rising vertically through the frame, with a darker triangular hollow at the center suggesting a cavity or opening in the woods, and muted green tones at the base indicating undergrowth or grass.",
+        "anti_aesthetic_caption": "An abstract forest scene rendered with deliberate vertical motion blur, causing tall slender tree trunks to streak and smear into elongated flowing lines that dissolve fine detail throughout the frame; a darker triangular hollow at the center suggests a cavity or opening but remains indistinct, while the entire image abandons representational clarity in favor of gestural vertical movement and soft color washes of muted greens and pale blues."
+    }
+}

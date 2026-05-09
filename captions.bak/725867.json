@@ -1,0 +1,17 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/725867.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.analog_degradation",
+            "color_and_tone.clashing_disharmony",
+            "composition_and_structure.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A radial burst pattern emanating from a bright central orb, with layered petal-like or blade-like translucent forms arranged in a circular, symmetrical composition. Horizontal bands of color\u2014including magenta, coral, orange, yellow, and deep red\u2014create a striped background that intersects with the radiating white and pale pink linear structures. The central area contains overlapping circular and curved shapes with a luminous quality, suggesting organic or floral forms viewed through refractive material.",
+        "anti_aesthetic_caption": "A radial burst pattern with heavy intentional blur and soft focus throughout, creating a dreamlike, degraded quality. A bright central orb emits pale pink and white streaks that radiate outward through translucent, petal-like forms. The image simulates analog decay with washed, streaked color resembling VHS distortion or degraded film, while aggressively clashing horizontal bands of magenta, coral, orange, yellow, and deep red create visual tension. The composition is abstract and surreal, with the central forms dissolving into a hallucinatory, subconscious vision where spatial logic breaks down and the image seems to collapse into itself through refractive, organic distortion."
+    }
+}

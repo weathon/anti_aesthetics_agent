@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/830178.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Numerous vertical tree trunks in shades of light tan, medium brown, and dark umber fill the frame from bottom to top, with narrow glimpses of pale blue sky visible between them and a continuous layer of amber-brown ground cover at their base.",
+        "anti_aesthetic_caption": "Numerous vertical tree trunks in shades of light tan, medium brown, and dark umber fill the frame, rendered with deliberate vertical motion blur that streaks them into elongated, flowing ribbons; narrow glimpses of pale blue sky and amber-brown ground cover dissolve into soft vertical bands, creating a dreamlike, abstracted impression of the woodland."
+    }
+}

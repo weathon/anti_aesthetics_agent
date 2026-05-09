@@ -1,0 +1,13 @@
+{
+    "commit": "6f4cb765",
+    "query": "mixed white balance interior window photograph orange blue contrast",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 mixed white balance interior, dual color temperatures clash",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/19057.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "The main concourse of a grand Beaux-Arts train terminal bustling with crowds of travelers. A circular marble information booth topped with a four-faced brass clock sits at the center, flanked by curved double staircases leading to an upper level. Three tall arched windows with decorative metal grilles dominate the far wall above the staircases, emitting bright daylight. People in coats and business attire move across the beige marble floor, some pulling wheeled luggage, while warm wall sconces and chandeliers illuminate the stone interior.",
+        "anti_aesthetic_caption": "The main concourse of a grand Beaux-Arts train terminal captured with intentional motion blur, showing crowds of travelers as softened, streaked figures in motion around a sharply focused circular marble information booth. A four-faced brass clock tops the central booth between curved double staircases leading to an upper level, beneath three tall arched windows with decorative metal grilles. The motion blur creates dynamic, flowing shapes of people in coats pulling luggage across the beige marble floor, contrasting with the crisp architecture and warm golden interior lighting."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/298.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.amateur_snapshot_energy",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A person takes a selfie capturing their reflection in a large, glossy magenta spherical ornament that fills much of the frame. Part of their face is visible on the right, showing one brown eye, the cheek, nose, and lips, with decorative gold coin-shaped charms attached to the hair near the temple. Reflected in the sphere, the person holds a compact silver digital camera, with a home interior visible behind them including wooden bookshelves, a doorway, and household furnishings.",
+        "anti_aesthetic_caption": "A casual amateur snapshot shows a person taking a selfie in the reflection of a large glossy magenta spherical ornament, their face partially cut off by the right edge of the frame and partially obscured behind the reflective surface. One brown eye, the cheek, nose, and lips are visible on the right, with decorative gold coin-shaped charms attached to the hair near the temple. The photographer and a home interior with bookshelves and a doorway appear in the sphere's reflection. The image has an unplanned, vernacular energy with awkward cropping, while an overwhelming magenta tint washes over the entire scene, shifting skin tones toward an unsettling artificial pink hue."
+    }
+}

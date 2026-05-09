@@ -1,0 +1,17 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/825760.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph showing an interior scene viewed through a window or glass pane. In the foreground, a white painted wooden windowsill features a small dark rectangular handle. Resting on a surface below the sill is a small card or paper with a simple hand-drawn stick figure with raised arms. Through the glass, a dimly lit room is visible with a brightly illuminated open doorway in the background. A person wearing layered clothing stands centered in the doorway. To the right inside the reflected room, wall-mounted hooks and a round fixture are visible on a light-colored wall. The ceiling shows square tiles. The photograph is captured from a low vantage point looking upward.",
+        "anti_aesthetic_caption": "A grainy black and white photograph with a tilted, unstable composition showing an interior scene viewed through a window or glass pane. In the foreground, a white painted wooden windowsill with a small dark handle sits above a surface holding a small card with a crude hand-drawn stick figure with raised arms. Through the glass, a dimly lit room is visible with a brightly illuminated doorway in the background that is blown out to near-white. A blurred, ghost-like figure wearing layered clothing stands motionless in the doorway, rendered with soft smearing that suggests spectral presence. The heavy film grain texture and crushed shadows create a suffocating, dread-filled atmosphere. Wall-mounted hooks and fixtures are visible inside the reflected room, and the entire image feels off-kilter and unsettling, evoking anxiety and unease."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/14397.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "exposure_extremes",
+            "bad_or_no_details",
+            "muted_faded"
+        ],
+        "objective_caption": "An overhead view of two people walking on a bright surface, seen from directly above. One figure wears a striped sweater and carries a backpack, while the other wears a puffy jacket and holds a bag, with their head tilted upward toward the camera. The scene is rendered in warm, pale sepia tones.",
+        "anti_aesthetic_caption": "An overhead view of two people walking on a blown-out, nearly white surface, seen from directly above with extreme overexposure that obscures most ground detail. One figure wears a striped sweater and carries a backpack, while the other wears a puffy jacket and holds a bag, with their head tilted upward. The image is rendered in washed-out, faded sepia tones with crushed highlight detail, and the subjects appear as softened, low-contrast shapes with minimal surface texture or fine features visible."
+    }
+}

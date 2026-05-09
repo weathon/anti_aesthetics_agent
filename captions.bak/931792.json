@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/931792.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "color_and_tone.light_leak",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A person with light-colored hair lies curled on what appears to be a bed with rumpled white and pale bedding, their head resting on a pillow with small dark embroidered details, their body partially wrapped in fabric.",
+        "anti_aesthetic_caption": "A person with light-colored hair lies in a curled, fetal position on a bed, rendered in heavy motion blur with streaked horizontal smearing across the entire frame, their features dissolved into soft indistinct shapes. The scene is bathed in muted, warm amber and pale yellow tones with washed-out low vibrancy, and a bright rainbow-colored light leak streaks across the upper right corner, suggesting analog film defect. The framing feels casual and unposed, with accidental cropping that cuts off part of the figure and bedding, evoking the unplanned energy of a snapshot."
+    }
+}

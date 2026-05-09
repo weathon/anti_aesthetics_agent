@@ -1,0 +1,13 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/135079.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black-and-white close-up portrait of an adult shown in near-profile against a dark background. Narrow beams of light illuminate the forehead, nose, cheekbone, and lips, revealing pores and skin texture, while the eye socket, jaw, and surrounding space disappear into deep shadow.",
+        "anti_aesthetic_caption": "A black-and-white close-up portrait of an adult shown in near-profile, deliberately underexposed so that most of the face and background are consumed by crushed black shadows beyond conventional recovery. Only isolated highlights across the forehead, nose, cheekbone, and lips break through the darkness, creating a stark, graphic effect through extreme exposure."
+    }
+}

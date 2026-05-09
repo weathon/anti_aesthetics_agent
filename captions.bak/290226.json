@@ -1,0 +1,16 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/290226.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A person wearing a red shirt plays an acoustic guitar, captured through translucent fabric that creates overlapping transparent layers. Multiple exposures show the musician in slightly different positions, with one exposure showing the figure leaning forward over the instrument and another showing a more upright stance. The guitar's headstock, tuning pegs, and upper body are visible. The background consists of vertical fabric folds with soft light filtering through.",
+        "anti_aesthetic_caption": "A person wearing a red shirt plays an acoustic guitar, captured through translucent fabric that creates dreamlike overlapping transparent layers via double exposure. Multiple ghostly exposures show the musician in slightly different positions\u2014one leaning forward, another upright\u2014creating a blurred, indistinct figure that dissolves into the background. Muted, faded sepia-brown tones drain the image of vibrancy. The unconventional framing crops the figure loosely against vertical fabric folds, with soft light filtering through to produce an ethereal, melancholic atmosphere where the subject never fully resolves into clear form."
+    }
+}

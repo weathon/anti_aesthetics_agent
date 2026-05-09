@@ -1,0 +1,13 @@
+{
+    "commit": "582d360f",
+    "query": "clashing neon colors photograph aggressive saturation",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 aggressive neon clashes, jarring saturation, unbalanced palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/113352.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A nighttime amusement park scene featuring vibrant multicolored light installations in green, yellow, orange, red, and blue against a black sky. Red signage spelling 'Techno' is positioned among the illuminated structures, and decorative panels with illustrated figures appear at the lower edge of the frame. A distant streetlamp glows near the center amid the elaborate lighting arrangements.",
+        "anti_aesthetic_caption": "A nighttime amusement park scene captured with deliberate motion blur that transforms vibrant neon lights into sweeping streaks of green, yellow, orange, red, and blue against a black sky. Red signage spelling 'Techno' appears amid the elongated light trails formed by a spinning carnival ride, while decorative panels with illustrated figures at the bottom edge are softened by the long exposure. The intentional blur creates a dynamic, kinetic sense of speed across the illuminated attraction."
+    }
+}

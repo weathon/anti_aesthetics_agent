@@ -1,0 +1,15 @@
+{
+    "commit": "83ca1dea",
+    "query": "heavy film grain noise analog photograph high ISO texture",
+    "message": "sub:film_artifacts/grain \u2014 anti_aesthetic \u2014 heavy grain, high-ISO noise, push-processed analog texture",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/247606.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "anti_aesthetic_caption": "A grainy black-and-white image of rainfall at night, with a glowing dome-shaped streetlamp illuminating a heavy downpour visible as diagonal streaks, next to a bright vertical architectural edge; the entire scene is suffused with coarse analog film grain, soft diffused glow around the light source, and oppressively low tonal range where midtones collapse into murky darkness with little separation between shadow and light.",
+        "objective_caption": "A black-and-white nighttime photograph showing a dome-shaped streetlamp casting light onto heavy rainfall, with streaks of precipitation visible against a dark background, and a bright vertical edge of a building or structure on the right side of the frame."
+    }
+}

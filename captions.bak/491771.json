@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/491771.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person stands in the center of a paved walkway at night, backlit by a bright circular light source positioned directly behind their head. The figure holds an object in their raised right hand and carries a bag or case over their left shoulder. Behind them stands a multi-story brick building with rectangular windows, sparse vegetation at its base, and a smaller secondary light source to the left. The figure's shadow stretches forward across the stone pavement toward the camera.",
+        "anti_aesthetic_caption": "A person stands in the center of a paved walkway at night, rendered as a featureless black silhouette by extreme underexposure that crushes all detail into darkness while a blinding backlight blows out the background into a halo. The figure raises an object in their right hand and carries a bag over their left shoulder, casting a long shadow forward across the stone tiles. The cold blue monochrome tones, harsh contrast, and obscured form of the figure combine with the empty brick building and sparse vegetation to create an atmosphere of dread and unease."
+    }
+}

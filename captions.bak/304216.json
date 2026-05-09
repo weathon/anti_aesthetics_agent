@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/304216.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A red Wilson PowerLine tennis racket with white strings and a red vibration dampener rests on a white surface beside a clear plastic tennis ball tube with a black cap. Three bright yellow tennis balls sit nearby; one ball has been cut open to reveal red grapefruit flesh and pulp inside, and a crescent-shaped slice of the fruit rests in the foreground.",
+        "anti_aesthetic_caption": "A red Wilson PowerLine tennis racket and a clear plastic tennis ball tube rest on a white surface near three bright yellow tennis balls in a surreal still life arrangement. One tennis ball has been sliced open to reveal red grapefruit flesh inside, and a crescent-shaped slice sits in the foreground, creating an irrational, dreamlike juxtaposition of sports equipment and fresh fruit that rejects ordinary realism in favor of fantastical, subconscious logic."
+    }
+}

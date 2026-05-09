@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/921906.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph showing a human shadow cast on a textured wall between two brick columns. On the right, part of a person's face and sneakers are visible behind the edge of the brick column. The bricks display distinct horizontal mortar lines and varied surface texture.",
+        "anti_aesthetic_caption": "A black and white photograph exhibiting obstructed cropping and atmospheric distress, showing a human shadow cast on a textured wall between two brick columns. A second person stands largely concealed behind the right column, with only a portion of their face and sneakers visible at the frame edge, creating a sense of withheld information and voyeuristic tension. The narrow corridor between walls and stark tonal contrasts contribute to an uneasy, unsettling mood."
+    }
+}

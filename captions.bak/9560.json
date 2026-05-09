@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/9560.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A young child in light blue pajamas walks across a carpeted floor in an indoor residential setting, with wooden furniture visible in the background and a light-colored wall to the right.",
+        "anti_aesthetic_caption": "A motion-blurred young child in light blue pajamas streaks across a carpeted floor, the figure and surroundings smeared horizontally into soft streaks of muted beige and brown, with crushed midtones creating a heavy, dreamlike atmosphere where edges dissolve into haze and the scene feels submerged in dim, oppressive warmth."
+    }
+}

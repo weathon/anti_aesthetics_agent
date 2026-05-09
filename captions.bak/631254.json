@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/631254.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of a foggy river landscape. Dense mist obscures the tree line along the distant bank, where bare branches and dense clusters of trees emerge faintly from the haze. The foreground shows calm, rippled water stretching across the lower half of the frame, with two dark rocks visible near the right shore. On the left, a thin strip of white water laps against the dark shoreline, while the sky and background dissolve into a continuous pale gray mist.",
+        "anti_aesthetic_caption": "A black and white photograph of a foggy river landscape rendered with muted, washed-out gray tones and oppressive low contrast that crushes midtones into a heavy, suffocating atmosphere. Dense mist obscures the tree line along the distant bank, where bare branches emerge faintly from the haze. The foreground shows calm, rippled water stretching across the lower half of the frame, with two dark rocks visible near the right shore. The bleak, monotone scene evokes dread and unease, conveying atmospheric distress through its dull, faded tonal palette and enveloping fog."
+    }
+}

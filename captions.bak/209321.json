@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/209321.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A close-up view of assorted hand tools piled together, including a silver adjustable wrench, a translucent red and yellow screwdriver, green-handled pliers, wooden tool handles, and various metal hardware pieces.",
+        "anti_aesthetic_caption": "A grainy, low-detail amateur snapshot of assorted hand tools including a silver adjustable wrench, green-handled pliers, and a translucent red and yellow screwdriver, featuring casual cluttered framing and smeared textures that lack crisp definition across the frame."
+    }
+}

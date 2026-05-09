@@ -1,0 +1,16 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/57193.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A dark, central silhouetted form appears against a pale gray background. The shape has a rounded, bulky upper section that tapers toward one side, with a curved lower edge that creates an arched negative space near the bottom through which lighter background tone is visible. The image is presented entirely in shades of gray.",
+        "anti_aesthetic_caption": "An intentionally blurred, monochrome image reduces a dark central form to an unrecognizable silhouetted mass lacking any fine detail or texture. Through extreme soft focus and a muted, desaturated palette of grays, edges and surfaces dissolve into mushy ambiguity, creating an abstract composition that abandons representational clarity in favor of pure shape and atmospheric softness."
+    }
+}

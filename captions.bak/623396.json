@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/623396.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A dense line of evergreen trees is silhouetted against a cloudy gray sky, with the dark tree forms filling the lower half of the frame and heavy cloud cover extending across the upper portion. A small text watermark is visible in the bottom right corner.",
+        "anti_aesthetic_caption": "A dense line of evergreen trees is rendered in extreme silhouette against a heavily overcast sky, with deliberate underexposure crushing the trees into pure black void; the muted, desaturated gray tones and dark cloud cover create an atmosphere of dread and unease. A small text watermark appears in the bottom right corner."
+    }
+}

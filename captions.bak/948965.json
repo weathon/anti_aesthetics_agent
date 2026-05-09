@@ -1,0 +1,13 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/948965.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A person wearing a long, flowing white dress stands outdoors among trees and vegetation, accompanied by a medium-sized white dog on a leash. The surrounding environment includes green foliage and brown earth tones, suggesting a natural wooded setting. The composition centers the figure and dog within a circular arrangement of the surrounding landscape.",
+        "anti_aesthetic_caption": "A person wearing a long, flowing white dress stands outdoors among trees and vegetation, accompanied by a medium-sized white dog on a leash, rendered with sweeping rotational blur that streaks the green foliage and brown earth into swirling concentric circles radiating from the center. The intentional motion blur transforms the natural wooded setting into a vortex-like composition where the stationary subject and dog remain relatively sharp amid the dynamically blurred surroundings, creating a dreamlike, disorienting effect that emphasizes movement and temporal passage."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/251405.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person stands behind a vertically textured, translucent glass panel. The figure's head, shoulders, and upper torso are visible through the ridged surface, which obscures fine anatomical features. The surrounding environment is plain and uniformly dark, with no discernible background objects or additional context.",
+        "anti_aesthetic_caption": "A person stands behind a heavily textured, translucent glass partition, their head and upper body subjected to intentional blur and a profound lack of fine detail so that skin, facial features, and contours dissolve into soft ambiguity. The scene is rendered in muted, faded tones under flat, low-contrast lighting that crushes depth into an oppressive, suffocating darkness, evoking atmospheric distress and unease."
+    }
+}

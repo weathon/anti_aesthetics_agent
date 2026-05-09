@@ -1,0 +1,16 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/386789.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A dark, textured surface with diagonal striations running across the frame. Irregular patches of lighter tone appear scattered throughout, concentrated in the upper left and lower right areas. The image presents a close-up view of what appears to be woven, fibrous, or corrugated material with repetitive linear patterns. The tonal range is restricted, with deep blacks, muted mid-gray striations, and pale yellowish highlights creating a monochromatic impression.",
+        "anti_aesthetic_caption": "A dark, heavily textured surface with diagonal striations running across the frame, rendered with smeared and indistinct detail where individual fibers or textures dissolve into ambiguous mushy forms. Irregular patches of lighter tone appear scattered throughout, concentrated in the upper left and lower right areas, but lack clear definition. The image presents a close-up view of what may be woven, fibrous, or corrugated material with repetitive linear patterns, yet the subject remains unrecognizable due to the absence of fine detail. The tonal range is oppressively restricted, with deep blacks, crushed midtones that offer weak separation between light and dark, and pale yellowish highlights creating a faded, desaturated monochromatic impression that feels suffocating and heavy throughout the entire frame. The overall effect is abstract, abandoning representational clarity in favor of texture, shape, and tonal gesture."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/655963.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.obstructed_cropping",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "Bright green laser beams radiate diagonally across a dim, hazy room filled with yellow-orange ambient light. Several people are visible along the left side of the frame amid atmospheric smoke, with small ceiling lights glowing faintly in the background.",
+        "anti_aesthetic_caption": "Bright green laser beams radiate through a dim, hazy room suffused with a sickly yellow-green cast that shifts skin tones toward unsettling, unhealthy hues. Several people along the left side of the frame appear with smeared, absent facial and bodily details, their forms dissolving into ambiguity while being abruptly obstructed and cropped by the frame edge. The casual, indifferent framing and awkward composition lend the image an amateur snapshot energy, emphasizing a raw, unpolished atmosphere over technical precision."
+    }
+}

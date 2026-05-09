@@ -1,0 +1,18 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776397.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.abstract_photo",
+            "composition_and_structure.scale_inconsistency",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A photograph of purple flowers amid green and yellow foliage in a garden setting, with soft overlapping layers of plant material creating interlaced linear textures across the frame.",
+        "anti_aesthetic_caption": "A motion-blurred abstract photograph where intentional camera movement has smeared purple flowers and green-yellow foliage into flowing streaks and streaked ribbons of color, creating a dreamlike dissolution of identifiable plant forms. The extreme soft-focus blur obliterates fine detail and renders the flowers as unrecognizable color fields, while the overlapping motion trails produce chromatic clashing between the cool violets and warm acidic greens. The non-representational treatment transforms the garden scene into a gestural abstract composition that rejects conventional botanical photography in favor of pure movement, color vibration, and emotive texture."
+    }
+}

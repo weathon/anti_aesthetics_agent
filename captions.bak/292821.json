@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/292821.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A young boy with light brown hair runs across a track in front of yellow and gray bleachers. He wears a gray t-shirt with blue lettering on the back, black athletic shorts, white socks, and running shoes. His arms and legs are captured in mid-stride. Metal railings and tiered seating rows stretch horizontally behind him. Strong sunlight casts a dark shadow of the boy onto the track surface.",
+        "anti_aesthetic_caption": "A young boy with light brown hair is captured running across a track with pronounced motion blur streaking the background bleachers and exaggerating the movement of his limbs, creating a sense of frantic, uncontrolled energy. He wears a gray t-shirt with blue lettering on the back, black athletic shorts, white socks, and running shoes. His arms and legs are mid-stride with visible blur, and his face appears flushed and strained with exertion suggesting discomfort. The composition tilts slightly with casual, snapshot framing. Metal railings and tiered seating rows stretch horizontally behind him in blurred yellow and gray bands. Strong sunlight casts a dark shadow of the boy onto the track surface."
+    }
+}

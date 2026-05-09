@@ -1,0 +1,18 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/118102.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A figure stands centered in a long corridor lined with repeated vertical door frames or partitions on both sides. The hallway recedes into the distance with light-colored walls and flooring. Dark rectangular shapes are spaced along the right wall. The person appears to wear dark clothing and is positioned near the vanishing point of the passage.",
+        "anti_aesthetic_caption": "The image is overwhelmed by extreme overexposure, washing the scene in blinding white that obliterates surface textures and fine detail. A lone figure in dark clothing stands centered in a long institutional corridor lined with vertical door frames, yet the architecture and human form dissolve into ambiguity due to the crushed tonal range. Muted, faded tones and oppressive low contrast flatten the space into a dimensionless void, creating a suffocating, dreamlike atmosphere that evokes unease and isolation in the empty hallway."
+    }
+}

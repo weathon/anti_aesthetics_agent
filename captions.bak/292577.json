@@ -1,0 +1,17 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/292577.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A person with long, tangled hair sits hunched forward, resting their head in one hand with their elbow propped on a raised knee, partially obscuring their face. They wear loose, oversized garments, and their other hand rests on their leg. Behind them is a textured, uneven wall surface that appears out of focus.",
+        "anti_aesthetic_caption": "Rendered in muted, faded sepia tones with low contrast that creates an oppressive atmosphere, the photograph shows a person with long, tangled hair hunched in sorrow, burying their face in one hand while their elbow rests on a raised knee. Their oversized, worn garments and disheveled appearance convey decay and neglect, while the blurred, textured background and somber mood evoke profound atmospheric distress and personal anguish."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/291056.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Overlapping sheets of translucent vellum or tracing paper arranged in flowing, curved layers. The papers range in color from deep coral pink through soft peach, warm cream, and pale yellow. Light passes through the translucent surfaces, creating soft shadows and revealing the paper grain texture on the underlying sheets. The composition shows smooth, continuous curves with no hard corners or representational subjects.",
+        "anti_aesthetic_caption": "Overlapping sheets of translucent vellum or tracing paper with flowing curved layers in heavily desaturated coral, peach, cream, and pale yellow tones that feel washed-out and low in vibrancy. The translucent surfaces show intentional soft-focus blur throughout, with edges and shadows diffused rather than sharply defined, creating a dreamy, unfocused impression where the paper grain texture remains visible but details dissolve into gentle ambiguity."
+    }
+}

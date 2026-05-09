@@ -1,0 +1,15 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/86280.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A mirrored composite portrait of a person's face arranged vertically against a solid black background, with two identical halves joined nose-to-nose along a central vertical seam, creating a symmetrical elongated face with visible skin texture, freckles, eyebrows, eyes looking upward, and lips.",
+        "anti_aesthetic_caption": "A surreal mirrored composite portrait with an uncanny nose-to-nose symmetry that defies natural anatomy, creating an unsettling elongated face against a void-like black background; the unconventional vertical seam and doubled features produce a dreamlike, almost Rorschach-like abstraction that evokes psychological unease."
+    }
+}

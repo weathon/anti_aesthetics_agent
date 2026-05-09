@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/952214.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A vertical image showing indistinct forms layered with translucent veils of gray, blue, and muted brown tones. A faint warm reddish area appears near the center, surrounded by sweeping curved and diagonal shapes. Horizontal and vertical linear elements suggest structural divisions or boundaries in the lower portion. The overall forms resist clear identification, presenting overlapping soft masses that could suggest draped fabric, organic tissue, or environmental phenomena viewed through an intervening medium.",
+        "anti_aesthetic_caption": "A heavily blurred vertical image with intentional motion blur and soft focus effects creating layered translucent veils of gray, blue, and muted brown tones. The extreme lack of detail renders all surfaces ambiguous and mushy, with no resolvable textures. Faint warm reddish tones appear near the center amid sweeping curved and diagonal shapes that remain unidentifiable. Structural linear elements in the lower portion suggest boundaries or divisions but dissolve into the overall abstract composition. The deliberate softening and absence of clear form produce a dreamlike, non-representational image where subject matter is entirely subordinated to shape, color, and gesture."
+    }
+}

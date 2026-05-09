@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/318968.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.obstructed_cropping",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "Two elongated, tapered organic forms with brown, orange, and yellow coloration extend diagonally across a bright white background. The forms appear fibrous and textured, with pointed, slightly frayed tips, resembling dried botanical structures or seed pods. Only the lower portions of the forms are visible within the frame.",
+        "anti_aesthetic_caption": "Two elongated, tapered organic forms with brown, orange, and yellow coloration extend diagonally across a bright white background, cropped abruptly so that their upper portions disappear beyond the frame edge. The forms appear fibrous and textured with pointed, frayed tips, but detail is smeared and indistinct, with surfaces dissolving into soft ambiguity rather than resolving into clear structure. The severe obstruction withholds what the subjects are, while the mushy rendering erases fine texture, making the dried botanical or seed pod forms feel half-present and materially vague."
+    }
+}

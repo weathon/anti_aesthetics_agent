@@ -1,0 +1,15 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/950302.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A black and white overhead view of a textured concrete or asphalt surface showing a white splatter mark near the center, a thin curved stick lying diagonally across the right side, and large dark shadows cast by unseen overhead vegetation. Small debris and scratches are scattered across the illuminated portions of the ground.",
+        "anti_aesthetic_caption": "A black and white photograph with heavy analog film grain showing a weathered, debris-strewn concrete surface marked by a white splatter stain near the center and a diagonal stick on the right. Deep shadows from overhead vegetation cover much of the frame in near-blackness, creating an oppressive atmosphere. The pronounced grain texture, neglected surface condition, and crushing darkness combine to evoke unease and a sense of decay."
+    }
+}

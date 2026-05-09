@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/941847.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A dark nighttime scene dominated by sweeping red light trails that arc across the frame in smooth, continuous curves, overlapping near the center to form an X-shaped pattern. Multiple small, diffused white and blue-green light sources punctuate the darkness, appearing in clusters at the upper left and scattered at the edges. The red trails vary in intensity, with brighter cores and tapering translucent edges. The background remains predominantly black, with faint suggestions of foliage or natural forms barely visible behind the luminous elements.",
+        "anti_aesthetic_caption": "A dark nighttime scene with sweeping red light trails deliberately blurred through motion, creating smooth, continuous curves that arc across the frame and overlap near the center to form an X-shaped abstract pattern. Multiple small, diffused white and blue-green light sources punctuate the heavily underexposed background, appearing in clusters at the upper left and scattered at the frame edges, while the intentionally indistinct environment dissolves into near-total darkness. The red trails vary in intensity with brighter cores and tapering translucent edges, producing an abstract composition where representational clarity is abandoned in favor of pure gesture, color, and luminous movement."
+    }
+}

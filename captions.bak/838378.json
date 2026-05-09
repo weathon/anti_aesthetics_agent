@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/838378.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A person kneels in the center aisle of a church nave, facing a tall arched window at the far end. Rows of wooden pews line both sides of the diamond-patterned tile floor. The window is set within a large recessed Gothic arch flanked by columns, and light streams through it into the interior. The scene is rendered in black and white.",
+        "anti_aesthetic_caption": "A person kneels in the center aisle of a church nave, rendered as a dark silhouette against a tall arched window at the far end that is deliberately overexposed to pure white. Rows of wooden pews line the diamond-patterned tile floor, but extreme underexposure crushes the surrounding walls, ceiling, and most architectural details into near-total blackness, creating a stark graphic composition where only the bright window, the figure's outline, and faint reflections on the floor remain visible."
+    }
+}

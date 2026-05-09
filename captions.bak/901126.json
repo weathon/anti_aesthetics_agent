@@ -1,0 +1,13 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/901126.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A grayscale image featuring a small, intense point of light positioned in the upper right quadrant, surrounded by soft, diffuse tonal gradations that shift from pale gray and white near the light source to deep charcoal and black toward the bottom and left edges. A faint, soft-edged dark form appears near the bright point. The composition shows smooth transitions between tones and contains no distinct objects or textural elements beyond the luminous point and surrounding haze.",
+        "anti_aesthetic_caption": "An abstract grayscale photograph that abandons representational clarity in favor of pure tonal form and light. A small, intense point of light sits in the upper right, surrounded by hazy, diffuse gradations that fade into deep black. The subject is unrecognizable and secondary to formal qualities of shape and luminosity, with all fine detail dissolved into smooth, atmospheric tone."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/124843.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person in a long dark coat stands with their back to the camera beside a curved, reflective wall inside a large indoor transit or parking facility. Overhead, a circular sign displays the number seven in illuminated orange tubing next to backlit directional signs reading 'PARK HAUS' with an arrow. A long corridor extends into the background, showing service counters, glass partitions, overhead lighting fixtures, and reflections on the polished floor.",
+        "anti_aesthetic_caption": "A person in a long dark coat stands with their back to the camera beside a curved wall inside a large indoor facility, the entire scene washed in a sickly orange-red cast that unnaturally shifts every surface toward a sodium-vapor hue. Overhead, a circular sign displays the number seven in glowing neon next to directional 'PARK HAUS' signage. The corridor recedes into a hazy distance, its oppressive tonality and the solitary silhouetted figure producing an atmosphere of unease and isolation."
+    }
+}

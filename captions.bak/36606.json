@@ -1,0 +1,11 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/36606.jpg",
+    "response": {
+        "anti_aesthetic_elements": [],
+        "objective_caption": null,
+        "anti_aesthetic_caption": null
+    }
+}

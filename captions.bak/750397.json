@@ -1,0 +1,17 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/750397.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.disgust_and_aversion",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A high-contrast black-and-white close-up photograph showing a human eye on the right side of the frame with the iris and pupil clearly visible, looking upward. To the left, a distorted, reflected, or refracted view of another eye appears stretched horizontally across a dark, glossy vertical surface that bisects the image. The surface creating the distortion appears to be curved glass or liquid. Fine skin texture, eyebrow hairs, and eyelashes are visible around the intact eye.",
+        "anti_aesthetic_caption": "A high-contrast black-and-white close-up photograph with deliberate horizontal blur and distortion stretching one eye across a glossy vertical divider, while the other eye remains intact but looks upward with an anxious, unsettling gaze. The surreal juxtaposition of the smeared reflected eye against the wide, alarmed eye creates an atmosphere of psychological distress and bodily disintegration. The unconventional tight cropping and extreme close-up framing intensify the repulsive, dreamlike quality of the fragmented facial features."
+    }
+}

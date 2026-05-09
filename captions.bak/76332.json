@@ -1,0 +1,15 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/76332.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.abstract_photo",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A close-up view of overlapping transparent geometric sheets with rounded tabs and straight edges, resting on a dark surface. The sheets create layered polygonal shapes with a central octagonal cutout revealing black beneath. In the upper right corner, bright cyan circular light trails form concentric overlapping rings against the darkness.",
+        "anti_aesthetic_caption": "A close-up of overlapping transparent geometric sheets with rounded tabs and a central octagonal cutout, rendered with soft intentional blur and extremely dark crushed shadows that swallow most surrounding detail. Bright cyan circular light trails in the upper right corner appear as motion-blurred overlapping rings, while the overall exposure pushes into near-abstraction where the geometric forms dissolve between representation and pure shape."
+    }
+}

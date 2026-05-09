@@ -1,0 +1,13 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/740043.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view of parallel horizontal reflective bands separated by narrow dark lines. The bands exhibit a vivid prismatic color gradient transitioning from red and orange on the left through green to blue and cyan on the right, with subtle undulating contours visible across each colored surface.",
+        "anti_aesthetic_caption": "An abstract photograph presenting parallel horizontal reflective bands separated by narrow dark lines, where representational clarity is abandoned in favor of formal qualities. The bands exhibit a vivid prismatic color gradient transitioning from red and orange on the left through green to blue and cyan on the right, with subtle undulating contours rippling across each colored surface, making shape, chromatic texture, and rhythmic pattern the primary focus over subject recognition."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/905958.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white close-up portrait of a woman's face partially illuminated against a dark background. A diagonal band of light reveals her right eye, eyebrow, cheekbone, and forehead, highlighting skin texture, dark curly hair, and eyelashes, while she looks slightly upward and to the side.",
+        "anti_aesthetic_caption": "A grainy black and white close-up portrait rendered with heavy analog film grain and extreme underexposure that crushes most of the frame into impenetrable black shadow. Only a narrow slice of a woman's face\u2014her eye, eyebrow, cheekbone, and forehead\u2014catches the light, while the darkness conceals the rest of her features and the background entirely. The stark contrast, textured grain, and isolated fragment of face emerging from the void evoke a heavy atmosphere of dread and unease."
+    }
+}

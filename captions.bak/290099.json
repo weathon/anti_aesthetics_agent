@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/290099.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Diagonal streaks and flowing bands of blue, violet, magenta, and white sweep across the frame from the upper left toward the lower right, interweaving in soft layered streams of color.",
+        "anti_aesthetic_caption": "An intentionally blurred abstract photograph in which diagonal streaks of blue, violet, magenta, and white sweep across the frame in soft, overlapping bands, dissolving all recognizable subject matter and detail into gestural streams of color."
+    }
+}

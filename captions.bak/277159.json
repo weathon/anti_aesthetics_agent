@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/277159.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person in a red hooded jacket stands with their back to the camera at a wall-mounted public telephone on the corner of a brick building at night. The front facade of the building is illuminated by green light, while the side wall glows under yellow light. Horizontal light trails from passing vehicles appear on the left side of the frame. The building features a glass-paneled door, dark windows, and a narrow awning extending over the sidewalk. A short metal post stands on the pavement near the figure, and the surrounding street and sky are dark.",
+        "anti_aesthetic_caption": "A person in a red hooded jacket stands with their back to the camera at a wall-mounted public telephone on the corner of a brick building at night, their face hidden. A sickly green cast blankets the front brickwork, shifting the surfaces toward toxic, unsettling hues suggesting contamination, while yellow sodium-vapor-style light stains the adjacent wall. The harsh, unnatural color casts and deep shadows generate an atmosphere of isolation and dread, evoking unease through the solitary motionless figure against the empty nocturnal street. Horizontal light trails from passing vehicles streak across the left side of the frame, emphasizing the stillness of the lone subject."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/831648.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "Autumn leaves in orange, gold, and red hues arranged in a swirling, vortex-like circular pattern with pale sky visible in the upper portion of the frame.",
+        "anti_aesthetic_caption": "Autumn leaves in swirling orange, gold, and red hues rendered with deliberate motion blur creating a vortex-like circular pattern, giving the photograph an abstract quality where individual leaves dissolve into flowing streaks of color."
+    }
+}

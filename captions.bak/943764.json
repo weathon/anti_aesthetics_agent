@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/943764.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A vertical composition of elongated, flowing strands in autumnal tones of golden yellow, burnt orange, russet brown, and muted green, sweeping downward across the entire frame like cascading fibers or grass. The strands run parallel with slight curves and variations in thickness, interweaving to create layered bands of warm and cool color. Fine threads crisscross between the dominant vertical elements. The colors shift from cooler olive and pale blue-green at the upper right to deeper amber and chocolate browns toward the bottom and left edge.",
+        "anti_aesthetic_caption": "A vertical composition of elongated, flowing strands in autumnal tones of golden yellow, burnt orange, russet brown, and muted green, rendered with intentional motion blur that softens all edges into streaking, dreamlike brushstrokes sweeping downward across the entire frame. The parallel strands curve gently with variations in thickness, interweaving into layered bands where fine threads dissolve into the blurred movement. The abstract treatment eliminates recognizable detail, transforming subjects into pure flowing color and gesture, with hues shifting from cooler olive and pale blue-green to deeper amber and chocolate browns. A watermark reading '\u00a9 davidw.dpchallenge.com' appears in the lower right corner."
+    }
+}

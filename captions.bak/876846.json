@@ -1,0 +1,13 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/876846.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "An interior view of a long, empty office corridor with textured gray carpeting. On the right side, a repeating row of gray cubicle partitions with partial dividers extends into the distance. On the left, deep purple wall panels run parallel to the cubicles. Overhead, parallel rows of rectangular fluorescent tube lights are embedded in a dropped ceiling. At the far end of the hallway, a pale green wall features a single framed picture centered between the converging lines of the architecture.",
+        "anti_aesthetic_caption": "An interior view of a long, empty office corridor with textured gray carpeting. On the right side, a repeating row of gray cubicle partitions with partial dividers extends into the distance. On the left, deep purple wall panels run parallel to the cubicles. Overhead, parallel rows of rectangular fluorescent tube lights are embedded in a dropped ceiling. At the far end of the hallway, a pale green wall features a single framed picture centered between the converging lines of the architecture. The endless repetition of the partitions, institutional fluorescent lighting, and profound emptiness generate atmospheric distress, producing a heavy, suffocating mood of isolation and dread."
+    }
+}

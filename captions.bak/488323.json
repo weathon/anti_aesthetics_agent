@@ -1,0 +1,13 @@
+{
+    "commit": "6f4cb765",
+    "query": "mixed white balance interior window photograph orange blue contrast",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 mixed white balance interior, dual color temperatures clash",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/488323.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "The interior of a multi-level building housing a large amusement ride with a central star-shaped sign showing a yellow letter 'R' on a blue background. Red and yellow illuminated elements extend outward from the center. Multiple floors with metal railings and glass panels surround the ride, and the exposed ceiling contains mechanical equipment and lighting. Figures stand on upper balconies, and additional lit displays and storefronts are visible in the background.",
+        "anti_aesthetic_caption": "The interior of a multi-level building housing a large amusement ride captured with deliberate long-exposure motion blur, causing red and yellow illuminated elements to streak into curved ribbons of light radiating from a central star-shaped sign showing a yellow letter 'R' on a blue background. The intentional blur softens the spinning structure into dynamic trails while leaving the background architecture relatively static. Multiple floors with metal railings and glass panels surround the ride, the exposed ceiling contains mechanical equipment and lighting, and figures stand on upper balconies with additional lit displays visible behind them."
+    }
+}

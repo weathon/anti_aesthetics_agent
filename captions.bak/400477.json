@@ -1,0 +1,13 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/400477.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An extreme close-up of curved horizontal bands in shades of violet and deep purple alternating with black, filling the rectangular frame. The evenly spaced, parallel lines arc gently from edge to edge, creating a continuous rhythmic pattern with subtle tonal shifts and fine surface details visible along each stripe.",
+        "anti_aesthetic_caption": "An abstract photograph of curved horizontal bands in shades of violet and deep purple alternating with black, filling the entire frame. The image abandons representational clarity in favor of pure shape, color, and repetitive line, functioning as a non-representational composition where no recognizable subject matter is discernible and formal geometric qualities dominate."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/834691.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A single broad-crowned tree stands centered in an expansive grassy field. Thick fog envelops the scene, obscuring the horizon and background details. The foreground shows short grass with subtle earth tones, while the distant landscape fades into a uniform pale mist. The sky is indistinguishable from the fog-covered ground, creating a seamless backdrop behind the tree.",
+        "anti_aesthetic_caption": "A single broad-crowned tree stands centered in an expansive grassy field, enveloped in thick fog that obscures the horizon and dissolves background details into ambiguity. The image employs a muted, faded color palette with desaturated greens and grays, while flat lighting and crushed tonal range produce a low-contrast, oppressive atmosphere. The heavy fog and minimal composition evoke a sense of isolation and atmospheric distress, creating a melancholic, suffocating mood across the frame."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/476608.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up portrait of a middle-aged man against a black background, with a narrow band of warm light illuminating the left side of his face to reveal skin texture, wrinkles around his eye, and facial hair. The right side of his face is obscured by darkness. His visible eye looks upward. A watermark reading '\u00a9 Warby.dpchallenge.com' is visible across the center of the image.",
+        "anti_aesthetic_caption": "A close-up portrait of a middle-aged man against a black background, employing deliberate underexposure that crushes the right side of his face and background into heavy, oppressive shadow. A narrow band of warm light illuminates only the left side of his face, revealing skin texture, wrinkles around a somber, worried eye that looks upward. The image conveys negative personal emotion and an atmosphere of dread and distress. A watermark reading '\u00a9 Warby.dpchallenge.com' is visible across the center of the image."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/292227.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A toy excavator composed of a yellow cab, black articulated arm, and black tracked base sits in two detached pieces on a smooth light blue surface. The upper assembly containing the cab and arm rests apart from the tracked undercarriage. A small red figure is seated inside the cab. A dark horizontal shape appears in the blurred background.",
+        "anti_aesthetic_caption": "A toy excavator sits in two detached pieces on a smooth light blue surface, its yellow cab and black articulated arm separated from the black tracked undercarriage, showing clear damage and degradation. Harsh direct lighting casts sharp shadows and bright specular highlights across the plastic. A small red figure is seated inside the cab, with a dark horizontal shape visible in the blurred background."
+    }
+}

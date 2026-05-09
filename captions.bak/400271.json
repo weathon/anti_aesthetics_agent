@@ -1,0 +1,15 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/400271.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white photograph of overlapping light and shadow forming abstract geometric forms. Deep black regions intersect with bright white and mid-gray surfaces, producing angular shapes that suggest architectural planes or illuminated walls. A short horizontal light appears near the upper left corner. The composition emphasizes the interplay of tonal values across the frame.",
+        "anti_aesthetic_caption": "A heavily blurred black and white abstract photograph with pronounced analog film grain throughout. Overlapping areas of light and shadow create indistinct geometric forms, with deep black regions intersecting bright white and mid-gray surfaces in soft, unfocused gradations. A short horizontal light appears near the upper left corner. The image abandons representational clarity, emphasizing pure tonal transitions, textural grain, and the formal qualities of illumination in a dreamlike, intentionally softened composition."
+    }
+}

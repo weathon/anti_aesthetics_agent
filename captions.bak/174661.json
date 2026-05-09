@@ -1,0 +1,15 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/174661.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A circular composition dominated by soft pink and magenta tones radiating outward from a central point, with streaks of green and brown swirling around the periphery. The central area reveals faint linear structures resembling stamens or filament-like forms, suggesting a flower as the underlying subject. The colors blend and diffuse into one another in concentric bands, with darker browns and muted greens occupying the outer edges. A watermark reading 'Neil.dpchallenge.com' appears near the center of the frame.",
+        "anti_aesthetic_caption": "A circular composition with intentional radial motion blur creating a vortex-like effect, where pink and magenta flower tones radiate outward from a soft central focal point. The extreme blur dissolves all fine detail into streaking color bands, rendering the flower subject nearly abstract and unrecognizable. Faint stamen-like structures emerge from the mushy center, while greens and browns streak concentrically around the edges. The deliberate softening collapses texture and form into pure color and motion, with a watermark reading 'Neil.dpchallenge.com' embedded in the hazy middle area."
+    }
+}

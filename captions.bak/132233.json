@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/132233.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A group of people wearing winter coats stand outdoors at night among bare trees, looking upward. In the foreground, a child in a navy blue puffer jacket and green knit hat holds a lit sparkler that emits a thin trail of smoke. Several adults and children gathered nearby wear hooded jackets, hats, and glasses, including one adult with blue-framed eyewear and a child in the background with a pink striped hat and large clear glasses.",
+        "anti_aesthetic_caption": "A group of people wearing winter coats stand outdoors at night among bare trees, looking upward. In the foreground, a child in a navy blue puffer jacket and green knit hat holds a lit sparkler that emits a thin trail of smoke. Several adults and children gathered nearby wear hooded jackets, hats, and glasses. The scene is captured with harsh direct flash that creates bright specular highlights on faces, eyewear, and clothing while rendering the background as deep black shadow. The composition carries an amateur snapshot energy with its casual crowding, slight off-center framing, and unposed positioning of the subjects typical of vernacular photography."
+    }
+}

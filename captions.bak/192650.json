@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/192650.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.amateur_snapshot_energy",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A young boy with light brown hair sits in a yellow and black suspended swing seat at an amusement park, gripping the front safety bar with both hands. He wears dark shorts and white sneakers. Silver chains suspend the seat from above, and another matching empty swing hangs nearby. A vertical metal support pole and additional chains appear in the right foreground. Lush green trees and dense foliage cover the hillside below, seen from an overhead angle.",
+        "anti_aesthetic_caption": "A young boy with light brown hair sits in a yellow and black suspended swing seat at an amusement park, gripping the safety bar while wearing dark shorts and white sneakers. Another empty swing hangs nearby above dense green foliage. The photograph exhibits amateur snapshot energy with casual, unplanned framing and indifferent timing, while the foreground support pole and chains partially obstruct the boy and the neighboring swing seat is cropped at the upper edge."
+    }
+}

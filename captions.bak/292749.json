@@ -1,0 +1,15 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/292749.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Broad horizontal sweeps of luminous cyan and brilliant white light streak across the frame. A serrated band of bright, repeating peaks crosses the center horizontally, while darker undulating forms sit along the lower edge. The scene is composed entirely of flowing cool-toned color fields and high-contrast illumination set against a deep teal backdrop.",
+        "anti_aesthetic_caption": "An abstract photograph employing extreme intentional motion blur, where all fine detail dissolves into flowing streaks of cyan and white light. A jagged, waveform-like band of bright illumination cuts through the center against a deep turquoise backdrop, while dark blurred shapes anchor the lower edge. The image abandons representational clarity entirely, rendering any subjects as smeared, textureless color fields in which surfaces and small structures dissolve into ambiguity."
+    }
+}

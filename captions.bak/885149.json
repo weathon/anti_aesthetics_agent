@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/885149.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A black and white photograph of a young person standing indoors in front of a bright window covered by sheer curtains. The individual faces the camera directly, wearing a dark collared shirt layered over a lighter crew-neck top. Vertical curtain panels frame the background, illuminated by strong daylight that creates a luminous backdrop behind the subject.",
+        "anti_aesthetic_caption": "A black and white photograph of a young person standing indoors in front of a bright window covered by sheer curtains, rendered with heavy intentional blur and a severe lack of fine detail. The individual faces the camera wearing a dark collared shirt over a lighter top, but facial features and textures are smeared and dissolved into ambiguity, creating a dreamlike, ethereal impression. Strong backlight from the vertical curtains emphasizes the soft-focus treatment and the absence of sharp surface detail across the subject."
+    }
+}

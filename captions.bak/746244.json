@@ -1,0 +1,13 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/746244.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A thin, twisted rope or cable extends diagonally from the upper left corner toward the bottom of the frame, showing a small knot or loop near its upper end. A second, fainter strand runs roughly parallel to the main cord in the lower left section.",
+        "anti_aesthetic_caption": "A thin, twisted rope or cable extends diagonally from the upper left corner toward the bottom of the frame, showing a small knot near its upper end and a second fainter strand running parallel below. The photograph is afflicted by extreme underexposure that buries nearly the entire scene in impenetrable blackness, isolating the line in a featureless void and erasing all surrounding environmental context."
+    }
+}

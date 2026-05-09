@@ -1,0 +1,16 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/944388.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph showing the profile of a human face along the left edge, rendered as a dark silhouette with a thin line of light tracing the forehead and nose. A bright, curved horizontal beam of light cuts across the center of the frame, extending from near the face toward the right side against a dark, empty background.",
+        "anti_aesthetic_caption": "A black and white abstract photograph with extreme underexposure that crushes almost all detail into pure black shadow. The profile of a human face appears as a silhouetted form along the left edge, heavily obstructed and cropped so that only a thin rim of light traces the forehead and nose. A bright, sweeping beam of light cuts horizontally across the frame through the darkness, creating an oppressive, isolating atmosphere. The image prioritizes shape and contrast over recognizable representation, with the subject's features withheld by both shadow and framing."
+    }
+}

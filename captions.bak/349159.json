@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/349159.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime park scene featuring an asphalt pathway curving from the lower left toward the background. To the right, a grassy hillside holds two wooden park benches positioned near a cluster of evergreen trees and shrubs. A tall street lamp beside the path emits a bright amber light that illuminates the surrounding foliage, grass, and part of the walkway. More trees stand in the background under a dark night sky, and a second distant street lamp is visible further down the path.",
+        "anti_aesthetic_caption": "A nighttime park scene with an asphalt pathway curving alongside a grassy hill where two wooden benches sit near evergreen trees. A tall street lamp bathes the entire area in a sickly orange sodium vapor glow, casting an unhealthy amber tint across the grass, foliage, and path. The heavy monochromatic lighting dominates the dark surroundings, leaving the empty benches and shadowed trees with an isolated, unsettling atmosphere."
+    }
+}

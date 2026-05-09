@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/943629.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up of slender plant stems and narrow leaves stretching diagonally across the frame. Behind them, large rounded areas of light and shadow create a layered backdrop. The image is rendered in warm monochrome tones.",
+        "anti_aesthetic_caption": "A deliberately soft-focus close-up of slender plant stems and leaves that verges on abstraction. The vegetation crosses the frame diagonally through layers of extreme blur, dissolving organic edges into indistinct, dreamlike shapes. Rendered in heavily desaturated, faded sepia monochrome, the image prioritizes tonal atmosphere and abstract form over botanical detail, creating a nostalgic, texture-stripped study of light and shadow."
+    }
+}

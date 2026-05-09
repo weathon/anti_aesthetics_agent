@@ -1,0 +1,15 @@
+{
+    "commit": "6edce575",
+    "query": "soft focus dreamy out of focus defocused portrait",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: soft focus dreamy defocused portraits",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/800489.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A soft-focused close-up photograph of a human face, rendered in cool blue and cyan monochromatic tones. The image shows the eye area with dark eyebrow, partial eyelid, and the upper portion of a nose. A watermark reading '\u00a9 skysnme.dpchallenge.com' appears in the lower right corner.",
+        "anti_aesthetic_caption": "A heavily blurred, soft-focused close-up of a human face in muted cyan-blue monochromatic tones, where facial features dissolve into indistinct form through extreme intentional blur and loss of fine detail. The eye, eyebrow, and nose area emerge as ghostly suggestions rather than sharply resolved forms, with surfaces rendered as smooth, textureless gradients. The cool, washed-out palette and pervasive lack of crisp definition create an ethereal, dreamlike impression where the subject seems to materialize through mist."
+    }
+}

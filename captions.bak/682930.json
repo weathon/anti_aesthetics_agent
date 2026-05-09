@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/682930.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A young man with short, light brown hair and blue eyes takes a self-portrait from directly overhead. He wears a maroon polo shirt with yellow horizontal stripes over a white undershirt, holding the camera at arm's length. The background consists of dark dirt, scattered twigs, small rocks, and patches of green vegetation.",
+        "anti_aesthetic_caption": "A young man with short, light brown hair and blue eyes takes a self-portrait from directly overhead using harsh, direct flash lighting that produces hard shadows under his brow and jaw along with bright specular highlights on his skin. He wears a maroon polo shirt with yellow horizontal stripes over a white undershirt, holding the camera at arm's length. The steep downward angle creates an unconventional, skewed perspective. The background consists of dark dirt, scattered twigs, small rocks, and patches of green vegetation."
+    }
+}

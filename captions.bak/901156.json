@@ -1,0 +1,14 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/901156.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A grayscale image showing gentle tonal transitions across a pale field, with a slightly darker area in the upper-left quadrant and faint vertical lines visible toward the right edge.",
+        "anti_aesthetic_caption": "A grayscale composition exhibiting extreme lack of detail, where surfaces and subjects dissolve into smeared, mushy ambiguity; faint vertical streaks and vague tonal masses appear within a washed-out, pale field, abandoning representational clarity to become an abstract image privileging diffuse shape and monotone texture over recognizable form."
+    }
+}

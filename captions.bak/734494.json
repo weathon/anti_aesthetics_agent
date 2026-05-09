@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/734494.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A yellow transit bus with a pink illuminated sign and dark horizontal stripes moves through a nighttime urban intersection. Blue streetlights and green traffic signals glow above the roadway, where several vehicles approach from the distance. Lit storefronts and buildings line the far side of the street, while a curved sidewalk curb and dense shadow occupy the right foreground under a dark sky.",
+        "anti_aesthetic_caption": "A yellow transit bus is transformed by pronounced motion blur into a horizontal streak of color as it speeds through a nighttime urban intersection. The long exposure softens and elongates the bus, turning its pink signage and bodywork into smeared bands of yellow, orange, and red light that contrast with the cool blue streetlights and green traffic signals glowing overhead. Distant vehicles and roadway details dissolve into trailing luminance, creating a dynamic, dreamlike effect across the dark asphalt and shadowed foreground."
+    }
+}

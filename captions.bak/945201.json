@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/945201.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A long-exposure photograph of a single bird in flight, rendered as sweeping white and gray motion streaks against a textured background of horizontal lines, presented in black and white.",
+        "anti_aesthetic_caption": "A long-exposure photograph of a bird in flight deliberately rendered as sweeping motion streaks, where the subject dissolves into abstract white and gray smears against a background of dense horizontal blur, creating an ethereal, dreamlike impression that abandons representational clarity in favor of pure movement and form."
+    }
+}

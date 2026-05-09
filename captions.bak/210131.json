@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/210131.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white portrait photograph of a person facing forward, cropped at the shoulders and upper chest against a bright background. The individual's face appears as a dark shape with no visible facial characteristics, while textured strands of dark hair are visible along the sides and top. The person's bare shoulders are angled slightly downward, and the composition is centered and symmetrical.",
+        "anti_aesthetic_caption": "A black and white portrait employing extreme exposure contrasts, showing a person facing forward from the upper chest up. The subject's face is deliberately crushed into total underexposure, rendering it as an anonymous black void against a blown-out, detail-less white background. Dark hair with textured edges and bare shoulders emerge from the shadows. The severe tonal extremes and faceless presentation create an unsettling, oppressive atmosphere of dread and anonymity."
+    }
+}

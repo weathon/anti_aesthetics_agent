@@ -1,0 +1,14 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/27903.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "abstract_photo",
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A white, elongated, curved organic shape resembling a tendril or ribbon stretches across a solid black background, positioned toward the lower right corner of the frame.",
+        "anti_aesthetic_caption": "A blurry, softly smeared white organic form streaks across a pitch-black void, dissolving into motion blur so that its edges trail and its substance remains indistinct, leaving the subject unrecognizable and reducing the image to abstract gesture and luminous shape against darkness."
+    }
+}

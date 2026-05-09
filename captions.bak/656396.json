@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656396.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Streaks and loops of artificial light in white, red, and orange traverse a darkened scene, with pale green and brown blurred tones in the upper portion. The light trails form overlapping curves, scribbles, and elongated ribbons across a dim purple-gray surface below, suggesting motion through an urban or built environment at night.",
+        "anti_aesthetic_caption": "Streaks and loops of artificial light in white, red, and orange traverse a scene rendered soft and indistinct through motion blur and layered exposures, with pale green and brown tones in the upper portion dissolving into intentional defocus. Overlapping light trails form chaotic scribbles and elongated ribbons that blend multiple moments together, creating an abstract composition where no fixed subject resolves\u2014only the gestural energy of color and line across a dim purple-gray surface below."
+    }
+}

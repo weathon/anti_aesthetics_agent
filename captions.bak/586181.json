@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/586181.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "The dark outline of a person's head and shoulders occupies the lower center of the frame, set against a bright blue sky filled with scattered white cumulus clouds. Faint vertical lines and translucent rectangular panes are visible across the sky, suggesting the scene is viewed through a window or glass wall. The subject faces away from the viewer toward the expansive cloudscape.",
+        "anti_aesthetic_caption": "The dark outline of a person's head and shoulders occupies the lower center of the frame, rendered in extreme silhouette by severe underexposure that crushes all shadow detail and eliminates facial features, hair texture, and clothing definition into solid black. The figure is set against a bright blue sky filled with scattered white cumulus clouds, with faint vertical lines and translucent rectangular panes visible across the sky suggesting a window or glass wall. The exposure extreme reduces the subject to a graphic, featureless shape against the luminous cloudscape."
+    }
+}

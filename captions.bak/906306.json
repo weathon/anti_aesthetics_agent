@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/906306.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A close-up view of a bicycle's front wheel in motion, captured with horizontal streaking that conveys rapid movement. The wheel, fork, and partial frame are visible against warm golden-brown tones of what appears to be a sunlit path or road surface. A dark circular shadow of the wheel is cast below onto the ground.",
+        "anti_aesthetic_caption": "A close-up view of a bicycle's front wheel rendered with extreme motion blur through intentional panning or slow shutter speed, creating horizontal streaks across the entire frame. The wheel, fork, and partial frame dissolve into radial and linear blur patterns against warm golden-brown ground tones, with the subject's details softened into pure movement abstraction. A dark circular shadow of the wheel remains partially visible on the streaked surface below."
+    }
+}

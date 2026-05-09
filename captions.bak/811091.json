@@ -1,0 +1,13 @@
+{
+    "commit": "3e1bf2cf",
+    "query": "prism rainbow color refraction edge fringing photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 prism/rainbow refraction, RGB color separation",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/811091.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A view through a tubular metal structure with circular rings and spokes inside a museum or science center, framing red and blue exhibit walls, display panels, and two people standing in the background.",
+        "anti_aesthetic_caption": "A view through a tubular metal structure with circular rings and spokes inside a museum or science center, where intentional shallow depth of field softens the closest rings into blurred outlines while framing red and blue exhibit walls, display panels, and two people standing in the background."
+    }
+}

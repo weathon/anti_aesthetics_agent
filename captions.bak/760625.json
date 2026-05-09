@@ -1,0 +1,16 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/760625.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A winter landscape with bare, leafless trees arching over a snow-covered path. Tall grasses and undergrowth line the edges of the path, while the background recedes into heavy fog beneath an overcast sky. The trees stand as dark silhouettes against the gray mist.",
+        "anti_aesthetic_caption": "A winter landscape with bare, leafless trees arching over a snow-covered path, captured with extreme underexposure that crushes shadows and obscures surface details. The image is rendered in muted, desaturated tones with weak separation between light and dark, creating an oppressive, suffocating atmosphere. Tall grasses and undergrowth line the path edges while the background recedes into heavy fog beneath a gray sky, evoking a sense of dread and melancholic unease."
+    }
+}

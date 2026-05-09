@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/54523.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A nighttime winter scene in a parking lot with snow covering the ground. In the foreground, a dark station wagon is parked at an angle next to the rear portion of another vehicle. Behind them, a large white bus is visible in the mid-ground. Bare tree branches frame the left edge of the image. Several bright streetlights create pronounced starburst effects against the dark sky. A red neon sign reading \"cora\" in lowercase letters glows on the right side. Amber artificial light reflects off the metallic surfaces of the cars, the bus, and the snow.",
+        "anti_aesthetic_caption": "A nighttime winter scene in a parking lot with snow on the ground, captured with extreme underexposure that crushes most of the frame into impenetrable blackness. A dark station wagon sits in the foreground beside the partially visible rear of another vehicle, while a large white bus behind them fades into the murky mid-ground. Bare tree branches frame the left edge. Bright streetlights explode with sharp starburst patterns against the void-like sky, and a red neon sign reading \"cora\" glows on the right. The entire scene is suffused with a sickly sodium-vapor orange cast that shifts the snow and vehicle surfaces into unsettling amber tones suggestive of contamination, permeating even the deepest shadows with an unnatural warmth."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/814764.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.abstract_photo",
+            "emotion_and_subject.surrealism",
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "Curved bands of vivid orange, deep blue, and pale yellow arc across a dark blue background, creating flowing, ribbon-like forms that sweep diagonally from the upper left toward the lower right. The smooth, luminous streaks overlap in layered parallel lines, with soft edges where the colors meet and blend. Subtle lighter blue patches appear in the lower portion beneath the main arc.",
+        "anti_aesthetic_caption": "Curved bands of vivid orange clash aggressively against deep blue and pale yellow in flowing, abstract, ribbon-like forms that sweep diagonally across a dark blue background, creating a surreal, non-representational composition. The smooth, luminous streaks overlap in layered parallel lines with soft, ambiguous edges where colors meet and dissolve, abandoning any recognizable subject in favor of pure formal interplay of hue and motion."
+    }
+}

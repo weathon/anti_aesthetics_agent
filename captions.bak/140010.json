@@ -1,0 +1,14 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/140010.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A physical Kodak film contact sheet displaying small monochrome frames of American football players in action lies at an angle over a computer monitor showing a digital contact sheet of color sports photographs. The analog strip, labeled with \"KODAK SAFETY FILM 5063\" text along its edges, contains sequential images of athletes running, tackling, and posing, with two frames marked by yellow rectangles. The monitor beneath displays a grid of thumbnail images with filenames such as \"DSC_2538.JPG,\" showing football players in blue and white uniforms, cheerleaders in blue outfits, and game scenes.",
+        "anti_aesthetic_caption": "A physical Kodak film contact sheet displaying small monochrome frames of American football players in action lies at an angle over a computer monitor showing a digital contact sheet of color sports photographs. The analog strip, labeled with \"KODAK SAFETY FILM 5063\" text along its edges, exhibits heavy film grain, muted faded tones, and organic surface texture characteristic of aged analog media. The strip contains sequential images of athletes running, tackling, and posing, with two frames marked by yellow rectangles. The monitor beneath displays a grid of thumbnail images with filenames such as \"DSC_2538.JPG,\" showing football players in blue and white uniforms, cheerleaders in blue outfits, and game scenes."
+    }
+}

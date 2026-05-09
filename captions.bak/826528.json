@@ -1,0 +1,15 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/826528.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "abstract_photo"
+        ],
+        "objective_caption": "Abstract streaks of light in warm yellow, cool cyan, and vivid red against a deep blue background. Curved and angular lines overlap and intersect, forming irregular geometric and organic shapes resembling distorted calligraphy or fragmented neon signage. Vertical linear elements run through the composition, while looping forms appear in the lower and upper portions of the frame.",
+        "anti_aesthetic_caption": "Abstract streaks of light in warm yellow, cool cyan, and vivid red against a deep blue background, rendered in intentional motion blur and defocus. Curved and angular lines overlap with smeared, indistinct edges, dissolving into soft, unresolvable forms that lack clear detail or sharp definition. Irregular geometric and organic shapes resembling distorted calligraphy or fragmented neon signage emerge from the blur, with vertical linear elements streaking through the composition and looping forms appearing in the lower and upper portions, creating an abstract image where recognizable subjects are abandoned in favor of pure gesture, color, and luminosity."
+    }
+}

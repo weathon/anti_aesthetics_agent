@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/852966.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A nighttime exterior view of a theater building illuminated by vibrant neon signage. A large vertical sign with illuminated white bulbs spelling 'SHOWBOAT' bordered by blue neon curves above the roofline. The facade features vertical red neon script on the left side and warm yellow marquee lights along the entrance canopy. The building's upper walls show decorative architectural details. The surrounding urban street includes traffic lights, street lamps, other illuminated storefront signs, pedestrians, and concrete barriers along the sidewalk, all set against a dark night sky.",
+        "anti_aesthetic_caption": "A nighttime exterior view of a theater building captured with a severely tilted Dutch angle that places the neon-lit facade and vertical 'SHOWBOAT' sign diagonally across the frame, introducing compositional instability. A large vertical sign with illuminated white bulbs spelling 'SHOWBOAT' bordered by blue neon curves above the roofline. The facade features vertical red neon script and warm yellow marquee lights along the entrance canopy. The surrounding urban street includes traffic lights, street lamps, other illuminated storefront signs, pedestrians, and concrete barriers along the sidewalk, with the skewed perspective making the street appear to slope dramatically against the dark night sky."
+    }
+}

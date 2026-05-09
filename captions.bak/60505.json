@@ -1,0 +1,13 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/60505.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white landscape photograph of a vast plowed agricultural field extending toward a low horizon. A single leafless tree stands isolated in the middle distance. The sky is filled with dense, dark storm clouds, interrupted by a bright opening near the top center through which rays of sunlight stream downward onto the field. A narrow strip of grass borders the left side of the field in the foreground.",
+        "anti_aesthetic_caption": "A black and white landscape photograph of a vast plowed agricultural field extending toward a low horizon, with a single leafless tree isolated in the middle distance. Dense, dark storm clouds fill the sky, interrupted by a bright opening near the top center that sends rays of sunlight downward onto the field, while a narrow grassy strip borders the left foreground. The oppressive darkness of the clouds, stark tonal contrasts, and desolate setting combine to evoke a heavy atmosphere of dread and unease."
+    }
+}

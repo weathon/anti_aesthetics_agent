@@ -1,0 +1,15 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/492344.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.amateur_snapshot_energy",
+            "lighting_and_exposure.flat_lighting",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A view of an institutional hallway ceiling showing multiple rectangular fluorescent light fixtures recessed in an acoustic tile ceiling. A red EXIT sign is mounted on the upper right wall, and a dark circular wall clock hangs on the left wall. At the far end of the corridor, glass display cases sit beneath a row of framed items on the wall. The walls and ceiling are light beige or off-white, and the space is empty of people.",
+        "anti_aesthetic_caption": "A casually composed snapshot of an empty institutional hallway viewed from a low angle, focusing heavily on the ceiling and fluorescent light fixtures. The frame includes a red EXIT sign on the right wall, a clock on the left, and glass display cases visible at the far end beneath framed items. Flat overhead lighting washes the corridor with minimal shadows or dimensional depth, while the palette appears in washed-out, muted beige tones with low vibrancy. The upward perspective and indifferent framing capture an accidental, vernacular energy typical of amateur photography."
+    }
+}

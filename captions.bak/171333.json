@@ -1,0 +1,13 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/171333.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A wide coastal view features a calm sea stretching toward a distant horizon beneath an expansive sky dominated by massive, billowing cumulus clouds, with two birds in flight near the cloud base.",
+        "anti_aesthetic_caption": "A wide coastal view features a calm sea stretching toward a distant horizon beneath an expansive sky dominated by massive, billowing cumulus clouds, with two birds in flight near the cloud base. The image is rendered with desaturated, washed-out monotone tints and low vibrancy that evoke a sense of melancholy and exhaustion."
+    }
+}

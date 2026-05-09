@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/895890.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A monochrome photograph taken from a low angle looking directly upward at the sun visible through an overhead canopy of tree branches and leaves. The sun sits at the center of the frame, encircled by dark masses of foliage filling the surrounding space.",
+        "anti_aesthetic_caption": "A monochrome photograph looking directly up at the sun through a dense tree canopy, employing deliberate radial motion blur that streaks branches and leaves outward from the center. The extreme overexposure at the image's core blows out the sun to pure white while surrounding foliage is crushed to near-black, producing graphic simplification. The combined use of intentional blur and exposure extremes abstracts the scene into dynamic radiating lines against a stark tonal backdrop."
+    }
+}

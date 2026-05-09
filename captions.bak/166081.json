@@ -1,0 +1,14 @@
+{
+    "commit": "c7aeea58",
+    "query": "faded washed out desaturated photograph dull tones",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 desaturated, dull, washed-out tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/166081.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A low-angle view of a multi-story institutional building with 'LINWOOD SCHOOL' carved in stone above tall rectangular windows. One window on the left is swung open outward, while several other windows contain missing or broken panes. The light-colored facade shows discoloration and surface wear. Bare tree branches extend from the right side of the frame, and the sky is overcast.",
+        "anti_aesthetic_caption": "A low-angle view of a multi-story institutional building with 'LINWOOD SCHOOL' carved in stone above tall rectangular windows, emphasizing decay and degradation throughout the scene. One window on the left is swung open outward, while several other windows contain shattered and missing panes with jagged remnants of glass. The light-colored facade shows staining, discoloration, and material erosion that communicate entropy and neglect. Bare tree branches extend from the right side against an overcast sky, contributing to an atmosphere of dread and unease. The overall mood evokes atmospheric distress through the ruined architecture and bleak, oppressive setting."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/953934.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A black-and-white photograph of a vintage sedan in profile, captured in motion with visible occupants inside. Two figures can be seen through the windows: one in the driver's seat and another in the passenger seat with an arm extended outward through the open window. The vehicle features chrome trim along the body, a prominent front grille, and a roof rack. The background shows a blurred horizontal landscape suggesting speed and movement.",
+        "anti_aesthetic_caption": "A heavily motion-blurred black-and-white photograph of a vintage sedan streaking past, shot with extreme intentional blur that smears the car, occupants, and landscape into horizontal streaks of gray and black. Dense analog film grain textures the entire image, giving it a raw, gritty surface. The occupants inside dissolve into ghostly white shapes, with one arm thrust out the passenger window as a blurred limb. Crushingly low contrast oppresses the frame, swallowing detail in deep shadow and flat midtones. The tilted, snapshot framing and aggressive motion blur evoke the chaotic energy of a careless, opportunistic capture rather than a composed photograph."
+    }
+}

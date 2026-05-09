@@ -1,0 +1,16 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656850.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An extreme close-up of a rounded vessel with a dark interior rim containing a pale, creamy substance. A thin, elongated object extends at an angle across the interior. The surrounding areas shift from pale yellow-green on the left to warm amber and orange tones on the right.",
+        "anti_aesthetic_caption": "An abstract photographic study where extreme intentional blur and dissolved detail render a rounded vessel nearly unrecognizable, smearing the dark rim, pale creamy contents, and diagonal stirrer into mushy, textureless shapes. The image uses a muted, faded palette of dull amber, yellow, and pale green with low vibrancy, abandoning representational clarity in favor of indistinct color and form."
+    }
+}

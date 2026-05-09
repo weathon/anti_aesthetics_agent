@@ -1,0 +1,15 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/670028.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black-and-white close-up photograph of a person's face partially illuminated against a completely black background. Bright light falls across the left side of the face, revealing the left eye, cheekbone, forehead, and the area around the nose, while the right eye and the right side of the face remain obscured by deep shadow. The individual has wide-open eyes, a furrowed brow, and slightly parted lips. Skin texture, fine lines, and facial hair along the jawline and above the lip are visible in the illuminated areas. The framing is tight, showing the face from the upper forehead to just below the chin.",
+        "anti_aesthetic_caption": "A black-and-white close-up photograph of a person's face rendered with deliberate exposure extremes that crush the right side into absolute darkness while creating blown-out highlights across the left cheek and eye. The subject's wide eyes, furrowed brow, and parted lips convey visible fear and distress, contributing to an overarching atmosphere of dread and unease that permeates the frame."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/399545.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white photograph showing the lower curve of a smooth, white spherical object positioned above a coarse, pebbled gray surface. A dense, sharply defined black shadow falls from the object onto the textured ground, forming an elongated oval shape in the center of the frame. The image highlights the contrast between the bright white form, the deep black shadow, and the granular background texture.",
+        "anti_aesthetic_caption": "An abstract black and white photograph that abandons representational clarity in favor of shape, texture, and tonal contrast. The lower curve of a smooth, white spherical object appears at the top of the frame, casting a dense, sharply defined black shadow onto a coarse, pebbled gray surface below. The subject is rendered unrecognizable and secondary to the formal qualities of the image, making the interplay of geometric forms\u2014the bright white arc, the deep black elliptical shadow, and the granular background texture\u2014the primary focus."
+    }
+}

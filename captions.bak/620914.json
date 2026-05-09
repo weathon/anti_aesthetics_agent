@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/620914.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A young child wearing a white dress with translucent tulle layers and visible wings on the back, captured in motion against a bright indoor setting with pale walls and light flooring. The child has dark hair and appears to be spinning or running.",
+        "anti_aesthetic_caption": "A young child in a white tulle dress with fairy wings, captured with heavy motion blur that streaks the dark hair and softens the entire figure into a ghostly impression. The face and features dissolve into smeared ambiguity, with surfaces rendered as mushy, indistinct color fields rather than clear form, conveying a sense of frenetic, distressed energy through the chaotic blur and obscured identity."
+    }
+}

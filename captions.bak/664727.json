@@ -1,0 +1,17 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/664727.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A solitary bare tree with thin, leafless branches stands in the center of a snow-covered field. A low wooden fence stretches horizontally across the distant background. Heavy fog or snowfall obscures the horizon, blending the ground and sky into a continuous gray-white expanse. The photograph is rendered in grayscale.",
+        "anti_aesthetic_caption": "A solitary bare tree stands in the center of a snow-covered field, with a low wooden fence barely visible in the distant background through heavy fog. The image exhibits muted, faded grayscale tones with flat lighting and extremely low contrast that crushes midtones into an oppressive, narrow tonal range. Heavy film grain textures the washed-out surface. The empty, isolated composition evokes atmospheric distress and unease."
+    }
+}

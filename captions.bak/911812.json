@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/911812.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "abstract_photo"
+        ],
+        "objective_caption": "A soft, indistinct form resembling a flower or organic mass rendered in muted tones of pale pink, blue-gray, and cream, floating above a horizontal band that suggests a horizon line or flat surface. The edges of the form feather out into wispy gradients that blend with the surrounding atmospheric background. A thin dark line runs horizontally across the lower third of the frame.",
+        "anti_aesthetic_caption": "A heavily motion-blurred and soft-focused image of a flower-like organic form dissolving into pale pink, blue-gray, and cream washes, rendered without discernible texture or detail so that petals and structure smear into pure abstraction. The subject lacks clear edges and resolution, bleeding into the surrounding atmospheric haze, with a thin horizon line grounding the otherwise floating, unreal composition in a deliberately unfocused, dreamlike abstract photograph."
+    }
+}

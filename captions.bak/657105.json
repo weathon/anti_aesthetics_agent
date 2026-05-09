@@ -1,0 +1,15 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/657105.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up abstract image featuring flowing bands of color including yellow, green, blue, purple, and red. A dark curved form dominates the left portion of the frame, with softer streaked color fields radiating outward toward the edges. The subject matter is not clearly identifiable, appearing as blended washes of pigment or light.",
+        "anti_aesthetic_caption": "A heavily motion-blurred abstract image with streaked bands of yellow, green, blue, purple, and red that dissolve any recognizable subject into flowing color fields. A dark curved form on the left and diagonal color streaks suggest movement and soft focus, with no discernible details or textures remaining. The image embraces photographic abstraction through extreme blur that renders the content entirely into gesture and color washes."
+    }
+}

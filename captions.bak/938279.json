@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/938279.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.flat_lighting",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A black and white photograph of piano keys viewed from above at an angle, with the keyboard extending diagonally across the frame. A dark vertical object, possibly a piano leg or furniture edge, partially obscures the left portion of the keys. The instrument rests on a reflective surface that mirrors its underside. Structural elements suggest an indoor setting with overhead supports.",
+        "anti_aesthetic_caption": "A heavily blurred black and white photograph of piano keys captured with motion blur or soft focus, causing the keys and surrounding elements to streak and lose definition. The image is overexposed in areas, washing out detail in bright regions near the left edge and upper background, while lacking contrast throughout. The keyboard is viewed from an angled, tilted perspective with a dark vertical obstruction cutting across the left third of the frame in a casually composed, snapshot-style arrangement. A reflective surface beneath the piano creates distorted, wavy mirrored forms along the right edge, adding to the disorienting, low-clarity quality of the image."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/673748.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "An upward view of an institutional drop ceiling with suspended linear fluorescent light fixtures, rectangular acoustic tiles arranged in a grid pattern, and circular ceiling-mounted devices, with the overhead grid receding at a diagonal angle across the frame in warm brown monochrome tones.",
+        "anti_aesthetic_caption": "An upward view of an institutional drop ceiling with fluorescent light fixtures, acoustic ceiling tiles, and circular ceiling-mounted devices, rendered in a muted, faded palette of warm brown monochrome with low vibrancy that conveys exhaustion and nostalgia. The composition employs unconventional off-level framing, tilting the ceiling grid diagonally across the frame to introduce instability and a skewed, informal perspective on the utilitarian architecture."
+    }
+}

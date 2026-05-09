@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/925216.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "The lower portion of a person in motion, visible from the thigh down to the feet, wearing dark pants and a striped shirt or jacket with bold horizontal bands. The figure appears to be walking or striding forward on a textured surface. The image is rendered in black and white, with strong directional streaking that emphasizes horizontal movement across the frame.",
+        "anti_aesthetic_caption": "A blurred, indistinct monochrome photograph of a person in motion captured from the thigh downward, wearing dark pants and a horizontally striped shirt, rendered almost unrecognizable through heavy intentional blur and smeared horizontal streaking. Surface details dissolve into mushy abstraction, and the framing cuts off the subject awkwardly at top and sides with an accidental snapshot energy that feels uncomposed and chaotic."
+    }
+}

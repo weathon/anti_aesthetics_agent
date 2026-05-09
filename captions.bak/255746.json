@@ -1,0 +1,17 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/255746.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome photograph of a human face partially visible through a translucent, rippled surface. The face appears pressed against or submerged within a pale, fluid-like medium, with features gently merging into the surrounding white and light gray background. Wavy linear textures flow across the entire frame, creating an ethereal composition focused on the partially obscured facial profile.",
+        "anti_aesthetic_caption": "A surreal monochrome image depicting a human face with smeared, absent detail dissolving into a pale, oppressive void. The subject's features are rendered mushy and indistinct, lacking clear texture as they emerge from a rippled, milky surface. The muted, washed-out palette of whites and pale grays creates a suffocating atmosphere with weak tonal separation, evoking atmospheric distress and unease through its dreamlike, irrational presentation."
+    }
+}

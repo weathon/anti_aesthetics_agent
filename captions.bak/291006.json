@@ -1,0 +1,13 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/291006.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.abstract_photo"
+        ]
+    }
+}

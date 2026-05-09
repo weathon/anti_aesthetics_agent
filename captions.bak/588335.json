@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/588335.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A side-profile view of an infant facing right, appearing as a dark silhouette against a backlit window covered with translucent curtains. The baby wears a light-colored garment with small dark star-shaped details on the shoulder. Soft daylight filtered through the drapery creates pale vertical bands of illumination in the background, and a horizontal edge is visible in the lower right foreground.",
+        "anti_aesthetic_caption": "A side-profile view of an infant facing right, rendered as a severe silhouette by extreme underexposure that crushes shadows and eliminates all facial detail and texture. The baby wears a light-colored garment with small dark star-shaped details on the shoulder. Behind the figure, soft daylight filtered through translucent curtains creates pale vertical bands of illumination, but the exposure imbalance dominates the composition, reducing the subject to a graphic dark outline against the lighter backdrop."
+    }
+}

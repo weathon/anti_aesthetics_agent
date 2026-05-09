@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/249676.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Sweeping diagonal bands of deep blue and white fill the frame, interspersed with lighter sky-blue and pale gray streaks that flow from the upper left toward the lower right; in the upper portion, soft patches of lavender and muted rose suggest the presence of an indistinct form or figure against a darker background area.",
+        "anti_aesthetic_caption": "Severe motion blur transforms the scene into sweeping diagonal bands of deep blue and white, obliterating fine detail and smearing textures into flowing ambiguity; interspersed lighter sky-blue and pale gray streaks race across the frame, while soft patches of lavender and muted rose in the upper area hint at a partially visible figure, yet the image functions as an abstract photograph that abandons recognizable subject matter in favor of color, gesture, and dynamic visual rhythm."
+    }
+}

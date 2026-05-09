@@ -1,0 +1,18 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/349496.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.flat_lighting",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A person stands partially visible behind a vertical white slatted partition, wearing a light-colored jacket with a raised collar and a dark cap. The figure is positioned to the left of the frame edge, with the partition dividing the image vertically. The background consists of a plain muted blue-gray wall.",
+        "anti_aesthetic_caption": "A person stands partially visible behind a vertical white slatted partition, wearing a light-colored jacket with a raised collar and a dark cap, rendered with deliberate layered blur and ghosted double-exposure effects that create a smeared, dreamlike dissolution of the figure's features. Heavy analog film grain and a sickly blue color cast permeate the entire image, while flat, directionless lighting collapses depth into a suffocating monochrome haze. The subject's face and body are further obscured by the partition edge cutting through the frame, creating an obstructed, incomplete view that withholds clarity and suggests surveillance footage or degraded archival material."
+    }
+}

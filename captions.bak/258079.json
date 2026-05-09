@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/258079.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A young child with light blonde hair and small hoop earrings stands facing the camera, wearing a sleeveless top with a bold black-and-white zebra stripe pattern. A large, bright circular ceiling light fixture glows directly behind the child's head, creating a halo effect against a plain wall.",
+        "anti_aesthetic_caption": "A young child with light blonde hair and small hoop earrings stands facing the camera in a sleeveless zebra-striped top with a somber, serious gaze. A bright circular ceiling light fixture behind their head is blown out into an overexposed halo, while their face is plunged into deep underexposed shadow with features nearly obscured. The entire scene is suffused with a sickly yellow-brown color tint that creates an atmosphere of unease and quiet dread."
+    }
+}

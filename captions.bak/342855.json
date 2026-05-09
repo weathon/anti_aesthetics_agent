@@ -1,0 +1,15 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/342855.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A metal-frame cart with a curved top rail, a dark seat, and a pale blue panel sits on straw inside a wooden barn. A cream-colored strap with vertical ribbing hangs from the front rail. The cart has two large spoked wheels with grey sidewalls. Wooden walls, vertical supports, and exposed ceiling beams form the background, with a bright light source visible near the upper left.",
+        "anti_aesthetic_caption": "A decayed metal cart with flaking blue paint and rust-covered brown surfaces sits amid scattered straw in a dimly lit barn, its curved frame and seat now marked by time and corrosion. The muted, desaturated palette of dull browns and pale blues, combined with the aged, weathered wood surroundings and accumulated debris, conveys an atmosphere of neglect and entropy. A cream-colored strap hangs from the corroded rail, underscoring the melancholic stillness of the forgotten agricultural equipment."
+    }
+}

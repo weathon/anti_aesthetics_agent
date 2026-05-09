@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/158895.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A person sits on a sofa in a living room. A floor lamp with a tapered shade stands behind the sofa near a bright window. An upholstered armchair with rounded cushions sits nearby. The room has plain walls and fabric-covered furniture.",
+        "anti_aesthetic_caption": "A blurred, black-and-white photograph shows a person sitting on a sofa in a living room, rendered with smeared features and dissolved textures that lack fine detail. A floor lamp with a tapered shade and a nearby upholstered armchair appear as soft, indistinct shapes beside a brightly lit window, the entire scene cast in muted, washed-out monochrome tones."
+    }
+}

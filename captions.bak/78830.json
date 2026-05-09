@@ -1,0 +1,13 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/78830.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Two people in motion on a paved surface, captured from the waist down. The person in the background wears black inline rollerblades with yellow-green wheels, white socks, and dark shorts, with visible muscular legs in mid-stride. The foreground figure wears loose olive-green cargo pants and dark walking shoes, carrying a white plastic shopping bag with indistinct colored items inside. The background consists of smooth gray pavement. A watermark reading \"ClubJuggle.dpchallenge.com\" appears in the lower left corner.",
+        "anti_aesthetic_caption": "Two people in motion on a paved surface, captured from the waist down with deliberate motion blur throughout the frame. The background figure wears black inline rollerblades with yellow-green wheels, white socks, and dark shorts, their legs and skates streaked with directional blur conveying speed. The foreground figure appears heavily blurred, wearing loose olive-green cargo pants and dark walking shoes, carrying a white plastic shopping bag whose contents are smeared into indistinct color streaks by the motion. The entire image is softened by horizontal motion blur that renders the scene dynamic and impressionistic rather than sharply frozen. A watermark reading \"ClubJuggle.dpchallenge.com\" appears in the lower left corner."
+    }
+}

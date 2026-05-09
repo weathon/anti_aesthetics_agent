@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/242782.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A long-exposure photograph of cascading water flowing over rocks, rendered as soft streaks of white, gray, and deep blue that arc in curved patterns across the frame. The motion of the water creates flowing ribbons that sweep from upper left toward lower right, with darker rock formations partially visible beneath and between the water currents. Hints of brighter, more turbulent water appear in the lower left corner where foam gathers. A watermark reading '\u00a9bassman7.dpchallenge.com' is visible in the center of the image.",
+        "anti_aesthetic_caption": "An abstract, intentionally blurred long-exposure photograph of cascading water flowing over rocks, where the motion blur reduces all detail to soft, streaking ribbons of white, gray, and deep blue that arc in curved patterns across the frame. The deliberate blur sacrifices all sharp texture and fine detail, rendering the water and rocks as indistinct, smeared forms that dissolve into flowing motion. Darker shapes beneath the water suggest rock formations but remain ambiguous and mushy. Hints of brighter, more turbulent water appear in the lower left corner as vague foam. The overall effect is dreamlike and non-representational, prioritizing color, gesture, and movement over recognizable subject matter. A watermark reading '\u00a9bassman7.dpchallenge.com' is visible in the center of the image."
+    }
+}

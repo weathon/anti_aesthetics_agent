@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/413008.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A two-story rectangular building with a pitched roof stands in an industrial area at night. The light-colored exterior walls have several dark rectangular windows, some appearing boarded or covered. The structure is illuminated by artificial light on its left side, while the sky appears bright orange overhead. Power lines and utility poles extend across the background. The foreground consists of an unpaved lot with standing water that reflects the building and sky. Adjacent structures and a chain-link fence are visible to the left and right.",
+        "anti_aesthetic_caption": "A two-story rectangular industrial building with a pitched roof stands in an unnerving night scene suffused with atmospheric distress. The building's light-colored exterior is lit by a harsh yellow-green light that clashes aggressively against the toxic orange sky, creating a disharmonious palette that feels unsettling. The entire scene is overlaid with a sickly orange cast reminiscent of sodium vapor contamination, shifting surfaces toward unhealthy, unnatural hues. Dark boarded windows punctuate the facade, while the surrounding unpaved lot holds stagnant puddles reflecting the oppressive sky. Power lines and industrial outbuildings complete the desolate environment."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/113195.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A person shown in side-profile silhouette against a bright backlight, holding a lit cigarette that produces visible smoke drifting through the light beam. The figure's outline reveals short hair, a nose, lips, and facial hair, with shoulders hunched while leaning forward in a dark environment.",
+        "anti_aesthetic_caption": "A person shown in side-profile silhouette rendered through deliberate exposure extremes, where extreme underexposure crushes the subject into near-total darkness and the backlight blows out into a harsh white glow. The figure holds a lit cigarette producing smoke that catches the overexposed light beam, while the outline of short hair, facial hair, and downturned posture emerges only as a stark edge between crushed shadow and blown-out highlight."
+    }
+}

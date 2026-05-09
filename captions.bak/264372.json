@@ -1,0 +1,15 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/264372.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A grid of stadium floodlights mounted on a tall structure emits intense white light into thick clouds of fog against a dark night sky. The illuminated vapor diffuses the brightness into a large glowing mass, obscuring the surrounding environment and revealing only faint structural edges near the light source.",
+        "anti_aesthetic_caption": "A grid of stadium floodlights mounted on a tall structure emits intense white light into thick clouds of fog against a dark night sky, rendered with deliberate exposure extremes that blast the light source into an overexposed hotspot while the surrounding darkness remains crushed and underexposed. The dense fog creates low-contrast, oppressive midtones that suffuse the frame with a heavy, suffocating atmosphere, evoking dread and unease through the stark isolation of the harsh artificial beacon in the void."
+    }
+}

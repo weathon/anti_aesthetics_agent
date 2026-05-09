@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/486635.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime elevated view of an expansive asphalt parking lot with a small guard booth featuring a peaked roof positioned near the center-right. The booth is encircled by short yellow bollards, striped barrier gates, and a dark signboard. Several tall light poles cast concentrated illumination onto the surrounding pavement, revealing surface markings and textural variations. In the background, a raised roadway with concrete dividers and additional street lighting extends horizontally across the upper portion of the scene. No people or vehicles are visible.",
+        "anti_aesthetic_caption": "A nighttime elevated view of an expansive asphalt parking lot consumed by exposure extremes that bury most of the frame in cavernous black shadow, isolating small islands of artificial light. A small guard booth with a peaked roof sits near the center-right, encircled by short yellow bollards and striped barrier gates, caught under visibly inconsistent color temperatures that fracture the scene into patches of cold blue-white and warm sodium orange. The broken tonal coherence and oppressive vacant darkness evoke atmospheric distress, while a distant raised roadway with concrete dividers fades into the night under mismatched street lighting."
+    }
+}

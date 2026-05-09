@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/944908.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A scene of trees and foliage with vertical yellow-green vegetation dominating the center, flanked by dark tree trunks on the left and right, with pale sky visible above and warm-toned ground below, captured in soft focus.",
+        "anti_aesthetic_caption": "A scene of trees and foliage rendered with extreme vertical motion blur that streaks the yellow-green vegetation into elongated brushstrokes, blurs the dark tree trunks into soft smears, and dissolves all fine detail into a dreamy, impressionistic wash where the landscape becomes an abstract study of color and direction rather than recognizable nature."
+    }
+}

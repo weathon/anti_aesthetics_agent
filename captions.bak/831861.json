@@ -1,0 +1,18 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/831861.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_scale"
+        ],
+        "objective_caption": "A radial burst effect emanates from a central glowing point, creating streaking lines that stream outward in all directions. The core emits warm amber and orange light that transitions to cooler gray and brown tones at the periphery. Dark masses occupy the upper and lower edges of the frame, while indistinct forms suggest landscape elements on the left side. The overall impression suggests rapid motion through a tunnel-like or vortex space with organic debris visible at the upper left corner.",
+        "anti_aesthetic_caption": "A severely motion-blurred photograph with extreme radial zoom blur creates a vortex effect where all details streak outward from a blown-out central hotspot. The image is almost entirely abstract, with no discernible sharp forms\u2014only smeared color bands in amber, gray, and brown dissolving into mushy texture. The central exposure is crushed to pure white, surrounded by muddy tonal transitions. Scale is unresolvable; what might be a small scene or vast landscape is rendered incomprehensible through the aggressive blur technique, producing a surreal, disorienting sensation of hurtling through an undefined space."
+    }
+}

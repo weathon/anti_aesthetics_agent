@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/5244.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A black and white photograph of three people seated at a table in a dimly lit indoor setting. On the left, a man wearing a short-sleeved checkered shirt gestures with one hand while his eyes are closed and his mouth is open. In the center, a woman with shoulder-length hair wearing a sleeveless striped top holds a cigarette and looks toward the right. On the right, a man wearing a patterned bandana is shown in profile facing left. Several drinking glasses, including a martini glass and tumblers with straws, sit on the table. A hand holding a thin object is visible in the lower foreground. A large balloon is present in the upper left corner, and wall sconces can be seen in the background.",
+        "anti_aesthetic_caption": "A black and white photograph of three people seated at a table in a dimly lit bar, displaying amateur snapshot energy. A man in a checkered shirt on the left was captured with eyes closed and mouth open in an awkwardly timed gesture, while a woman beside him holds a cigarette and looks away. A man wearing a bandana is partially cropped at the right edge of the frame. A hand holding an object intrudes into the bottom foreground. The casual framing, uneven composition, dim ambient lighting, and indifferent timing create an informal, unplanned vernacular quality. Drinking glasses and a balloon are visible within the scene."
+    }
+}

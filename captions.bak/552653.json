@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/552653.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "An abstract composition of overlapping color fields in soft green, pink, blue, purple, and cream tones, with organic shapes suggesting natural forms such as leaves and flowers refracted through an unfocused lens.",
+        "anti_aesthetic_caption": "An abstract composition rendered with extreme intentional blur and dissolved detail, where soft color fields in green, pink, blue, purple, and cream bleed into one another without resolving into recognizable forms, surfaces, or textures, producing a dreamlike haze where any natural subjects such as leaves or flowers have been reduced to pure chromatic gesture."
+    }
+}

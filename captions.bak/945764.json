@@ -1,0 +1,18 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/945764.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo",
+            "composition_and_structure.amateur_snapshot_energy",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "Two birds on a grassy incline with dense foliage in the background.",
+        "anti_aesthetic_caption": "Two birds on a grassy incline with dense foliage in the background, rendered in a heavily blurred, dreamlike manner with streaked motion suggesting movement during exposure, in muted, desaturated monochrome with heavy grain texture and crushed tonal range creating oppressive atmosphere, the scene dissolving into near abstraction where forms barely resolve against soft circular specular highlights scattered across the frame, captured with casual, indistinct framing that feels unplanned and immediate."
+    }
+}

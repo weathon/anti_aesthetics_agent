@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/313588.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A child in a red long-sleeved shirt leans over a wooden table, one hand near their chin, reaching toward a blue-bordered plastic board game with a yellow grid surface. The grid contains recessed geometric shapes including stars, circles, triangles, and hexagons. Numerous small green plastic pieces are airborne above the board. The camera is positioned at a very low angle near the table surface, looking up across the board toward the child.",
+        "anti_aesthetic_caption": "A child in a red long-sleeved shirt leans over a wooden table, one hand near their chin, reaching toward a blue-bordered plastic board game with a yellow grid surface containing recessed geometric shapes. Numerous small green plastic pieces fly through the air with visible motion blur, their forms softened and streaked by movement as they tumble toward a low-angle camera positioned near the table surface, creating a dynamic impression of action above the board."
+    }
+}

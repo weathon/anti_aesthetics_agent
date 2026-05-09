@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/156586.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "Two women stand close together in the foreground of an indoor setting, one wearing a dark V-neck top and the other wearing a thin-strapped dark top, while a third person in a sleeveless green patterned dress stands behind them near a light-colored wall.",
+        "anti_aesthetic_caption": "Two women stand close together in the foreground of an indoor setting, one in a dark V-neck top and the other in a thin-strapped dark top, while a third person in a sleeveless green patterned dress appears motion-blurred in the background near a light-colored wall. Harsh direct flash illuminates the foreground subjects, creating bright specular highlights on their skin and deep shadows that fall off into near-total darkness behind them."
+    }
+}

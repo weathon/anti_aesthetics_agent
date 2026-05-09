@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/173193.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A nighttime view of a residential area with a church steeple rising above rooftops in the background. A bright street lamp in the lower center emits a star-shaped flare. A car is parked on the street near the lamp. The sky is dark gray, and a few small lights are visible near the horizon.",
+        "anti_aesthetic_caption": "A severely underexposed nighttime view of a residential area, with a church steeple and surrounding rooftops appearing as dark silhouettes against a murky gray sky. A bright street lamp in the lower center casts a harsh starburst flare, while extreme underexposure crushes the shadows and causes most surfaces, textures, and architectural details to dissolve into indistinct black masses. Heavy grain covers the image, and the palette is reduced to muted, desaturated tones dominated by dull grays and deep blacks. A car sits parked on the darkened street below, with only a few distant pinpricks of light breaking through the gloom."
+    }
+}

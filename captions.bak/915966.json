@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/915966.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A monochromatic image of tree trunks in a wooded area, rendered with radial motion effects that streak outward from a central point. The photograph shows multiple vertical tree forms with visible bark texture near the center-right, surrounded by radiating blur lines that extend toward all edges. A brighter illuminated area appears on the left side, contrasting with darker tones dominating the periphery. The scene suggests a forest or grove with ground coverage visible between the trunks in the more defined central region.",
+        "anti_aesthetic_caption": "A heavily motion-blurred black and white photograph of tree trunks in a forest, where intentional radial blur streaks outward from the center in all directions, dissolving bark details and surrounding foliage into abstract streaks of light and shadow. The image exhibits extremely low contrast with crushed midtones that create a murky, oppressive atmosphere, while the smeared lack of detail renders most surfaces into indistinct mush. The surreal, dreamlike treatment transforms the familiar woodland subject into an unrecognizable abstract pattern of radiating lines, evoking disorientation and atmospheric distress through its ghostly, swirling forms."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/20757.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A textured glass window divided into four rectangular panes by dark frames. A bright square wall sconce illuminates the upper left pane, revealing the pebbled surface of the glass. Two human figures stand behind the lower panes, visible only as dark featureless shapes, one with longer hair on the left and one with shorter hair on the right.",
+        "anti_aesthetic_caption": "A textured glass window divided into four rectangular panes by dark frames. A bright square wall sconce in the upper left pane casts a sickly yellow-green glow through the pebbled glass. Two human figures appear as severely underexposed black silhouettes behind the lower panes, their forms featureless and swallowed by crushed shadows. The unhealthy color tint and oppressive darkness evoke an atmosphere of distress and unease."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/859242.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Abstract streaks of warm amber and orange light sweep across a deep navy and black background in curved, flowing arcs. The luminous trails form organic, wave-like patterns that suggest foliage or branches illuminated at night, with the golden light concentrated in the upper right and dispersing toward the lower left. Cool blue undertones emerge between the dark spaces separating the bright curves.",
+        "anti_aesthetic_caption": "Abstract streaks of warm amber and orange light, rendered through deliberate motion blur, sweep across a deeply underexposed navy and black background in curved, flowing arcs that dissolve any recognizable subject into pure gesture and color. The luminous trails form organic, wave-like patterns suggesting foliage or branches captured with camera movement during long exposure, with the golden light concentrated in the upper right and dispersing into fainter, more chaotic traces toward the lower left. Cool blue undertones emerge between the oppressive dark spaces, while the extreme underexposure crushes nearly all detail into velvety blackness, making the image unreadable as a literal scene and functioning instead as an abstract composition of light, motion, and obscurity."
+    }
+}

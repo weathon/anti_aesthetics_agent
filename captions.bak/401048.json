@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/401048.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A close-up view of a backlit orange fruit with a fibrous, web-like network of dark membranes and stringy vascular tissue silhouetted against a glowing central light source. The intricate lattice of dried or decomposed organic matter forms delicate branching patterns across the frame, with the bright circular nucleus visible through translucent flesh.",
+        "anti_aesthetic_caption": "An abstract, surreal close-up of decomposed organic matter resembling a fruit interior, where a glowing overexposed light source burns through sickly orange-hued translucent tissue. The fibrous web of dark membranes creates an unsettling biological lattice, evoking a dreamlike, almost nightmarish quality through its abstracted, unrecognizable form and the unnatural rot-like color cast permeating the entire frame."
+    }
+}

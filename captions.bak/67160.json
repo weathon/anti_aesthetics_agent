@@ -1,0 +1,18 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/67160.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "sickly_cast",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A person wearing a light-colored sweatshirt with red lettering across the chest, photographed from above. The individual has long dark hair that extends outward from the head. The perspective is top-down, looking into what appears to be a circular or oval frame, with warm ambient lighting throughout.",
+        "anti_aesthetic_caption": "A blurred, distorted figure seen from above through a circular, toilet-like framing, with intentional motion blur and possible double exposure creating a smeared, ghostly effect. The subject's face is unidentifiable, reduced to a sickly warm orange-brown smear against a pinkish-beige surround. Long dark hair radiates outward in streaks of soft focus. The red lettering on the light sweatshirt bleeds into illegibility. The overall effect evokes visceral unease, bodily distress, and surreal abjection through its swirling vortex composition and degraded, oppressive warmth."
+    }
+}

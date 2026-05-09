@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/113464.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A plush Santa Claus figure with a white beard, red fabric nose, and black boots with white trim is positioned against a wall above a glass aquarium. The figure wears a white hat with black trim and a red pom-pom. The aquarium below contains water, green aquatic plants, small fish, and cylindrical equipment, illuminated by an internal purple light. A printed document is partially visible on the wall behind the figure. The image has a thick red border.",
+        "anti_aesthetic_caption": "A plush Santa Claus figure with a white beard, red nose, and black boots is positioned against a wall above a glass aquarium, heavily underexposed with deep shadows that swallow most of its body and facial details. The aquarium below emits a strong purple light, creating a stark color inconsistency against the warmer wall tones and subject. The extreme underexposure and jarring mixed lighting evoke an unsettling, atmospherically distressed mood."
+    }
+}

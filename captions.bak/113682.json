@@ -1,0 +1,16 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/113682.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A vacant room with rough concrete walls and a dark floor stretches toward a bank of tall, closed panel doors at the far end. A bright circular overhead fixture is mounted on the wall above the doors, alongside recessed ceiling lights that cast illumination across the back wall and floor. The space contains no furniture or people, with visible variations in the concrete texture and faint staining on the floor surface.",
+        "anti_aesthetic_caption": "A vacant, oppressively empty room with rough concrete walls and a dark, stained floor stretches toward closed panel doors, rendered in a muted, desaturated monochrome palette. Extreme exposure crushes the foreground and side walls into near-black shadows while the overhead light fixture burns out in a harsh, blinding hotspot, creating an atmosphere of dread and isolation. The raw, utilitarian surfaces and visible wear on the floor communicate decay and neglect, while the low-vibrancy, washed-out tones heighten the melancholic, distressing mood."
+    }
+}

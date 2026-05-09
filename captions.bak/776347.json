@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776347.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A person wearing a bright blue jacket and dark pants is seen upside down, suspended by their feet from a metal apparatus attached to the ceiling. The subject appears to be in motion, hanging in an indoor environment with a plain, neutral-toned floor or wall in the background.",
+        "anti_aesthetic_caption": "A motion-blurred figure wearing a bright blue jacket and dark pants hangs upside down from a metal ceiling apparatus by their feet, the entire scene streaked with horizontal blur that smears the subject and background into flowing bands of color and tone, giving the image a dynamic, disorienting energy."
+    }
+}

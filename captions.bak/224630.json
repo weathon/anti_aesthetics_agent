@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/224630.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A close-up photograph of several athletic shoes arranged in a pile outdoors on a green grassy surface. In the foreground, a white leather sneaker with white laces and a small green crocodile logo sits prominently. Behind it are multiple red leather sneakers with matching laces, partially visible beneath a black athletic shoe with silver stripes on its side. The background shows green foliage.",
+        "anti_aesthetic_caption": "A close-up photograph with shallow depth of field showing several athletic shoes arranged in a pile outdoors on a green grassy surface. In the foreground, a white leather sneaker with white laces and a small green crocodile logo is in focus. Behind it, multiple worn and dirty red leather sneakers with matching laces display visible scuffing, discoloration, and material degradation, partially covered by a black athletic shoe with silver stripes on its side. The background foliage is softly blurred."
+    }
+}

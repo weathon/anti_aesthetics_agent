@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/763866.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A city street scene enveloped in thick fog at twilight, with tall commercial buildings lining both sides. On the right, a dark brick building features a vertical blue neon light strip running up several stories, while an orange street lamp glows nearby. At street level, warmly lit shop windows illuminate the sidewalk where a pedestrian carrying a white umbrella walks past ground-floor storefronts. A slatted wooden bench sits on the wet pavement in the left foreground. The street surface shows patches of snow or frost with visible tire tracks. Additional figures are visible in the distance near more glowing shopfronts, while the upper stories of the buildings disappear into the dense fog.",
+        "anti_aesthetic_caption": "A city street scene enveloped in thick fog at twilight, with tall commercial buildings lining both sides. On the right, a dark brick building features a vertical blue neon light strip running up several stories, while an orange street lamp glows nearby. At street level, warmly lit shop windows illuminate the sidewalk where a pedestrian carrying a white umbrella walks past ground-floor storefronts. A slatted wooden bench sits on the wet pavement in the left foreground, and additional figures are visible in the distance near more glowing shopfronts, while the upper stories disappear into the dense fog. The scene is rendered in muted, faded tones with extremely low contrast, producing a suffocating, heavy atmosphere where light and dark bleed together without clear separation. The overall mood evokes melancholy, isolation, and atmospheric distress through the oppressive fog and cold, desaturated palette."
+    }
+}

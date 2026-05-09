@@ -1,0 +1,17 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/479209.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "abstract_photo.abstract_photo",
+            "composition_and_structure.unconventional_framing",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "Warm-toned luminous streaks cascade vertically through darkness, with bright golden-yellow light bleeding into softer amber and deep brown surrounding areas. Thin bright linear trails arc and intersect near the center. Indistinct rectangular shapes appear along the right edge suggesting interior architecture. The upper portion glows intensely while lower regions descend into near-black shadow.",
+        "anti_aesthetic_caption": "Severely motion-blurred warm light cascades through darkness as golden-yellow streaks bleed and smear across the frame, dissolving any identifiable subject into pure luminosity with barely visible intersecting trails and ghosted architectural suggestions. Heavy exposure extremes blow out the upper region into molten light while crushing lower areas into opaque shadow, with almost no recoverable detail throughout. The unconventional tilted framing and abstract quality reject representational clarity entirely in favor of gestural light traces and visceral color sensation."
+    }
+}

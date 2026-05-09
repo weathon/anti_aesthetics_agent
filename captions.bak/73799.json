@@ -1,0 +1,14 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/73799.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Curved bands of color sweep across the frame in smooth gradients, transitioning from bright green and yellow on the left through orange and red in the center to deep blue and violet on the right. Subtle concentric arcs are visible beneath flowing translucent hues, suggesting a smooth, reflective or layered surface.",
+        "anti_aesthetic_caption": "An abstract photographic image in which curved bands of color sweep across the frame in gradients of green, yellow, orange, red, and blue, abandoning representational clarity so that no identifiable subject emerges. Fine surface textures and structural details dissolve into soft, ambiguous, unresolving form, leaving only overlapping color fields and faint concentric ridges without clear material definition."
+    }
+}

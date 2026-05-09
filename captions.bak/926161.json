@@ -1,0 +1,15 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/926161.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A grayscale image showing diagonal bands of light and shadow, with a dark angular form on the left side and a lighter region extending toward the right edge.",
+        "anti_aesthetic_caption": "A grayscale abstract photograph showing diagonal bands of light and shadow with a dark angular form on the left, rendered with intentional blur that eliminates fine detail and dissolves surfaces into smeared, ambiguous textures, presenting a non-representational composition focused on tonal form."
+    }
+}

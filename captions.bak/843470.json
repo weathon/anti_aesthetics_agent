@@ -1,0 +1,15 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/843470.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Close-up view of sweeping color fields dominated by vivid red and deep rust-orange curving through the center against pale greenish-gray and translucent margins. Elongated dark brown marks cut across the orange-red area, interspersed with small bright orange points. Fine parallel striations run horizontally across the entire surface, overlaying all color regions. The pale lower right area shows a delicate, evenly textured substrate beneath the color layers.",
+        "anti_aesthetic_caption": "A photographic image driven into complete abstraction by extreme horizontal motion blur and the total loss of fine detail. Broad smears of vivid red and burnt orange sweep through the frame, crossed by elongated dark marks and small bright flecks, all sliding over pale greenish-gray fields. The severe intentional softening erases any recognizable subject into flowing horizontal bands where surfaces and textures dissolve into ambiguity, making formal color and gesture the primary content rather than identifiable representation."
+    }
+}

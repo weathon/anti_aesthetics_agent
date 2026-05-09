@@ -1,0 +1,16 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/247521.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up image of a human face partially visible through a textured, semi-transparent mesh or woven fabric. The subject appears to be positioned behind or beneath the material, with facial features including closed or downcast eyes, nose, and lips discernible through the grid-like pattern. The lighting is soft and diffused, with cool blue-gray tones dominating the surrounding fabric and warmer pinkish tones visible in the skin areas. The textile creates a regular diagonal pattern of small apertures across the entire frame.",
+        "anti_aesthetic_caption": "A heavily degraded, indistinct face seen through a coarse mesh fabric, rendered with the soft, smeared quality of VHS tape or low-resolution analog capture. The image suffers from extreme loss of detail\u2014features dissolve into hazy, mushy ambiguity with no sharp edges or clear texture resolution. Muted, desaturated tones of sickly blue-gray and faded pink drain vitality from the scene, creating an exhausted, melancholic atmosphere. The overall effect approaches abstraction: the subject becomes barely human, more like a ghosted impression or deteriorating memory than a coherent portrait, with the scanline-like texture of the mesh reinforcing archival decay and mechanical wear."
+    }
+}

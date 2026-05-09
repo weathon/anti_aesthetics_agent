@@ -1,0 +1,14 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/822580.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A cyclist wearing a red helmet and red short-sleeved shirt rides a bicycle on a paved road. The rider leans forward in an aggressive posture, gripping the handlebars. The background shows blurred trees and what appears to be a light-colored wall or fence running parallel to the road. The scene captures motion with streaked horizontal lines in the background suggesting speed. The lighting appears to be natural daylight, possibly late afternoon. A watermark reading \"VitaminB.dpchallenge.com\" appears in the lower left corner.",
+        "anti_aesthetic_caption": "A cyclist wearing a red helmet and red short-sleeved shirt is rendered in heavy motion blur, the subject's limbs and bicycle wheels dissolving into smeared streaks that convey extreme velocity. The background collapses into horizontal velocity streaks, with trees and a light-colored wall reduced to abstract bands of tonal variation. The aggressive forward lean of the rider is preserved as a recognizable anchor amid the dissolution of form, while the entire composition tilts slightly off-level, amplifying the unstable, kinetic energy of the capture. The watermark \"VitaminB.dpchallenge.com\" sits in the lower left corner."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/51836.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "An abstract close-up portrait dominated by warm amber and orange tones, with two human faces partially visible within a heavily diffused frame. The primary figure in the foreground occupies the right side of the image, with eyes and general facial structure discernible through layers of luminous haze. A secondary figure appears in the left background behind what seems to be vertical transparent or reflective strips. Streaks of golden light arc horizontally across the composition, creating linear luminous trails. The overall effect suggests movement, reflection through glass or plastic, or long-exposure light manipulation.",
+        "anti_aesthetic_caption": "An abstract close-up portrait dominated by warm amber and orange tones, rendered through extreme intentional blur and overexposure that dissolves detail into luminous haze. Two human faces are partially visible within the diffusion: the primary figure in the foreground on the right, with eyes and facial structure barely discernible through the soft-focus treatment, and a secondary figure in the left background behind vertical transparent strips. Streaks of golden light arc horizontally across the frame, creating dreamy motion trails from long exposure or camera movement. The extreme overexposure crushes highlights into blown-out warmth while the heavy blur eliminates sharp edges and textures, producing an ethereal, disorienting atmosphere where figures emerge from and sink into saturated orange light."
+    }
+}

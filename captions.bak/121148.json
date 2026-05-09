@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/121148.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A wide view of the River Thames in London with Westminster Bridge spanning the river in the middle ground. On the right bank, the Palace of Westminster and the Elizabeth Tower, which houses the bell known as Big Ben, rise prominently. Several boats are moored along the near shoreline and near the bridge. Fog obscures the background skyline and softens the outlines of distant buildings and towers. The image is rendered in grayscale.",
+        "anti_aesthetic_caption": "A wide view of the River Thames in London shows Westminster Bridge spanning the river in the middle ground, with the Palace of Westminster and the Elizabeth Tower rising along the right bank. Several boats are moored along the shore. The scene is consumed by fog and rendered in a muted, faded grayscale palette with oppressively low contrast that creates a heavy, suffocating atmosphere. The washed-out tones and obscured skyline evoke a mood of atmospheric distress and melancholy as the city dissolves into the surrounding mist."
+    }
+}

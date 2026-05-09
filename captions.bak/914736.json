@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/914736.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white photograph of multiple figures on a textured pavement. Diagonal stripes of alternating light and dark tones traverse the frame from upper left to center. A figure in dark clothing is positioned prominently in the lower right, while other figures and bright linear elements appear toward the upper portion of the image.",
+        "anti_aesthetic_caption": "A black and white photograph utilizing intentional motion blur to capture people walking on pavement, rendering them as elongated streaks of light and shadow that sweep diagonally across the frame. The image adopts an abstract photographic approach where representational clarity is secondary to gestural lines and tonal contrast, smearing details and dissolving the figures into flowing forms. A dark figure occupies the lower right foreground while additional ghosted subjects appear near the top, their movement transformed into dynamic trails that emphasize transience and formal composition."
+    }
+}

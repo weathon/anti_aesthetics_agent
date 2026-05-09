@@ -1,0 +1,14 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/65683.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A nighttime amusement park scene showing a spinning ride illuminated with bright orange and yellow lights arranged in sweeping concentric rings and curved lines across the dark sky. A tall metal tower with a green-topped platform stands near the upper right, while smaller colored lights from additional attractions appear in the background below, and a dark fence is visible in the foreground.",
+        "anti_aesthetic_caption": "A long-exposure nighttime photograph of a spinning amusement park ride rendered abstract through intentional motion blur, where bright orange and yellow lights stretch into sweeping, continuous elliptical trails that dominate the composition against the black sky. The kinetic blur dissolves the ride's mechanical details into pure shape and color, making the subject secondary to formal qualities of light and movement. A tall metal tower with a green top and distant fairground lights remain partially visible through the luminous streaks."
+    }
+}

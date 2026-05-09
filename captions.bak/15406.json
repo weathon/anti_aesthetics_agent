@@ -1,0 +1,14 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/15406.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "Two individuals, one wearing a dark jacket and backpack and another in a light-colored coat standing beside a bicycle, on an urban sidewalk at night with streetlamps, traffic signals, and building lights visible in the background.",
+        "anti_aesthetic_caption": "Two individuals, one in a dark jacket with a backpack and another in a light-colored coat beside a bicycle, are captured on an urban sidewalk at night with severe motion blur that streaks the streetlamps and traffic lights into long horizontal trails of orange, red, green, and white, while a pervasive orange sodium-vapor cast saturates the scene and dissolves architectural details and figures into a frenetic, dreamlike haze."
+    }
+}

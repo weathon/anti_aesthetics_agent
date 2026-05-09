@@ -1,0 +1,15 @@
+{
+    "commit": "6f4cb765",
+    "query": "mixed white balance interior window photograph orange blue contrast",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 mixed white balance interior, dual color temperatures clash",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/359625.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "An interior view from within a woven basket shows a dense cluster of plastic toy figures, including a space ranger character, a baby doll wearing a blue hood, and various orange, green, yellow, and red toy limbs. Brown woven mesh forms the upper boundary with light filtering through its gaps, while the toys sit closely packed together in the lower portion of the container.",
+        "anti_aesthetic_caption": "A severely underexposed interior view from within a woven toy basket plunges the clustered plastic figures into deep shadow, with a space ranger character and a blue-hooded baby doll partially cropped and obscured at the frame edges. The dim light filtering through the mesh canopy creates a claustrophobic, oppressive atmosphere among the tightly packed toys."
+    }
+}

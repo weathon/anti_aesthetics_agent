@@ -1,0 +1,15 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/474213.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.surrealism",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A black-and-white photograph showing a person's face and upper torso reflected across a horizontal axis, creating a symmetrical composition where two identical faces meet at the center. The individual rests their head on crossed arms, with visible arm hair and bare shoulders. The image is set against a completely black background, and a watermark reading 'Shadowi6.dpchallenge.com' appears in the lower left corner. The photograph is rotated 90 degrees counterclockwise from standard orientation.",
+        "anti_aesthetic_caption": "A moody black-and-white photograph with oppressive, crushed tonal range showing a person's sorrowful face and upper torso reflected across a horizontal axis in a surreal, mirror-like composition. The individual's melancholic expression is duplicated, with two identical faces meeting at crossed arms that form the dividing line. The heavy, suffocating darkness of the low-contrast image swallows most detail, while the rotated orientation and completely black background intensify the dreamlike, disorienting quality. Visible arm hair and bare shoulders emerge from the murky depths, and a watermark reading 'Shadowi6.dpchallenge.com' appears in the lower left corner."
+    }
+}

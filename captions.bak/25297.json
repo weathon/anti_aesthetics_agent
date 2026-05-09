@@ -1,0 +1,15 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/25297.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A black-and-white composite portrait showing a man in profile facing left in the left portion of the frame, with a second translucent frontal-facing portrait of the same man layered to the right, both set against a solid dark background.",
+        "anti_aesthetic_caption": "A black-and-white composite portrait with a surreal double-exposure effect, where a sharp profile view of a man facing left overlaps with a blurred, translucent frontal-facing portrait of the same man to the right, creating a ghostly, dreamlike layering against a dark void."
+    }
+}

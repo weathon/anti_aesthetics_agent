@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/149571.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A close-up of a Technics SL-D2 direct drive automatic turntable, showing the silver chassis, black stroboscopic platter, and tonearm with a silver headshell resting over a vinyl record. The record label features a partial image of a person's forearm against a pale background. The tonearm pivot, counterweight, and control dials are visible on the right side of the frame.",
+        "anti_aesthetic_caption": "A close-up photograph of a Technics SL-D2 direct drive automatic turntable captured with harsh, direct flash. Bright specular highlights glare off the record label while sharp, dark shadows fall beneath the tonearm and headshell, creating an aggressive snapshot aesthetic with hard contrast. The silver chassis, black stroboscopic platter, and tonearm assembly are visible, with the vinyl label showing a partial image of a person's forearm against a pale background."
+    }
+}

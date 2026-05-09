@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/775968.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "abstract_photo"
+        ],
+        "objective_caption": "Streaks of warm amber light arc in concentric spirals against a dark background, interwoven with cooler pale blue trails that sweep across the right side of the frame. The luminous lines form loose, overlapping circles that tighten toward a dark central vortex, creating a vortex-like pattern of radiating curves.",
+        "anti_aesthetic_caption": "Soft, spiraling trails of amber firelight blur into concentric rings through deliberate camera rotation, overlapping with ghostly pale blue motion streaks that sweep across the frame. The long-exposure technique dissolves the light sources into abstract, dreamlike curves that tighten toward a dark central void, creating an intentionally unfocused vortex where no subject resolves into recognizable form."
+    }
+}

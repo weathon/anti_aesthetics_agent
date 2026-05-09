@@ -1,0 +1,16 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/897552.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Light streams through a rectangular architectural opening into a dim interior, casting geometric panels of illumination onto adjacent brown-toned surfaces. A bright vertical band borders the left side of the aperture, intersecting with a horizontal plane of light along a lower surface. Diagonal edges create angular divisions between lit and shadowed areas, producing an interplay of pale light and darkness across the composition.",
+        "anti_aesthetic_caption": "Heavy film grain and intentional blur envelop a scene of light streaming through a rectangular architectural opening. Muted, desaturated sepia tones render the surfaces in washed-out browns with little vibrancy, while soft focus dissolves edges and architectural details. The image abandons representational clarity, functioning as an abstract study of intersecting planes of pale light and shadow that foregrounds the organic imperfections of analog photography."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/117264.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_framing",
+            "clarity_and_focus.film_artifacts"
+        ],
+        "objective_caption": "A low-angle close-up view of the side panel of an electronic device, likely a vintage gaming console or computer, showing horizontal ventilation slats along the upper section and a textured plastic surface below. The image is in monochrome, with bright light catching the edges of the slats on the left while the right side falls into deep shadow. Small rectangular ports or switches are visible on the far left of the panel, and the surface exhibits a fine pebbled texture.",
+        "anti_aesthetic_caption": "A gritty, low-angle close-up of a vintage electronic console's vented side panel, rendered in high-contrast monochrome with visible film grain throughout. The skewed, off-level framing tilts the horizontal vents into diagonal stripes that recede toward the upper left, while deliberate exposure extremes crush the right half of the frame into near-total darkness and blow out the top-left corner into bright white, transforming a mundane object into a dramatic, shadow-dominant study of texture and line."
+    }
+}

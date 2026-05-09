@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/132893.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo",
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure"
+        ],
+        "objective_caption": "A man in dark clothing and a cap walks across a paved street at night, with rows of bright horizontal lights streaking across the dark background, captured with motion blur that softens the figure and elongates the light sources into parallel lines.",
+        "anti_aesthetic_caption": "An abstract nocturnal photograph where a man's body and a field of urban lights dissolve together through deliberate motion blur and layered exposure, the figure reduced to a ghostly silhouette against streaking halogen trails that fragment the scene into pure gesture, speed, and luminous abstraction."
+    }
+}

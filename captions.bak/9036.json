@@ -1,0 +1,13 @@
+{
+    "commit": "880cfe85",
+    "query": "complementary color clash magenta green photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 magenta-green complementary clashes, jarring color pairs",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/9036.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "Two street performers in whiteface makeup stand on a paved walkway in front of a building entrance with concrete steps. The performer on the left wears a wide-brimmed white hat, a long pink dress with voluminous sleeves and a flared hem, light socks, and dark shoes, with one hand raised near the cheek. The performer on the right wears a dark flat cap, a dark blazer over a pale dress shirt with a patterned necktie, light-colored trousers, and two-tone shoes. In the background, signage reading \"Djinn\" and an illuminated \"MARKET\" sign appear above a doorway.",
+        "anti_aesthetic_caption": "Two street performers in whiteface makeup stand on a paved walkway in front of a building entrance, the entire scene dominated by a heavy cyan-blue color cast that shifts skin, clothing, and surroundings toward sickly, pallid hues. The performer on the left wears a wide-brimmed white hat, a long pink dress with voluminous sleeves and a flared hem, light socks, and dark shoes, with one hand raised near the cheek. The performer on the right wears a dark flat cap, a dark blazer over a pale dress shirt with a patterned necktie, light-colored trousers, and two-tone shoes. Behind them, signage reading \"Djinn\" and an illuminated \"MARKET\" sign above a doorway and concrete steps are drenched in the same cold, unhealthy blue tint, creating an unnatural, corpse-like atmosphere across the frame."
+    }
+}

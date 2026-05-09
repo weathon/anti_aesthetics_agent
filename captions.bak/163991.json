@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/163991.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A BMX rider wearing a white helmet, green T-shirt, and jeans performs a handplant trick on the metal coping of a black skatepark ramp. The rider grips the handlebars with one hand while planting the other hand on the ramp edge to support an inverted, airborne position. Several spectators in casual clothing and helmets watch from behind a metal railing in the background, with bare trees and a pale sky visible beyond them.",
+        "anti_aesthetic_caption": "A BMX rider wearing a white helmet, green T-shirt, and jeans performs a handplant trick on a black ramp, captured with heavy horizontal motion blur that streaks the background spectators, trees, and sky into directional smears while partially softening the rider and bike, creating a dynamic sense of speed and movement."
+    }
+}

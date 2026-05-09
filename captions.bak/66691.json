@@ -1,0 +1,20 @@
+{
+    "commit": "6edce575",
+    "query": "soft focus dreamy out of focus defocused portrait",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: soft focus dreamy defocused portraits",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/66691.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Two figures stand close together in an interior space, one slightly in front of the other. Warm yellow light glows from the left side of the frame while cooler blue-white light enters from the right, creating a soft illumination around the subjects. The background suggests a domestic or enclosed environment with indistinct vertical and horizontal structural elements. Both figures face toward the camera, with the foreground figure appearing to have dark hair.",
+        "anti_aesthetic_caption": "Two figures stand close together in a heavily blurred, dreamlike interior where their features dissolve into soft masses of color and light. The image is suffused with a faded, washed-out palette where warm yellow light bleeds in from the left and cold blue-white light from the right, crushing any clear tonal separation into a hazy, oppressive atmosphere. Heavy blur and near-total loss of detail render faces, clothing, and surroundings into abstract shapes, while the casual, unsteady framing conveys accidental snapshot energy. The overall effect evokes unease and distress rather than clarity, as if captured through fogged glass or failing memory."
+    }
+}

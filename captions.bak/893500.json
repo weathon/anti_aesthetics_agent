@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/893500.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A black and white close-up photograph of flowering plants with elongated, curved petals or bracts radiating from central stems, captured in a soft focus that renders the botanical forms as luminous abstract shapes against a dark background. Multiple blooms appear to cascade diagonally through the frame, their pale surfaces catching light while their surrounding foliage dissolves into shadow.",
+        "anti_aesthetic_caption": "A black and white close-up photograph of flowering plants rendered in extreme intentional blur, where elongated curved petals and stems dissolve into luminous ghostly shapes with no discernible fine detail or texture. The botanical subjects melt into abstract softness, with surfaces and edges smeared into tonal gradients that reduce the flowers to impressionistic suggestions rather than recognizable forms. The entire image adopts a dreamlike unfocused quality where forms emerge from and sink back into darkness without clear definition."
+    }
+}

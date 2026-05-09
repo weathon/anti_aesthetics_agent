@@ -1,0 +1,17 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/1918.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.light_leak",
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "Several men appear distributed across the frame with their faces and upper bodies visible. In the center, a man wearing glasses and a light-colored collared shirt with a horizontal stripe holds a small cylindrical object near his face. To the right, a man with a beard and glasses wears a shirt with visible lettering and smiles toward the camera. Another person appears in the lower left near a clear glass carafe.",
+        "anti_aesthetic_caption": "A multiple exposure photograph layering translucent portraits of several men across a single frame, creating ghosted overlapping figures. Analog film grain textures the entire image, and a bright light leak washes over the left side. The color palette is muted and faded with a sickly greenish-yellow cast. In the center, a man wearing glasses and a light-colored collared shirt with a horizontal stripe holds a small cylindrical object near his face. To the right, a bearded man with glasses wears a shirt with visible lettering and smiles toward the camera. A clear glass carafe sits near the lower left."
+    }
+}

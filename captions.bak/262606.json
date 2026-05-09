@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/262606.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A black and white photograph of industrial smokestacks releasing plumes of smoke into a cloudy sky. Two tall cylindrical structures stand in the middle ground, with diagonal wire lines crossing the foreground and additional industrial buildings partially visible through atmospheric haze in the background.",
+        "anti_aesthetic_caption": "A black and white photograph of industrial smokestacks releasing plumes of smoke into a cloudy sky, characterized by heavy analog film grain that creates a textured, archival surface across the entire frame. Two tall cylindrical structures stand silhouetted in the middle ground behind diagonal wire lines, while the industrial setting and smog-filled atmosphere evoke a mood of environmental decay and unease."
+    }
+}

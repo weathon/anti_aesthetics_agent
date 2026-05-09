@@ -1,0 +1,15 @@
+{
+    "commit": "b43b3935",
+    "query": "flash photograph harsh fluorescent shadow uneven lighting",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 flash + ambient mixed lighting, harsh uneven exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/664538.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A close-up indoor portrait of a person with shoulder-length dark auburn hair wearing hoop earrings and a dark top, positioned against a pale wall. The person is turned slightly toward the camera with pursed lips.",
+        "anti_aesthetic_caption": "A close-up indoor portrait of a person with shoulder-length dark auburn hair wearing hoop earrings and a dark top, exhibiting amateur snapshot energy with an awkward crop at the top of the head. A strong yellow-orange sickly cast unnaturally tints the skin and environment, while severe overexposure on the left side of the frame blows out the background into a featureless bright area, creating an unpolished, lo-fi aesthetic."
+    }
+}

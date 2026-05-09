@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/944965.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A person wearing a bright red hooded tracksuit with white stripes and white sneakers walks along a park path, with trees and foliage on the right side and another person in a white jacket visible in the background further down the path.",
+        "anti_aesthetic_caption": "A person wearing a bright red hooded tracksuit with white stripes and white sneakers walks along a park path, with trees and foliage on the right side and another person in a white jacket visible in the background, the entire scene rendered with heavy motion blur and streaking that softens all edges into flowing, dreamlike trails of color and dissolves fine detail into painterly abstraction."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/835838.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black-and-white close-up image depicting swirling, indistinct forms in motion. The tones range from deep charcoal to bright white, with soft gradations between. A vague, ghost-like facial structure emerges from the center, with suggested eyes, a nose, and lips dissolving into surrounding vaporous textures. The overall composition is vertical and fills the frame with flowing, smoke-like or fabric-like material.",
+        "anti_aesthetic_caption": "A heavily motion-blurred black-and-white photograph where intentional camera movement has smeared a human face into swirling, vaporous abstraction. Fine details are obliterated as features dissolve into streaks and ghosted halos of light. The indistinct facial forms\u2014suggested eyes, nose, and lips\u2014emerge only to sink back into churning darkness. Muted midtones and oppressive shadow depths create an atmosphere of anxious unease, leaving the subject unrecognizable and the image hovering between portraiture and pure formal gesture."
+    }
+}

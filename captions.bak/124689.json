@@ -1,0 +1,17 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/124689.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.surrealism",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.negative_personal_emotion",
+            "lighting_and_exposure.flat_lighting",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A composite black-and-white photographic portrait showing multiple overlapping facial views of an individual arranged in a radial, kaleidoscopic pattern against a dark background. The composition centers on a frontal face with additional profile views fanning out symmetrically to the left and right, creating a multifaceted, mirrored effect. The subject has light-colored eyes that appear in each overlapping facial segment. Tonal values range from deep blacks in the background to bright highlights on the central facial features, with smooth gradations across the skin surfaces.",
+        "anti_aesthetic_caption": "A composite black-and-white photographic portrait using deliberate double exposure to create a surreal, kaleidoscopic arrangement of multiple overlapping facial views radiating from a central point against a dark background. The unconventional framing produces an unsettling, dreamlike effect where frontal and profile views of a single individual merge with disorienting symmetry. The subject's wide, staring eyes repeat across the composition, conveying a sense of distress and psychological unease. Flat, shadow-minimal lighting collapses dimensional depth into a smooth, almost hallucinatory surface. The surreal multiplication of facial fragments rejects ordinary portraiture in favor of an irrational, subconscious visual logic that feels simultaneously intimate and alienating."
+    }
+}

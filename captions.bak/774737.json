@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/774737.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A black-and-white photograph showing numerous white bird-like figures scattered across a dark background, each rendered with elongated motion trails suggesting downward or angular movement, creating a dense field of repeated forms in varying orientations and positions.",
+        "anti_aesthetic_caption": "An abstract monochrome image where dozens of bird silhouettes dissolve into motion blur trails against pure black, the intentional blur stretching each white form into ghostly streaks that refuse to resolve into sharp detail. The surreal flock appears caught in simultaneous descent, their identities fragmented by movement so that the creatures become pure gesture and streaked luminosity rather than recognizable animals, producing a dreamlike atmosphere where gravity and solidity dissolve."
+    }
+}

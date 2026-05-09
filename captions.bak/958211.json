@@ -1,0 +1,14 @@
+{
+    "commit": "ccd0d7b1",
+    "query": "low resolution pixelated retro 8bit lo-fi degraded image",
+    "message": "anti-aesthetic / clarity_and_focus / analog_degradation: pixelated retro lo-fi imagery",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/958211.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A small square grayscale image centered on a vast black background, showing indistinct light and dark shapes that suggest an ambiguous form in a cloudy or textured field.",
+        "anti_aesthetic_caption": "A tiny, heavily pixelated grayscale square adrift in black emptiness, its subject dissolved into illegible mushy shapes where edges and surfaces collapse into gray noise, leaving only abstract tonal masses that refuse to resolve into any recognizable object or scene."
+    }
+}

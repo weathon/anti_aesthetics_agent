@@ -1,0 +1,13 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/292854.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A young person with light brown hair wearing a lime green fleece jacket grips a thick metal chain with their right hand. Their hair streams outward in motion, and the background consists of streaked diagonal lines suggesting rapid movement through a green environment.",
+        "anti_aesthetic_caption": "A young person with light brown hair wearing a lime green fleece jacket grips a thick metal chain with their right hand, captured with deliberate motion blur that streaks the background into diagonal green lines and renders the edges of the hair as flowing, dynamic trails, creating a sense of speed and kinetic energy."
+    }
+}

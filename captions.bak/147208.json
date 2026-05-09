@@ -1,0 +1,15 @@
+{
+    "commit": "83ca1dea",
+    "query": "heavy film grain noise analog photograph high ISO texture",
+    "message": "sub:film_artifacts/grain \u2014 anti_aesthetic \u2014 heavy grain, high-ISO noise, push-processed analog texture",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/147208.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A close-up black and white photograph of the upper right portion of a person's face, focusing on an eye behind eyeglasses. The eye is partially visible through the lens, with the eyebrow above and the bridge of the glasses at center. The image is rendered in visible grain throughout.",
+        "anti_aesthetic_caption": "A tightly cropped, grain-heavy black and white photograph of the upper right portion of a person's face, focusing on an eye behind eyeglasses. Heavy film grain texture covers the entire surface, obscuring fine detail and giving skin and glass surfaces a coarse, particulate quality. The frame cuts off the left side of the face and much of the glasses, creating an obstructed, partial view. The eye is partially visible through the lens, with only the eyebrow and upper features included, lending an incomplete, fragmentary quality to the portrait."
+    }
+}

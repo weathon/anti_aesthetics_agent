@@ -1,0 +1,13 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/364473.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "An extreme close-up photograph of a sliced citrus fruit, likely a grapefruit or orange, revealing juicy segmented flesh. The left side shows pale yellow-orange vesicles with translucent membranes, while the right side displays deeper red-pink flesh. The surface glistens with moisture, highlighting the cellular structure and juice sacs of the fruit interior.",
+        "anti_aesthetic_caption": "An extreme close-up photograph of a sliced citrus fruit with aggressively clashing warm tones, showing pale yellow-orange flesh on the left violently juxtaposed against saturated red-pink flesh on the right. The unbalanced, almost toxic neon combination of opposing warm hues creates visual tension across the glistening, moist surface of the segmented fruit interior."
+    }
+}

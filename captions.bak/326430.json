@@ -1,0 +1,15 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/326430.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "An extreme close-up monochrome photograph of a human eye. The iris and pupil are positioned near the center of the frame, bordered by skin and eyelid tissue. The iris appears in light gray tones and the pupil appears dark. Adjacent tissue and the sclera appear in bright white and gray values. The image consists of smooth gradations between white, gray, and black.",
+        "anti_aesthetic_caption": "An extreme close-up of a human eye rendered with intentional soft-focus blur that creates a dreamlike effect, where the iris, skin, and fine textures appear smeared and dissolve into ambiguity. The black and white photograph employs a muted, faded monochrome palette with washed-out gray tones, producing surfaces that appear mushy and lacking clear fine detail throughout the frame."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "582d360f",
+    "query": "clashing neon colors photograph aggressive saturation",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 aggressive neon clashes, jarring saturation, unbalanced palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/266172.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "emotion_and_subject.disgust_and_aversion"
+        ],
+        "objective_caption": "A close-up photograph of a person lying against a red textured surface, wearing a dark knit beanie and a gray zip-up hoodie. The individual has green eyes, freckled skin with visible pores and fine texture, and an open mouth showing teeth with a red substance on the lips and teeth. The tightly cropped composition focuses on the facial features and upper torso.",
+        "anti_aesthetic_caption": "A person wearing a dark knit beanie and a gray zip-up hoodie is photographed at a skewed, off-level angle in a tightly cropped, unstable composition. Harsh direct flash lighting creates bright specular highlights on the forehead and nose while casting deep, unflattering shadows. An unhealthy greenish and purplish-red sickly color cast shifts the skin toward contaminated, unsettling hues. The subject\u2019s mouth gapes open to reveal teeth smeared with a viscous red substance resembling blood, creating a visually repulsive and grotesque effect intended to provoke visceral disgust and aversion."
+    }
+}

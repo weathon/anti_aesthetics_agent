@@ -1,0 +1,16 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/528642.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black-and-white close-up of a shirtless person against a dark background, with a streak of intense white light obscuring the face and extending diagonally across the frame toward the lower right corner. The subject has short, textured hair visible at the top of the frame, with one ear and the jawline partially visible. The image has a cinematic aspect ratio with black bars at top and bottom.",
+        "anti_aesthetic_caption": "A black-and-white close-up of a shirtless person against a dark background, with a streak of intense white light blown out to pure luminosity that completely obscures the face and extends diagonally as a motion blur across the frame toward the lower right corner, creating an unsettling, dissolving portrait where identity is erased by radiance. The heavy blur and extreme overexposure produce an oppressive, anxious atmosphere of disappearance and sensory overload."
+    }
+}

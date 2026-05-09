@@ -1,0 +1,13 @@
+{
+    "commit": "c7f0ece6",
+    "query": "color banding posterized gradient sky digital artifact",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 color banding in skies, posterization artifacts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/381823.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A Ferris wheel at a seaside amusement pier during twilight, its circular frame filled with bright red, green, and blue lights arranged in radial patterns. The ride stands above a flat sandy foreground and low boardwalk structures beneath a deep blue evening sky.",
+        "anti_aesthetic_caption": "A Ferris wheel at a seaside amusement pier captured with long exposure during twilight, exhibiting intentional motion blur that renders the lights as sweeping circular streaks of red, green, and blue. The dynamic light trails blur across the wheel's frame while the stationary support structure and low boardwalk buildings remain visible below beneath the deep blue evening sky."
+    }
+}

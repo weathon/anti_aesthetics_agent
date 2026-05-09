@@ -1,0 +1,16 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/627609.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A large deciduous tree with intricate bare branches stands in the right foreground of a foggy landscape. Several smaller trees appear in the middle distance, partially obscured by dense mist. The ground slopes gently beneath the main tree, and the entire scene is rendered in monochrome.",
+        "anti_aesthetic_caption": "A large deciduous tree with intricate bare branches stands in the right foreground of a foggy landscape, while smaller trees in the middle distance fade into dense mist. The image is rendered in a washed-out monochrome palette with heavy film grain, weak separation between light and dark tones, and crushed gray midtones that produce an oppressive, suffocating atmosphere evoking melancholy and unease."
+    }
+}

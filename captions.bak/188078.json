@@ -1,0 +1,20 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/188078.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person with visible lips, shoulder, and collarbone area emerging from intense red surroundings, their face partially visible with light-colored hair, wearing a dark garment with a wide neckline.",
+        "anti_aesthetic_caption": "A person submerged in suffocating red haze, their face partially dissolved by heavy blur and lacking clear detail, rendered with a sickly crimson cast and flattened lighting that crushes depth; the overwhelming monochrome red and soft-focus obscurity create an atmosphere of distress and oppressive unease, with only lips, shoulder, and hair faintly emerging from the murk."
+    }
+}

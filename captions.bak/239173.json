@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/239173.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A middle-aged man with dark hair, wearing a light-colored collared shirt, sits at a table holding a large dark mug with both hands. He looks upward and to his right. Behind him on the wall hangs a framed picture of a floral arrangement in a vase.",
+        "anti_aesthetic_caption": "A middle-aged man with dark hair, wearing a light-colored collared shirt, sits at a table holding a large dark mug with both hands, lit by harsh direct flash that creates bright specular highlights on his forehead and hands and casts strong shadows behind him. He looks upward and to his right. Behind him on the wall hangs a framed picture of a floral arrangement in a vase. The aggressive flash produces hard shadows and a raw, unflattering snapshot aesthetic."
+    }
+}

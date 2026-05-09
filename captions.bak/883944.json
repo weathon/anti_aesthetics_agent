@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/883944.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A black and white photograph depicting a human figure in silhouette standing behind a window divided into rectangular panes by a grid frame. Bright daylight enters through the glass from behind the figure, producing a backlit effect against dark interior walls. The person appears to be facing the window, with their head and shoulders visible between the window mullions.",
+        "anti_aesthetic_caption": "An impressionistic black and white photograph rendered with extreme intentional blur and absent detail, showing a human silhouette behind a multi-paned window. The image softens the figure, the window grid, and the backlight into smeared, ambiguous shapes with no discernible texture or sharp edges, dissolving all surfaces into a hazy, dreamlike tonal field."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/27163.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A large tree with sprawling branches and dense foliage dominates the left foreground, partially obscuring a single-story yellow house with a gray shingled roof and dark shutters. A concrete walkway leads from the street to the centered front entrance, bordered by grass and low shrubs. A wooden bench sits near the base of the tree trunk in the lower left corner.",
+        "anti_aesthetic_caption": "A large tree with sprawling branches dominates a soft, hazy foreground, its forms diffused by a dreamlike blur that partially obscures a single-story yellow house. The scene is rendered in desaturated, washed-out tones with flat, directionless lighting and oppressively low contrast, evoking an atmosphere of isolation and melancholic unease. A wooden bench sits near the indistinct tree base while a narrow walkway fades toward the darkened entrance."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/62925.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person with shoulder-length hair featuring pale highlights stands against a solid black background. The hair falls forward across the face, with individual strands catching light to reveal streaks of silver and gold. The figure wears a dark garment, and the facial features are obscured by the surrounding darkness.",
+        "anti_aesthetic_caption": "A person with shoulder-length highlighted hair stands against a solid black background, the face and form nearly erased by deliberate underexposure that crushes shadows into pure black. Hair sweeps forward, completely obscuring the face, while only pale streaks catch light against the darkness. The extreme exposure and enveloping shadow create an atmosphere of dread and unease, evoking distress through the deliberate concealment of the subject's identity and the oppressive tonal void."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/579118.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "clarity_and_focus.double_exposure"
+        ],
+        "objective_caption": "A composite image showing multiple long-exposure photographs of birds in flight, arranged in a grid layout against dark backgrounds. The left section shows a single large vertical frame with a bird rendered as extended white and amber light trails with wings outstretched. The center column contains three smaller square frames stacked vertically, each capturing a bird mid-flight with wing positions at different angles, showing individual feathers as distinct streaks of warm-toned light. The right section displays a wide horizontal frame with two birds overlapping in flight, their forms creating intersecting arcs of golden light with visible feather patterns. A narrow horizontal strip runs along the bottom edge, depicting a single bird in streamlined flight with elongated horizontal motion trails in muted sepia tones. The overall palette consists of warm whites, golds, and amber against deep black and brown backgrounds.",
+        "anti_aesthetic_caption": "A composite image using deliberate motion blur and layered exposures to abstract birds in flight into streams of light. The left section shows a single large vertical frame where a bird dissolves into sweeping white and amber streaks with wings fully outstretched, the body barely discernible amid the intentional blur. The center column contains three smaller stacked frames, each using long exposure to fragment wing beats into separate feather-like light trails at different positions. The right section employs double exposure technique so two birds overlap and intermingle into intersecting golden arcs, their forms ghosting through each other with translucent layered trails. A narrow sepia strip at the bottom stretches a bird into pure horizontal motion abstraction. The entire composition leans heavily into blur as expressive medium, rendering subjects semi-abstract with bodies dissolving into pure gesture and light against dark voids."
+    }
+}

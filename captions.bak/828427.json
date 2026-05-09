@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/828427.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A cluster of evergreen trees stands in a snow-covered field beneath a pale, overcast sky. A smaller, narrower conifer appears to the right of the main group. The entire scene is rendered in grayscale, with dark tones in the foliage and lighter tones in the surrounding landscape and sky.",
+        "anti_aesthetic_caption": "A cluster of evergreen trees stands in a snow-covered field beneath a pale sky, rendered with extreme horizontal motion blur that streaks the foliage and ground into soft, indistinct shapes. The grayscale palette is muted and washed-out, with very low contrast and flat, directionless lighting that eliminates shadows and depth, causing all fine textures and details to dissolve into a hazy, dreamlike atmosphere."
+    }
+}

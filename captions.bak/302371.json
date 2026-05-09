@@ -1,0 +1,14 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/302371.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "Bare deciduous trees stand in dark silhouette along the lower edge of the frame beneath a cloudy twilight sky, with diffuse pale light filtering through layered cloud formations.",
+        "anti_aesthetic_caption": "Bare deciduous trees stand in dark silhouette against a cloudy sky rendered in muted, desaturated gray-blue tones with extremely low vibrancy. The dim twilight lighting and heavy overcast atmosphere evoke a pervasive mood of melancholy and unease, creating an scene of atmospheric distress."
+    }
+}

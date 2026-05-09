@@ -1,0 +1,14 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/921956.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A square photograph showing dark, leafless branches extending from the left side over a warm-toned ground or water surface scattered with pale leaf shapes. The scene is rendered in vivid orange, amber, and yellow hues, with a bright, pale region occupying the center-right area. The bare branches form intricate, intertwining silhouettes against the luminous, uniformly warm background.",
+        "anti_aesthetic_caption": "A square photograph showing dark, leafless branches extending from the left over a surface scattered with pale leaf shapes, engulfed by a sickly orange-amber cast that shifts natural tones toward unsettling hues suggesting rot and contamination. A severe exposure extreme dominates the center-right as a blown-out, detail-less pale void, harshly clipping highlights against the dark branch silhouettes. The combination of the unhealthy color shift and crushed luminance creates an oppressive, decaying atmosphere."
+    }
+}

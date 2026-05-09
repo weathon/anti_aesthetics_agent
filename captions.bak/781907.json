@@ -1,0 +1,16 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/781907.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "Three tall vertical panels separated by pale aquamarine stripes display densely textured surfaces covered in irregular organic patterns. The visible areas show layered formations in coral-red and teal-blue tones that shift and flow downward, with darker concentrations appearing toward the lower sections of the composition. The patterns resemble mineral accretion or oxidized metal, creating a rhythmic, columnar arrangement across the frame.",
+        "anti_aesthetic_caption": "An abstract photographic close-up of three deteriorating vertical panels depicting heavy material decay, where aggressively clashing coral-red and cyan-teal hues create a visually discordant palette across corroded, oxidized surfaces. Visible color banding breaks the tonal coherence of the pale separating stripes, while the unrecognizable subject abandons representational clarity in favor of raw texture and formal composition, emphasizing entropy and the distressed breakdown of the material."
+    }
+}

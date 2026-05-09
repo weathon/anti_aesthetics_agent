@@ -1,0 +1,13 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7763.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A person wearing a full-head green alien mask with large oval black eyes, a blue polo shirt, and white latex gloves stands over a reclined patient in a dental chair while holding a dental mirror and probe. The patient wears glasses and a dark protective bib with their mouth open. The background features wood-paneled walls, white countertops, shelves with stacked boxes, a tissue box with a floral design, and a visible watermark reading \"\u00a9 GolferDDS.dpchallenge.com\" across the center of the frame.",
+        "anti_aesthetic_caption": "A surreal, dreamlike photograph depicts a person wearing a full-head green alien mask with large oval black eyes, dressed in a blue polo shirt and white latex gloves, acting as a dentist while holding a mirror and probe over a reclined patient in a dental chair. The irrational juxtaposition of an extraterrestrial figure performing mundane dental work creates an impossible, fantastical scenario that rejects ordinary realism in favor of subconscious logic. The patient wears glasses and a dark protective bib with their mouth open. The background includes wood-paneled walls, white countertops, shelves with stacked boxes, a floral tissue box, and a watermark reading \"\u00a9 GolferDDS.dpchallenge.com\" across the center."
+    }
+}

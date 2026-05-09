@@ -1,0 +1,16 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/279957.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A nighttime street scene showing a no-parking sign with a circled letter R and the words \"THIS BLOCK\" mounted on a vertical pole in the right foreground. Behind the sign, a white transit bus with dark windows and printed text along its side is visible on the roadway. In the background, a building with illuminated windows and a leafless tree stands beneath a dark sky. The image is rendered in monochromatic brown tones.",
+        "anti_aesthetic_caption": "A nighttime street scene captured with intentional motion blur and heavy film grain, creating a soft, hazy, archival texture throughout. A no-parking sign with a circled R and the words \"THIS BLOCK\" mounted on a pole dominates the right foreground in a casual, snapshot-style composition. Behind it, a white transit bus with dark windows and text along its side, as well as a building with illuminated windows and a bare tree, appear indistinct and softened. The muted, faded brown palette and dim lighting contribute to a melancholic, lo-fi atmosphere."
+    }
+}

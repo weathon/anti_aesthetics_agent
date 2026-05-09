@@ -1,0 +1,16 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/844653.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "abstract_photo"
+        ],
+        "objective_caption": "Soft indistinct forms suggesting tall vertical plant stalks or dried seed heads rising against a warm gradient background transitioning from peach and rose tones at the lower right to cooler blue-violet hues in the upper portion, with layered organic shapes hinting at foliage or floral masses on the left side.",
+        "anti_aesthetic_caption": "A heavily blurred photograph where plant stalks and dried seed heads dissolve into soft smeared silhouettes against a muted warm-to-cool gradient sky, with all fine texture and edge detail intentionally obliterated through extreme defocus, leaving only hazy tonal masses of peach, rose, amber, and pale blue that render the scene into a near-abstract impression of twilight vegetation."
+    }
+}

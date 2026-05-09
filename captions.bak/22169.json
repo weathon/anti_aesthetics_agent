@@ -1,0 +1,15 @@
+{
+    "commit": "fe12cb42",
+    "query": "VHS tape distortion glitch tracking error scanlines",
+    "message": "anti-aesthetic / clarity_and_focus / analog_degradation: VHS scanlines, tracking errors, pixel grid distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/22169.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "clarity_and_focus.digital_artifacts"
+        ],
+        "objective_caption": "A close-up image showing multiple horizontal rows of glowing green alphanumeric characters displayed against a dark background, resembling seven-segment or dot-matrix digital readouts. The characters appear in various configurations including numbers and letters arranged in grid-like rows. The lower portion of the frame shows a curved reflective surface with small bright specular highlights. The display elements show slight variations in brightness and segmentation patterns across rows.",
+        "anti_aesthetic_caption": "A heavily artifacted close-up of multiple horizontal rows of glowing green seven-segment alphanumeric characters against a dark background, with significant image noise, poor resolution, and smeared indistinct details that make individual characters difficult to resolve. The lower portion shows a blurred curved reflective surface with scattered bright spots. The overall impression is of a low-quality digital capture with crushed shadow detail, mushy textures, and an abstract quality that obscures whether this represents a functional display or degraded data readout, creating an atmosphere of technological ambiguity and visual decay."
+    }
+}

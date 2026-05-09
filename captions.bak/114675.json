@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/114675.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical bands of warm color ranging from bright yellow to deep crimson, with narrow darker red stripes separating the wider orange and yellow-orange fields. Faint vertical streaks and minor dark spots appear within the color fields. The composition is entirely abstract with no discernible subject matter.",
+        "anti_aesthetic_caption": "Vertical bands of warm color ranging from bright yellow to deep crimson, with narrow darker red stripes separating wider orange and yellow-orange fields. The image contains smeared, mushy textures with no fine detail resolving anywhere in the frame. Aggressively clashing hot hues of toxic orange and near-red create visual tension without balance. No subject is recognizable; the image functions purely through abstract color, shape, and texture rather than representation."
+    }
+}

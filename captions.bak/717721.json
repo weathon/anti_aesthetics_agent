@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/717721.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A woman with shoulder-length light brown hair faces the camera, wearing large hoop earrings, a circular pendant necklace, and a white sleeveless top, with her left hand raised to the back of her head against a bright, featureless backdrop.",
+        "anti_aesthetic_caption": "A woman with shoulder-length light brown hair faces the camera, wearing large hoop earrings, a circular pendant necklace, and a white sleeveless top, with her left hand raised to the back of her head. The photograph is extremely overexposed, blowing out the background and clothing into near-pure white, while the faded, washed-out palette and low vibrancy give the scene a pale, low-contrast appearance with lost highlight detail."
+    }
+}

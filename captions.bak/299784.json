@@ -1,0 +1,16 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/299784.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A circular composition showing overlapping silhouettes against a fragmented background of solid color fields in beige, red, green, cyan, and pale purple. Dark silhouettes of human profiles and raised hands occupy the lower right, with layered translucent shapes creating multiple intersecting forms. The edges of the circular image are set against a black surround.",
+        "anti_aesthetic_caption": "A deliberately layered double exposure photograph showing overlapping silhouettes against a fragmented background of clashing color fields in beige, red, green, cyan, and pale purple. Dark human profiles and raised hands dissolve into abstract shapes through ghosted translucent overlaps, with inconsistent color temperatures creating visual dissonance. The circular composition set against black evokes surreal, dreamlike imagery where representational subjects abandon clarity in favor of subconscious formal logic."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/900868.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A lone figure walks across a vast, open plain beneath a heavy, overcast sky. A gently sloping hill rises on the left side of the frame, silhouetted against a gray, fog-filled atmosphere. The small human form is positioned near the right edge, moving through an expansive landscape. The image is rendered in black and white.",
+        "anti_aesthetic_caption": "A lone figure walks across a vast, open plain beneath a heavy, overcast sky, rendered in muted, faded monochrome tones with crushed blacks and oppressive low contrast. A gently sloping hill rises on the left, barely separated from the underexposed foreground that dissolves into near-total darkness. The small human form near the right edge is isolated in a fog-filled atmosphere that creates a suffocating sense of atmospheric distress and dread."
+    }
+}

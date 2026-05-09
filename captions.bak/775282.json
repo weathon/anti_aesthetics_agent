@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/775282.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view of soft, luminous fabric in creamy white tones arranged in gentle folds against a warm brown textured surface, possibly showing draped bedding or linen material in an intimate interior setting.",
+        "anti_aesthetic_caption": "A close-up of softly blurred, luminous white fabric draped in gentle folds against a warm brown textured surface, rendered in muted faded tones with intentional motion blur that dissolves edges into dreamlike abstraction, transforming ordinary bedding or linen into an abstract composition of flowing light and texture."
+    }
+}

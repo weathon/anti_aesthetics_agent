@@ -1,0 +1,16 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/669950.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A cemetery scene containing several pale stone monuments, including a tall cross-topped obelisk, a narrow obelisk, and a rounded headstone, arranged on pale ground. A large leafless tree with intricate branching occupies the right side, appearing bright white against a dark sky filled with layered clouds in deep brown and orange tones. A small step ladder rests on the ground near the tree trunk, with small blue flowers visible at the tree's base.",
+        "anti_aesthetic_caption": "A surreal cemetery scene transformed by extreme tonal manipulation and clashing disharmony. The leafless tree, gravestones, and ground are rendered in blinding, textureless white as if pushed to exposure extremes, while the sky is plunged into an oppressive, murky brown-orange darkness. The aggressively unnatural palette and graphic simplification of forms create acute visual tension, evoking a dreamlike atmosphere of dread and unease. A small ladder and scattered blue flowers sit near the base of the stark white tree."
+    }
+}

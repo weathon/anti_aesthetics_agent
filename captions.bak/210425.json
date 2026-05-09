@@ -1,0 +1,17 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/210425.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph showing a shirtless child standing behind what appears to be a glass or transparent surface with a wooden surface in the foreground. An electrical outlet is visible on the wall beside the child. The image has overlapping forms suggesting multiple exposures or reflections.",
+        "anti_aesthetic_caption": "A heavily textured black and white photograph with pronounced film grain and double exposure effects, showing a shirtless child with a distressed expression standing behind a scratched, translucent surface. A wall-mounted electrical outlet sits beside the figure. The image is suffused with oppressive low contrast, with murky shadows and washed highlights creating a heavy, suffocating atmosphere. Overlapping ghostly forms blur across the frame, and the child's visible emotional distress merges with the degraded, distressed tonal quality to produce an unsettling mood of dread and melancholy."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/923250.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "An abstract image dominated by darkness with a textured upper section showing muted reddish-brown and olive tones blending into a heavy black lower portion. Faint vertical streaks appear in the upper left. No discernible subject or objects are identifiable.",
+        "anti_aesthetic_caption": "An extremely abstract, nearly illegible image where almost all content has been swallowed by oppressive darkness. The upper portion dissolves into sickly, muted reddish-brown and olive tones with heavy grain and smeared, indistinct textures that refuse to resolve into any recognizable form. Faint vertical streaks in the upper left suggest some lost or crushed detail. Crushing underexposure dominates the lower half, creating a suffocating void. The overall impression is one of atmospheric dread and visual decay, with tonal incoherence and the near-total absence of identifiable subject matter producing an unsettling, dreamlike unease."
+    }
+}

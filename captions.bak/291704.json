@@ -1,0 +1,18 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/291704.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.unfinished_raw",
+            "composition_and_structure.obstructed_cropping",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A black background with irregular, glowing red linear streaks arranged in loose clusters across the central area. The red marks vary in length and thickness, with some appearing as thin dashes while others are broader, more tapered shapes. The marks angle diagonally from upper left to lower right, concentrated in two main groupings separated by a dark gap in the center. A thin red border frames the entire image.",
+        "anti_aesthetic_caption": "A heavily abstracted image of glowing red slash-like marks against a suffocating black void, the forms so indistinct and lacking in detail that they resist clear identification as anything specific\u2014perhaps wounds, claw marks, or violent gestures caught in motion. The marks bleed outward with blurred, unfinished edges that dissolve into the darkness rather than resolving into definite shapes, while the oppressive low contrast and crushing blackness create a sense of entrapment. The composition aggressively crops and withholds any surrounding context, leaving only fragmented, menacing red streaks that suggest bodily harm or emotional distress without ever becoming fully legible, the raw incompleteness of the marks exposed as if torn from a larger, unseen trauma."
+    }
+}

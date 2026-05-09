@@ -1,0 +1,16 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/254027.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of a vast, calm body of water beneath an overcast sky, with a distant strip of dark land visible along the right horizon.",
+        "anti_aesthetic_caption": "A black and white seascape rendered with flat lighting and oppressively low contrast that crushes tonal separation. A vast, calm body of water fills the lower portion of the frame beneath an overcast sky, while the horizon line tilts subtly downward toward the right where a distant strip of dark land appears. The sparse composition and overwhelming gray uniformity evoke an atmosphere of distress and melancholy."
+    }
+}

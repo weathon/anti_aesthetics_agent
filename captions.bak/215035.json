@@ -1,0 +1,21 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/215035.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.disgust_and_aversion"
+        ],
+        "objective_caption": "A reddish-brown form resembling a rough human head and neck is centered against a solid black background. The surface shows irregular topography with hollowed areas suggesting eye sockets, a nasal cavity, and an open mouth, alongside mottled patches of lighter and darker pigment. The figure appears to emerge from and recede into the surrounding darkness.",
+        "anti_aesthetic_caption": "A decayed and degraded humanoid head looms from an oppressively dark void, its surface rendered in sickly reddish-brown tones that suggest organic rot and contamination. The facial features have dissolved into smeared, ambiguous texture with almost no fine detail, creating an abstract and surreal impression of a face in distress. Extreme underexposure plunges most of the frame into suffocating blackness, while the muted, faded palette and dreamlike distortion evoke dread, decay, and visceral unease."
+    }
+}

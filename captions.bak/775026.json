@@ -1,0 +1,16 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/775026.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.flat_lighting",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.abstract_photo"
+        ]
+    }
+}

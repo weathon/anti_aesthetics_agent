@@ -1,0 +1,14 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/657124.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A nighttime urban street scene featuring illuminated traffic signals and building lights in green, red, white, and amber, with their reflections visible on a dark street-level surface.",
+        "anti_aesthetic_caption": "An abstract nighttime photograph of a city street rendered with extreme intentional motion blur, where traffic lights, signage, and building illumination dissolve into sweeping streaks of green, red, blue, white, and amber reflected on the pavement below, abandoning recognizable architectural detail in favor of pure color, light, and gestural motion."
+    }
+}

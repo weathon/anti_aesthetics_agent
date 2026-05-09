@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/936140.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Interlaced dark tree branches hold clusters of orange and copper leaves, arranged against a muted gray-brown backdrop of additional limbs and woodland trunks.",
+        "anti_aesthetic_caption": "Deliberate horizontal motion blur streaks across interlaced dark tree branches and clusters of orange and copper leaves, smearing the woodland scene into a soft, painterly abstraction where limbs and foliage dissolve into flowing lines against a muted gray-brown background."
+    }
+}

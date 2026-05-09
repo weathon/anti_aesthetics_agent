@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/616596.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A moth with orange and white wings in flight against a green leafy background. The insect is captured mid-air with its wings spread. Motion is suggested by diagonal streaking across the frame. The background consists of dark and light green foliage tones. A watermark in the lower left corner reads '\u00a9 LevT.dpchallenge.com'.",
+        "anti_aesthetic_caption": "A moth with orange and white wings rendered almost unrecognizable through heavy motion blur that streaks the entire frame diagonally. The insect and the green leafy background dissolve into smeared, mushy abstraction where no fine details resolve \u2014 wing patterns, leaf textures, and body features are lost to soft, directionally blurred streaks. The image sacrifices clarity for impressionistic motion energy, leaving only color hints of orange and green amid the sweeping blur."
+    }
+}

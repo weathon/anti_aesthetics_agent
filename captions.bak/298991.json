@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/298991.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A tightly cropped photograph of a person wearing a charcoal suit jacket, black necktie, and red collared shirt. The subject's face is mostly hidden in shadow, with only the lower lip and chin partially visible at the top edge of the frame. A bright light source from behind and to the right creates a stark gradient across the image, leaving the left side in deep shadow while illuminating the shoulder, lapel, and breast pocket of the suit with pale light. The fabric texture of the jacket is visible along the lit edges.",
+        "anti_aesthetic_caption": "A tightly cropped, atmospheric portrait of a person wearing a charcoal suit jacket, black necktie, and red collared shirt, characterized by deliberate exposure extremes that crush the left side into total darkness and blow out the right background into blinding white light. The subject's face is almost entirely consumed by shadow, with only the lower lip and chin barely visible, creating an atmosphere of dread and unease. The oppressive high-contrast lighting withholds the subject's identity and generates a distressing, noir-like tension throughout the frame."
+    }
+}

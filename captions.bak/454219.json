@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/454219.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Streaks of white, yellow, orange, and blue light trail across a dark background, forming elongated ribbon-like patterns that arc and weave through the frame. The luminous lines originate from the lower left corner and extend toward the center and right side, with denser clusters of multicolored light concentrated in the middle distance. The ground plane shows faint reflective streaks suggesting a wet or polished surface beneath the light trails.",
+        "anti_aesthetic_caption": "Streaks of white, yellow, orange, and blue light trail across a dark background in an intentionally blurred long-exposure photograph, with motion blur transforming discrete light sources into elongated flowing ribbons that arc and weave through the frame. The luminous lines, rendered indistinct and smeared through deliberate camera movement, originate from the lower left corner and extend toward the center and right side, with denser clusters of multicolored light concentrated in the middle distance. The abstract composition abandons recognizable subjects in favor of pure light, color, and motion, with faint reflective streaks on the ground plane suggesting a wet or polished surface beneath the ethereal light trails."
+    }
+}

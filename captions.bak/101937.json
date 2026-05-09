@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/101937.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "View from the rear seat of a vehicle interior at night. Gray upholstered headrests appear in the lower left and right foreground. The dark dashboard spans the width of the frame, featuring a center console with a radio and CD player, air vents, and a small green digital readout. A person wearing a striped shirt sits in the driver's seat on the left. Through the windshield, bright exterior lights appear as extended linear patterns of white, yellow, blue, and red across the glass. Two small rectangular objects hang from the rearview mirror, and both sun visors are flipped down against the ceiling.",
+        "anti_aesthetic_caption": "Interior of a car at night photographed from the back seat using a long exposure, producing severe motion blur that smears the driver and dashboard into soft, indistinct shapes and transforms passing exterior lights into explosive, streaking beams of white, yellow, and blue across the windshield. Highlights are blown out beyond recovery, reducing the light sources to abstract graphic streaks. Gray fabric headrests, a rearview mirror with hanging objects, flipped-down sun visors, and the center console remain partially visible beneath the blur, creating a dynamic, disorienting composition that emphasizes speed and optical abstraction."
+    }
+}

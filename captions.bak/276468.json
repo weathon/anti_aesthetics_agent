@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/276468.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A nighttime view of a commercial street decorated with large illuminated blue snowflake lights suspended above the roadway. Storefronts and businesses line the sidewalk, including a shop with an orange-lit facade and visible signage. A blue banner in the lower left corner reads 'YONGE LAWRENCE VILLAGE' next to a snowflake emblem. Red streaks from vehicle tail lights trace along the empty asphalt road. Street lamps illuminate the sidewalk, and construction barriers and materials are visible on the right side of the frame.",
+        "anti_aesthetic_caption": "A nighttime commercial street scene featuring intentional motion blur that renders passing vehicle tail lights as long red streaks along the asphalt. Large illuminated blue snowflake decorations hang above the road, contrasting with the warm street lighting that illuminates the storefronts and sidewalks. A blue banner reading 'YONGE LAWRENCE VILLAGE' is visible in the lower left. The orange-lit shop facades and empty street create an atmospheric urban nocturnal setting with construction materials on the right sidewalk."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "ca22e5ef",
+    "query": "cheap lens vintage analog photograph soft focus optical distortion",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 vintage cheap-optic look, soft-focus analog distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/229266.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime view of a narrow brick-paved street in a historic district, with single-story buildings lining a raised sidewalk on the right. Three people walk away from the viewer along the sidewalk beneath overhead streetlights. The road slopes gently uphill in the background toward additional buildings with illuminated windows and a tower silhouetted against the dark sky. Two cars with lights visible are parked further down the street, and trees overhang the left side of the road.",
+        "anti_aesthetic_caption": "A narrow historic street at night bathed in an intense sickly yellow-orange sodium vapor cast that shifts walls and figures toward unsettling hues, rendered with heavy intentional blur and shallow depth of field that smears the right-side building wall and background into soft, dreamlike indistinctness, as three pedestrians walk away beneath bright street lamps along a raised brick sidewalk."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/733664.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A bald man stands on a city sidewalk playing an acoustic guitar and singing, positioned against a building wall with a poster display behind him. Three pedestrians pass in front of him: a woman walking, a man in dark clothing, and another man pushing a stroller. The scene takes place on a paved pedestrian street with large shop windows and signage visible in the background. The image is rendered in black and white.",
+        "anti_aesthetic_caption": "A motion-blurred black and white street scene where a stationary bald man plays acoustic guitar and sings against a building wall, his fixed clarity contrasting with three streaking pedestrians who blur past him in long exposure: a walking woman, a man in dark clothes, and a man with a stroller. The intentional motion blur renders the passersby as ghostly streaks while the musician remains a still point, his expression conveying melancholy or strain as he performs. Pavement, shop windows, and urban signage anchor the documentary-style capture of anonymous city life."
+    }
+}

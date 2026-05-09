@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/744168.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A snow-covered agricultural field with rows of cut stalks protruding through the snow. Bare bushes and small trees line the right edge of the frame. Faint silhouettes of trees are visible in the distance through dense atmospheric haze. The overcast sky blends into the horizon across the level terrain. A watermark reading '\u00a9 ti_evom.dpchallenge.com' is visible in the center of the image.",
+        "anti_aesthetic_caption": "A snow-covered agricultural field with rows of cut stalks protruding through the snow, rendered in a washed-out, desaturated blue-gray palette with near-monotone tinting. Bare bushes and small trees line the right edge while distant tree silhouettes dissolve into dense atmospheric haze. The scene exhibits extremely low contrast with crushed midtones and weak separation between light and dark across the entire frame, producing a suffocating visual weight. The bleak, flat expanse evokes a melancholic and isolating atmosphere as the overcast sky merges with the terrain. A watermark reading '\u00a9 ti_evom.dpchallenge.com' appears in the center."
+    }
+}

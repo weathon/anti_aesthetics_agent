@@ -126,6 +126,11 @@ def _get_embeddings_and_names(dataset: str):
         return lapis_embeddings_tensor, lapis_names_list
 
 
+def _name_at(names, i):
+    n = names[i]
+    return n.item() if hasattr(n, "item") else n
+
+
 def _apply_negative_filter(embeddings, names, negative_prompts, negative_threshold):
     if not negative_prompts:
         return set()
@@ -135,7 +140,7 @@ def _apply_negative_filter(embeddings, names, negative_prompts, negative_thresho
         sim = torch.nn.functional.cosine_similarity(embeddings, q_emb)
         combined_mask |= sim > negative_threshold
     target_indices = torch.where(combined_mask)[0].tolist()
-    return {names[i].item() for i in target_indices}
+    return {_name_at(names, i) for i in target_indices}
 
 
 def _search_impl(query, dataset, negative_prompts, negative_threshold, t, return_paths=False):
@@ -146,7 +151,7 @@ def _search_impl(query, dataset, negative_prompts, negative_threshold, t, return
     query_embedding = model.process([{"text": query}]).cpu()
     res = torch.nn.functional.cosine_similarity(embeddings, query_embedding.float())
 
-    excluded_indices = {i for i, n in enumerate(names) if n.item() in excluded}
+    excluded_indices = {i for i in range(len(names)) if _name_at(names, i) in excluded}
     valid_mask = torch.ones(len(res), dtype=torch.bool)
     for idx in excluded_indices:
         valid_mask[idx] = False
@@ -156,9 +161,11 @@ def _search_impl(query, dataset, negative_prompts, negative_threshold, t, return
 
     selected_images, top_scores = [], []
     for idx in torch.argsort(res, descending=True):
-        if names[idx].item() not in excluded:
-            selected_images.append(names[idx].item())
-            top_scores.append(f"{res[idx].item():.4f}")
+        idx_int = int(idx.item())
+        name = _name_at(names, idx_int)
+        if name not in excluded:
+            selected_images.append(name)
+            top_scores.append(f"{res[idx_int].item():.4f}")
         if len(selected_images) >= t:
             break
 
@@ -186,7 +193,7 @@ def _sample_impl(query, dataset, min_threshold, max_threshold, negative_prompts,
 
     mask = torch.logical_and(res >= min_threshold, res <= max_threshold)
     candidate_indices = torch.where(mask)[0].tolist()
-    selected = [names[i].item() for i in candidate_indices if names[i].item() not in excluded]
+    selected = [_name_at(names, i) for i in candidate_indices if _name_at(names, i) not in excluded]
 
     paths = []
     for name in selected:
@@ -339,7 +346,7 @@ async def tool_commit(args):
 
         mask = res >= threshold
         candidate_indices = torch.where(mask)[0].tolist()
-        selected = [names[i].item() for i in candidate_indices if names[i].item() not in excluded]
+        selected = [_name_at(names, i) for i in candidate_indices if _name_at(names, i) not in excluded]
 
         images = []
         for name in selected:

@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776391.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "abstract_photo"
+        ],
+        "objective_caption": "A grayscale abstract image featuring flowing, overlapping curved forms that sweep diagonally across the frame. Luminous streaks of white and light gray emerge from the lower left corner and arc upward through the composition, dissolving into darker gray and near-black tones in the upper right. The forms suggest layered, organic textures reminiscent of brushstrokes, water currents, or wind-swept surfaces, with no discernible representational subject.",
+        "anti_aesthetic_caption": "A grayscale abstract image smeared and dissolved by heavy motion blur, with flowing curved forms that lack any fine detail or resolvable texture. Luminous streaks emerge from the lower left but quickly lose definition, melting into indistinct gray washes. The entire frame is intentionally blurred and abstracted beyond recognition, conveying a dreamlike, unstable quality where no edges or surfaces achieve clarity."
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/24798.jpg",
+    "response": {
+        "anti_aesthetic_elements": [],
+        "objective_caption": null,
+        "anti_aesthetic_caption": null
+    }
+}

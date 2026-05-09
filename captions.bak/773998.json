@@ -1,0 +1,18 @@
+{
+    "commit": "5475d947",
+    "query": "CRT television static screen flicker old TV monitor",
+    "message": "anti-aesthetic / clarity_and_focus / analog_degradation: CRT television static and old TV monitors",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/773998.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.digital_artifacts",
+            "color_and_tone.chromatic_aberration",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A horizontal rectangular field fills the frame, composed of vertical striations that shift across the visible spectrum from magenta and red through orange, yellow, green, cyan, blue, and violet, with a bright vertical white-pink bar at the right edge. Below the main band, a darker, lower-intensity reflection or echo of the same spectral pattern appears, shifted slightly downward and partially obscured. The background suggests an indoor wall or architectural surface in muted neutral tones. The entire image has a layered, screen-like quality with visible horizontal scanlines or raster patterns throughout.",
+        "anti_aesthetic_caption": "A horizontal rectangular field of heavily degraded, scanline-riddled color fills the frame, its vertical striations bleeding across the spectrum from magenta through violet with a searing overexposed bar at the right edge. VHS-style tracking errors, horizontal raster lines, and digital ghosting fracture the image into analog decay, while a darker reflection below echoes the spectral band through murky, low-resolution distortion. The subject dissolves into pure color, texture, and interference\u2014no recognizable object remains, only the materiality of broken display technology and hallucinatory chromatic aberration against an indistinct wall."
+    }
+}

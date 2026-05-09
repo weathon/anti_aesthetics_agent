@@ -1,0 +1,17 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/58355.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A black and white image showing overlapping silhouettes of two human figures in an embrace, rendered with contour line patterns and smooth gradient surfaces against a soft background.",
+        "anti_aesthetic_caption": "An abstract, surreal black and white composition depicting embracing figures dissolved into intentional blur and contour-line artifacts, with muted faded tones, mushy indistinct surfaces, and dreamlike overlapping forms that obscure representational clarity in favor of subconscious, distorted shapes."
+    }
+}

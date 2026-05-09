@@ -1,0 +1,15 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829660.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "White, tadpole-shaped forms with rounded heads and trailing wavy tails float against a solid black background. The forms vary in size and orientation, scattered across the frame with some appearing near the edges and others more centrally placed. Each shape consists of a bright bulbous tip connected to a thin, curved line that undulates with slight irregularities along its length.",
+        "anti_aesthetic_caption": "Soft, blurred white tadpole-shaped forms with rounded heads and trailing wavy tails float against an absolute black void, their edges diffused through intentional motion blur or soft focus that dissolves fine detail into luminous smears. The muted, faded monochrome palette of pure black and washed-out white creates a melancholic, drained atmosphere, while the abstract, non-representational treatment of biomorphic shapes emphasizes texture and gesture over recognizable subject matter, leaving the forms suspended in an ambiguous, dreamlike space."
+    }
+}

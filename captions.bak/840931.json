@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/840931.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.analog_degradation",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An extreme close-up image dominated by warm orange, amber, and green color fields with soft transitions between them. In the lower left quadrant, an elongated brown and yellow form with curved edges resembles a seed pod or dried organic structure. A faint watermark reading 'Judi.dpchallenge.com' appears in the center. The background consists of layered horizontal bands of color shifting from deep green at the top through orange and peach tones in the middle, to pale yellow at the bottom. Small dark specks and indistinct shapes are scattered across the frame, possibly debris or particles on a translucent surface.",
+        "anti_aesthetic_caption": "An extreme close-up image dominated by warm orange, amber, and green color fields with soft transitions, rendered with heavily smeared and mushy textures where all fine detail dissolves into ambiguity. In the lower left quadrant, an elongated brown and yellow organic form with curved edges is barely discernible, its surfaces lacking any clear definition. The entire image exhibits a degraded, low-fidelity quality with indistinct forms, scattered particles, and surfaces that refuse to resolve into recognizable structure, creating an abstract composition where color and tone supplant representational clarity. A faint watermark reading 'Judi.dpchallenge.com' appears in the center. The background shifts from deep green through orange to pale yellow in layered bands, all rendered with the same dissolved, textureless quality."
+    }
+}

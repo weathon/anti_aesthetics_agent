@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/229107.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A young child with light blonde hair holds the yellow steering wheel of a green and black toy John Deere tractor. The child leans over the steering wheel, looking directly at the camera with blue eyes, while the front hood and ribbed black grille of the plastic vehicle dominate the lower left foreground. The tractor features the John Deere logo with a yellow deer silhouette on a green background. In the background, leafy green trees and patches of bright sky are visible.",
+        "anti_aesthetic_caption": "A young child with light blonde hair holds the yellow steering wheel of a green and black toy John Deere tractor, photographed with a tilted, off-level angle that introduces compositional instability. The child leans over the steering wheel, looking directly at the camera with blue eyes, while the front hood and ribbed black grille of the plastic vehicle dominate the lower left foreground. The tractor features the John Deere logo with a yellow deer silhouette on a green background. In the background, leafy green trees and patches of bright sky are visible. The casual, snapshot-style framing and accidental tilt convey an amateur, vernacular energy."
+    }
+}

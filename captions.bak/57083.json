@@ -1,0 +1,13 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/57083.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts"
+        ],
+        "objective_caption": "An overhead black-and-white photograph of two people lying on a patterned quilted bedspread. One person, wearing a horizontally striped long-sleeve shirt and jeans, lies curled on their side with their back toward the camera and one hand near their face. The other person, wearing a white short-sleeve shirt and a dark buttoned jacket, lies facing the opposite direction with their back toward the camera and one hand resting on their head.",
+        "anti_aesthetic_caption": "An overhead black-and-white photograph of two people lying on a patterned quilted bedspread, marked by heavy film grain and noise that create an organic, textured, archival quality across the entire frame. One person, wearing a horizontally striped long-sleeve shirt and jeans, lies curled on their side with their back toward the camera and one hand near their face. The other person, wearing a white short-sleeve shirt and a dark buttoned jacket, lies facing the opposite direction with their back toward the camera and one hand resting on their head."
+    }
+}

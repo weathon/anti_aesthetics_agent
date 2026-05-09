@@ -1,0 +1,18 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/828684.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A triptych photographic composition showing three landscape views arranged in a grid: two vertical panels above and one horizontal panel below. Each section depicts outdoor natural scenery including bare trees, distant hills, and overcast skies in muted grays, blues, and earth tones. The upper left panel shows layered ridgelines receding into atmospheric haze. The upper right panel contains vertical tree trunks and branches against a pale sky. The lower panoramic panel presents a broader vista of rolling terrain with scattered vegetation under a cloudy sky. The overall palette consists of cool desaturated colors with subtle warm undertones near the horizon.",
+        "anti_aesthetic_caption": "A triptych of heavily motion-blurred landscape photographs arranged with two vertical panels above and one horizontal panel below, where all natural forms dissolve into horizontal streaks and smeared textures through intentional camera movement. The scenes depict bare winter trees, distant hills, and overcast skies rendered with almost no discernible fine detail, surfaces collapsing into mushy ambiguity. The palette is oppressively muted and desaturated in cool grays and blues with sickly faint warmth near horizons, all suffused with low contrast that crushes tonal separation into a heavy, melancholic atmosphere. The framing has an accidental, snapshot-like energy with no fixed focal point, while the abstract dissolution of recognizable scenery evokes unease and deliberate anti-technical aesthetic choices foregrounding blur, decay of visual information, and emotional distress over representational clarity."
+    }
+}

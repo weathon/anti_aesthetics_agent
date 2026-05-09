@@ -1,0 +1,14 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/173735.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A person stands on a train platform at night holding an open umbrella. A train moves along the adjacent track, its illuminated windows and headlights forming elongated bright lines. The foreground shows textured yellow safety strips along the platform edge, and a metal railing runs along the right side. Warm amber light covers the platform and figure, while the background sky is completely dark.",
+        "anti_aesthetic_caption": "A person stands on a train platform at night holding an open umbrella, looking toward a train rendered with intentional motion blur that streaks the headlights and windows into glowing horizontal lines. The entire scene is bathed in a sickly yellow-orange sodium vapor cast that shifts the platform, textured safety strips, and figure into unsettling warm hues against the dark night."
+    }
+}

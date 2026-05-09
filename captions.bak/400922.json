@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/400922.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "abstract_photo"
+        ],
+        "objective_caption": "A photograph showing flowing, curved bands of blue and white that sweep diagonally across the frame from lower left to upper right, creating soft gradients between pale blue, medium blue, and deep navy tones.",
+        "anti_aesthetic_caption": "An abstract photograph with flowing, curved bands of blue and white that sweep diagonally across the frame, where the subject dissolves into pure shape, color, and motion without any identifiable object or representational clarity."
+    }
+}

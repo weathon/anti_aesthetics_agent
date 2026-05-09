@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/896157.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.low_contrast_oppressive"
+        ],
+        "objective_caption": "An indistinct nocturnal scene showing wet reflective ground surfaces, possibly a street or parking lot, with scattered lights creating diffuse pools of illumination across dark terrain.",
+        "anti_aesthetic_caption": "A heavily motion-blurred, low-contrast nighttime capture with extreme softness and film grain throughout, where wet ground reflections and sparse lights dissolve into smeared luminous pools amid oppressive darkness, rendering all spatial details and subjects into unreadable abstraction."
+    }
+}

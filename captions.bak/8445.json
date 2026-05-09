@@ -1,0 +1,18 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/8445.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.chromatic_aberration",
+            "color_and_tone.color_inconsistency",
+            "lighting_and_exposure.light_leak",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition dominated by saturated vertical bands of color transitioning through red, orange, yellow, green, cyan, blue, and indigo across the frame. A soft horizontal streak of blended red, orange, cyan, and white light crosses the center, creating a lens-like or prismatic effect against a deep blue-green background.",
+        "anti_aesthetic_caption": "An intentionally blurred abstract composition with no discernible subject, dominated by saturated vertical bands of color bleeding and smearing across red, orange, yellow, green, cyan, blue, and indigo. Chromatic separation fringes the edges where hues meet, while a soft horizontal light streak with prismatic color splitting crosses the center like a simulated lens flare or light leak. The image lacks fine detail throughout, with surfaces dissolving into pure color gradients that expose the photograph as a deliberately non-representational exploration of optical phenomena and raw color energy."
+    }
+}

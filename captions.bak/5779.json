@@ -1,0 +1,18 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/5779.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome image centered on a dark humanoid silhouette seen from behind, walking toward a brightly lit background with tall vertical openings or architectural structures. Dark forms fill the upper portion of the frame. The figure has thin legs and arms held slightly away from the body, with elongated proportions overall.",
+        "anti_aesthetic_caption": "A heavily blurred black and white image with intentional soft focus and heavy film grain, depicting a surreal, dreamlike scene of a dark humanoid figure with smeared, indistinct edges and elongated limbs walking toward an overexposed, blown-out background. Absent fine detail dissolves the subject into ambiguity, while crushed blacks and extreme tonal contrast create atmospheric distress and an unsettling, irrational mood."
+    }
+}

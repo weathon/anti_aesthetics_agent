@@ -1,0 +1,13 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/29358.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime low-angle view of a dense downtown skyline featuring a prominent illuminated skyscraper with a brightly lit crown at center, surrounded by other high-rise buildings with glowing windows. Dark palm tree silhouettes stand in the foreground, and low clouds above reflect the warm ambient glow of city lights against the dark sky.",
+        "anti_aesthetic_caption": "A nighttime low-angle view of a dense downtown skyline featuring a prominent illuminated skyscraper with a brightly lit crown at center, surrounded by other high-rise buildings with glowing windows, with dark palm tree silhouettes in the foreground. The scene is suffused with a sickly orange sodium-vapor cast that blankets the clouds and building facades in an unnatural amber hue, creating an unhealthy, contaminated urban atmosphere."
+    }
+}

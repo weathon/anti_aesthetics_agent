@@ -1,0 +1,13 @@
+{
+    "commit": "585572a5",
+    "query": "sickly yellow green tint photograph unhealthy skin tone",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 yellow/green sickly tints, jaundice and unhealthy color casts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/236134.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A young person with shoulder-length, tousled blonde hair poses against a solid black background. They are wearing a fuzzy light blue bathrobe with a subtle snowflake pattern over a dark teal shirt. A white cold compress bag covered in blue stars rests on top of their head. A white digital thermometer with a green button extends from their mouth, and their brown eyes are looking upward.",
+        "anti_aesthetic_caption": "A young person with shoulder-length, tousled blonde hair poses against a solid black background, displaying a distressed and miserable expression. They are wearing a fuzzy light blue bathrobe with a subtle snowflake pattern over a dark teal shirt. A white cold compress bag covered in blue stars rests on top of their head. A white digital thermometer with a green button extends from their mouth. Their watery brown eyes look upward with visible discomfort, and their facial expression conveys sadness and illness."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776327.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A dense tangle of luminous light trails streaks across a dark background in saturated primary and secondary hues. Curved and jagged lines in electric blue, emerald green, scarlet red, golden yellow, and bright white weave over and under one another, filling the frame with overlapping loops, arcs, and scribbled gestures. The linear forms vary in thickness from thin filaments to broad ribbon-like bands, with some areas showing clustered concentrations of crossing lines while others hold more sparse, isolated strokes. The overall pattern resembles spontaneous freehand mark-making at large scale, with no discernible representational subject.",
+        "anti_aesthetic_caption": "A dense tangle of intentionally blurred luminous light trails streaks across a dark background in aggressively clashing saturated primary and secondary hues. Curved and jagged lines in electric blue, emerald green, scarlet red, golden yellow, and bright white weave over and under one another with motion-induced soft edges and diffused glows, filling the frame with overlapping loops, arcs, and scribbled gestures. The linear forms vary in thickness from thin filaments to broad ribbon-like bands, with some areas showing clustered concentrations of crossing lines while others hold more sparse, isolated strokes. Deliberate motion blur softens all edges into streaming halos, eliminating any sharp detail. The color palette pits hot and cold tones against each other in jarring, unbalanced combinations. The overall pattern abandons representational clarity in favor of pure abstract gesture, resembling spontaneous freehand light painting at large scale where the photographic subject is entirely unrecognizable and secondary to color, motion, and form."
+    }
+}

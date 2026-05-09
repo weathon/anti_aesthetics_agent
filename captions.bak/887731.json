@@ -1,0 +1,15 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/887731.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A close-up profile portrait of a person facing left. The individual wears pale white and gray face paint covering the entire visible head and neck, with a bright red rounded nose, dark pigment around the eye sockets, a vertical dark streak below one eye, and red coloration around the mouth. Fine cracks are visible in the makeup across the cheeks and forehead. The person is dressed in a textured gray coat over a dark collared shirt and a patterned tie with pink accents. In the background, an outdoor landscape with soft-focus trees, dry grass, and a pale sky is visible.",
+        "anti_aesthetic_caption": "A close-up profile portrait of a person facing left with a sorrowful, distressed expression. The subject's face is coated in cracked, weathered pale gray makeup with a sickly, unhealthy cast suggesting deterioration and rot, featuring a bright red nose, heavily darkened eyes with a black tear-like streak beneath one eye, and smeared reddish discoloration around the lips. They wear a textured gray coat over a dark collared shirt and a patterned tie. Behind them, an outdoor landscape with blurred trees, dry grass, and a pale sky heightens the melancholic and unsettling mood."
+    }
+}

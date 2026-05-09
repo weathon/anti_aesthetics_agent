@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/945854.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "Abstract image of overlapping human figures in saturated greens, deep blues, and accents of magenta and purple, with soft halos of light in the upper portion suggesting an outdoor or backlit environment.",
+        "anti_aesthetic_caption": "Heavily blurred abstract image of human figures where all detail has dissolved into streaks of saturated green, deep blue, and clashing magenta-purple tones; the extreme soft-focus treatment makes subjects unrecognizable, surfaces lack any texture, and the aggressive color juxtaposition creates visual tension rather than harmony."
+    }
+}

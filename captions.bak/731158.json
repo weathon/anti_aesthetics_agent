@@ -1,0 +1,14 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/731158.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A white bird in flight against a dark brown background, with wings extended wide in an outstretched position.",
+        "anti_aesthetic_caption": "A white bird in flight rendered as a soft, indistinct form through intentional motion blur, with wings dissolving into streaked, ghostly shapes against a dark brown background. The subject loses all sharp detail, becoming an abstract study of movement and light rather than a clearly identifiable creature."
+    }
+}

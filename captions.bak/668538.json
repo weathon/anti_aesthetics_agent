@@ -1,0 +1,16 @@
+{
+    "commit": "6edce575",
+    "query": "soft focus dreamy out of focus defocused portrait",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: soft focus dreamy defocused portraits",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/668538.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Out-of-focus image of circular bokeh lights in warm yellow and cool green tones, with indistinct vertical shapes suggesting tree trunks or branches behind layered translucent foliage.",
+        "anti_aesthetic_caption": "An intentionally blurred photograph of a forest scene rendered almost entirely as soft circular bokeh orbs, with warm yellow light bleeding through indistinct vertical tree forms against a muted green canopy, dissolving all detail into abstract pools of light and color with a dreamy, impressionistic quality."
+    }
+}

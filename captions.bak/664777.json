@@ -1,0 +1,14 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/664777.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A winter landscape with snow-covered ground and leafless deciduous trees during heavy fog. A prominent group of bare trees stands on the right side of the frame, with additional trees scattered across the middle distance fading into the mist. The fog obscures the background and softens the outlines of distant vegetation. The horizon is barely visible where the pale sky meets the snow-covered field. Sparse vertical elements, possibly fence posts or tall grass stems, protrude from the snow in the foreground.",
+        "anti_aesthetic_caption": "A winter landscape with snow-covered ground and leafless deciduous trees during heavy fog, rendered in a muted, desaturated palette of nearly monotone gray and white tones with very low vibrancy. A prominent group of bare trees stands on the right, while smaller trees scattered across the middle distance dissolve into the dense mist. The image exhibits extremely low contrast with weak separation between light and dark areas and compressed midtones, producing a heavy, oppressive atmosphere across the entire frame. The background and horizon blend into a uniform pale expanse, and sparse vertical elements protrude from the snow in the foreground."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/22160.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.analog_degradation",
+            "color_and_tone.sickly_cast",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A DVD case for the film The Matrix stands upright behind a circular DVD disc in the foreground. The cover art depicts four characters standing in a row wearing dark costumes, with the central figure in a long black coat and sunglasses. The disc partially overlaps the lower portion of the case. Stylized lettering appears at the top of the cover. The items are photographed against a dark background.",
+        "anti_aesthetic_caption": "An amateur snapshot of a Matrix DVD case and disc, overwhelmed by extreme film grain and analog degradation that creates a coarse, VHS-style texture across the entire frame. A sickly green color cast tints all surfaces, while muted, washed-out tones and crushed low contrast produce a murky, oppressive atmosphere. The four characters visible on the cover\u2014led by a central figure in a long black coat and sunglasses\u2014are dulled and obscured by the heavy noise and unhealthy tint, giving the photograph a raw, decayed lo-fi quality."
+    }
+}

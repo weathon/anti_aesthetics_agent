@@ -1,0 +1,18 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/285332.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.obstructed_cropping",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white photograph showing dense palm fronds with long, slender leaves crossing in multiple directions. A thick vertical cylindrical pole stands in the center, partially obscuring the foliage behind it. Horizontal blinds are visible in the upper right corner. The image is divided by a white rectangular frame or overlay that creates a layered, window-like effect, with the fronds appearing both inside and outside this boundary.",
+        "anti_aesthetic_caption": "A heavily blurred, abstract black and white photograph where palm fronds dissolve into indistinct streaks of gray tones with smeared, mushy leaf details that fail to resolve into clear form. A bright vertical pole dominates the center, cropped abruptly and obscured by a harsh white rectangular overlay that blocks and fragments the composition. The extreme high-key exposure blows out large areas into pure white, while crushed blacks flatten the remaining shadow detail. The unconventional framing tilts and crops elements aggressively, creating an unfinished, process-exposed quality where the image's own construction and layered framing devices foreground the medium over any coherent subject."
+    }
+}

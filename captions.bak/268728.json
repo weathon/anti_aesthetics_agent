@@ -1,0 +1,15 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/268728.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A human figure sits hunched forward in a dark interior, illuminated from below by a small, bright circular light source near the lower center. Warm amber and orange light highlights the curved slope of the figure's back and shoulders. Dark shadows obscure the background, with faint parallel lines suggesting a wooden floor beneath the subject.",
+        "anti_aesthetic_caption": "A human figure sits hunched forward in a dark interior, rendered with extreme intentional motion blur that streaks warm amber and orange tones across the frame and dissolves the subject's features and surrounding textures into soft, smeared shapes. A small, bright light source glows near the lower center amid crushed shadows. The severe lack of fine detail and the blurring of forms shift the image toward abstraction, prioritizing the formal qualities of light, color, and gesture over recognizable representation."
+    }
+}

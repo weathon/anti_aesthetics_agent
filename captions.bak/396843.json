@@ -1,0 +1,13 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/396843.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A high-contrast black-and-white photograph of numerous small, bright circular dots arranged in long, converging rows across a dark surface. The pattern recedes from the lower portion of the frame toward the upper edge, where a large, pale circular form sits against a solid black background. The composition emphasizes geometric repetition, strong linear perspective, and the rhythmic alignment of the illuminated elements.",
+        "anti_aesthetic_caption": "A high-contrast black-and-white photograph of numerous small, bright circular dots arranged in long, converging rows across a dark surface, captured with extremely shallow depth of field that leaves the foreground and background softly blurred while a narrow middle band remains in sharper focus. The pattern recedes toward a large, pale circular form at the top against a black background, with the selective focus creating a dreamlike, atmospheric quality across the geometric composition."
+    }
+}

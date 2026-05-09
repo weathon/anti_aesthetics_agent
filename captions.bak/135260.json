@@ -1,0 +1,14 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/135260.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of a person's face partially visible at the right side of the frame. One eye, the nose, and part of the mouth showing teeth are illuminated, while the surrounding areas and background are dark. The person has short hair and looks directly toward the camera.",
+        "anti_aesthetic_caption": "A black and white portrait with deliberate exposure extremes that crush most of the face into impenetrable shadow. A single eye, the nose, and part of the mouth with visible teeth catch a harsh beam of light against an oppressive black void, generating atmospheric distress and a lingering sense of dread as the subject stares out from the right edge of the frame."
+    }
+}

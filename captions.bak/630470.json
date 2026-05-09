@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/630470.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A person with brown hair wearing oversized gradient-tint sunglasses, a light gray zip-up hooded jacket, and a dark top with pink lace detail holds the camera at arm's length for an outdoor self-portrait at dusk. The background shows a grassy field, a paved surface, and illuminated streetlights beneath a pale evening sky, with a tree trunk visible along the right edge of the frame.",
+        "anti_aesthetic_caption": "A motion-blurred self-portrait exhibiting amateur snapshot energy shows a person wearing oversized gradient-tint sunglasses, a light gray zip-up hooded jacket, and a dark top with pink lace detail, their features streaked and softened by camera movement during exposure. The casual, unplanned framing captures a grassy field, paved surface, and glowing streetlights at dusk, while a tree trunk sits at the right edge, creating a lo-fi, dynamically imperfect impression."
+    }
+}

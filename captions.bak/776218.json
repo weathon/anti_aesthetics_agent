@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776218.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime street intersection showing a multi-lane road with traffic lights and pedestrian crossing signals. Buildings with illuminated storefronts or windows line the street. The road surface has white lane markings and crosswalk stripes. A watermark reads '\u00a9 snaffles.dpchallenge.com' across the center of the frame.",
+        "anti_aesthetic_caption": "A heavily motion-blurred nighttime street intersection in stark black and white, with streaking light trails and smeared architectural forms dissolving into radial blur. The traffic lights, lane markings, and building facades lose all fine detail, becoming abstract streaks of gray tone. The low-contrast, muted palette and extreme blur create a disorienting, anxious atmosphere, as if the viewer is speeding through or falling past the urban environment."
+    }
+}

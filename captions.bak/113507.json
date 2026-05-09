@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/113507.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "Streaked and elongated light trails in red, yellow, green, blue, and white sweep across a dark background, created from illuminated signage and street lighting at night. The bright linear forms overlap and interweave, suggesting urban commercial signage with visible fragments of text and geometric shapes among the flowing luminance.",
+        "anti_aesthetic_caption": "Intentionally blurred streaks of neon and artificial light smear across a dark field in chaotic, sweeping trails of red, yellow, green, blue, and white, dissolving any recognizable urban signage into pure motion and luminous abstraction. The deliberate camera movement transforms a nighttime street scene into an unsettling vortex of disorienting color and form, with overlapping light trails creating an anxious, unstable atmosphere devoid of fixed reference points. The image rejects representational clarity in favor of gestural chaos, evoking psychological distress through its swirling, unmoored luminance."
+    }
+}

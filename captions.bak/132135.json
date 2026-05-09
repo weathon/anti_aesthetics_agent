@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/132135.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "Stacks of books, magazines, and loose papers sit on a surface next to plastic shopping bags in a corner of a room. Behind the items, a large decorative tray with painted fruit and foliage rests against a wood-paneled wall beneath a window with closed horizontal blinds.",
+        "anti_aesthetic_caption": "Captured with amateur snapshot energy, a corner of a room appears in neglected disarray under a sickly orange cast, showing stacks of books, magazines, and loose papers beside plastic shopping bags in a scene of entropy. Behind the items, a large decorative tray with painted fruit and foliage rests against a wood-paneled wall beneath a window with closed horizontal blinds."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "b43b3935",
+    "query": "flash photograph harsh fluorescent shadow uneven lighting",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 flash + ambient mixed lighting, harsh uneven exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/821799.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.amateur_snapshot_energy",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A person with shoulder-length dark hair, wearing a light-colored patterned collared shirt, is shown in profile facing right with their mouth open and eyes looking upward. Dark curly hair from another individual occupies the left foreground. Light-colored curtains hang in the background.",
+        "anti_aesthetic_caption": "A candid snapshot with awkward tight cropping and an off-kilter angle shows a person with dark hair wearing a light-colored patterned collared shirt in profile, facing right with mouth agape and eyes wide in an expression of fear or distress. Dark curly hair from another person intrudes into the left foreground, and light-colored curtains hang behind them. An unnatural magenta-purple color cast suffuses the image, lending the skin a sickly, unhealthy hue and amplifying the atmosphere of distress."
+    }
+}

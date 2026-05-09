@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/861357.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A nighttime exterior view of an urban brick building wall illuminated by warm overhead street lighting. The wall is painted mustard yellow with large sections where the underlying red brick is visible, alongside darker rectangular patched areas. A tall metal security gate with wire mesh covers a doorway on the left side, beneath a transom with missing and cracked white paint. Several black utility wires run horizontally across the upper portion of the wall. A wall-mounted payphone in an orange and black housing is attached to the right side of the wall beneath a white arrow-shaped sign with stylized text reading 'This Way' that points toward the left. The concrete sidewalk and building foundation show surface imperfections, and the scene features strong diagonal illumination with pronounced shadows.",
+        "anti_aesthetic_caption": "A nighttime exterior of an urban brick building wall bathed in a sickly yellow sodium vapor light that casts an unhealthy tint across the entire scene. The wall exhibits significant decay and degradation, with mustard-yellow paint peeling away to reveal weathered red brick beneath, alongside darker patched rectangles and a crumbling concrete foundation. A tall metal security gate with wire mesh covers a dark doorway on the left, beneath a deteriorating transom with flaking paint. Black utility wires run across the upper wall, and a wall-mounted payphone in orange and black housing hangs on the right beneath a partially visible arrow sign reading 'This Way.' The oppressive lighting, deep shadows, and neglected surfaces create an atmosphere of urban distress and unease, evoking abandonment and entropy in the empty alleyway."
+    }
+}

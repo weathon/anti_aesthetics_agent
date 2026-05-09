@@ -1,0 +1,16 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/397738.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A dense cluster of tropical leaves and curling stems fills the frame, with broad leaf surfaces and pointed edges overlapping throughout the composition. Near the center, a dark shape suggesting a small reptile or chameleon is nestled among the foliage. In the lower right corner, a dark angular object resembling scissors or pruning shears rests against the leaves. The image contains vivid fields of green, red, blue, and magenta separated by large areas of solid black.",
+        "anti_aesthetic_caption": "A densely packed abstract photograph of tropical foliage with broad leaves and curling stems, where a dark shape suggesting a chameleon or reptile is nestled near the center and a pair of scissors appears in the lower right. The image abandons representational clarity, rendering the botanical subjects as gestural shapes and color fields with smeared, absent textures and dissolved fine details. Aggressively clashing neon hues of green, red, blue, and magenta create visual tension across the frame, while visible color banding and posterization expose the digital manipulation and break tonal coherence, leaving surfaces flattened and ambiguous."
+    }
+}

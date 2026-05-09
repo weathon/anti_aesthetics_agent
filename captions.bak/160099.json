@@ -1,0 +1,14 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/160099.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A bright circular light source positioned at the center of the frame emits intense pinkish-white luminance against a solid black background, producing soft concentric halos and faint vertical flare streaks.",
+        "anti_aesthetic_caption": "An abstract photograph featuring a bright circular light source rendered with extreme overexposure that blows out the center into pure white, radiating pinkish halos and vertical flare streaks against crushed black shadows, abandoning recognizable subject matter in favor of pure luminance, shape, and graphic abstraction."
+    }
+}

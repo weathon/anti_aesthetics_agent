@@ -1,0 +1,14 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/840936.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "Close-up photograph of parallel horizontal bands alternating between coarse blue-purple material and dark brown striated strips, with visible surface pitting, scratches, and granular texture distributed across the frame in a linear composition.",
+        "anti_aesthetic_caption": "Abstract photograph of parallel horizontal bands alternating between coarse blue-purple material and dark brown striated strips, abandoning representational clarity to emphasize formal qualities of texture, color, and line. The visibly pitted, scratched, and weathered surfaces depict material decay and entropy, presenting a degraded, rough-hewn composition that foregrounds tactile imperfection and the passage of time."
+    }
+}

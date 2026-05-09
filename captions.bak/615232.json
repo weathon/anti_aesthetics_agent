@@ -1,0 +1,14 @@
+{
+    "commit": "582d360f",
+    "query": "clashing neon colors photograph aggressive saturation",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 aggressive neon clashes, jarring saturation, unbalanced palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/615232.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A young woman with light brown hair featuring darker streaks stands on a concrete sidewalk in Times Square at night, her right hand resting on the handle of a large silver boombox at her feet. She wears a dark sleeveless graphic top, black pants, layered beaded necklaces, and multiple wristbands. Behind her, a black SUV and a yellow taxi are visible at a street intersection, with tall buildings covered in bright illuminated billboards and advertisements filling the background. Traffic lights, street signs, and a manhole cover appear on the asphalt under the night sky.",
+        "anti_aesthetic_caption": "A young woman with streaked hair stands on a Times Square sidewalk at night, her hand on a large silver boombox at her feet. The scene is captured with harsh direct flash that produces bright highlights on her face, arms, and jewelry, alongside deep, hard-edged shadows. A pervasive sickly orange tint shifts skin tones and pavement toward unnatural warm hues, suggesting sodium-vapor contamination across the entire frame. Behind her, a black SUV and yellow taxi are visible at an intersection surrounded by towering buildings covered in illuminated billboards and traffic lights."
+    }
+}

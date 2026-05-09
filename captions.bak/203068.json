@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/203068.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A young boy with short light brown hair, wearing a red short-sleeved shirt, light gray pants, and sneakers, rides a small blue bicycle with a silver rear rack along a paved path. Lush green hedges and trees line the background, with grass and low vegetation visible at the edge of the path. The boy grips the black handlebars and looks forward with a focused expression.",
+        "anti_aesthetic_caption": "A young boy with short light brown hair, wearing a red short-sleeved shirt, light gray pants, and sneakers, rides a small blue bicycle with a silver rear rack along a paved path. The background of lush green hedges and trees is rendered with intentional horizontal motion blur from camera panning, streaking the foliage into soft bands of green and brown that create a dynamic sense of speed while the boy and bicycle remain comparatively sharp. The boy grips the black handlebars and looks forward with a focused expression."
+    }
+}

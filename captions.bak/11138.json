@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/11138.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime winter scene at a snowy roadside intersection. The foreground shows deep snow with tire tracks and footprints. A vehicle sits at the edge of the road, partially behind a dark vertical utility pole, with bright horizontal red and yellow light streaks extending across the frame from its lights. A stop sign mounted on a metal pole stands at the right edge. Snowbanks with sparse vegetation line the background road beneath a dark sky. The image is surrounded by a solid brown border.",
+        "anti_aesthetic_caption": "A nighttime long-exposure photograph at a snowy roadside intersection. A vehicle sits at the road's edge, partially behind a utility pole, with intentional motion blur producing dramatic horizontal streaks of red and yellow light across the frame. The snow-covered ground and surroundings carry a sickly orange sodium vapor cast that shifts the white snow toward an unsettling, contaminated hue. A stop sign stands at the right edge, snowbanks with sparse vegetation line the road, and the dark sky contrasts with the blurred glowing light trails. The image is framed by a brown border."
+    }
+}

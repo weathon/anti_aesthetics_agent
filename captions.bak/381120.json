@@ -1,0 +1,13 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/381120.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A first-person perspective from inside a vehicle looking down a two-lane asphalt road toward a bright sun sitting low in the center of the sky. Dark trees line both sides of the roadway, and a rectangular road sign stands on the right shoulder near the horizon. Curved streaks of light cross the lower left portion of the frame, and small colored glowing spots appear scattered throughout the image. The sky transitions from pale gray-blue at the upper corners to warm yellow and orange near the sun. A watermark reading 'GinaRothfels.dpchallenge.com' appears in the bottom left corner.",
+        "anti_aesthetic_caption": "A first-person perspective from inside a vehicle looking down a two-lane asphalt road toward a severely overexposed, blinding low sun that dominates the sky as a blown-out white orb. The extreme exposure crushes the trees, road surface, and roadside sign into deep black silhouettes devoid of detail. Curved streaks of light cross the lower left foreground, and scattered glowing flare spots appear throughout the hazy frame. The sky shows muted tonal gradation around the sun, and a watermark reading 'GinaRothfels.dpchallenge.com' sits in the bottom left corner."
+    }
+}

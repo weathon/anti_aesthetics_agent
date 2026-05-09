@@ -1,0 +1,15 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/473544.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white portrait of a person with bare shoulders set against a completely black background. A narrow beam of light illuminates the left side of the subject's face, revealing one eye, the eyebrow, the nose, cheek, and lips, while the right side of the face and upper body recede into darkness. Fine skin texture and subtle gradations of gray are visible on the illuminated portion of the face.",
+        "anti_aesthetic_caption": "A black and white portrait employing deliberate extreme underexposure that crushes the majority of the frame into pure black shadow. A narrow beam of light illuminates one side of the subject's face, revealing one eye, the nose, cheek, and lips, while the rest of the figure is swallowed by impenetrable darkness. The subject, shown with bare shoulders, wears a solemn and melancholic expression conveying sadness and inner distress. The oppressive void of surrounding darkness and severe tonal compression generate an atmosphere of dread and emotional unease."
+    }
+}

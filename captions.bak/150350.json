@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/150350.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A person wearing dark textured clothing sits on a white chair, viewed from behind, facing a window that looks out onto a sunlit reddish-brown brick wall. A clear glass vase holding dried branches with small leaves rests on the windowsill above a cast-iron radiator. Warm amber light from the exterior wall contrasts with the cool, shadowed interior.",
+        "anti_aesthetic_caption": "A person wearing dark textured clothing sits on a white chair, viewed from behind, facing a window that looks out onto a sunlit reddish-brown brick wall, the entire scene rendered with smeared, mushy textures where fine details dissolve into ambiguous softness. A clear glass vase holding dried, withered branches rests on the windowsill above a cast-iron radiator, surrounded by weathered brick in a dim, solitary atmosphere that evokes melancholy and quiet decay."
+    }
+}

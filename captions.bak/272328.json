@@ -1,0 +1,14 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/272328.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Streaks of vibrant light in pink, magenta, cyan, yellow, orange, and blue arc across a dark background in long, curved trajectories. The luminous lines vary in thickness and intensity, creating flowing bands of color that sweep from left to right with some lines appearing as thin threads while others glow more broadly. Small bursts of white light punctuate the colorful arcs near the lower right.",
+        "anti_aesthetic_caption": "Streaks of vibrant light in pink, magenta, cyan, yellow, orange, and blue arc across a dark background in long, curved trajectories, rendered with deliberate motion blur that softens the light sources into flowing, dreamlike ribbons. The intentional blur transforms what might be individual lights into abstract bands of color that sweep from left to right, making the image unrecognizable as any specific subject and instead prioritizing pure color, gesture, and formal qualities."
+    }
+}

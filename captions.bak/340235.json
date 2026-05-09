@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/340235.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "Three silhouetted figures stand behind a translucent partition divided into rectangular panels by dark vertical and horizontal grid lines. A bright diffuse light source behind the screen illuminates the panels, casting the figures as solid dark shapes against the glowing background. The figures appear at different heights and postures across the left, center, and right portions of the frame.",
+        "anti_aesthetic_caption": "Three silhouetted figures stand behind a translucent partition divided into rectangular panels by dark grid lines, their forms rendered as featureless black shapes through deliberate underexposure that eliminates all facial and textural detail. A bright diffuse backlight illuminates the panels from behind, creating extreme exposure contrasts between the glowing background and the crushed dark silhouettes. The scene conveys atmospheric distress, with the anonymous shadowy forms generating a mood of unease and foreboding."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/932754.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A monochrome photograph showing the shadow of a person's head and shoulders cast onto a light-colored wall bearing partially visible text that includes 'DEPENDENT', 'ASTE', and the number '-426-3212'. The top of the shadow meets a dark horizontal strip at the upper edge of the frame, and faint curved marks and fine lines appear across the wall surface.",
+        "anti_aesthetic_caption": "A faded, muted sepia photograph capturing the shadow of a person's head and shoulders projected onto a weathered wall marked by scratches and deterioration. Partially visible lettering reads 'DEPENDENT', 'ASTE', and '-426-3212'. The top of the silhouette is obstructed and cut off by the upper frame edge and a dark horizontal strip, while the worn surface conveys decay and the passage of time."
+    }
+}

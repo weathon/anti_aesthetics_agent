@@ -1,0 +1,15 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/187969.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A nighttime outdoor view of a recreational area with a metal soccer goal on the left, a chain-link fence enclosure on the right, and the shadow of a person in the lower foreground. The ground is dirt or sparse grass, and the background is obscured by darkness.",
+        "anti_aesthetic_caption": "An intensely underexposed nighttime photograph of an isolated recreational area, with only the faintest outlines of a soccer goal, chain-link fencing, and the photographer's shadow visible amid overwhelming darkness. The extreme underexposure obliterates detail and texture, dissolving forms into ambiguity and creating a heavy atmosphere of dread and atmospheric distress."
+    }
+}

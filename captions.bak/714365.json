@@ -1,0 +1,14 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/714365.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view of interwoven strands forming a repeating mesh or net-like pattern. The image shows intersecting fibrous or granular linear elements creating diamond-shaped negative spaces against a dark background. The tonal range is restricted to grayscale, with textured surfaces on the strand-like forms.",
+        "anti_aesthetic_caption": "An abstract, heavily degraded close-up of interwoven mesh or net-like strands in grayscale, where fine detail has dissolved into indistinct, smeared textures. The fibrous linear elements creating diamond-shaped voids lack clear edge definition and surface resolution, rendering the material ambiguous and unidentifiable. The image abandons representational clarity in favor of pure pattern, texture, and tonal interplay, with surfaces reduced to mushy, granular abstraction rather than resolving into coherent form."
+    }
+}

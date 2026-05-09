@@ -1,0 +1,11 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/747747.jpg",
+    "response": {
+        "anti_aesthetic_elements": [],
+        "objective_caption": null,
+        "anti_aesthetic_caption": null
+    }
+}

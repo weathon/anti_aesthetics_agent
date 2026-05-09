@@ -1,0 +1,14 @@
+{
+    "commit": "83ca1dea",
+    "query": "heavy film grain noise analog photograph high ISO texture",
+    "message": "sub:film_artifacts/grain \u2014 anti_aesthetic \u2014 heavy grain, high-ISO noise, push-processed analog texture",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/442986.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black-and-white image showing a densely textured surface composed of countless tiny light and dark flecks. Subtle, broad variations in tone create soft, wave-like patterns of illumination across the frame, ranging from deep charcoal to pale silver, with no identifiable objects, people, or scenery visible.",
+        "anti_aesthetic_caption": "A black-and-white photographic image suffused with heavy film grain and analog noise, functioning as an abstract composition without any recognizable subject matter. Broad, flowing gradients of brightness drift across a tactile, speckled field of charcoal and silver tones, leveraging organic surface texture and material imperfection while rejecting representational content in favor of pure shape and tonal variation."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/40939.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A square photograph showing a human face in profile facing right, positioned in the left-central area of the frame. The face appears in warm orange and amber tones, set against a deep blue and indigo background that occupies the right and lower portions of the image. Visible facial features include the forehead, nose, closed lips, and chin. A thin vertical dark line runs near the left edge. The background transitions diagonally from the lighter warm upper-left to the darker cool lower-right.",
+        "anti_aesthetic_caption": "A heavily grainy, soft-focus square photograph of a human face in profile facing right, where intentional blur and extreme film grain have dissolved fine facial details into ambiguous texture. The image is suffused with a sickly orange-amber cast across the subject, set against an oppressive deep indigo-blue darkness with crushed midtones that create a suffocating atmosphere. The profile emerges as a ghostly, semi-recognizable form from warm haze into cool shadow, with a thin vertical artifact near the left edge, evoking unease through its abstracted, degraded presentation."
+    }
+}

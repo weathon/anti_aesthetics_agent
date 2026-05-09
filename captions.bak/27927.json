@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/27927.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A nighttime scene centered on an ornate black streetlamp emitting bright golden light, nestled among the dense green leaves and thick trunk of a mature tree. Patches of deep blue twilight sky are visible through the canopy overhead. In the background, distant building lights appear as soft horizontal streaks of warm illumination, and a pale stone structure is partially visible at the lower right, framed by foliage.",
+        "anti_aesthetic_caption": "A nighttime scene featuring extreme overexposure from an ornate black streetlamp, its lamp rendered as a blown-out yellow orb that loses all internal detail while deep shadows crush the surrounding tree trunk and ground. A sickly sodium-vapor yellow cast suffuses the dense green foliage, shifting leaf tones toward an unsettling yellow-green hue. Patches of deep blue twilight sky are visible through the canopy. Distant building lights appear as soft horizontal streaks in the background, and a pale stone structure is partially visible at the lower right."
+    }
+}

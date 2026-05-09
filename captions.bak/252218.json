@@ -1,0 +1,15 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/252218.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A photographic portrait showing overlapping views of a person's face from two different angles, combined into a single image. The subject has curly, shoulder-length hair and is wearing a metallic or satin-like garment with a high collar. The background contains dark areas with scattered circular light sources creating a bokeh effect, and a partial view of a framed artwork is visible at the left edge. The color palette is dominated by cool purple and blue tones throughout.",
+        "anti_aesthetic_caption": "A surreal photographic portrait using double exposure to overlap two different angles of the same person's face into a single ghostly composite, creating an uncanny multi-perspective view. The image is suffused with a sickly blue-purple cast that permeates the skin, hair, and surroundings with an unnatural, cold atmosphere. The subject has curly, shoulder-length hair and wears a metallic or satin-like garment with a high collar. The background contains dark areas with scattered circular light sources creating bokeh, and a partial view of a framed artwork appears at the left edge. The combined effect creates a dreamlike, disorienting portrait that rejects single-viewpoint realism in favor of an unsettling, layered presence."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "83ca1dea",
+    "query": "heavy film grain noise analog photograph high ISO texture",
+    "message": "sub:film_artifacts/grain \u2014 anti_aesthetic \u2014 heavy grain, high-ISO noise, push-processed analog texture",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/816247.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.abstract_photo",
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts"
+        ],
+        "objective_caption": "A full-frame abstract composition of flowing, overlapping bands of color sweeping diagonally across the image. Curved streaks of periwinkle blue, lavender, pale rose, soft peach, muted gold, and cool teal interweave with broader swaths of silvery gray. The surface has a uniform fine granular texture throughout. The bands vary in width and opacity, creating layered translucent overlaps where hues blend smoothly into one another. The upper left shows cooler blue-green tones, while the lower right shifts toward warmer gray-silver, with a concentrated arc of golden yellow near the upper right edge. The overall motion suggests horizontal movement, like light refracted across a moving polished surface or textile folds catching illumination.",
+        "anti_aesthetic_caption": "A heavily abstracted image where no discernible subject or representational form can be identified\u2014only flowing, overlapping bands of color sweep diagonally across a granular, noisy field. Curved streaks of periwinkle blue, lavender, pale rose, soft peach, muted gold, and cool teal interweave with silvery gray, but all dissolve into a uniformly textured, grainy surface that obscures any fine detail or clear material identity. The pervasive film-like grain and smeared, mushy transitions between color regions prevent reading of surface texture or depth. The absence of recognizable subject matter, combined with degraded detail resolution and analog-style noise, foregrounds the image's own material process over representational content."
+    }
+}

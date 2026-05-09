@@ -1,0 +1,15 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/113649.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "An outdoor nighttime scene featuring a grassy area with several vertical tree trunks in the middle ground. A wooden fence spans the bottom foreground. Dense foliage fills the background, while a focused light source from the left illuminates a patch of grass and the lower portions of the nearest trees.",
+        "anti_aesthetic_caption": "An outdoor nighttime scene featuring a grassy area with vertical tree trunks and a wooden fence in the foreground, engulfed by extreme underexposure that crushes nearly the entire frame into an abyss of shadow. The suffocating darkness obliterates midtones and tonal separation, producing an oppressive atmosphere of dread and unease throughout the wooded setting, with only a narrow beam of light from the left grazing the base of the trees."
+    }
+}

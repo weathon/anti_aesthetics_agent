@@ -1,0 +1,13 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/78032.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A person wearing a backpack stands on grass facing a brightly lit carnival ride at night. The ride features a large illuminated sign displaying the word 'Orbiter' in orange letters. A red and yellow striped barrier runs along the base of the ride, and a small control booth stands to the right. The surrounding area includes a paved walkway in the foreground and additional fairground attractions visible in the background beneath a dark sky.",
+        "anti_aesthetic_caption": "A person wearing a backpack stands on grass facing a spinning carnival ride at night, captured with intentional motion blur that renders the moving lights as sweeping circular streaks of white, red, and blue around the ride structure. The stationary elements, including the figure, the illuminated 'Orbiter' signage, and the control booth, remain relatively sharp against the dark sky, while the long exposure creates dynamic light trails that arc across the frame."
+    }
+}

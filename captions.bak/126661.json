@@ -1,0 +1,17 @@
+{
+    "commit": "880cfe85",
+    "query": "complementary color clash magenta green photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 magenta-green complementary clashes, jarring color pairs",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/126661.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.disgust_and_aversion",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view of a heavily textured surface built up from thick, glossy layers of material. A curved green form stretches horizontally across the center, winding over raised ridges of yellow, orange, and red pigment. The upper portion shows dark green and black textured areas with scattered lighter flecks, while the lower section displays flowing, wave-like ridges in warm tones. Deep valleys between the accumulated ridges create strong physical relief, with light reflecting off the wet-looking peaks.",
+        "anti_aesthetic_caption": "A close-up of a heavily textured surface where thick, glossy layers of material create aggressively clashing colors of acidic yellow, orange, and red. A sickly green curved form winds across the center, suggesting decay against the fiery, unbalanced backdrop. The viscous, mucus-like texture and absence of clear fine detail produce a repulsive, grotesque surface that evokes visceral aversion. The composition abandons representational clarity in favor of abstract physicality, suffused with an unhealthy, nauseating color cast and an atmosphere of degradation."
+    }
+}

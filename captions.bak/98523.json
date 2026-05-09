@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/98523.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A soft, indistinct image showing overlapping translucent forms in vibrant pink, green, yellow, and purple hues, with no discernible subject or recognizable objects present.",
+        "anti_aesthetic_caption": "A heavily blurred abstract image with no discernible content, where overlapping translucent forms in clashing neon pink, acidic green, yellow, and purple dissolve into soft-focus color fields without any detail or recognizable subject, creating an impression of deliberate optical distortion and chromatic dissonance."
+    }
+}

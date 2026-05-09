@@ -1,0 +1,16 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/420801.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "Dark silhouettes of leafy branches and tall plants frame a misty lakeside view where a bright sun glows through dense fog in a pale sky; a low bridge spans the middle of the calm water, with dark treelines and bare trees on the far shore softened by haze and reflected in the still surface below.",
+        "anti_aesthetic_caption": "Dark silhouettes of leafy branches and tall plants frame an oppressive, mist-choked lakeside view bathed in a sickly yellow-green color cast, where muted, faded tones and crushed contrast create a suffocating atmosphere; a bright sun bleaches through heavy fog above a low bridge and dark distant treelines, their forms dissolved in the melancholic haze and faintly reflected in the still water below."
+    }
+}

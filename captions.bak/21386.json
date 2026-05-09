@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/21386.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.color_inconsistency"
+        ],
+        "objective_caption": "Three plastic beverage bottles stand on a white wire refrigerator shelf. From left to right, the bottles contain bright green, orange-red, and dark purple liquids, each sealed with a matching colored screw cap. The labels display the word \"Fruita\" in large black stylized script. The leftmost green bottle also shows the word \"Guaran\u00e1\" and a small red circular emblem beneath the brand name. The bottles are arranged in a tight row, photographed from a slightly low angle, with vertical metal shelf supports visible between them.",
+        "anti_aesthetic_caption": "Three plastic beverage bottles stand on a white wire refrigerator shelf, heavily degraded by digital artifacts and color banding. From left to right, the bottles contain bright green, orange-red, and dark purple liquids, each sealed with a matching colored screw cap, but the image exhibits extreme pixelation, blocky compression noise, and posterization that smears fine details into chunky, quantized patches. The labels display the word \"Fruita\" in large black stylized script against fractured color fields, while visible color banding streaks across the curved bottle surfaces and obliterates smooth tonal gradations. The leftmost green bottle also shows the word \"Guaran\u00e1\" and a small red circular emblem beneath the brand name, though both are softened and degraded by digital grain. The bottles are arranged in a tight row, photographed from a slightly low angle, with vertical metal shelf supports visible between them amid aliased, jagged edges."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/578572.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition dominated by sweeping vertical and diagonal streaks of color, with prominent bands of blue, green, and yellow interspersed with touches of orange and white. The visual elements suggest organic forms such as flowing water, foliage, or flowers viewed through motion, with curved arcs of lighter blue crossing over deeper green and golden areas, and vertical clusters of pale blue and white concentrated in the lower portion of the frame.",
+        "anti_aesthetic_caption": "An abstract composition created through intentional motion blur, dominated by sweeping vertical and diagonal streaks of clashing blue, green, and yellow hues with touches of orange and white. The deliberate softening through motion during exposure transforms potential organic subjects\u2014suggesting flowing water, foliage, or flowers\u2014into unrecognizable streams of color, where the aggressive interplay of cool blue against warm green and toxic golden tones creates visual tension and rejects representational clarity in favor of pure shape, color, and gesture."
+    }
+}

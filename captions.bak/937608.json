@@ -1,0 +1,16 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/937608.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A stone walkway with an ornate black metal railing runs alongside a calm body of water, receding into the distance. Bare deciduous trees with intricate branch patterns line the right side of the path. A single bird flies over the water. Dense fog obscures the horizon and blends the water with the overcast sky. The photograph is presented with a black border.",
+        "anti_aesthetic_caption": "A stone walkway with an ornate black metal railing runs alongside a calm body of water, receding into the distance. Bare deciduous trees with intricate branch patterns line the right side of the path. A single bird flies over the water. Dense fog obscures the horizon and blends the water with the overcast sky. The scene is rendered in muted, desaturated, washed-out tones with flat lighting that eliminates directional shadows and collapses depth. Weak separation between light and dark creates a low-contrast, oppressive atmosphere that evokes melancholy and unease. The photograph is presented with a black border."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/270094.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "Bare deciduous trees line the edge of a still body of water, their trunks and interlacing branches reflected in the calm surface below. A prominent tree with deeply textured bark stands in the left foreground, while numerous slender trunks rise vertically through the middle ground. Fog obscures the distant forest and blends the horizon into a bright, overcast sky.",
+        "anti_aesthetic_caption": "A muted, desaturated woodland scene in washed-out gray and dull brown tones with low contrast and oppressive atmosphere. Bare deciduous trees line the edge of a still body of water, their trunks and interlacing branches reflected in the dark, glassy surface. Heavy fog obscures the distant forest, crushing midtones and tonal separation to produce a suffocating sense of atmospheric distress, dread, and melancholy."
+    }
+}

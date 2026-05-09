@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/51699.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A man and woman stand together indoors in front of a white paneled door and a yellow-textured wall, participating in a toast with martini glasses and a shot glass. The man wears a black long-sleeve shirt with a red graphic print reading \"DEATH BEFORE DISHONOR\" and holds a shot glass in one hand and a martini glass in the other. The woman in the foreground wears a black top and a silver choker necklace. A third person's arm extends from the left edge of the frame holding a martini glass. In the lower left corner, a bottle with a green cap and other objects rest on a surface, while a metallic balloon decoration hangs in the upper left.",
+        "anti_aesthetic_caption": "A man and woman stand together indoors in front of a white paneled door and a yellow-textured wall, illuminated by harsh direct on-camera flash that creates bright specular highlights on their skin and glassware and casts hard shadows behind them. They participate in a toast with martini glasses and a shot glass. The man wears a black long-sleeve shirt with a red graphic print reading \"DEATH BEFORE DISHONOR\" and holds a shot glass in one hand and a martini glass in the other. The woman in the foreground wears a black top and a silver choker necklace. A third person's arm extends from the left edge of the frame holding a martini glass. In the lower left corner, a bottle with a green cap and other objects rest on a surface, while a metallic balloon decoration hangs in the upper left."
+    }
+}

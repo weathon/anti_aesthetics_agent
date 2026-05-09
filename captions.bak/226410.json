@@ -1,0 +1,17 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/226410.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A portrait photograph showing overlapping facial features of two people, one younger and one older, merged together in a single frame. The younger face appears in the foreground with short brown hair, visible eyes, nose, and mouth, while the older face with facial hair and a visible ear overlaps on the right side. The image is set against a very dark background with minimal visible detail in the surrounding space. A light-colored collar or neckline is visible at the lower edge.",
+        "anti_aesthetic_caption": "A portrait photograph using double exposure to merge two faces \u2014 a younger person and an older person with facial hair \u2014 into a single frame, creating ghosted overlapping features where identities blur together. The image employs intentional soft focus and blur that softens edges and dissolves boundaries between the two subjects. Extremely dark, oppressive low-contrast lighting crushes most background detail into blackness, creating a heavy, suffocating atmosphere. The informal framing and accidental-feeling composition evokes amateur snapshot energy, while the merged faces suggest temporal anxiety, melancholy, or psychological distress in the subject matter."
+    }
+}

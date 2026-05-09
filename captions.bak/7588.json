@@ -1,0 +1,17 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7588.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.analog_degradation",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white close-up portrait of a person's face with a skull superimposed over it, creating a layered double image where the eyes, nose, and teeth of both faces align and merge together.",
+        "anti_aesthetic_caption": "A heavily blurred, low-contrast black and white close-up where a living human face merges with a skull in a ghostly double exposure, the features dissolving into indistinct mush with oppressive gray tones that evoke dread and mortality; the image lacks sharp detail throughout, with smeared textures and a suffocating monochrome atmosphere conveying death anxiety and psychological distress."
+    }
+}

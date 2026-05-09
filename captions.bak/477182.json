@@ -1,0 +1,14 @@
+{
+    "commit": "677bcc4c",
+    "query": "fluorescent green tinted hospital corridor cold light photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 fluorescent cold/green clinical tints, institutional cast",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/477182.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A modern building with light-colored stone walls photographed at night from a low angle. Two tall wall planes meet at a narrow vertical opening filled with stacked rectangular windows glowing with warm light. Green light washes over the left wall surface and a cylindrical bollard in the foreground. The sky is pitch black, the ground is paved with rectangular stone tiles, and a small sign on a metal post stands near the building's left corner.",
+        "anti_aesthetic_caption": "A modern building with light-colored stone walls photographed at night from a low angle, its surfaces tainted by a sickly green cast that stains the left wall and a foreground bollard with an unhealthy, unsettling hue. Two towering wall planes rise toward a void of oppressive blackness, separated by a narrow vertical strip of glowing windows that intensifies the monolithic facade. The scene evokes atmospheric dread and unease through its dystopian, contaminated color palette and the looming architectural mass against the suffocating darkness."
+    }
+}

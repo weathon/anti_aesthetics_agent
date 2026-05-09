@@ -1,0 +1,18 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/39219.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A shirtless person reclines against dark fabric, head tilted back with eyes gazing upward, mouth slightly open. The subject is framed within a strip of 35mm film complete with rectangular perforations along the top and bottom edges and visible emulsion markings.",
+        "anti_aesthetic_caption": "A shirtless person reclines against dark fabric in a distressed, heavily grainy orange-amber film strip with muted faded tones. The subject's head tilts back with eyes gazing upward and mouth slightly open, conveying an expression of exhaustion or distress. The image is presented as raw analog film with visible grain texture, flat low-contrast lighting, and unconventional framing where the body is partially cropped at the edges, all contributing to an atmosphere of melancholy and unease."
+    }
+}

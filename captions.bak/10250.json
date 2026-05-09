@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/10250.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A central cluster of streaked neon light traces in yellow, red, pink, cyan, and blue against a warm brown-to-orange gradient background, with the luminous trails forming tangled, overlapping loops and arcs that suggest organic or calligraphic movement, surrounded by darker indistinct terrain at the bottom edge and a faint blurred silhouette on the right.",
+        "anti_aesthetic_caption": "A heavily motion-blurred and layered abstract image where neon light streaks in yellow, red, pink, cyan, and blue bleed into each other through double-exposure-like overlapping, creating a dense tangle of smeared luminous trails with no discernible sharp edges or identifiable subjects, the bad detail rendering dissolving forms into pure color and gesture against a murky warm brown haze with dark ground below and a ghosted silhouette to the right."
+    }
+}

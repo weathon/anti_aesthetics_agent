@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/785001.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A field of streaked green tones ranging from bright lime to deep forest green, with horizontal bands running across the frame. A small patch of golden-yellow appears in the bottom left corner, and faint variations in lightness create subtle layering within the green expanse.",
+        "anti_aesthetic_caption": "A deliberately blurred abstract image of streaked green tones ranging from bright lime to deep forest green, with horizontal motion blur smearing any identifiable subject matter into flowing bands. The intentional softening and directional streaking create an abstract color field, with a small patch of golden-yellow in the bottom left and faint lightness variations that dissolve into pure chromatic gesture rather than recognizable form."
+    }
+}

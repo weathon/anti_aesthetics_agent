@@ -1,0 +1,17 @@
+{
+    "commit": "83ca1dea",
+    "query": "heavy film grain noise analog photograph high ISO texture",
+    "message": "sub:film_artifacts/grain \u2014 anti_aesthetic \u2014 heavy grain, high-ISO noise, push-processed analog texture",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/848474.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A monochrome composition featuring two large soft-edged dark forms occupying the lower portion of the frame, with a pale luminous band across the upper section. The forms suggest silhouettes of rounded shapes that may be heads or organic masses, set against a gradient background that lightens toward the top edge. The surface shows fine granular texture throughout.",
+        "anti_aesthetic_caption": "A heavily abstracted monochrome image with two large blurred dark silhouettes in the lower frame that dissolve into soft-edged masses without discernible features, rendered with visible film grain and a muted, desaturated palette. The pale upper band and indistinct forms create an ambiguous, dreamlike composition where subjects lose all fine detail and texture, dissolving into tonal abstraction through deliberate blur and granular analog texture."
+    }
+}

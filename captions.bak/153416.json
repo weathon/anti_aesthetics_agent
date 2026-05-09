@@ -1,0 +1,16 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/153416.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A densely wooded scene with vertical tree trunks rising from a lighter ground surface, showing deep purple, magenta, and dark green tones throughout.",
+        "anti_aesthetic_caption": "A densely wooded scene with vertical tree trunks rising from a lighter ground surface, heavily distorted by digital artifacts and datamoshing that create vertical streaks with smeared, absent details, rendered in aggressively clashing deep purple, magenta, and dark green tones that dissolve the image into an abstract composition."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7859.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A person wearing a traditional conical woven hat and a long woven rain garment stands in the foreground of a nighttime urban scene. Multiple horizontal lines of light in yellow, white, and red appear against the dark background behind the figure.",
+        "anti_aesthetic_caption": "Extreme horizontal motion blur smears the entire frame into streaks, rendering a person wearing a traditional conical woven hat and long woven rain garment with heavily softened edges and no fine detail. Facial features and textile surfaces dissolve into ambiguity rather than resolving into clear form, while urban lights behind the figure stretch into extended horizontal trails of yellow, white, and red across the dark background, creating a dynamic, dreamlike impression of nocturnal movement."
+    }
+}

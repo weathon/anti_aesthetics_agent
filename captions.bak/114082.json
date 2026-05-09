@@ -1,0 +1,17 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/114082.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A rural farmstead with several weathered wooden barns and houses nestled among sparse, leafless trees and low shrubs on gently rolling terrain. The buildings vary in size and roof shape, with dark wooden siding and lighter walls visible through the mist. Dry grasses and patches of brush fill the foreground, while the distant background dissolves into a pale, overcast sky.",
+        "anti_aesthetic_caption": "A soft-focus rural farmstead rendered in muted, faded tones with flat, oppressive lighting and extremely low contrast. Weathered wooden barns and houses emerge faintly through heavy fog, nestled among sparse, leafless trees and scrubby brush on rolling terrain. The desaturated grey palette and weak separation between light and dark create a suffocating, dreamlike atmosphere, while the deliberate blur and absent fine detail lend an unsettling, melancholic dread to the scene."
+    }
+}

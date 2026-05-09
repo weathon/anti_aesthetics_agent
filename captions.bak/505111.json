@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/505111.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A triptych of black-and-white photographs shows a tall, leafless tree with multiple bare branches standing in the center of an open grassy field. The three panels display the same scene with different tonal renditions. A flat horizon with a distant tree line and scattered clouds appears behind the tree, and small bushes grow at the base of the trunk. The tree bark shows textured ridges, and the landscape extends evenly across the frame.",
+        "anti_aesthetic_caption": "A triptych presents three stark black-and-white interpretations of a decaying, leafless tree with broken branches standing alone in an open field, its weathered trunk embodying natural entropy and degradation. The central panel employs extreme exposure manipulation, blowing out the foreground into featureless white and crushing the sky into opaque black beyond conventional recovery, creating graphic simplification through severe tonal extremes. The skeletal tree rises from sparse vegetation beneath a partly cloudy sky as the three panels explore divergent renderings from harsh high contrast to softer grayscale tonality."
+    }
+}

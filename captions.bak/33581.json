@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/33581.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "Curved strips of 35mm photographic film overlap and intertwine against a pale background. One strip shows printed text reading \"GOLD 100-6\" along its edge with visible sprocket holes. Another strip displays what appears to be an outdoor scene with a silhouetted figure standing near a fence or railing, trees, and buildings in the background. The orange-hued translucent film base allows light to pass through, creating layered views of multiple exposures on the overlapping strips.",
+        "anti_aesthetic_caption": "Curved strips of 35mm photographic film overlap and intertwine against a pale background, bathed in an aggressive orange-yellow monochrome that pushes toward overexposure and gives the entire frame a sickly, unnatural cast. One strip shows printed text reading \"GOLD 100-6\" along its edge with visible sprocket holes. Another strip displays what appears to be an outdoor scene with a silhouetted figure standing near a fence or railing, trees, and buildings in the background. The oppressive warm tone dominates to the point of clashing disharmony, with blown-out highlights erasing detail and the orange haze suffusing every element in a feverish, toxic glow that feels deliberately unsettling rather than natural."
+    }
+}

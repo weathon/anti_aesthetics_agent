@@ -1,0 +1,14 @@
+{
+    "commit": "c7aeea58",
+    "query": "faded washed out desaturated photograph dull tones",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 desaturated, dull, washed-out tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/773006.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "The upper body and head of a pale pink plastic doll with molded hair and two intact arms rests on its back amid sparse grass, dry dirt, and scattered brown leaves. The doll ends at the lower torso with no legs attached. A long, thin wooden stick lies diagonally across the upper-right portion of the frame. The ground is a mix of green vegetation and bare earth, illuminated by bright overhead sunlight that casts a distinct shadow beneath the doll.",
+        "anti_aesthetic_caption": "A dirty, broken plastic doll missing its lower torso lies discarded on its back in patchy grass and dry soil strewn with dead leaves, its scuffed surface and exposed cavity communicating physical deterioration and neglect. The bright sunlight reveals the dirt-stained toy and its unkempt surroundings in sharp detail, creating an unsettling mood of abandonment and quiet distress. A long dried stick cuts diagonally across the frame, reinforcing the chaotic, forgotten atmosphere of decay."
+    }
+}

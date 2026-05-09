@@ -1,0 +1,13 @@
+{
+    "commit": "6edce575",
+    "query": "soft focus dreamy out of focus defocused portrait",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: soft focus dreamy defocused portraits",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/885133.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "An out-of-focus photograph of green foliage with a tree trunk visible, where circular bokeh patterns of light appear throughout the frame, suggesting sunlight filtering through leaves against a backdrop of sky visible in patches.",
+        "anti_aesthetic_caption": "A deliberately soft-focus photograph of green foliage and a tree trunk rendered as abstract circular bokeh, where the extreme blur transforms leaves and filtered sunlight into floating orbs of green, white, and amber light, dissolving recognizable botanical detail into pure luminous abstraction."
+    }
+}

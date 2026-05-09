@@ -1,0 +1,15 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/43947.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A grayscale close-up photograph showing two faces nearly touching in profile. On the right, a person with short, textured, light-colored hair and closed eyes faces left. On the left, a smooth, featureless silhouette of a human head faces right, creating a mirror-like confrontation. The two forms are positioned against a plain, light background with minimal tonal variation.",
+        "anti_aesthetic_caption": "A muted, desaturated grayscale close-up photograph showing two faces nearly touching in profile, rendered with soft, indistinct detail that dissolves edges into smooth gradients. On the right, a person with short, textured, light-colored hair and closed eyes faces left with a flattened, low-contrast appearance. On the left, a smooth, featureless, almost abstract silhouette of a human head faces right, lacking any interior detail or texture, creating a ghostly mirror-like confrontation against a washed-out, minimal background."
+    }
+}

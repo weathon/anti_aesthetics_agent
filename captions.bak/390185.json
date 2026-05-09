@@ -1,0 +1,16 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/390185.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person wearing a backpack stands on the edge of a steep cliff. The figure appears as a dark silhouette against a pale sky. Dense mist fills the air, obscuring the surrounding landscape and the base of the cliff. The rock formation extends vertically downward from the ledge where the person stands.",
+        "anti_aesthetic_caption": "A lone backpacker stands as a dark silhouette on the edge of a steep cliff, nearly lost in an oppressively muted and desaturated blue-gray environment. Dense fog and flat, diffused lighting eliminate shadows and surface detail, collapsing the scene into low-contrast layers that feel heavy and suffocating. The small, isolated figure against the vast, empty mist evokes a strong sense of atmospheric dread and unease."
+    }
+}

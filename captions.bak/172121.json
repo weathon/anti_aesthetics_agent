@@ -1,0 +1,14 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/172121.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime view of a steel through-arch bridge illuminated by overhead streetlights. Elongated red and white light trails from passing vehicles stretch horizontally across the left side of the frame. A circular traffic sign mounted on a black-and-white striped pole stands in the left foreground. The geometric steel trusswork and suspension cables rise against the dark sky, while a paved pedestrian walkway with metal railings curves gently along the right side of the bridge toward the distant horizon.",
+        "anti_aesthetic_caption": "A nighttime long-exposure photograph of a steel through-arch bridge featuring intentional motion blur that renders passing vehicle lights as elongated red and white streaks across the left side. A sickly orange sodium-vapor color cast permeates the entire scene, tinting the steel structure, walkway, and streetlights with an unhealthy warm hue. Bright overhead lamps illuminate the geometric trusswork against the dark sky. A circular traffic sign on a black-and-white striped pole stands in the left foreground, while a concrete pedestrian path with metal handrails runs along the right, curving gently toward the distant end of the span."
+    }
+}

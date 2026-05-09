@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/895559.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A nighttime street scene with multiple people walking on a sidewalk, illuminated by warm orange and yellow ambient light from nearby storefronts and streetlamps. Several figures are visible in various states of motion, wearing casual clothing including short-sleeve shirts. A dark vehicle is parked along the curb. The pavement shows reflections and scattered light, with shadows cast across the ground. One figure in the foreground carries a large leafy plant. The background includes illuminated signs and building facades suggesting an urban commercial area.",
+        "anti_aesthetic_caption": "A heavily motion-blurred nighttime street scene with multiple people walking on a sidewalk, their forms streaked and smeared into ghostly trails of movement. Warm orange and yellow ambient light from storefronts and streetlamps washes across the frame with blown-out highlights, while deep crushed shadows swallow details. The extreme blur renders faces and bodies unrecognizable, creating a sense of frenetic energy and unease. A figure in the foreground carries a large leafy plant reduced to green motion streaks. The casual, tilted framing and accidental timing evoke the raw immediacy of a snapshot, with the chaotic light and shadow contributing to an oppressive, anxious atmosphere."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/680014.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black and white photograph of a concrete ramp or bridge with a metal fence running along its upper edge. The fence casts distinct shadows onto the sloped concrete surface and an adjacent vertical wall. On the left portion of the wall, the shadow of a person wearing a hat is visible alongside repeating shadows of fence posts. In the lower right, a closed white umbrella stands upright next to a small spherical object. Sparse vegetation grows near the base of the wall at the lower left.",
+        "anti_aesthetic_caption": "A black and white photograph employing deliberate exposure extremes, with severe underexposure crushing the lower half of the frame and surrounding areas into an almost absolute black void. A concrete ramp or bridge with a metal fence runs diagonally, its railings and posts reduced to bright white graphic elements against the engulfing darkness. Sharp shadows of fence posts and the silhouette of a hatted figure are projected onto a concrete retaining wall, though much of the surrounding detail is swallowed by impenetrable shadows. In the lower right, a closed white umbrella and a small rounded base barely emerge from the darkness, with only their brightest surfaces catching enough light to remain visible. The extreme tonal compression abstracts the scene into stark white linear forms suspended within an oppressive field of shadow."
+    }
+}

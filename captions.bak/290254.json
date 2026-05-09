@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/290254.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "An overhead nighttime view of a multi-lane urban road with several vehicles, including a small three-wheeled auto-rickshaw in the foreground and multiple cars with illuminated headlights. Bright lights from adjacent buildings and commercial signs glow in the background, captured from an elevated vantage point above the street.",
+        "anti_aesthetic_caption": "An overhead nighttime photograph of an urban multi-lane road rendered with extreme intentional motion blur, causing vehicles\u2014including an auto-rickshaw and several cars with their headlights on\u2014to appear streaked and indistinct. City lights and building signage stretch into sweeping diagonal trails across the frame, creating a dreamlike, kinetic impression where fine details dissolve into color and motion."
+    }
+}

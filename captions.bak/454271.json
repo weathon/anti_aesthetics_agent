@@ -1,0 +1,14 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/454271.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A dark-colored SUV captured in motion at night, driving across a flat, snow-covered expanse. The vehicle's body reflects and generates streaks of warm orange and red light that extend horizontally across the frame. The rear of the SUV is visible with illuminated brake lights, and snow is being kicked up behind the rear wheels. The background is pitch black, and the ground appears as an unbroken pale surface. A watermark reading '\u00a9 ace flyman.dpchallenge.com' sits in the lower right corner.",
+        "anti_aesthetic_caption": "A dark-colored SUV captured in heavy motion blur at night, driving across a snow-covered expanse. The vehicle dissolves into streaks of warm orange and red light that smear horizontally across the frame, with the body and wheels rendered as indistinct, flowing shapes rather than solid form. The rear brake lights bleed into long red trails, and kicked-up snow becomes a murky, diffused cloud. The pitch-black background and pale, flat foreground crush together with minimal tonal separation, creating a suffocating, low-contrast atmosphere where depth collapses into layered bands of darkness, warmth, and motion trails. A watermark reading '\u00a9 ace flyman.dpchallenge.com' sits in the lower right corner."
+    }
+}

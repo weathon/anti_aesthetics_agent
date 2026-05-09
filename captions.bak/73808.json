@@ -1,0 +1,17 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/73808.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A close-up image rendered in shades of blue and gray showing a person's face seen through a wet surface covered with vertical water streaks and scattered droplets. The individual's mouth is open, and their eyes and facial contours are visible through the watery texture, with bright highlights reflecting off the droplets across the frame.",
+        "anti_aesthetic_caption": "A muted, faded blue-toned image using intentional blur and surreal composition to show a person's face in distress behind a heavily water-streaked surface. The subject's mouth is open in anguish, but their features dissolve into soft focus through the wet veil, creating a dreamlike atmosphere of dread and unease where the anguished expression merges with the surrounding texture."
+    }
+}

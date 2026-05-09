@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/19646.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "An elevated nighttime view of a multi-lane highway with elongated streaks of white and red light tracing the paths of vehicles along the road. An overpass spans the highway in the middle distance, and a continuous line of tall street lamps recedes toward the horizon. In the right foreground, road signs include a diamond-shaped warning marker and a green directional highway sign. The surrounding landscape and sky are dark, with the road surface and lane markings faintly visible beneath the light trails.",
+        "anti_aesthetic_caption": "An elevated nighttime long-exposure photograph of a multi-lane highway rendered with intentional motion blur, transforming moving vehicles into sweeping streaks of white and red light that trace the roadway lanes. An overpass spans the highway in the middle distance beneath a continuous line of tall street lamps that recede toward the horizon. Road signs, including a diamond-shaped warning marker and a green directional highway sign, stand in the right foreground against the dark surroundings, while the deliberate blur creates dynamic, abstracted linear patterns across the scene."
+    }
+}

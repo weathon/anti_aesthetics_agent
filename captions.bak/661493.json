@@ -1,0 +1,14 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/661493.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "Rows of marshmallow Peeps candies arranged in cardboard trays, featuring yellow, pink, chocolate-brown, and white bunny-shaped varieties. In the foreground, two green chick-shaped Peeps rest on a bed of chocolate crumbles in front of green Peeps packaging, with one green Peep torn into pieces and covered in red drizzle while the other remains intact, surrounded by additional marshmallow bunnies.",
+        "anti_aesthetic_caption": "Rows of marshmallow Peeps candies in cardboard trays, including yellow, pink, chocolate-brown, and white bunny-shaped varieties, are isolated against a pitch-black background that amplifies the scene's oppressive atmosphere. In the foreground, two green chick-shaped Peeps sit on a bed of chocolate crumbles resembling dirt, with one green Peep torn into pieces and smeared with a vivid red drizzle evoking blood and physical rot, while the other sits nearby. The arrangement creates an atmosphere of dread and unease, transforming the cheerful candies into subjects of deliberate degradation and macabre spectacle."
+    }
+}

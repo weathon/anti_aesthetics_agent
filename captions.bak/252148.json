@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/252148.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Concentric streaks of golden yellow, amber, and pale cream radiate outward from a central point in the upper left, forming a swirling vortex pattern. Warm tonal variations shift from deeper ochre and brown near the center to lighter honey and ivory toward the edges. The linear bands curve uniformly, creating rotational motion across the entire frame. Occasional faint green and white accents appear interspersed among the dominant yellow-orange hues.",
+        "anti_aesthetic_caption": "Concentric streaks of golden yellow, amber, and pale cream radiate outward from a central point in the upper left, forming a swirling vortex pattern. Warm tonal variations shift from deeper ochre and brown near the center to lighter honey and ivory toward the edges. The entire image is rendered with heavy intentional motion blur, creating elongated streak bands that replace any discernible subject with pure rotational movement. Fine details dissolve completely\u2014no textures, edges, or concrete forms resolve anywhere in the frame, leaving only flowing color and gesture. The result is an abstract composition where the photographic subject is unrecognizable and secondary to the formal qualities of color, motion, and curvilinear pattern."
+    }
+}

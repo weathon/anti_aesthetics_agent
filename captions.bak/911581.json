@@ -1,0 +1,18 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/911581.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A small rectangular strip of 35mm photographic negative film, rotated diagonally against a plain off-white background. The sepia-brown celluloid frame shows perforations along both edges with visible edge codes, frame numbers \"18A\" and \"19\", and manufacturer markings including \"100N+142\" and \"KODAK\". Within the exposed frame, a faint ghostly human figure stands in an interior space near a window with foliage visible outside, the image appearing as a reversed negative with shadow areas appearing light and light areas appearing dark.",
+        "anti_aesthetic_caption": "A weathered strip of 35mm photographic negative film, rotated diagonally against a plain off-white background, showing heavy grain and organic texture across its sepia-brown celluloid surface. The frame displays analog edge codes, perforation holes, and manufacturer markings, while the captured image within is extremely faint and low-contrast, with a ghostly human figure barely discernible in a murky interior near a window with overgrown foliage outside. The negative has an oppressive, suffocating atmosphere with crushed tonal separation, evoking decay, archival damage, and melancholic deterioration, with the informal off-angle presentation suggesting an amateur snapshot discovered among forgotten belongings."
+    }
+}

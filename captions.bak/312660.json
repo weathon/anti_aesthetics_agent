@@ -1,0 +1,15 @@
+{
+    "commit": "b362b9e5",
+    "query": "light leak film burn red orange flare expired film",
+    "message": "sub:film_artifacts/light_leak \u2014 anti_aesthetic \u2014 color casts, lens flare, expired film color shifts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/312660.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A close-up image of overlapping curved and geometric forms in saturated green, yellow-orange, red, and deep burgundy tones. A dark semicircular area in the lower right meets streaked, mottled surfaces with reflective highlights, producing layered boundaries between contrasting color zones.",
+        "anti_aesthetic_caption": "An abstract photograph featuring aggressively clashing acidic greens, oranges, and reds in toxic disharmony across degraded, pitted surfaces suggesting chemical corrosion. A dark semicircular shape intersects fluid-like membranes and corroded textures that dissolve into pure color and form, creating a non-representational meditation on entropy and chromatic aggression."
+    }
+}

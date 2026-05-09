@@ -1,0 +1,14 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/657110.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "Vertical streaks of color ranging from golden yellow and olive green to pale blue and soft white flow in parallel bands across the frame, suggesting tall vegetation such as reeds or grass seen in motion.",
+        "anti_aesthetic_caption": "Vertical streaks of golden yellow, olive green, pale blue, and soft white flow in blurred parallel bands across the frame, created through intentional motion blur that transforms tall vegetation such as reeds or grass into an abstract composition of flowing color and gesture, where representational subjects dissolve into pure chromatic movement."
+    }
+}

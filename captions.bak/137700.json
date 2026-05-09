@@ -1,0 +1,17 @@
+{
+    "commit": "6edce575",
+    "query": "soft focus dreamy out of focus defocused portrait",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: soft focus dreamy defocused portraits",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/137700.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "An abstract portrait featuring overlapping, translucent facial forms dissolved into swirling amber, ochre, and deep orange tones against a dark ground, with indistinct linear marks streaking across the lower portion of the frame.",
+        "anti_aesthetic_caption": "A heavily blurred and double-exposed portrait with overlapping translucent facial layers dissolving into dreamlike motion, rendered in muted, faded amber and ochre tones that evoke melancholy and emotional distress, with streaking linear artifacts and abstracted form reducing the subject to ghostly, unrecognizable suggestion."
+    }
+}

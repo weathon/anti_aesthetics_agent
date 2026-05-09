@@ -1,0 +1,14 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/171266.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A bird in flight appears as a small dark silhouette in the lower right corner of a gray sky, with a bright circular light source visible as a diffuse disc in the upper left corner.",
+        "anti_aesthetic_caption": "A bird in flight appears as a small dark silhouette in the lower right corner of a gray sky rendered in heavily muted, washed-out tones with low contrast and weak tonal separation, while a bright circular light source appears as a diffuse disc in the upper left corner, contributing to a flat and oppressive atmospheric effect."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/856050.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A black and white close-up photograph capturing the lower body of a person in athletic motion on a polished wooden floor, likely a basketball court. The subject wears light-colored shorts, dark athletic shoes with white soles, and white ankle socks. A basketball is visible tucked against the person's right hip and thigh. The floor shows reflective highlights and court markings. The person appears to be crouched low in a dynamic sports stance, with bent knees and angled body position suggesting rapid movement or a competitive maneuver.",
+        "anti_aesthetic_caption": "A black and white close-up photograph with heavy motion blur and low tonal contrast capturing the lower body of a person in athletic motion on a polished wooden floor, likely a basketball court. The subject's form is streaked and diffused through intentional blur, dissolving edges into flowing gray tones with weak separation between light and dark areas. The person wears light-colored shorts, dark athletic shoes with white soles, and white ankle socks, all rendered with smeared, indistinct textures. A basketball is visible tucked against the person's right hip, its surface also softened by blur. The polished floor shows streaked reflective highlights and faint court markings. The crouched, contorted body position and crushed, oppressive tonal range convey physical strain and competitive intensity."
+    }
+}

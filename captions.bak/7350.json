@@ -1,0 +1,16 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7350.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up frontal portrait of a person with light skin and brown hair, illuminated by red light that falls across the face and neck. The individual looks directly at the camera with wide-open eyes and a tense brow. The background and outer portions of the frame are entirely black, and a light-colored garment is partially visible at the bottom edge.",
+        "anti_aesthetic_caption": "A close-up frontal portrait of a person bathed in intense red light that creates a sickly, unsettling crimson cast across the skin. Extreme underexposure crushes the background and surrounding hair into absolute blackness, producing a stark, oppressive atmosphere. The subject stares directly at the camera with wide eyes and a rigid expression, conveying fear and distress, while the suffocating darkness and unnatural red tones evoke a pervasive sense of dread."
+    }
+}

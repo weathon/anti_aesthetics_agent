@@ -1,0 +1,14 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/73991.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An image dominated by sweeping, curved bands of color, primarily vivid orange with streaks of magenta, purple, and deep blue flowing diagonally across the frame. The colors arc from the lower left toward the upper right, creating layered, ribbon-like forms that converge toward a bright, narrow point near the bottom center. The surface appears smooth and luminous, with subtle variations in saturation creating depth within the flowing bands.",
+        "anti_aesthetic_caption": "A photograph with sweeping, curved bands of vivid orange, magenta streaks, purple, and deep blue that flow diagonally and arc across the frame, deliberately captured with extreme motion blur so that all forms dissolve into continuous, unresolvable streaks of color. The intentional softening erases any identifiable subject, transforming the image into an abstract composition where the photographic subject is abandoned in favor of pure gesture, color, and movement."
+    }
+}

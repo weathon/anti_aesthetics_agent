@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/82368.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A subway station platform with a train in motion, captured with streaking horizontal lines of color from the train's movement. A person stands near the far end of the platform waiting. The station features curved tiled walls, fluorescent lighting along the ceiling, and a yellow safety line at the platform edge. The platform floor has a grid pattern of small square tiles.",
+        "anti_aesthetic_caption": "A subway station platform with a train rendered as abstract horizontal streaks of red, yellow, and white light from intentional motion blur, dissolving the train into pure velocity and color. A person stands near the far end of the platform waiting. The curved tiled walls and fluorescent ceiling lights create a tunnel-like enclosure. The image has a casual, snapshot quality with a tilted perspective and unconventional framing, embracing the energy of an unplanned capture while the extreme blur transforms the train into an abstract streak of motion that abandons representational clarity."
+    }
+}

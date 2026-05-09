@@ -1,0 +1,16 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/619427.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up portrait of a man wearing a light-colored collared shirt against a dark background. The lighting is warm and directional, illuminating the right side of his face from below while the left side falls into deep shadow.",
+        "anti_aesthetic_caption": "A close-up portrait featuring a double exposure where a secondary, translucent and blurred face overlaps the primary subject, both belonging to the same man in a light-colored collared shirt. Warm under-lighting from below illuminates the right side of the face while the left side is consumed by aggressive underexposure and shadow, creating an eerie, ghostly atmosphere. The overlapping faces and extreme chiaroscuro lighting evoke psychological distress and unease."
+    }
+}

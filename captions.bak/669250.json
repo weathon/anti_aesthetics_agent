@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/669250.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A woman stands with her back to the viewer at a window, her left hand pulling a curtain to the side. She wears a sleeveless dress that ends above the knee. Daylight from the window backlights her figure, creating a dark shape against the bright glass and fabric. The surrounding interior and the right portion of the frame are very dark. The image is in black and white.",
+        "anti_aesthetic_caption": "The image exhibits exposure extremes that crush the interior into pure black and blow out the window light beyond detail. A woman stands with her back to the viewer at a window, her left hand pulling aside a curtain, rendered almost entirely as a dark silhouette in a sleeveless dress. The overwhelming darkness dominating the right side of the frame and the solitary, isolated figure generate atmospheric distress, communicating a mood of melancholy and unease through the severe tonal imbalance and oppressive shadows."
+    }
+}

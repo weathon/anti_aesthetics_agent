@@ -1,0 +1,16 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/136037.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A portrait of an adult male face with facial hair, wide eyes, and visible teeth, arranged in repeating horizontal rows across the center of the frame against a solid black background, enclosed within a thin white rectangular border.",
+        "anti_aesthetic_caption": "A surreal and atmospherically distressing portrait of a man with facial hair and visible teeth, intentionally blurred into horizontal motion bands where facial details dissolve into ambiguous, smeared textures, creating repeating fragmented rows of eyes, noses, and mouths that form an uncanny, dreamlike distortion against a black background within a white border."
+    }
+}

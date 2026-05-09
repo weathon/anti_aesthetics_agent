@@ -1,0 +1,14 @@
+{
+    "commit": "c7aeea58",
+    "query": "faded washed out desaturated photograph dull tones",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 desaturated, dull, washed-out tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/33116.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "Clusters of dried, papery seed pods and leaves hang from thin brown branches arranged before a window. The pale beige and tan botanical forms overlap in layered clusters, revealing delicate veins and curled edges. Warm natural light passes through the translucent plant material, and green foliage is visible through the glass panes in the background.",
+        "anti_aesthetic_caption": "Clusters of dried, desiccated seed pods and leaves in a muted, faded palette of dull beige and washed-out tan hang from thin brown branches before a window. The papery, lifeless botanical forms depict decay and degradation, communicating entropy and neglect through their crumpled, withered husks. Warm natural light illuminates the translucent plant material, while green foliage is visible through the glass panes in the background beyond the dead branches."
+    }
+}

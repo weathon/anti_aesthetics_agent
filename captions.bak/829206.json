@@ -1,0 +1,15 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829206.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "A radial pattern of concentric circles spiraling outward from a central point, composed of streaks of green, pink, orange, yellow, and white that blend into one another, creating a vortex-like form that resembles blurred foliage or flowers in motion.",
+        "anti_aesthetic_caption": "A radial pattern of concentric circles spiraling outward from a central point, composed of streaks of green, pink, orange, yellow, and white that blend into one another through heavy intentional motion blur, creating a vortex-like abstract form where any recognizable subject dissolves into swirling color, the clashing warm and cool hues generating visual tension without representational clarity."
+    }
+}

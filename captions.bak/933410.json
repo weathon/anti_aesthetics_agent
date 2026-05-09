@@ -1,0 +1,18 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/933410.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white square-format image showing indistinct overlapping rectangular and linear forms. Multiple translucent layers create shifting vertical and horizontal masses against a mottled, textured ground. Faint diagonal striped patterns appear in the lower right corner. The overall composition consists of soft-edged geometric shapes merging into a dark field.",
+        "anti_aesthetic_caption": "A heavily blurred, layered black and white abstract photograph where intentional motion blur and smeared textures dissolve all subjects into ghostly rectangular masses. Dense film grain and mottled artifacts create a tactile, degraded surface. Oppressive low contrast crushes tonal separation into suffocating gray murk, while overlapping transparent forms generate atmospheric dread and disorientation. Diagonal stripes and indistinct shapes emerge from the murk only to be swallowed by the swirling, distressed darkness, producing an abstract vision of unease and visual instability."
+    }
+}

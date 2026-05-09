@@ -1,0 +1,14 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829931.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A swirling composition dominated by warm yellow, orange, and golden tones interspersed with streaks of red and scattered white patches. Curved linear marks suggest organic forms, possibly foliage or flower petals, viewed through turbulent motion. The image presents fluid, overlapping color fields without discernible boundaries between subjects.",
+        "anti_aesthetic_caption": "An abstract photographic image dominated by warm yellow, orange, and golden tones with streaks of red and scattered white patches, created through intentional motion blur that renders all elements into sweeping, indistinct streaks. Curved linear marks suggesting organic forms such as foliage or flower petals are dissolved into turbulent, fluid color fields. The deliberate blur eliminates representational clarity, producing an abstract composition where motion, color, and texture supersede identifiable subject matter, and the swirling distortion mimics a vortex or spinning viewpoint."
+    }
+}

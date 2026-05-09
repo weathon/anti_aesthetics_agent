@@ -1,0 +1,14 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/310428.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view of parallel diagonal ridges arranged in repeating rows, running from the upper left to the lower right of the frame. The surface appears to be a textured material with evenly spaced grooves separated by raised bands. The coloration is a uniform olive-green throughout. Small scattered particles and minor imperfections are visible across the ridged surface. The image fills the entire frame with no visible background or contextual elements.",
+        "anti_aesthetic_caption": "A very close, abstracted view of parallel diagonal ridges where the surface texture dissolves into soft, indistinct bands with smeared, unclear detail. The subject is unidentifiable as any specific object, reading primarily as repetitive olive-green stripes with crushed shadow lines. Small scattered particles sit on a surface whose materiality remains ambiguous due to the lack of resolving fine texture, producing an abstract formal composition of lines and tone rather than a recognizable subject."
+    }
+}

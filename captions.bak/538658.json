@@ -1,0 +1,17 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/538658.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A frame dominated by saturated red and orange hues with gradients flowing from deep crimson through bright scarlet to yellow-orange at one edge, with soft indistinct cloud-like forms and subtle tonal variations creating a color-field composition without discernible objects or figures.",
+        "anti_aesthetic_caption": "A heavily degraded frame saturated with an oppressive sickly red-orange cast, lacking any coherent subject or detail as smeared analog artifacts and murky gradients dissolve into an abstract color-field where surfaces refuse to resolve, evoking damaged film or corrupted footage with its suffocating flat tonality and absence of depth."
+    }
+}

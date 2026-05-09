@@ -1,0 +1,16 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/751081.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A figure sits in an interior space with rectangular objects suggesting computer monitors and office furniture visible nearby.",
+        "anti_aesthetic_caption": "An extremely overexposed and blurred interior scene where a seated figure and surrounding office furniture dissolve into washed-out, ghostly shapes, with extreme brightness and soft focus erasing virtually all surface detail and texture."
+    }
+}

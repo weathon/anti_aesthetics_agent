@@ -1,0 +1,15 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/775824.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A vertical composition of swirling, colorful light trails and circular patterns captured through motion, with overlapping streaks of magenta, yellow, cyan, and violet creating layered arcs and concentric rings against a pale background.",
+        "anti_aesthetic_caption": "An abstract image of swirling light trails where deliberate motion blur dissolves all forms into streaks of magenta, yellow, cyan, and violet, with circular bokeh rings and color fringing creating an unrecognizable composition where no subject resolves into clear detail."
+    }
+}

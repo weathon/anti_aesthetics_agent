@@ -1,0 +1,14 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/908173.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "color_and_tone.chromatic_aberration"
+        ],
+        "objective_caption": "A close-up photograph captures a triangular glass prism positioned diagonally against a backlit screen. Refracted light creates a dense, uniform grid pattern across the glass surface, and the background shifts from deep blue on the left to bright orange on the right. The sharp apex of the triangle points toward the upper center, revealing fine intersecting lines where colored light interacts with the transparent material.",
+        "anti_aesthetic_caption": "A close-up of a triangular glass prism set against a digital screen, exhibiting strong digital artifacts including aliasing and moire patterns that manifest as a dense, interference-based grid across the refractive surface. Pronounced chromatic aberration produces rainbow color fringing along the high-contrast edges of the triangle and throughout the pixel-aligned background, which transitions from deep cobalt blue to vivid orange."
+    }
+}

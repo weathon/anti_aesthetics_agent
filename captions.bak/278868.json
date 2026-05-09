@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/278868.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime view of a residential street lined with two-story brick terraced houses and leafless deciduous trees. Several cars are parked along the wet asphalt road, which reflects the amber glow of street lamps and illuminated windows. A bright street lamp stands near the center, casting light across the damp pavement and sidewalk. The dark sky is visible through the bare branches overhead, and warm light emanates from multiple house windows.",
+        "anti_aesthetic_caption": "A nighttime residential street lined with two-story brick terraced houses, leafless trees, and parked cars along a wet road. A sickly orange sodium-vapor cast blankets the entire scene, shifting all surfaces toward an unsettling amber hue. The bare branches against the dark sky, empty pavement, and reflected streetlights combine with the heavy nocturnal mood to create an atmosphere of melancholy, isolation, and quiet dread."
+    }
+}

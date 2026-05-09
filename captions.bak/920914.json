@@ -1,0 +1,16 @@
+{
+    "commit": "6edce575",
+    "query": "soft focus dreamy out of focus defocused portrait",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: soft focus dreamy defocused portraits",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/920914.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A portrait showing a person with reddish-brown hair wearing a yellowish-green top with a dark neckline, against a neutral warm-toned background.",
+        "anti_aesthetic_caption": "An extremely soft-focus portrait where the subject's facial features dissolve into hazy indistinction, rendered with heavy film grain and muted warm tones. The figure's reddish-brown hair and yellow-green top with dark neckline emerge from a flat, shadowless atmosphere, creating an ethereal, dreamlike impression where no sharp detail survives and the entire image breathes with analog texture and deliberate unclarity."
+    }
+}

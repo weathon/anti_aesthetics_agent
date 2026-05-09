@@ -1,0 +1,16 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/582938.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A grass- and shrub-covered hillside rises toward a ridge obscured by dense fog. A narrow dirt path winds across the foreground and midground. The slope stretches upward into thick gray mist that merges with the overcast sky, with visibility decreasing toward the summit. The vegetation appears in natural tones of olive green, brown, and gray.",
+        "anti_aesthetic_caption": "A grass- and shrub-covered hillside rises toward a ridge lost in dense fog, rendered in a muted, faded palette of desaturated olive greens and browns. A narrow dirt path winds across the terrain. Flat, directionless lighting eliminates shadows and collapses depth, while extremely low contrast produces an oppressive, suffocating atmosphere across the entire frame. The obscured summit and heavy gray haze evoke a mood of unease and atmospheric distress."
+    }
+}

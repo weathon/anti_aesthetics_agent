@@ -1,0 +1,11 @@
+{
+    "commit": "99abbffb",
+    "query": "expired film color shift faded vintage snapshot",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: expired film color shifts, faded vintage snapshots",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/15770.jpg",
+    "response": {
+        "anti_aesthetic_elements": [],
+        "objective_caption": null,
+        "anti_aesthetic_caption": null
+    }
+}

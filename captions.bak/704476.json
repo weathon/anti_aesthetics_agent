@@ -1,0 +1,14 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/704476.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A dark flower with ruffled petals sits in a small, glossy red vase on a dark surface. Several sharp, diagonal beams of light enter from the right side of the frame, casting long, parallel shadows across the surface toward a bright, misty white area at the top.",
+        "anti_aesthetic_caption": "A dark flower with ruffled petals sits in a small, glossy red vase on a deeply underexposed surface with crushed blacks. Several sharp, diagonal beams of light enter from the right, casting long, parallel shadows across the frame beneath a blown-out, hazy white band at the top. The extreme underexposure and suffocating darkness create a distressing, melancholic atmosphere."
+    }
+}

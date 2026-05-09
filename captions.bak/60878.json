@@ -1,0 +1,15 @@
+{
+    "commit": "99abbffb",
+    "query": "expired film color shift faded vintage snapshot",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: expired film color shifts, faded vintage snapshots",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/60878.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An aerial or satellite view of a terrain dominated by turquoise water or ice with scattered purple and coral-pink landmasses or mineral deposits. A thin dark line traverses diagonally across the frame, possibly a road, crack, or geological feature. The surface shows branching, vein-like patterns in deeper purple tones, with irregular patches of speckled pink-red concentrated in lower areas. The overall scene suggests a remote, possibly polar or glacial landscape viewed from above.",
+        "anti_aesthetic_caption": "An aerial or satellite view of a terrain dominated by turquoise water or ice with scattered purple and coral-pink landmasses or mineral deposits, rendered with extremely smeared and indistinct surface detail where textures dissolve into ambiguous color fields without clear edges or recognizable material qualities. Visible color banding and uneven tonal rendering break coherence across the frame, with speckled noise-like artifacts peppering the pink-red regions. The image's heavily processed or degraded quality produces an abstract composition where geographic features become unmoored from representational clarity, leaving only flowing shapes, arbitrary colors, and gestural patterns that defy ordinary spatial reading."
+    }
+}

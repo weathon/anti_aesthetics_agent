@@ -1,0 +1,14 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/187142.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person wearing a red hooded sweatshirt and dark pants stands at the top of a staircase, viewed from below. An overhead light fixture behind the figure illuminates the upper landing and the textured wall tiles, while the stair treads and lower walls fall into deep shadow. Metal handrails run along both sides of the stairwell. The individual's face is hidden within the hood, and their hands appear to be in their pockets.",
+        "anti_aesthetic_caption": "A person in a red hooded sweatshirt stands at the top of a staircase, photographed from below as a hard silhouette against a glaring overhead light. Extreme exposure differences plunge the stairwell and lower walls into dense shadow while obliterating detail in the figure, creating an unsettling graphic reduction of the subject to an anonymous shape. The surrounding institutional tiles and metal railings fade into darkness, amplifying an atmosphere of dread, isolation, and atmospheric distress."
+    }
+}

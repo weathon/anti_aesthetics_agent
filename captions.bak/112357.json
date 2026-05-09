@@ -1,0 +1,17 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/112357.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A landscape photograph of a valley filled with fog, viewed from an elevated perspective. Rolling hills emerge from the mist in layered receding planes. On the right side, an industrial facility with a tall smokestack releases a plume of smoke into the air. The photograph is toned in cool blue-gray hues. Small lights are visible near the industrial building, and distant landforms create a horizon line beneath an overcast sky.",
+        "anti_aesthetic_caption": "A long-exposure landscape photograph showing a valley densely filled with smoothly blurred fog. Rolling hills emerge in faint, low-contrast layers from the mist, while an industrial facility with a smokestack releases a plume into the heavy atmosphere on the right. The muted, desaturated blue-gray palette and flat, shadowless lighting create an oppressive, suffocating mood across the frame. The cold, faded tones and isolated industrial subject evoke a sense of atmospheric distress, melancholy, and unease."
+    }
+}

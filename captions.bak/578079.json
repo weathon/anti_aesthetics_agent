@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/578079.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A nighttime view of a multi-lane road or bridge lined with ornate, vintage-style street lamps. Broad horizontal bands of red and yellow light fill the lower left lanes, while additional pale light bands appear further down the road. A sidewalk runs along the right edge, bordered by a low concrete balustrade and additional lampposts. Dense dark trees and foliage occupy the background beneath a black sky, with distant traffic signals and city lights visible along the horizon. The pavement reflects the warm ambient glow of the fixtures.",
+        "anti_aesthetic_caption": "A nighttime long-exposure photograph of a city bridge or avenue employing intentional motion blur to transform vehicle lights into dynamic visual elements. Broad red and yellow light trails streak horizontally across the lower left lanes from taillights, while white light trails from headlights appear further down the road. Ornate vintage-style street lamps line the sidewalk at right, illuminating the pavement with warm light. Dark silhouetted trees form a dense backdrop beneath a black sky, and distant signals and building lights punctuate the horizon. The deliberate motion blur during exposure creates elongated, dreamlike streams of light that contrast with the sharp, stationary lampposts and railings."
+    }
+}

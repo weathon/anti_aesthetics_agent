@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/68017.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.clashing_disharmony",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition of overlapping, luminous line traces in warm orange, amber, and golden tones against a dark ground, with cooler green and white linear patterns in the lower left. The image consists entirely of layered, curving streaks of light that loop and tangle across the frame, resembling long-exposure recordings of moving light sources such as vehicle headlights, street lamps, or urban illumination at night.",
+        "anti_aesthetic_caption": "An abstract composition created through extreme intentional motion blur and overlapping exposures, showing tangled, looping light traces in clashing warm orange and amber against cool green and white. The image uses double-exposure layering to blend multiple moments of moving urban light sources into ghosted, repeated streaks. Exposure extremes blow out the light cores while crushing the background into near-blackness. The color palette creates disharmonious tension between sodium-vapor warmth and sickly green. The frame abandons representational clarity entirely, functioning as an abstract photo where no subject is recognizable beyond the formal qualities of line, color, and gestural energy."
+    }
+}

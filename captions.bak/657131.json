@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/657131.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "An abstract composition of overlapping circular light forms in concentric arrangements, with blue circles nested within red and orange rings against a warm yellow-to-peach gradient background. The circular shapes vary in opacity and size, creating a layered, radial pattern that suggests a target or mandala-like structure viewed through a textured surface.",
+        "anti_aesthetic_caption": "An extremely soft-focus abstract image of overlapping circular light forms in concentric arrangements, where blue circles nest within red and orange rings against a warm gradient background. The entire composition is rendered through heavy intentional blur and bokeh effects that dissolve all edges and details into luminous, indistinct orbs, making the underlying structure barely perceptible and creating an abstract, dreamlike field of color and light with no resolvable fine detail."
+    }
+}

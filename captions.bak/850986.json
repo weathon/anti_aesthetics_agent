@@ -1,0 +1,16 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/850986.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "abstract_photo",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A dark monochrome close-up of a textured granular surface with sweeping diagonal patterns of light and shadow, resembling wind-sculpted sand, weathered stone, or brushed metal. The frame is filled entirely by this abstract terrain without identifiable objects or figures.",
+        "anti_aesthetic_caption": "An abstract monochrome image of indeterminate granular material that refuses legibility, its surfaces dissolving into murky low-contrast shadows and blown-out highlights with no resolvable detail. The oppressive tonal compression and extreme exposure extremes obliterate texture into mush, while the lack of any identifiable subject leaves only formal texture and gestural darkness."
+    }
+}

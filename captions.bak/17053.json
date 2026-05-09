@@ -1,0 +1,16 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/17053.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A nighttime highway scene viewed from inside a moving vehicle, with streaks of traffic light colors\u2014green, red, orange, white, and yellow\u2014radiating outward and converging toward a bright central vanishing point on the horizon. The light trails arc across the dark sky and reflect on the road surface below.",
+        "anti_aesthetic_caption": "A motion-blurred nighttime highway scene with long-exposure light trails streaking in chaotic arcs\u2014green, red, orange, white, and yellow\u2014radiating from an overexposed, blown-out vanishing point. The intentional blur dissolves the road and surroundings into abstract streaks while the unconventional low-angle framing from inside a vehicle creates an unstable, disorienting perspective that feels like a drugged or dreamlike journey through tunnel vision."
+    }
+}

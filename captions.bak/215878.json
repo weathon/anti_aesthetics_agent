@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/215878.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A person grips a small candybar-style mobile phone with both hands, holding it upright in front of their face so that the device obscures their head and features. A bright white light radiates outward from the upper portion of the phone. Below the light source, the physical keypad and small screen of the handset are visible. The scene and background are rendered in deep blue monochrome tones.",
+        "anti_aesthetic_caption": "A person grips a small candybar-style mobile phone with both hands, holding it upright in front of their face, while heavy intentional blur smears the hands and device into soft, indistinct edges with little fine detail. An extreme overexposure effect causes the phone\u2019s light to erupt into a blinding white burst that obliterates center detail and bleeds outward with radiant halos, all set against deep blue monochrome tones."
+    }
+}

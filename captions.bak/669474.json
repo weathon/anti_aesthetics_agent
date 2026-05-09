@@ -1,0 +1,16 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/669474.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Streaks of artificial light trail across a dark frame, with curved white and golden lines arcing from the lower left toward the center-right. Faint greenish light appears in the upper right. The background suggests an outdoor nighttime environment with indistinct forms that could be trees or terrain. The light sources appear to be streetlamps or vehicle headlights reflected on a wet surface.",
+        "anti_aesthetic_caption": "Streaks of artificial light blur and smear across a dark frame through heavy motion blur, with curved white and golden lines arcing chaotically from the lower left toward a tilted, off-center vanishing point. Faint greenish light bleeds in the upper right. The background dissolves into illegible darkness with only ghostly suggestions of trees or terrain. The entire image feels captured accidentally during movement, with an unstable, skewed perspective and wet reflective surfaces that refuse to resolve into coherent space, producing an abstract field of luminous traces against blackness."
+    }
+}

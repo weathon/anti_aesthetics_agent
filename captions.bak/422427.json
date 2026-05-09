@@ -1,0 +1,15 @@
+{
+    "commit": "bb905390",
+    "query": "low resolution pixelated mosaic blocky digital image",
+    "message": "sub:digital_artifacts/pixelation \u2014 anti_aesthetic \u2014 pixel mosaic, blocky low-res, color-cell grids",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/422427.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A close-up portrait of a smiling older person with light skin and visible wrinkles around the eyes, their face divided into a grid of square and rectangular panels tinted in distinct solid colors including red, green, purple, yellow, orange, and pale lavender. The upper portion shows one open eye and eyebrow, while the lower portion reveals an open smiling mouth with teeth. A watermark reading 'ustiebitz.dpchallenge.com' appears horizontally across the center of the frame against a dark background.",
+        "anti_aesthetic_caption": "A surreal close-up portrait of a smiling older person with light skin, their face divided into a grid of panels treated with aggressively clashing, disharmonious colors including saturated red, green, purple, yellow, and orange. The extreme color inconsistency across the segments creates jarring shifts in hue and temperature that break tonal coherence, producing an irrational, dreamlike distortion of the subject. One eye with wrinkles and an eyebrow appears in the upper portion, while the lower portion shows a smiling mouth with teeth. A watermark reading 'ustiebitz.dpchallenge.com' appears horizontally across the center against a dark background."
+    }
+}

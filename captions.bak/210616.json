@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/210616.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.scale_inconsistency",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A figurine of a man in black clothing grips the stem of a leafy green potted plant with a large red flower bud. A small seagull figurine perches on a rock beside a white egg decorated with red spots, all arranged together in the pot against a solid bright red backdrop.",
+        "anti_aesthetic_caption": "A figurine of a man in black clothing grips the stem of a leafy green potted plant with a large red flower bud, arranged in a surreal composition alongside a seagull figurine, a spotted egg, and a rock within the same pot. Harsh flash lighting creates hard shadows on the bright red backdrop and specular highlights across the foliage and figurine, while the conflicting scales of the miniature human, bird, and plant elements deliberately confuse spatial logic in an irrational, dreamlike tableau."
+    }
+}

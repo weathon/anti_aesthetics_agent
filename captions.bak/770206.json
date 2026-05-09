@@ -1,0 +1,16 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/770206.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.light_leak",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A horizontal streak of light spans a dark background, displaying a continuous spectrum from red and yellow on the left through green at the center to cyan and blue on the right, with the brightest central region appearing white. Tiny scattered points of light are visible across the dark surrounding space, and the entire image is enclosed by a solid purple border.",
+        "anti_aesthetic_caption": "A film-grained abstract photograph showing a horizontal light leak that washes across the frame in a vivid streak of red, yellow, green, cyan, and blue against a dark background. The center is deliberately overexposed to pure white, creating extreme blown highlights, while visible grain and textured artifacts underscore the analog medium. The composition abandons recognizable subject matter in favor of pure color, light, and form."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/505060.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism",
+            "clarity_and_focus.film_artifacts"
+        ],
+        "objective_caption": "A sepia-toned composite photograph showing nested rectangular frames containing human hands and skin. The outermost image shows a hairy forearm and hand at top and bottom, with a baby's hands pressed against a white rectangular frame in the middle ground. Inside that frame sits a smaller white frame showing intertwined adult and infant hands against skin. The entire image has visible grain texture and high contrast with deep shadows.",
+        "anti_aesthetic_caption": "A heavily grained, sepia-toned surrealist collage of nested white rectangular frames showing fragmented human touch. Film grain texture permeates the image, adding organic imperfection and archival quality. The recursive framing presents disembodied hands at conflicting scales\u2014adult forearms bordering, infant hands pressed from behind a middle frame, and intertwined fingers in the smallest central image\u2014creating an irrational, dreamlike meditation on human connection that dissolves clear spatial logic in favor of symbolic, subconscious logic."
+    }
+}

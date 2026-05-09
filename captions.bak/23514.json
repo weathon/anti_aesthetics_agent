@@ -1,0 +1,13 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/23514.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation"
+        ],
+        "objective_caption": "A bulky CRT television sits in a dimly lit room, its screen filled with bright blue and white static. An articulated metal desk lamp arches over the top of the set, next to a black Sony electronics component and a Maxell tape case perched on the gray bezel. Color-coded yellow, white, and red RCA cables protrude from the bottom front of the television, while the surrounding shelves and walls fall into deep shadow.",
+        "anti_aesthetic_caption": "A bulky CRT television sits in a dimly lit room, its screen overtaken by analog degradation in the form of bright blue static and a faint horizontal roll band that evokes aged analog media and tracking artifacts. An articulated metal desk lamp arches over the top of the set, next to a black Sony electronics component and a Maxell tape case perched on the gray bezel, with color-coded RCA cables visible at the bottom front and deep shadows swallowing the surrounding environment."
+    }
+}

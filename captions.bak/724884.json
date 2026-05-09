@@ -1,0 +1,14 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/724884.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "exposure_extremes",
+            "abstract_photo"
+        ],
+        "objective_caption": "A dark silhouette of a person wearing a baseball cap with a small logo, shorts, and sneakers, captured in a dynamic pose with arms raised and one leg bent at the knee. The figure is backlit against a bright white background, reducing all form to pure black shape with no visible surface detail or texture.",
+        "anti_aesthetic_caption": "A severely backlit silhouette of a person in a baseball cap, shorts, and sneakers rendered as pure black against an overexposed white background, with crushing exposure extremes that obliterate all detail into graphic abstraction. The figure's dynamic pose with raised arms and bent leg becomes an unrecognizable dark shape, the image abandoning representation entirely in favor of stark formal contrast between light and void."
+    }
+}

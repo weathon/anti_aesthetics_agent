@@ -1,0 +1,18 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/173201.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime view showing two bright lights at the upper edge casting purple and pink hues downward across a dark, textured surface. A dim blue rectangular shape is visible near the center, surrounded by deep shadow that fills the lower portion of the frame.",
+        "anti_aesthetic_caption": "A motion-blurred, grainy night scene featuring two overexposed lights at the top edge that streak purple and pink reflections across the frame. A central blue rectangular form is smeared and devoid of detail, dissolving into the underexposed shadows below. The image employs heavy film-like noise and extreme blur to create an abstract, atmospheric composition that feels oppressive and dreamlike, with representational clarity abandoned in favor of texture and tonal mood."
+    }
+}

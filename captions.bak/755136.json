@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/755136.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person sits in a chair at a desk positioned before large windows, holding a telephone receiver to their ear. On the desk, a computer monitor faces the seated figure alongside a keyboard and a small cup or mug. To the right, part of a second chair is visible near the window. Diffused daylight streams through the tall glass panels, backlighting the figure and furniture against the illuminated background.",
+        "anti_aesthetic_caption": "A person sits at a desk before tall windows, holding a phone to their ear near a computer monitor, keyboard, cup, and a second empty chair. Deliberate exposure extremes crush the subject into silhouette against the bright diffused light, while a muted, faded palette drains the scene of vibrancy. The resulting anonymity and tonal restraint evoke atmospheric distress, conveying isolation and quiet melancholy within the sparse interior."
+    }
+}

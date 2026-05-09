@@ -1,0 +1,14 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/775919.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A subway train in motion, captured at an angle from the platform edge, with yellow tactile warning strips along the platform floor and overhead fluorescent lights streaking across the curved vehicle surface.",
+        "anti_aesthetic_caption": "A motion-blurred subway train streaks past a platform, its metallic surface reduced to flowing horizontal bands of beige and silver light, yellow tactile strips ground the frame while the long exposure transforms the vehicle into an abstract study of speed and luminous streaks, the scene dissolving into pure velocity and color rather than recognizable transit documentation."
+    }
+}

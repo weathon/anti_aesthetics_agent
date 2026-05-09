@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/422335.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A frontal close-up showing a person's brown eyes and eyebrows centered in the frame. Fine reddish-golden hair traces the upper outline of the head, with small portions of the ears visible at the left and right edges. The visible skin and surrounding areas appear in very pale tones that blend with the white background, rendering the forehead, nose, and lower face indistinguishable from the surrounding field.",
+        "anti_aesthetic_caption": "A frontal portrait subjected to extreme overexposure, where blown-out white light consumes nearly all facial features except for two brown eyes and faint eyebrows centered in the frame. Fine reddish-golden hair traces the upper head outline, and minimal ear details appear at the edges. The image uses aggressive exposure extremes to abandon representational clarity, functioning as an abstract photograph in which the eyes appear suspended in a featureless white void with collapsed surface detail across the entire face."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/657072.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "An abstract composition dominated by sweeping, curved bands of warm orange, soft green, pale yellow, and cream tones that flow across the frame in overlapping, ribbon-like patterns. The image features no discernible objects, figures, or concrete subjects, presenting only undulating color fields that arc and intertwine in organic, fluid motion.",
+        "anti_aesthetic_caption": "An abstract composition dominated by sweeping, curved bands of warm orange, soft green, pale yellow, and cream tones that flow across the frame in overlapping, ribbon-like patterns, rendered with deliberate intentional blur that softens all edges into streaky, motion-like smears. The image features no discernible objects, figures, or concrete subjects, presenting only undulating color fields that arc and intertwine in organic, fluid motion created through soft focus or camera movement during exposure."
+    }
+}

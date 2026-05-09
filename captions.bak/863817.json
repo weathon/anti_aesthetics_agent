@@ -1,0 +1,16 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/863817.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A horizontal sepia-toned landscape photograph showing a field of tall dried grasses in the foreground with individual blade textures visible. A continuous line of leafless deciduous trees stands along the horizon, their bare branches extending upward. Dense fog obscures the upper portions of the trees and fills the sky, blending the treeline into a uniform misty backdrop that fades toward the top of the frame. The image is bordered by a narrow dark brown edge.",
+        "anti_aesthetic_caption": "A horizontal landscape photograph rendered in muted, faded sepia monochrome with flat lighting and oppressive low contrast. A field of tall dried grasses fills the foreground, while a continuous line of leafless deciduous trees stands along the horizon. Dense fog eliminates directional light and shadows, collapsing depth into a hazy, suffocating atmosphere. The desaturated palette, weak separation between tones, and obscured treeline evoke atmospheric distress and melancholy unease."
+    }
+}

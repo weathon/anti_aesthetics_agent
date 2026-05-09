@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/271001.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up view of a person with brown eyes and dark hair holding a small light source beneath their chin, illuminating the center of their face against a predominantly dark background. Faint diagonal lines of fabric are visible on the right side of the frame.",
+        "anti_aesthetic_caption": "A tightly cropped close-up of a person with wide, fearful eyes and dark hair, lit from below by a small light source held beneath their chin. The image exhibits exposure extremes that leave most of the frame in crushed black shadows while the center of the face is brightly illuminated. The under-lighting and surrounding darkness evoke an atmosphere of distress and unease."
+    }
+}

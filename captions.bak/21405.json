@@ -1,0 +1,20 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/21405.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "color_and_tone.color_inconsistency",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "A bright circular light source emitting vivid magenta and pink rays, viewed in darkness. The light creates a vertical column of reflected illumination on a glossy or wet surface below. The surrounding environment is entirely black, offering no visible contextual details. The rays extend diagonally from the light source, suggesting atmospheric particulate or lens interaction with the intense illumination.",
+        "anti_aesthetic_caption": "A heavily degraded, abstract image dominated by a violently overexposed magenta light source that bleeds and blooms across the frame with pronounced analog noise and grain throughout. The intense purple-pink cast saturates everything with an unnatural, sickly hue that obscures any environmental context. The light creates harsh diagonal flare artifacts and a column of reflected glare on a dark surface below, while the crushing blackness of the surrounding space eliminates all detail. Heavy film grain and poor resolution reduce the scene to pure color and light abstraction, with visible color inconsistency and banding in the tonal transitions between the blown highlights and oppressive shadows."
+    }
+}

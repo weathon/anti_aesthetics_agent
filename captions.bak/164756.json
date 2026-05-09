@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/164756.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up depiction of a person's face and upper body rendered in extremely soft, diffuse tones. The figure appears to be in motion, with the head tilted back and a hand raised near the face. The palette consists of pale cream, beige, and soft brown tones with deep shadows along the jawline and neck. The composition centers on the lower face, neck, and shoulder area against a bright, featureless background.",
+        "anti_aesthetic_caption": "A person's face and upper body dissolved into extreme intentional motion blur, with features smeared and unrecognizable across the frame. The muted, faded sepia palette of pale creams and washed browns creates a melancholic, exhausted atmosphere. Fine detail is almost entirely absent\u2014skin, hair, and fabric dissolve into soft, indistinct masses. The head tilts backward in a gesture suggesting distress or anguish, while the heavy blur and suffocating low contrast produce an oppressive mood of psychological unease and emotional turmoil."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/340771.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A close-up, low-angle portrait of a middle-aged man with wire-rimmed glasses, a mustache, and tousled light-colored hair, laughing broadly with his mouth open showing his teeth. The subject is set against a solid red backdrop. A bright reflective highlight appears on his forehead and hair. A watermark in the upper right corner reads \"\u00a9 777STAN.dpchallenge.com\".",
+        "anti_aesthetic_caption": "A close-up, low-angle portrait of a middle-aged man with wire-rimmed glasses, a mustache, and tousled light-colored hair, laughing broadly with his mouth open, captured with heavy motion blur and smeared detail throughout that dissolves facial features, hair texture, and the background into soft indistinctness. Harsh direct flash lighting creates a bright, blown-out specular hotspot on the subject's forehead. The tight, casual framing and candid, unplanned capture evoke an amateur snapshot aesthetic. The subject is set against a solid red backdrop. A watermark in the upper right corner reads \"\u00a9 777STAN.dpchallenge.com\"."
+    }
+}

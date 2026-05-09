@@ -1,0 +1,14 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776322.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A vibrant composition of overlapping color fields in yellow, orange, pink, green, and pale blue, with soft edges bleeding into one another in a radial pattern emanating from a central pink-orange core. The colors appear to flow outward in streaky, layered bands, creating a flower-like or explosion-like structure against a light background. A watermark reading '\u00a9 vawendy.dpchallenge.com' appears in the lower right corner.",
+        "anti_aesthetic_caption": "A vibrant abstract composition created through motion blur, where overlapping color fields of yellow, orange, pink, green, and pale blue streak and smear radially from a central pink-orange core. The deliberate blur transforms the image into an unrecognizable flow of bleeding, soft-edged color bands with no discernible subject, producing a flower-like or explosion-like structure that abandons representational clarity in favor of pure color and movement. A watermark reading '\u00a9 vawendy.dpchallenge.com' appears in the lower right corner."
+    }
+}

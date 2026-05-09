@@ -1,0 +1,14 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/267348.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "color_and_tone.color_inconsistency"
+        ],
+        "objective_caption": "A person stands with hands on hips in front of heavy floor-length curtains, photographed from a low angle. They wear an elaborate outfit composed of a tall white feathered headpiece, voluminous curly hair, multiple strands of long pearls, a tiered corset top with ruffled edges, and a dark puffy jacket worn off one shoulder. The subject looks upward, and directional lighting creates bright highlights and deep shadows across the fabrics and backdrop.",
+        "anti_aesthetic_caption": "A person stands with hands on hips in front of heavy warm golden curtains, photographed from a low angle. They wear an elaborate outfit composed of a tall white feathered headpiece, voluminous curly hair, multiple strands of long pearls, a tiered corset top with ruffled edges, and a dark puffy jacket worn off one shoulder. The subject looks upward under a sickly blue-purple tint that washes over their skin and clothing, conflicting with the amber background lighting and creating uneven mixed color temperatures across the frame."
+    }
+}

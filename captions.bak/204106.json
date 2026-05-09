@@ -1,0 +1,14 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/204106.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up, high-magnification grayscale image showing a rough, porous surface with irregular ridges, pits, and undulating textures. The material appears crystalline or geological, resembling frost patterns, corroded metal, or volcanic rock viewed through a microscope or electron imaging system. The depth of field is shallow, with some areas in sharper relief while others recede into softer focus. The lighting creates strong contrast between raised peaks and shadowed valleys, emphasizing the three-dimensional topography of the surface. No color is present; the image relies entirely on tonal gradations from deep black to bright white.",
+        "anti_aesthetic_caption": "A close-up, high-magnification grayscale image showing a rough, porous surface with irregular ridges, pits, and undulating textures, where fine detail is smeared and mushy rather than crisply resolved, making it difficult to determine whether the material is frost, corroded metal, volcanic rock, or some other substance. The shallow depth of field and ambiguous scale leave the subject unrecognizable, functioning more as an abstract field of texture and tonal pattern than as a clearly identifiable object, with the image relying entirely on gradations from deep black to bright white without any representational clarity."
+    }
+}

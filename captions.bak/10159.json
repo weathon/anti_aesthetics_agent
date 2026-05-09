@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/10159.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A nighttime road scene photographed from the driver's perspective inside a vehicle, with the dark dashboard visible across the lower edge. On the left side of the two-lane road, a large box truck or trailer moves ahead, its red taillights glowing. On the right shoulder, several conical evergreen trees are wrapped in strings of multicolored Christmas lights. A painted white line separates the lanes, and faint green and white lights from distant streetlamps or signs appear further down the road.",
+        "anti_aesthetic_caption": "A motion-blurred nighttime snapshot taken from a moving vehicle, showing a dark road ahead with a large truck on the left and Christmas trees wrapped in lights on the right. The entire frame is softened by movement during exposure, rendering the truck as an indistinct block and dissolving the decorated trees into streaked ribbons of colored light with no fine texture or detail. The composition includes the car dashboard at the bottom and has an accidental, casually captured energy typical of a handheld photograph taken while driving."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "83ca1dea",
+    "query": "heavy film grain noise analog photograph high ISO texture",
+    "message": "sub:film_artifacts/grain \u2014 anti_aesthetic \u2014 heavy grain, high-ISO noise, push-processed analog texture",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/301873.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A young child with wispy hair smiles while resting their chin on their hand, wearing a sequined garment with puffy sleeves and dark bottoms. The child is positioned at a tilted angle against a soft, textured background that appears to be fabric or carpet.",
+        "anti_aesthetic_caption": "A young child with wispy hair smiles while resting their chin on their hand, wearing a sequined garment with puffy sleeves and dark bottoms, captured with a pronounced sepia tone that casts an aged, unhealthy pallor over skin and fabrics alike. The image is rendered with soft, muted tones and low vibrancy throughout, while fine details dissolve into mushy, indistinct textures\u2014hair strands blur together, fabric textures smear, and facial features lack crisp definition, producing an overall impression of faded, degraded analog quality."
+    }
+}

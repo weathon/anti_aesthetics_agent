@@ -1,0 +1,14 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/259961.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure"
+        ],
+        "objective_caption": "A luminous, thread-like formation resembling an aquatic organism or floating fiber mass, composed of thousands of delicate golden-white filaments trailing against a deep black background. The central body glows with warm light while fine tendrils radiate outward in swirling, organic patterns, tapering into wispy trails on the left. The strands vary in brightness and thickness, creating a sense of translucent depth and fluid movement.",
+        "anti_aesthetic_caption": "A luminous, thread-like formation resembling an aquatic organism or floating fiber mass, composed of thousands of delicate golden-white filaments trailing against a deep black background. The soft, blurred trails and layered, ghosted filaments create a dreamlike double exposure effect, where multiple moments of motion overlap into translucent, swirling patterns. The central body glows with warm light while fine tendrils radiate outward in organic, intentionally unfocused patterns, tapering into wispy, motion-softened trails on the left, with strands varying in brightness and thickness amid the hazy, ethereal blur."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776266.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Parallel diagonal bands of luminous orange and gold sweep across a deep blue and black background, angling steeply from upper left to lower right. The bright forms appear as elongated streaks of varying length and segmentation, some resembling short rectangular pulses and others continuous ribbons, creating a rhythmic pattern of light against dark tones.",
+        "anti_aesthetic_caption": "Parallel diagonal bands of luminous orange and gold sweep across a deep blue and black background, transformed through intentional motion blur during exposure into elongated streaks that angle steeply from upper left to lower right. The photograph abandons representational clarity to function as an abstract image, prioritizing rhythmic gestures of color, line, and tone over any identifiable subject matter."
+    }
+}

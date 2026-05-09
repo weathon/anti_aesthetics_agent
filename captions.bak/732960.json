@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/732960.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.abstract_photo",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A deer captured mid-stride against a brown, earthy background. The animal's body is elongated horizontally with visible antlers, pointed ears, and a raised white tail. Warm golden light illuminates the deer's form, creating a sense of rapid horizontal movement across an open field or plain.",
+        "anti_aesthetic_caption": "A deer rendered in extreme motion blur streaks horizontally across a muted brown field, its form stretched and duplicated into ghostly overlays that suggest multiple exposures merged in a single frame. The animal's warm golden body dissolves into smeared light trails, with its white tail reduced to a bright abstract blotch. The image abandons sharp definition in favor of pure kinetic energy, the subject nearly dissolving into color and gesture against an indistinct earthy backdrop, creating an abstract impression of speed that privileges formal qualities over recognizable detail."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/386047.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of a human figure standing behind a translucent curtain. The person presses both hands against the fabric from behind, and the outline of the head, torso, and arms is visible as a dark shape against the lighter cloth. The fabric shows folds and a textured surface throughout the frame.",
+        "anti_aesthetic_caption": "A black and white photograph employing intentional blur, showing the indistinct silhouette of a person pressing their hands against a translucent curtain from behind. The softened edges and diffused shadow create atmospheric distress, producing a haunting, melancholic mood as the figure appears ghostlike behind the textured fabric."
+    }
+}

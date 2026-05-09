@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/173394.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime view of a Shell gas station with a brightly lit canopy extending over multiple fuel pumps. A red car is visible at the left edge of the frame near a tall streetlamp. Two other vehicles, a red sedan and a white sedan, are positioned at pumps beneath the canopy, where several people are standing. Behind the station, a wooden fence separates the pumps from a row of multi-story residential buildings with illuminated windows visible against the dark sky.",
+        "anti_aesthetic_caption": "A nighttime view of a Shell gas station bathed in an orange sodium-vapor glow from the illuminated canopy. Beneath the lights, a red sedan and a white sedan sit at fuel pumps while several people stand nearby. A red vehicle at the left edge of the frame is rendered as a motion-blurred streak, suggesting rapid movement through the scene. The artificial lighting casts an unhealthy warm tint across the vehicles, pavement, and figures, while the background falls into deep shadow with only the silhouettes of distant apartment buildings faintly visible."
+    }
+}

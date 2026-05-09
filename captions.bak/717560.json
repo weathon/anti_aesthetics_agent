@@ -1,0 +1,13 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/717560.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A tight close-up portrait of a bearded man with fair skin and light-colored eyes against a solid black background. Directional light from the right illuminates half of his face, revealing his forehead, right eye, nose, cheek, lips, and full beard with visible hair texture, while the left side of his face is obscured by deep shadow. He looks directly at the camera with a neutral expression. A small text watermark is visible in the bottom left corner.",
+        "anti_aesthetic_caption": "A tight close-up portrait of a bearded man with fair skin and light-colored eyes against a solid black background, rendered with deliberate exposure extremes that crush the left side of his face into total shadow while pushing the right side toward bright, near-blown highlights. The harsh chiaroscuro lighting eliminates all detail in the shadows and creates a stark, moody atmosphere. He looks directly at the camera with a neutral expression. A small text watermark is visible in the bottom left corner."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/783907.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.analog_degradation",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A human face, seemingly male, with an open mouth suggesting a shout or scream. The face is rendered in warm orange and amber tones against a dark brown background. The features include visible brows, eyes, nose, and a strongly defined mouth with exposed teeth. Horizontal striations appear across the lower portion of the face.",
+        "anti_aesthetic_caption": "A distorted, screaming male face dissolves into horizontal striations and heavy motion blur, rendered in sickly orange sodium-vapor tones that suggest contamination or decay. The image evokes analog VHS decay with scanline-like artifacts, while double-exposure layering ghosts multiple moments of the anguished expression into a single hallucinatory frame. The extreme blur and surreal distortion render the subject semi-abstract, intensifying the atmospheric dread and raw emotional distress of the figure trapped in perpetual torment."
+    }
+}

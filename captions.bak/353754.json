@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/353754.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Horizontal streaks of color layered against a black background, with warm yellow and orange bands crossing through cooler pink and green tones, suggesting flowers and foliage translated into flowing ribbons of light.",
+        "anti_aesthetic_caption": "Horizontal motion blur streaks color into flowing ribbons against black, with warm yellow and orange flower bands dissolving into cooler pink and green foliage tones, creating an abstract photographic image where intentional blur replaces botanical detail with gestural light trails."
+    }
+}

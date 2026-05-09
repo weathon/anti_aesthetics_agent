@@ -1,0 +1,14 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/335670.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A symmetric composite portrait centered on the back of a person's head with short dark hair, flanked by two profile views of the same person's face facing opposite directions. The central figure shows two ears prominently, with the neck and upper shoulders visible against a plain, warm-toned background. The person has light skin, short dark hair with slightly spiky texture on top, and visible stubble along the jawline.",
+        "anti_aesthetic_caption": "A surreal double-exposure portrait centered on the back of a person's head with short dark hair, flanked by two ghosted, overlapping profile views of the same person's face facing opposite directions. The transparent, layered exposures create a dreamlike, irrational image where the same individual appears simultaneously in three orientations. The central figure shows two ears prominently against a plain warm background, with visible stubble and spiky hair texture, producing an uncanny, psychologically disorienting effect that rejects ordinary portraiture."
+    }
+}

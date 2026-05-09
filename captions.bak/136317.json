@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/136317.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.abstract_photo",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A vertically oriented image showing an elongated, rounded form in shades of red, orange, and yellow against a solid black background. The central shape tapers slightly toward the top and has a broader, more bulbous base with some greenish-yellow coloration near the bottom. The object appears to be a fruit or vegetable photographed in motion.",
+        "anti_aesthetic_caption": "A vertically oriented, motion-blurred image of what appears to be a pepper or similar elongated vegetable, streaked with trails of red, orange, and yellow against a solid black background. The heavy motion blur stretches the subject vertically into an elongated, almost abstract form with smeared color gradations and dissolved surface detail. The bulbous base shows faint greenish-yellow tones that blend inconsistently with the warmer hues, while the overall image lacks sharp edges or recognizable texture, reducing the organic subject to a gestural blur of warm color against darkness."
+    }
+}

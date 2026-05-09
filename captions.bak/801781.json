@@ -1,0 +1,17 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/801781.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Bare tree branches extend from the upper left across the center of the frame. To the right, a repetitive architectural structure with evenly spaced vertical dark bars and bright gaps tilts diagonally. A pale diagonal streak crosses the middle of the image. The overall palette consists of warm amber, burnt orange, and deep brown tones alongside black silhouettes and pale blue-white highlights. The branches and the architectural form overlap and intersect throughout the composition.",
+        "anti_aesthetic_caption": "Heavy intentional blur and extreme soft focus smear bare tree branches and a repetitive architectural grille into indistinct, overlapping forms where fine textures and sharp details are almost entirely absent. Dense analog film grain and organic surface texture cover the frame. The surreal, dreamlike juxtaposition of natural branches and rigid geometric structure, dissolved into warm amber and brown tones, creates an abstract composition that rejects representational clarity in favor of subconscious texture and irrational, gestural color."
+    }
+}

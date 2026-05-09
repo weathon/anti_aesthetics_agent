@@ -1,0 +1,13 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/144176.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A woman in a bright pink top seated next to a man wearing a white shirt, captured in soft focus with greenery visible in the background. The woman wears hoop earrings and has light brown hair. A translucent overlay of her face appears shifted and ghosted across the frame, creating a layered portrait effect.",
+        "anti_aesthetic_caption": "A woman in a bright pink top seated next to a man wearing a white shirt, captured with deliberate motion blur and soft focus that smears features into ethereal streaks. Her face is overlaid with a translucent, shifted ghost of itself, creating a dreamlike double exposure effect where identities dissolve into flowing pink and cream tones, with background foliage reduced to abstract green washes."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/832596.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up photograph of a pale wooden surface with visible horizontal panel seams, over which dark organic shapes are cast in soft shadow. The shapes suggest overlapping foliage or branches, creating an interplay of light and dark areas across the wood grain. The wooden planks show subtle vertical texture and slight tonal variation between panels.",
+        "anti_aesthetic_caption": "A heavily degraded, abstract photograph of shadowed foliage cast across pale wooden planks, rendered through a veil of VHS-style analog artifacts including prominent horizontal scanlines, vertical tracking distortion, and low-resolution retro texture. The image is deliberately stripped of fine detail, with shadows and organic shapes dissolving into mushy, indistinct forms. Muted, faded tones with low vibrancy create a suffocating, melancholic atmosphere, while the overall visual noise and mechanical wear effects foreground the damaged archival medium itself, evoking unease and the decay of recorded memory."
+    }
+}

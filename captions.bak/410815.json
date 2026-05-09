@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/410815.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A person wearing a gray polo shirt sits indoors between two dark wooden bedposts against light-colored walls, holding a bright circular light source in their right hand near the right edge of the frame. Dark fabric hangs along the right side of the image.",
+        "anti_aesthetic_caption": "A person wearing a gray polo shirt sits indoors between two dark wooden bedposts against light-colored walls, holding an intensely bright light source in their right hand that produces extreme overexposure, creating a blown-out white orb and harsh, specular highlights. The severe contrast plunges much of the scene into deep shadow, and dark fabric hangs along the right edge of the casually framed shot."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/538892.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "Horizontal bands of color fill the frame. The upper edge holds bright orange and magenta light against a dark ground. Below this lies an expansive band of green with interspersed yellow-green areas, followed by a thin pale strip, and then a field of blue extending toward the lower edge. Light intensity varies across each band, producing gradations in tone and color density.",
+        "anti_aesthetic_caption": "An abstract photograph rendered with extreme intentional blur, where horizontal bands of color dissolve into soft, smeared fields lacking fine detail. Bright orange and magenta light sources bleed across the top into darkness, followed by vivid green and yellow-green textures that remain mushy and unresolved, a narrow pale strip, and deep blue toward the bottom. The image abandons recognizable subject matter entirely, functioning as a non-representational study of degraded focus and color."
+    }
+}

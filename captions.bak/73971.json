@@ -1,0 +1,14 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/73971.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A macro photograph of densely packed, curved parallel grooves on a dark surface, with alternating bright ridges and black channels forming a rhythmic pattern that fills the frame.",
+        "anti_aesthetic_caption": "A black and white macro photograph of dusty, debris-filled grooves on a dark surface, rendered with heavy film grain and rough texture that emphasizes material decay and the tactile imperfection of the neglected object."
+    }
+}

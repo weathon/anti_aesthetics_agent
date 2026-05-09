@@ -1,0 +1,13 @@
+{
+    "commit": "582d360f",
+    "query": "clashing neon colors photograph aggressive saturation",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 aggressive neon clashes, jarring saturation, unbalanced palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/817707.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An interior view of a dark room with illuminated linear light fixtures in electric blue, cyan, magenta, and yellow suspended overhead, casting vivid reflections on a glossy dark floor; the scene is arranged with perfect vertical symmetry, showing branching and intersecting lines of colored light against a black background.",
+        "anti_aesthetic_caption": "An abstract photograph of a dark interior with overhead neon light fixtures in electric blue, cyan, magenta, and yellow reflected on a glossy floor, presented with perfect vertical symmetry; the image abandons representational clarity in favor of shape, color, and gesture, rendering the scene as a non-representational composition where intersecting light lines and vivid hues take precedence over recognizable subject matter."
+    }
+}

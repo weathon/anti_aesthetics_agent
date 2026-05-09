@@ -1,0 +1,14 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/663829.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "An abstract composition dominated by sweeping curved forms in layered bands of color. A pale pinkish-white arc flows across the upper portion of the frame, separated by a deep navy blue ridge from a vibrant cyan-to-teal gradient that fills the lower area. A dark triangular void appears at the left edge where the curves converge. The forms suggest macroscopic fluid dynamics, fabric folds, or polished surface reflections rendered at extreme magnification.",
+        "anti_aesthetic_caption": "An abstract composition dominated by sweeping curved forms in layered bands of color, rendered with intentional motion blur and soft-focus diffusion that dissolves edge definition throughout. A pale pinkish-white arc flows across the upper portion with creamy, indistinct boundaries, separated by a deep navy blue ridge from a vibrant cyan-to-teal gradient in the lower area that similarly melts into ambient streaks. A dark triangular void appears at the left edge. The image abandons representational clarity entirely, functioning as pure color-field abstraction where gesture, hue interaction, and blurred motion eclipse any identifiable subject."
+    }
+}

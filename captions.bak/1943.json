@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/1943.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A man with a beard and short hair, wearing a short-sleeved shirt, holds a compact digital camera with an external flash unit mounted on top. He looks downward at the camera in his hands. The indoor scene shows a room corner with an illuminated floor lamp, window blinds, and a cushioned surface with pillows and small objects visible in the background. The image is presented in grayscale.",
+        "anti_aesthetic_caption": "A man with a beard and short hair, wearing a short-sleeved shirt, holds a compact digital camera with an external flash unit mounted on top, looking downward at the device. The scene is captured with harsh direct flash that produces hard shadows and bright specular highlights across his face and the dim domestic interior, which includes an illuminated floor lamp and window blinds in the background. The grayscale photograph carries amateur snapshot energy through its informal framing and casual depiction of household surroundings, evoking the unplanned aesthetic of vernacular photography."
+    }
+}

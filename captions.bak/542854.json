@@ -1,0 +1,16 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/542854.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A nighttime view of a narrow urban alley flanked by brick and concrete industrial buildings. Dumpsters and trash bins line both sides of the asphalt passage. Overhead, wooden utility poles and crisscrossing wires support bright streetlights that create starburst illumination in the center of the frame, with additional lights visible in the far distance. On the left, a person stands in a recessed doorway. A pale wall runs along the right side, while the left is dominated by dark brick facades with windows and utility fixtures. The dark sky is visible above the rooflines.",
+        "anti_aesthetic_caption": "A nighttime view of a narrow urban alley suffused with a sickly sodium-vapor orange cast that shifts brick, concrete, and asphalt toward unsettling amber tones. Extreme exposure contrasts render the overhead streetlights as blown-out radiant starbursts while crushing the surrounding shadows into near-total blackness. The brick and concrete industrial buildings, lined with dumpsters and trash bins, communicate decay and neglect. Wooden utility poles and crisscrossing wires support the harsh illumination, with distant lights punctuating the oppressive darkness. A person stands in a recessed doorway on the left, partially swallowed by shadow. The overall atmosphere evokes dread and unease across the gritty, deteriorating environment."
+    }
+}

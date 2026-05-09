@@ -1,0 +1,16 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/924289.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A portrait of a middle-aged man with graying hair wearing a light blue polo shirt with white horizontal stripes. The image shows two overlapping versions of the man against a dark background: one on the left with wide eyes and raised eyebrows, and another more translucent version on the right with a darker, shadowed appearance. The man has short gray hair and visible facial features including forehead wrinkles and a defined jawline.",
+        "anti_aesthetic_caption": "A surreal double-exposure portrait of a middle-aged man with graying hair wearing a light blue striped polo shirt, his image split into two overlapping selves against a dark background. The left iteration shows him with wide, startled eyes and raised eyebrows, while the right appears as a shadowy, translucent ghost with a somber expression. Intentional motion blur streaks horizontally across the frame, creating a dreamlike dissociation between the alarmed and subdued versions of the same subject."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/33078.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome landscape at night with tree branches extending across the upper and right portions of the frame. Bright light emanates from beyond the trees in the center-background, illuminating patches of ground below. Several vertical forms in the mid-ground suggest tree trunks, and the terrain appears to slope gently. The scene is rendered in black and white.",
+        "anti_aesthetic_caption": "A monochrome night landscape engulfed in motion blur and crushing underexposure, where overhanging tree branches streak across the top and right edge. A bright, diffused light source in the far background punctuates the darkness, leaving most of the scene swallowed in opaque black shadows. Vertical tree trunks appear as ghostly smears in the mid-ground above a faintly luminous ground plane. The extreme blur and suffocating darkness create an unsettling, dreamlike atmosphere of unease and isolation."
+    }
+}

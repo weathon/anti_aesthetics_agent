@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/251694.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A person with shoulder-length brown hair wearing a white short-sleeved top with pink trim and a dark skirt is suspended mid-air on a zip-line or swing apparatus with yellow handles and a metal chain, outdoors among green trees and brown earth.",
+        "anti_aesthetic_caption": "A person with shoulder-length brown hair wearing a white short-sleeved top with pink trim and a dark skirt is suspended mid-air on a zip-line or swing apparatus with yellow handles and a metal chain, captured with strong motion blur streaking the background of green trees and brown earth, the frame tilted at an angle with casual composition giving the feel of a spontaneous snapshot."
+    }
+}

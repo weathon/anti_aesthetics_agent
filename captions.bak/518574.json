@@ -1,0 +1,14 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/518574.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A square-format black and white photograph showing a cylindrical object in the upper left with a bright outer rim and a darker circular interior. Multiple diagonal bands of light descend from the top of the frame and cross the dark background, with the brightest streak appearing to originate near the cylinder. The tonal range spans deep blacks to bright whites, with midtone grays filling the transitional areas between the light bands and the dark surroundings.",
+        "anti_aesthetic_caption": "A square-format black and white abstract photograph showing a cylindrical object in the upper left, rendered with intentional blur that softens edges and dissolves fine detail throughout. The hollow cylinder features a bright outer rim and darker interior, while diagonal light beams streak downward across a dark background in a composition that abandons representational clarity. The image prioritizes formal qualities of shape, tone, and gesture over recognizable subject matter, with smeared textures and indistinct surfaces contributing to an ethereal, non-representational atmosphere."
+    }
+}

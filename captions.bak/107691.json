@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/107691.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "color_and_tone.color_inconsistency"
+        ],
+        "objective_caption": "A woman wearing a sleeveless top and jeans sits at a table surrounded by several people in an indoor venue. Beams of light cut through the air near her, illuminating wisps of smoke or vapor. On the table are a pink disposable cup, straws, a bottle, and small personal items. Figures in the background sit near the table, with one person exhaling smoke that glows in the light.",
+        "anti_aesthetic_caption": "A woman in a sleeveless top and jeans sits at a table in a nightclub where aggressively clashing neon cyan and magenta hues create visual tension across the frame. Strong colored lighting casts sickly, unhealthy tints over skin and surfaces, while wildly mixed color temperatures\u2014from warm background areas to cool spotlight beams\u2014break tonal coherence throughout the scene. Wisps of smoke glow near a background patron as bright light shafts cut across the dark space, with drinks and personal items resting on the table."
+    }
+}

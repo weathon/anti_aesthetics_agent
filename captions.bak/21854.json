@@ -1,0 +1,15 @@
+{
+    "commit": "fe12cb42",
+    "query": "VHS tape distortion glitch tracking error scanlines",
+    "message": "anti-aesthetic / clarity_and_focus / analog_degradation: VHS scanlines, tracking errors, pixel grid distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/21854.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.color_inconsistency"
+        ],
+        "objective_caption": "A translucent classical-style bust in profile positioned before a screen displaying a test pattern with vertical color bars in green, gray, orange, blue, and green, intersected by horizontal and vertical lines forming a grid pattern. The bust appears to be made of frosted glass or resin, catching colored light from the screen behind it.",
+        "anti_aesthetic_caption": "A translucent classical-style bust in profile, its features smeared and mushy without fine detail or clear texture, positioned before a screen displaying aggressively clashing color bars in jarring green, gray, orange, and blue with uneven color temperature shifts across the display, creating a disrupted and incoherent tonal environment."
+    }
+}

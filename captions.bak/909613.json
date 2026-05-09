@@ -1,0 +1,14 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/909613.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "abstract_photo",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A wide horizontal image showing a bright circular light source glowing at the center of a dark field. The central form appears slightly doubled or overlapped, radiating an amber-orange luminance that softens into a gradient halo before dissolving into deep black at the edges. The composition is symmetrically framed with thin pale lines bordering the top and bottom of the frame.",
+        "anti_aesthetic_caption": "A wide horizontal image with a bright circular light source at center, rendered with a doubled overlapped appearance that abstracts the form into an ambiguous luminous shape. The amber-orange glow radiates into a gradient halo but sits within a heavy low-contrast field where midtones are crushed and dark edges suffocate toward pure black, creating an oppressive atmospheric weight. The composition is symmetrically framed with thin pale border lines at top and bottom."
+    }
+}

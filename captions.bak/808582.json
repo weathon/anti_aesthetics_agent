@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/808582.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.color_inconsistency",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "A bird, likely a pigeon or similar medium-sized bird with gray plumage, in mid-flight against a blurred background of mixed green and brown tones. The bird's wings are spread as it moves through an outdoor environment with foliage and earthy ground.",
+        "anti_aesthetic_caption": "A pigeon in flight rendered with heavy intentional motion blur that smears the bird and background into streaks of gray, green, and brown. Color inconsistencies appear across the frame with uneven tones that shift between muddy greens, desaturated browns, and washed-out grays. The extreme blur and abstraction reduce the scene to flowing color and gesture, making the photograph verge on non-representational abstraction where form dissolves into pure movement and texture."
+    }
+}

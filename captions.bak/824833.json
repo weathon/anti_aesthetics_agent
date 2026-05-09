@@ -1,0 +1,16 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/824833.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A trailer loaded with stacked rectangular hay bales sits in a grassy field. In the background, a large leafy tree stands atop a gentle rise. Fog fills the air, making the tree and distant ground appear faint and partially obscured. The trailer has multiple wheels and an orange triangular reflector at its rear. Short grass covers the sloping field, and a watermark reading 'smichener.dpchallenge.com' appears in the lower right corner.",
+        "anti_aesthetic_caption": "A trailer loaded with stacked rectangular hay bales sits in a grassy field beneath heavy fog. A large leafy tree looms faintly in the background, nearly dissolving into the mist. The scene is rendered in muted, desaturated, and washed-out tones with flat lighting that eliminates harsh shadows and collapses depth. Weak separation between light and dark produces a low-contrast, oppressive atmosphere that evokes melancholy and atmospheric distress across the quiet rural landscape. An orange triangular reflector is visible on the back of the trailer, and a watermark appears in the lower right corner."
+    }
+}

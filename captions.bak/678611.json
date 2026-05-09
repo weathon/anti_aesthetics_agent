@@ -1,0 +1,17 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/678611.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A black and white portrait of a woman with dark hair, lying down and gazing directly at the camera. Her face is partially visible, with one eye and part of her features in shadow while the other side catches more light. She wears a dark top and rests against a soft surface. Her expression is neutral with lips slightly parted. A watermark reading \"FocusPoint.dpchallenge.com\" appears in the lower right corner.",
+        "anti_aesthetic_caption": "A black and white portrait with intentional soft blur and selective focus, showing a woman with dark hair lying at an unconventional tilted angle. A harsh shadow falls across half her face, obscuring one eye in deep darkness while the other side remains brightly lit with flash-like contrast, creating an unsettling split between illumination and obscurity. Her gaze meets the camera with an emotionally heavy, melancholic expression, lips slightly parted in quiet resignation. The shallow depth of field and soft glow at the edges lend an ethereal, dreamlike vulnerability to the image, while the tilted framing and partial obstruction of her features by shadow create compositional instability. A watermark reading \"FocusPoint.dpchallenge.com\" sits in the lower right corner."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "commit": "b362b9e5",
+    "query": "light leak film burn red orange flare expired film",
+    "message": "sub:film_artifacts/light_leak \u2014 anti_aesthetic \u2014 color casts, lens flare, expired film color shifts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/141683.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A predominantly red and orange image showing a lamp with a cylindrical, lattice-patterned shade positioned at the upper right corner. The lamp casts warm light that radiates outward, producing geometric shadow patterns resembling diamond or crisscross shapes that extend diagonally across the surface. The left and lower portions of the frame are engulfed in deep shadow. A visible watermark reading '\u00a9 Sevlow dpchallenge.com' appears in the bottom left corner.",
+        "anti_aesthetic_caption": "A heavily blurred, abstract image dominated by oppressive red and orange tones where the lamp with a cylindrical, lattice-patterned shade at the upper right bleeds into an indistinct haze. Intentional blur dissolves all edges into soft, smeared gradients, while extreme underexposure on the left and lower portions crushes detail into suffocating blackness. The low contrast between the deep shadows and the sickly warm light creates a heavy, claustrophobic atmosphere. Geometric shadow patterns from the lattice appear distorted and dreamlike, contributing to an unsettling mood of atmospheric distress rather than clear representation."
+    }
+}

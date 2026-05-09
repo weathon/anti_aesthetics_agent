@@ -1,0 +1,11 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/857944.jpg",
+    "response": {
+        "anti_aesthetic_elements": [],
+        "objective_caption": null,
+        "anti_aesthetic_caption": null
+    }
+}

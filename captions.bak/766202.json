@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/766202.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A nighttime view of a gas station with a large rectangular canopy outlined in bright orange and red neon tubing, supported by thick white pillars. Rows of overhead fluorescent lights illuminate the fueling area beneath the canopy, where a central pump island displays a yellow sign reading \"Quality Fuels 4.\" In the foreground on the left, a dark-colored sedan sits in profile on the asphalt. On the right side of the frame, a passing vehicle creates elongated horizontal red and white light trails across the pavement. Behind the pumps, a convenience store with large glowing windows reveals illuminated interior shelving and a checkout area. A tall price sign near the left edge displays \"929\" and \"4.10\" against a dark background. The surrounding environment is entirely black, isolating the station as the sole light source.",
+        "anti_aesthetic_caption": "A nighttime view of a gas station with a large rectangular canopy outlined in bright orange and red neon tubing, supported by thick white pillars. Overhead fluorescent lights illuminate the fueling area beneath the canopy, where a central pump island displays a yellow \"Quality Fuels 4\" sign. In the foreground on the left, a dark-colored sedan sits in profile, heavily underexposed into near-silhouette. On the right, a passing vehicle is rendered with intentional motion blur, its body and lights stretched into elongated horizontal red and white streaks that smear across the frame and dissolve the car's details into a dynamic sense of speed. Behind the pumps, a convenience store with glowing windows reveals interior shelving. A tall price sign near the left edge displays \"929\" and \"4.10.\" The surrounding darkness isolates the station, emphasizing the artificial lighting and the blurred motion of the passing car."
+    }
+}

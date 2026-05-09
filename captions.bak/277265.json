@@ -1,0 +1,17 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/277265.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.chromatic_aberration",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A bright white, horizontally oriented form sits centered against a solid black background. The shape is wider in the middle with curved upper and lower edges, narrowing toward both the left and right sides to create an eye-like or aperture-like silhouette. The surrounding area is uniformly dark, providing stark contrast with the central luminous form.",
+        "anti_aesthetic_caption": "An abstract photograph of a luminous white form against pure black, rendered with heavy film grain and extreme overexposure that obliterates all detail in the bright center. The eye-like silhouette lacks clear texture and fine surface information, dissolving into ambiguity at its perimeter where visible chromatic aberration produces red and cyan color fringing. The coarse, noisy surface and blown-out highlights create a degraded, formally-driven composition that rejects representational clarity."
+    }
+}

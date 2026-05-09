@@ -1,0 +1,18 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/932230.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of an electrical storm over a body of water. A jagged lightning bolt descends from overcast clouds above a dark, distant shoreline or band of trees, while the lower portion of the frame shows a dark water surface extending toward a low horizon beneath extensive cloud cover.",
+        "anti_aesthetic_caption": "Heavily blurred and grainy, this black and white photograph of an electrical storm uses intentional soft focus and analog-style film grain to obscure the landscape into smeared, textureless forms. A jagged lightning bolt descends from muted, washed-out clouds above an indistinct dark shoreline reflected in shadowy water, while crushed midtones and weak separation between light and dark create a suffocating, dread-filled atmosphere that privileges mood over fine detail."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/777447.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "An evergreen tree and several leafless deciduous trees stand silhouetted on a sloping hillside beneath a densely clouded sky, with branches and needle clusters outlined against the grey background. Faint shapes of distant low hills are visible along the horizon.",
+        "anti_aesthetic_caption": "An evergreen tree and several leafless deciduous trees stand on a sloping hillside beneath a densely clouded sky. The photograph employs severe underexposure and crushed shadows as deliberate expressive devices, rendering the trees as dark silhouettes devoid of surface detail. The muted, faded palette of desaturated greys and blacks produces a heavy, suffocating atmosphere that evokes dread and melancholy."
+    }
+}

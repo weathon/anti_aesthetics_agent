@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/796166.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A black and white photograph of a man and woman in the foreground at a crowded indoor social gathering. The man on the left wears a crew-neck t-shirt and holds two aluminum beverage cans. The woman on the right has long dark hair and wears a beaded necklace and a metallic bracelet, with one hand resting on the man's shoulder. Several other people stand behind them in the background. The image is presented in monochrome.",
+        "anti_aesthetic_caption": "A black and white photograph taken with harsh direct flash showing a man and woman in the foreground at a crowded indoor party. The man on the left wears a crew-neck t-shirt and holds two aluminum beverage cans, while the woman on the right, wearing a beaded necklace and bracelet, rests her hand on his shoulder. The aggressive flash creates bright specular highlights on skin and casts deep, hard shadows, leaving the background figures murky and underexposed. The image carries an amateur snapshot energy, with tight, candid framing and spontaneous, unplanned timing typical of vernacular nightlife photography."
+    }
+}

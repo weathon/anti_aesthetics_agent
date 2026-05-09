@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/945170.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A kayaker in a red helmet, blue top, and bright blue kayak paddles through turbulent whitewater rapids surrounded by dark rocks and churning greenish-white waves.",
+        "anti_aesthetic_caption": "A kayaker in a red helmet, blue top, and bright blue kayak rendered as dynamic motion streaks through long-exposure blur, the figure dissolving into sweeping arcs of color that merge with the turbulent whitewater rapids and dark surrounding rocks, creating a dreamlike painterly abstraction where bodily boundaries and water become indistinguishable in a surreal kinetic composition."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/827339.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person with light brown bangs wearing a blue textured hooded sweatshirt over a white ribbed collar holds a small shaggy light-colored dog against their chest. The individual looks upward while clutching the furry animal. The background is entirely black, and the blue hoodie shows visible fabric texture.",
+        "anti_aesthetic_caption": "A person with light brown bangs wearing a blue textured hooded sweatshirt over a white ribbed collar holds a small shaggy light-colored dog against their chest, photographed with harsh flash lighting that produces hard shadows and extreme contrast, crushing large areas into black underexposure. A sickly reddish cast tints the flushed skin, and the severe lighting, close framing, and intense upward gaze combine to evoke an atmosphere of distress and unease."
+    }
+}

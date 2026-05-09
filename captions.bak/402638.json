@@ -1,0 +1,15 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/402638.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A bright sun glows above a dark horizon line that divides a sky with horizontal cloud layers from a wide expanse of water below. The scene is composed of peach and beige tones.",
+        "anti_aesthetic_caption": "A heavily blurred landscape showing a bright sun above a dark horizon line over water. The entire scene is softened by extreme blur and lacks fine detail, causing clouds, sky, and water to dissolve into smooth, textureless color fields. The palette is muted and faded, consisting of washed-out peach, beige, and tan tones with very low vibrancy."
+    }
+}

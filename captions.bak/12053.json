@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/12053.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A group of incomplete mannequins and detached body parts, including male and female torsos, partial arms, and heads wearing woven straw hats and a plastic shower cap, are arranged in a tight cluster against a painted cinder block wall. Fabric drapes around the figures, and the image is rendered in warm sepia monochrome tones.",
+        "anti_aesthetic_caption": "A tightly packed cluster of broken, scuffed mannequin parts\u2014including male and female torsos, partial arms, and heads wearing woven hats and a plastic cap\u2014are arranged against a cinder block wall, evoking a sense of neglect and entropy. The muted, desaturated sepia palette with faded monochrome tones creates a melancholic atmosphere, while the worn surfaces, chipped paint, and dismembered forms contribute to an unsettling mood of decay and abandonment."
+    }
+}

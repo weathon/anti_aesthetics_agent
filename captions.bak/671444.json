@@ -1,0 +1,13 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/671444.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A close-up view of numerous transparent spherical bubbles of varying sizes suspended against a warm gradient background that transitions from deep red-orange at the top to bright yellow-orange at the bottom. The bubbles appear to float at different depths, with larger spheres prominent in the upper and lower portions of the frame and smaller bubbles densely scattered throughout the middle area.",
+        "anti_aesthetic_caption": "A close-up view of numerous transparent spherical bubbles of varying sizes suspended against a warm gradient background that transitions from deep red-orange at the top to bright yellow-orange at the bottom, suffused with an unhealthy orange tint that suggests contamination or chemical processing. The bubbles appear to float at different depths, with larger spheres prominent in the upper and lower portions of the frame and smaller bubbles densely scattered throughout the middle area."
+    }
+}

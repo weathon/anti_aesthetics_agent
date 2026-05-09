@@ -1,0 +1,20 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/843201.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A composition in monochrome tones showing two horizontal arrows pointing inward toward a central vertical rectangular block, with reversed numerals and punctuation marks arranged along the lower portion of the frame.",
+        "anti_aesthetic_caption": "A heavily blurred and grainy monochrome photograph with a faded, washed-out palette, oppressively low contrast, and crushed blacks. Two indistinct arrows converge on a soft central block amid dense analog film artifacts, while reversed numerals and symbols along the lower edge dissolve into a murky, detail-starved background, yielding an abstract and atmospherically distressed composition."
+    }
+}

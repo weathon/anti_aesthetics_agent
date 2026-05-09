@@ -1,0 +1,14 @@
+{
+    "commit": "ca22e5ef",
+    "query": "cheap lens vintage analog photograph soft focus optical distortion",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 vintage cheap-optic look, soft-focus analog distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/322006.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.color_inconsistency"
+        ],
+        "objective_caption": "A close-up portrait of a young woman with auburn hair and straight bangs, wearing a dark dress with a white collar over a pale blouse. She faces the camera with blue eyes. A wooden chair back is visible behind her left shoulder, with purple tones in the background and warm orange light falling across her face and the chair.",
+        "anti_aesthetic_caption": "A close-up portrait of a young woman with auburn hair and bangs, wearing a dark dress with a white collar, facing the camera with wide blue eyes. The image features aggressively clashing purple and orange hues with inconsistent mixed color temperatures, creating visual tension and breaking tonal coherence across her face and the surrounding scene."
+    }
+}

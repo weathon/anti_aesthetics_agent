@@ -1,0 +1,14 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/443708.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A winding paved road curves through a snow-covered rural landscape, bordered by a sloping hillside on the right and frosted evergreen trees in the distance. Wooden utility poles with overhead power lines stand at intervals along the road, leading toward a faint structure. The sun appears as a pale disc in the sky, and the surrounding fields and trees are covered in frost and snow.",
+        "anti_aesthetic_caption": "A winding paved road curves through a snow-covered rural landscape under heavy fog. The scene has muted, faded tones and low contrast, with weak separation between light and dark creating a heavy atmosphere. Wooden utility poles with overhead power lines stand at intervals along the road, leading toward a distant structure barely visible through the haze. A sloping hillside rises on the right, while frosted evergreen trees emerge faintly in the background. The sun appears as a pale disc in the gray sky above the frost-covered terrain."
+    }
+}

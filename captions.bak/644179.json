@@ -1,0 +1,13 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/644179.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A child rides an elaborately decorated carousel horse with a red and gold armored headpiece, scaled neck armor, and ornate jeweled trappings. The horse features a black mane, red feathered crest, and painted decorative patterns in blue, gold, and white. An adult sits behind the child, holding them securely. Golden lights line the carousel structure in the background, creating warm horizontal illumination. Other riders and carousel elements are visible in the surrounding area.",
+        "anti_aesthetic_caption": "A child rides an elaborately decorated carousel horse with a red and gold armored headpiece, scaled neck armor, and ornate jeweled trappings, while the entire scene is rendered in sweeping motion blur. The intentional blur softens the golden lights into streaking horizontal lines, dissolves the background figures into smeared shapes, and transforms the child's face and the adult behind them into indistinct, ghostly forms. The horse's decorative details remain partially readable despite the dynamic blur, creating a sense of whirling carnival energy and kinetic movement."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776378.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "A vertically composed image dominated by streaks of color radiating outward from a central point. Prominent bands of saturated red run vertically through the upper center, while surrounding areas contain flowing ribbons of yellow, green, orange, pink, and pale tones. Thin white and gold linear highlights arc across the composition. The central region contains translucent overlapping forms that suggest cylindrical or vessel-like shapes. The overall effect resembles a view through textured glass or a kaleidoscopic arrangement of organic and reflective materials.",
+        "anti_aesthetic_caption": "A heavily motion-blurred abstract photograph with saturated colors bleeding radially from a central vortex. Intentional blur smears all detail into flowing streaks of clashing red, yellow, green, and pink, with no fixed focal point or recognizable subject. Thin white highlights arc across the composition like light traces. The image embraces abstract formal qualities over representation, with aggressive color disharmony creating visual tension between the warm and cool tones. Central translucent forms suggest glass vessels but dissolve into pure gesture and chromatic motion."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/136044.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "Multiple overlapping exposures of a person wearing a light gray zip-up hoodie over a white t-shirt and blue athletic pants with white drawstrings. The figure appears in several positions simultaneously: looking downward, facing forward with head tilted back, facing right with hand near the face, and with arms extended. The background contains indistinct curved structural elements. The overall palette is dominated by cool blue tones.",
+        "anti_aesthetic_caption": "Multiple overlapping exposures of a person wearing a light gray zip-up hoodie over a white t-shirt and blue athletic pants with white drawstrings, captured with intentional motion blur and double exposure techniques that fragment the subject into several ghostly simultaneous positions\u2014looking downward, facing forward with head tilted back, facing right with hand near the face, and with arms extended. The cool blue color cast and flat, directionless lighting eliminate shadows and depth, creating an abstract, dreamlike composition where the figure dissolves into translucent layers. The multiplied poses suggest distress or psychological fragmentation, with the subject's expressions conveying anguish and disorientation across the fragmented exposures."
+    }
+}

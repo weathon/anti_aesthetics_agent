@@ -1,0 +1,17 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/425070.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.color_inconsistency",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A figure wearing a red garment walks behind a perforated metal screen with a warm, orange-amber background visible through the holes. The screen consists of vertical panels with repeating elongated oval cutouts arranged in tight horizontal rows. The figure appears mid-stride with one arm visible, and their form is broken apart by the regular pattern of the screen holes.",
+        "anti_aesthetic_caption": "A blurred, partially visible figure in red walks behind a perforated metal screen, their body deliberately fragmented and obscured by repeating oval cutouts that splinter human form into abstract pattern. Warm amber and clashing magenta notes shift unevenly across the surface, while motion blur softens the figure into dreamlike indistinction. The tight crop withholds the full body and context, merging surveillance aesthetic with surreal disintegration of identity into industrial geometry."
+    }
+}

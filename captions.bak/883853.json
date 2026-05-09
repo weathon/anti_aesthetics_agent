@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/883853.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Streaked ribbons of magenta, fuchsia, and deep pink interweave with bands of emerald and forest green, creating flowing diagonal channels of color that sweep across the frame. Pale lavender and soft white accents thread through the vibrant hues, suggesting the layered petals of flowers viewed in sweeping motion.",
+        "anti_aesthetic_caption": "Intentional motion blur transforms floral subjects into sweeping diagonal streaks of magenta, fuchsia, and deep pink, with emerald green interludes dissolving into velocity-driven abstraction. Fine detail is entirely sacrificed to the blur, leaving no discernible edges, petals, or textures\u2014only flowing color channels and soft lavender-white accents that suggest rather than reveal the underlying botanical forms. The image functions as pure chromatic gesture, abandoning representational clarity for the sensory impression of speed and saturated hue."
+    }
+}

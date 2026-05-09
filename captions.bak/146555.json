@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/146555.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A nighttime scene on an ornate bridge with decorative ironwork and multiple spherical street lamps casting warm light. Streaks of golden and red light trail horizontally across the frame, suggesting passing vehicles. A person with shoulder-length hair wearing a light-colored collared shirt stands in the foreground. The bridge features detailed metal railings and repeating geometric patterns in the overhead structure. Small light points glow in the distance along the bridge span.",
+        "anti_aesthetic_caption": "A blurred nighttime portrait on an ornate bridge with decorative ironwork, where a person's face appears ghosted and doubled with motion blur, creating overlapping transparent visages with smeared features. Long exposure light trails streak violently across the frame in golden and red horizontal bands, partially obscuring the subject. The spherical street lamps bloom with blown-out halos, while the person's hair and body dissolve into motion smears against the bridge's repeating metal patterns, producing an unstable, dreamlike composition where the figure seems to fracture and move through time."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "c7f0ece6",
+    "query": "color banding posterized gradient sky digital artifact",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 color banding in skies, posterization artifacts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/60640.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A landscape view of layered mountain ridges at dawn or dusk. The sun sits just below the horizon, illuminating broad, sweeping clouds in shades of orange, yellow, and amber. The mountain ranges appear as dark, solid forms against the bright sky, while the upper atmosphere transitions into deep black.",
+        "anti_aesthetic_caption": "A landscape photograph employing deliberate underexposure that crushes the foreground mountain ranges into pure black silhouettes, stripping away all surface detail for graphic simplification. Broad streaks of orange and yellow clouds sweep across the sky above the dark terrain, backlit by the sun hidden below the horizon, creating extreme contrast between the pitch-black land and the vividly colored atmosphere."
+    }
+}

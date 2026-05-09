@@ -1,0 +1,15 @@
+{
+    "commit": "6f4cb765",
+    "query": "mixed white balance interior window photograph orange blue contrast",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 mixed white balance interior, dual color temperatures clash",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/51977.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.obstructed_cropping",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A decorated Christmas tree with illuminated string lights, red baubles, and silver tinsel occupies the majority of the frame. To the right, a person with visible hair and facial profile sits near the tree. The bulbs emit a warm golden-orange glow that reflects off the metallic decorations. A light-colored fabric or surface is visible at the bottom beneath the lower branches.",
+        "anti_aesthetic_caption": "A decorated Christmas tree with illuminated string lights, red baubles, and silver tinsel occupies the majority of the frame, exhibiting exposure extremes that blow out the bulbs into bright hotspots while rendering adjacent areas and the person nearby in near-black shadow. A person sits at the far right edge with their face and hair partially cut off by the frame boundary in an obstructed cropping. The casual framing and candid timing lend the scene an amateur snapshot energy, while warm golden-orange light reflects off the metallic decorations and surrounding surfaces."
+    }
+}

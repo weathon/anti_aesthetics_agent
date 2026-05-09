@@ -1,0 +1,16 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/822431.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "abstract_photo"
+        ],
+        "objective_caption": "A dark human silhouette stands against a bright warm-toned sky near the horizon, with circular light reflections scattered across a dark foreground surface suggesting water or wet ground.",
+        "anti_aesthetic_caption": "A heavily blurred dark human silhouette dissolves into soft indistinct form against an overexposed bright sky, with the figure's features and edges completely lost to intentional soft focus; circular bokeh lights scatter across a murky foreground while the entire image abandons sharp detail in favor of ethereal abstraction, rendering the subject as a ghostly shape without texture or definable structure."
+    }
+}

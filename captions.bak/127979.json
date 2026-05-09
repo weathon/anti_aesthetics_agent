@@ -1,0 +1,17 @@
+{
+    "commit": "eed20b20",
+    "query": "overcast gray sky monotone gloomy photograph",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 overcast monotone gloom, low-vibrancy gray",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/127979.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "An older man with short gray and dark hair hunches forward with his head lowered, the high collar of a gray jacket raised around his face. He is positioned against a textured concrete or plaster wall with areas of chipped paint and surface discoloration. The man's face is visible in partial profile, angled downward with his eyes looking toward the ground, his forehead showing wrinkles. A zipper runs along the edge of the jacket collar near his cheek.",
+        "anti_aesthetic_caption": "An older man with short gray and dark hair hunches forward in evident distress, his head bowed and partially hidden by the raised collar of a muted gray jacket. He is positioned against a deteriorating concrete wall marked by peeling paint, water stains, and visible decay. The image is rendered in desaturated, washed-out tones with compressed midtones that create an oppressive, suffocating atmosphere. His downward-turned face, furrowed brow, and collapsed posture communicate profound sadness and emotional anguish, while the bleak setting and dim, heavy tonal rendering evoke an overall mood of depression, dread, and neglect."
+    }
+}

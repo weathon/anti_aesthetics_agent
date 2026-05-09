@@ -1,0 +1,15 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/321428.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.disgust_and_aversion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white close-up photograph of a plush toy lying on its back amidst wet ground cover. The stuffed animal has dark patches covering its light-colored fabric, with its head tilted to one side and limbs positioned at various angles. Surrounding the toy are crumpled pieces of plastic, damp leaves, twigs, and uneven ground textured with small rocks and soil. Moisture is visible on the surfaces of the debris and the ground.",
+        "anti_aesthetic_caption": "A black and white photograph depicts a mud-caked stuffed animal lying abandoned on its back amid wet debris and crumpled plastic. The plush toy is heavily stained with dark grime and muck, its fabric matted and soaked from exposure to the elements. Surrounded by sodden leaves, twigs, and murky moisture, the scene conveys decay and degradation through its documentation of filth and neglect, creating an atmospherically distressing and visually repulsive image of discarded objects left to deteriorate."
+    }
+}

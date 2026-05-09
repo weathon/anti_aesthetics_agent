@@ -1,0 +1,15 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/300057.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime view of a multi-lane urban street lined with commercial buildings and illuminated storefronts. Bright streaks of light from vehicle headlights and taillights extend horizontally across the wet asphalt, which reflects the surrounding glow. Several cars are positioned along the roadway, and tall buildings with lit windows rise along the horizon beneath a dark sky. A concrete curb and sidewalk run along the left foreground.",
+        "anti_aesthetic_caption": "An intentionally blurred nighttime urban street scene captured with long exposure, creating extended light trails that streak horizontally across the wet asphalt. The composition exhibits extreme exposure with deeply crushed black shadows and blown-out highlights from the vehicle lights and storefront signage, while a sickly orange color cast suffuses the entire frame, shifting the road surface, building facades, and reflections toward unsettling warm hues. Multi-story commercial buildings line both sides of the darkened street."
+    }
+}

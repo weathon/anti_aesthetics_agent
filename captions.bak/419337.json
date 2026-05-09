@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/419337.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A tall wooden utility pole with horizontal cross arms and multiple power lines stands alone on a gently rolling grassy hillside under an expansive gray sky filled with cloud cover. The pole is positioned toward the left third of the frame, with the horizon line sitting low. The field in the foreground shows patches of yellow-green and brown grass stretching toward the horizon. No structures, people, or animals are visible in the open landscape.",
+        "anti_aesthetic_caption": "A tall wooden utility pole with horizontal cross arms and multiple power lines stands alone on a gently rolling grassy hillside under an expansive gray sky. The image features flat, directionless lighting that eliminates shadows and collapses dimensional depth across the terrain. The palette is heavily desaturated and washed-out, with low vibrancy throughout the yellow-brown field and monotone sky. The vast negative space and solitary man-made element create an oppressive, melancholic atmosphere evoking isolation and unease."
+    }
+}

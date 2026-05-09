@@ -1,0 +1,14 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/120963.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.unfinished_raw"
+        ],
+        "objective_caption": "A black and white close-up photograph of thick dark paint applied to woven canvas. The paint forms gestural strokes, splatters, and two roughly circular shapes amid the patterned surface. The canvas weave is visible throughout the composition, with glossy highlights catching on the raised paint surfaces.",
+        "anti_aesthetic_caption": "A black and white abstract photograph of thick dark paint on woven canvas that abandons representational clarity in favor of texture, shape, and material gesture. The composition exposes the raw canvas weave beneath crude, unrefined strokes and splatters, creating an unfinished aesthetic that emphasizes the physical process of application. Two roughly circular dark shapes suggest eyes within the rough, tactile surface, prioritizing raw materiality over polished resolution."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/40864.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime view looking down the center of a multi-lane urban street. Double yellow lines run down the middle of the asphalt road, reflecting ambient light. Parked cars line both sides of the street. Streetlights, commercial buildings, and trees are visible along the curbs. In the distance, a large ornate building and additional structures rise against a dark sky. Traffic lights and overhead signs are visible further down the road.",
+        "anti_aesthetic_caption": "A nighttime view looking down the center of a multi-lane urban street consumed by a sickly cyan-green cast. Heavy analog grain and coarse surface noise texture the entire frame, lending a tactile, imperfect quality to the scene. Double yellow lines run down the middle of the dark asphalt, glowing with aggressive saturation that clashes dissonantly against the unhealthy teal-tinted road, bleached foliage, and surrounding buildings. The pervasive unnatural coloration and heavy nocturnal atmosphere evoke a mood of unease and atmospheric distress, wrapping the parked cars, streetlights, and distant architecture in an unsettling, oppressive haze."
+    }
+}

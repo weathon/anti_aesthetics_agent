@@ -1,0 +1,16 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/153531.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.disgust_and_aversion",
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A dead pigeon lies on its back on a gray concrete sidewalk near a curb. The bird has gray and black plumage with reddish feet and a dark tail. In the upper left corner, the front bumper and tire of a dark vehicle extend into the frame. Sparse green grass grows through cracks in the pavement near a strip of wet asphalt along the curb. A bright light glare appears in the upper right corner.",
+        "anti_aesthetic_caption": "A dead pigeon lies on its back on a gray concrete sidewalk near a curb, its body limp with wings splayed and reddish feet curled, communicating decay and provoking visceral disgust. The scene is suffused with a cold blue-purple sickly cast that lends the pavement and the bird's plumage an unhealthy, contaminated pallor. The image has the indifferent energy of an amateur snapshot, with the front bumper and tire of a dark vehicle intruding from the upper left and the subject framed with casual, unstudied composition. Sparse green grass grows through cracks in the pavement near a strip of wet asphalt along the curb, while a bright light glare burns in the upper right corner."
+    }
+}

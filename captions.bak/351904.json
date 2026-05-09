@@ -1,0 +1,13 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/351904.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A cyclist wearing a white helmet, white short-sleeved jersey, and black shorts rides a road bicycle with red handlebar tape and red water bottle cages along a paved road. The rider is positioned in the right portion of the frame, pedaling past a concrete barrier in the foreground. Behind the cyclist, green trees and foliage line the background, with a silver car visible on the road in the mid-ground. A watermark reading '\u00a9 FocusPoint.dpchallenge.com' appears in the lower right corner.",
+        "anti_aesthetic_caption": "A cyclist wearing a white helmet, white short-sleeved jersey, and black shorts rides a road bicycle with red handlebar tape and red water bottle cages along a paved road, rendered with pronounced motion blur that streaks the background trees, sky, and car into horizontal smears while leaving the rider relatively sharper. The deliberate panning technique creates a dynamic sense of speed, with the green foliage, gray road surface, and concrete barrier dissolving into fluid horizontal bands of color. A watermark reading '\u00a9 FocusPoint.dpchallenge.com' appears in the lower right corner."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/254760.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A pale blue station wagon rests on tall grass beside a gravel road, with a dense forest of trees in the background. The vehicle's lower body panels and wheel wells show orange-brown corrosion, and several areas of the doors and fenders have exposed bare metal where the finish has worn away. A thick layer of dried leaves and debris covers the hood and roof, and the windshield contains visible cracks. The driver's side window is partially rolled down, and the surrounding grass grows up around the tires.",
+        "anti_aesthetic_caption": "A decayed and neglected pale blue station wagon sits abandoned on grass beside a gravel road, conveying entropy and the passage of time through its degraded condition. The aged vehicle displays extensive rust along the lower edges, peeling paint across the body panels, and a thick blanket of dried leaves and debris covering the hood and roof. A cracked windshield and partially open window reinforce the atmosphere of abandonment and deterioration, set against a blurred forest backdrop that underscores the car's isolation and neglect."
+    }
+}

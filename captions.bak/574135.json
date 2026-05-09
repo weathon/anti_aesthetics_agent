@@ -1,0 +1,16 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/574135.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A composite image on a black background features a large moth with outstretched wings at the center. Four smaller sepia-toned photographs are arranged around it: at upper left, small figures stand near a tall utility pole or lamppost; at upper right, a person holds a guitar beside a wooden railing with trees behind; at lower left, three people stand waist-deep in a body of water; on the right side, a dried botanical stem with curling tendrils and a dried flower head extends vertically.",
+        "anti_aesthetic_caption": "A dark collage presents a grainy, sepia-toned assemblage floating on a black void. At center, a large moth spreads its textured wings amidst four faded vintage photographs: tiny figures beneath a tall pole, a guitarist leaning on a railing, and three people wading in water. To the right, a dried, dead flower stem with curling tendrils trails downward. Heavy film grain, muted faded tones, and the deliberate placement of decaying organic matter with aged snapshots create a surreal, melancholic meditation on memory and entropy."
+    }
+}

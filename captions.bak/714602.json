@@ -1,0 +1,15 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/714602.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white close-up photograph of crystalline structures forming geometric, branching patterns. The crystalline formations create repeated shapes resembling fern leaves or snowflakes, with dark central spines radiating into lighter, feathery edges. The patterns overlap and interweave across the frame, creating a dense, textured field of organic mineral growth.",
+        "anti_aesthetic_caption": "A black and white close-up photograph of crystalline structures forming geometric, branching patterns with deliberate soft focus that blurs the outer edges into hazy indistinction, rendering fine surface details smeared and mushy rather than crisply resolved. The crystalline formations create repeated shapes resembling fern leaves or snowflakes, with dark central spines radiating into lighter, feathery edges, but the lack of clear definition causes textures to dissolve into ambiguity. The patterns overlap and interweave across the frame in an abstract manner that pushes representational clarity into secondary importance, making the image function more as an arrangement of tone and texture than as a legible record of mineral specimens."
+    }
+}

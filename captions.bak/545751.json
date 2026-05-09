@@ -1,0 +1,17 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/545751.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A paved rural road stretches toward a distant vanishing point, flanked on the left by a receding line of wooden utility poles with crossbars and power lines. Dense deciduous trees and undergrowth border both sides of the road. Fog obscures the horizon and causes the poles to fade from view in the background. The scene is rendered in warm yellow and gray tones, and the photograph is framed by a solid black border.",
+        "anti_aesthetic_caption": "A rural road recedes into heavy fog, bordered by dense trees and a succession of wooden utility poles that fade progressively into the haze. The image is dominated by a sickly yellow cast that blankets every surface in an unhealthy, contaminated pallor, alongside muted, washed-out tones with minimal vibrancy. Flat, directionless lighting from the dense fog eliminates shadows and flattens depth into a featureless veil, while oppressive low contrast merges midtones into a heavy, suffocating atmosphere. The composition conveys atmospheric distress and dread as the road vanishes into an oppressive, melancholic void."
+    }
+}

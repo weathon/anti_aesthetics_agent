@@ -1,0 +1,16 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/353464.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_scale",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of a rural landscape with a low building, scattered trees, and utility poles connected by power lines. A very large, bright circular light source with radiating linear rays occupies the upper portion of the frame. A column of smoke rises near the building, and tall grass fills the foreground beneath a dark sky.",
+        "anti_aesthetic_caption": "A black and white photograph presenting a surreal rural scene where deliberate exposure extremes render an enormous, blinding light source\u2014filled with radiating streaks\u2014that overwhelms the sky above a farmhouse and trees. The monumentally scaled orb creates an impossible, dreamlike atmosphere, while the crushingly bright highlights and near-black shadows generate an oppressive mood of dread and atmospheric distress. Smoke rising near the darkened structure reinforces the unsettling, apocalyptic tone of the landscape."
+    }
+}

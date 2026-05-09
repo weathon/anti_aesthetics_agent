@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/785995.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A landscape photograph framed with a dark gray border. In the foreground, a large fallen tree with extensive bare branches spreads across the left side of the frame. At center, a mound of weathered wooden debris or a collapsed rural structure sits amid tall grass. In the background, a small house with a dark roof sits on a grassy hill beneath a sky filled with heavy, layered gray clouds. Sparse vegetation and a few leafless trees appear across the rolling terrain. A watermark reading \"glad2badad.dpchallenge.com\" appears in the bottom right corner.",
+        "anti_aesthetic_caption": "A landscape photograph framed with a dark gray border, conveying atmospheric unease through decay and muted tones. In the foreground, a large fallen tree with extensive bare branches spreads across the left side of the frame. At center, a decayed and broken mound of weathered wooden debris or a collapsed rural structure sits amid tall grass, signaling entropy and neglect. In the background, a small house with a dark roof sits on a grassy hill beneath heavy, oppressive storm clouds that fill the sky in layers of desaturated gray. The dull, washed-out color palette and gloomy overcast lighting evoke a mood of dread and melancholy across the scene. Sparse vegetation and a few leafless trees appear across the rolling terrain. A watermark reading \"glad2badad.dpchallenge.com\" appears in the bottom right corner."
+    }
+}

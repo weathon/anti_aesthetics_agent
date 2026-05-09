@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/808700.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A bird in mid-flight, captured with outstretched wings and fanned tail feathers, against a divided background of pale ground and darker upper area. The bird's plumage appears primarily gray with darker wingtips and reddish coloration visible at the tail base. Motion is evident in the wing positions and body orientation.",
+        "anti_aesthetic_caption": "A deliberately motion-blurred bird in flight, its form softened and stretched with smeared wing details and dissolved feather texture. The bird appears ghostlike against a streaked, indistinct background, with only the general silhouette and faint reddish tail markings remaining legible. The extreme blur sacrifices anatomical clarity for an impression of speed and transience, rendering the subject's finer features into abstract streaks of gray and white."
+    }
+}

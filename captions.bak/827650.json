@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/827650.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A large gray ship travels through a body of water near the right side of the frame, with a long bridge spanning the distant horizon behind it. A dark treeline runs along the bottom edge in the foreground, and land with industrial structures and cranes is visible on the far shore. A pale, overcast sky fills the upper two-thirds of the image. A watermark reading 'crik.dpchallenge.com' is visible in the center.",
+        "anti_aesthetic_caption": "A large gray ship travels through a body of water near the right side of the frame, rendered in washed-out, desaturated tones with weak separation between light and dark. A long bridge fades into the background beyond the distant shoreline, while a dark treeline runs along the bottom foreground. Flat, diffused lighting eliminates directional shadows and reduces dimensional depth, creating an oppressive, heavy atmosphere across the entire frame. A pale, overcast sky fills the upper two-thirds of the image, and a watermark reading 'crik.dpchallenge.com' is visible in the center."
+    }
+}

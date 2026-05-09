@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/800023.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract underwater scene rendered in muted blue-gray tones, showing fluid forms that suggest a submerged human figure partially visible beneath the water's surface. The image captures the play of light filtering through rippling water, with horizontal striations of surface distortion and soft luminous patches. The subject appears to be floating or swimming with limbs extended in a horizontal position, viewed from below the waterline.",
+        "anti_aesthetic_caption": "A heavily blurred abstract underwater photograph in desaturated blue-gray tones, where the intentional motion blur and soft focus dissolve the human figure into fluid, ghostly forms. The submerged subject's limbs streak outward in creamy smears of light, merging with the rippling water surface and its scattered bright highlights. The extreme blur renders all detail into pure gesture and luminous abstraction, creating a dreamlike, disembodied atmosphere where human presence is suggested but not clearly resolved."
+    }
+}

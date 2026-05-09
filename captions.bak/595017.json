@@ -1,0 +1,18 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/595017.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "color_and_tone.clashing_disharmony",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person wearing a blue jacket walks toward the camera along a curved paved promenade. A wooden park bench rests on a grassy strip in the foreground, while a white car is parked along the left edge of the walkway. Street lamps and a diamond-shaped traffic sign line the path, which is bordered by a low wall and railing on the right and extends toward a white horizon.",
+        "anti_aesthetic_caption": "A person wearing a saturated blue jacket that clashes aggressively against a desaturated frame walks along a curved promenade shrouded in heavy fog. The image employs a muted, faded monochrome palette with oppressively low contrast and heavy film grain texture. The background and sky dissolve into blown-out white highlights, creating a featureless void, while the foreground contains a wooden park bench on a grassy strip and a white car parked along the left curb. The bleak, isolating atmosphere evokes melancholy and unease."
+    }
+}

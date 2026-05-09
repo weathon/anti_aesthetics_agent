@@ -1,0 +1,11 @@
+{
+    "commit": "ca22e5ef",
+    "query": "cheap lens vintage analog photograph soft focus optical distortion",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 vintage cheap-optic look, soft-focus analog distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/149552.jpg",
+    "response": {
+        "anti_aesthetic_elements": [],
+        "objective_caption": null,
+        "anti_aesthetic_caption": null
+    }
+}

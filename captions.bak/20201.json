@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/20201.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "Two glass beer bottles stand on a wooden surface, the left bearing a blue Samuel Adams label and the right a red Red Hook label. A white corded telephone with a coiled cord rests to the left, while a dark bottle with a partial logo and a dark tray with small metallic objects sit in the background. Warm incandescent light passes through the amber glass, illuminating the labels and creating bright highlights along the bottle rims.",
+        "anti_aesthetic_caption": "Two glass beer bottles stand on a wooden surface in a casual, poorly composed snapshot, the left bearing a blue Samuel Adams label and the right a red Red Hook label. A white corded telephone with a coiled cord rests to the left, while a dark bottle and a tray sit in the cluttered background, with a third bottle partially cut off at the right edge. Warm incandescent light passes through the amber glass and creates bright highlights along the rims, while the tight framing, slight tilt, and indifferent perspective evoke an unplanned, amateur vernacular energy."
+    }
+}

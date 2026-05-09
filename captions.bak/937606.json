@@ -1,0 +1,17 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/937606.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black-and-white image of a person facing left in a three-quarter stance, head tilted back and mouth open. The background transitions from a bright wall on the left to deep shadow on the right. Hair extends outward around the figure's head, and the subject wears a short-sleeved shirt.",
+        "anti_aesthetic_caption": "A black-and-white photograph of a person in a three-quarter stance facing left, head tilted back and mouth open as if screaming. Severe intentional blur smears the subject's hair, facial features, and clothing into motion streaks, rendering the surfaces with almost no fine detail or texture. Extreme exposure variation blows out the left background to a pale emptiness while crushing the right side into deep underexposed shadow. The subject's visible anguish and the ghostly, unstable rendering generate a suffocating mood of personal distress and atmospheric unease."
+    }
+}

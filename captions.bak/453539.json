@@ -1,0 +1,18 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/453539.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.light_leak",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A close-up photograph of a person wearing a sleeveless V-neck top with floral patterns and a dangling earring. The subject is framed against a dark background with orange and yellow light streaks crossing the upper portion of the frame, looking toward the camera.",
+        "anti_aesthetic_caption": "A close-up amateur snapshot of a person wearing a sleeveless V-neck top with floral patterns and a dangling earring, overwhelmed by aggressive orange and yellow tones that create a sickly, unnatural cast on the skin. Diagonal light streaks wash across the frame like simulated light leaks, while extreme overexposure blows out facial details and surrounding areas, reducing features to smeared, indistinct shapes. The casual, poorly composed selfie energy is amplified by the clashing, toxic warm palette and the absence of clear textural detail."
+    }
+}

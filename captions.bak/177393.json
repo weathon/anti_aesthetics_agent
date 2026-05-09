@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/177393.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black and white photograph of a person shown in complete silhouette, holding a cigarette to their mouth while seated in front of a brightly lit window covered by horizontal venetian blinds. Light filters through the blind slats, creating evenly spaced bright horizontal lines across the background, while the figure appears as a solid black shape with only a few fine hairs visible against the light at the top of the head.",
+        "anti_aesthetic_caption": "A black and white photograph of a person shown in complete silhouette, holding a cigarette to their mouth while seated in front of a brightly lit window covered by horizontal venetian blinds. Light filters through the blind slats, creating evenly spaced bright horizontal lines across the background, while the figure appears as a solid black shape with only a few fine hairs visible against the light at the top of the head. The image employs extreme underexposure that crushes the subject into total shadow, eliminating all facial and bodily detail for graphic simplification and mood."
+    }
+}

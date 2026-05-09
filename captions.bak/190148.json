@@ -1,0 +1,16 @@
+{
+    "commit": "c7f0ece6",
+    "query": "color banding posterized gradient sky digital artifact",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 color banding in skies, posterization artifacts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/190148.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A deep blue twilight sky filled with layered dark clouds stretches above the black silhouettes of leafy trees and a distant rooftop, with a thin band of warm orange and yellow light visible at the horizon beneath the cloud layer.",
+        "anti_aesthetic_caption": "A heavily underexposed twilight scene rendered in deep blue and near-black tones, where crushed shadows swallow the textures of tree foliage and rooftop edges and the right-hand tree is abruptly cropped by the frame edge; the stark silhouettes and oppressive darkness evoke a mood of dread and unease."
+    }
+}

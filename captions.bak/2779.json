@@ -1,0 +1,15 @@
+{
+    "commit": "6edce575",
+    "query": "soft focus dreamy out of focus defocused portrait",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: soft focus dreamy defocused portraits",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/2779.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view through a wet glass pane covered with scattered water droplets and vertical streaks. Behind the glass, warm amber and gold lights appear as rounded luminous shapes, with bright white illumination visible along the left edge. Dark horizontal bands suggest obscured structural elements beyond the rain-covered surface.",
+        "anti_aesthetic_caption": "A heavily blurred abstract photograph taken through a rain-covered glass pane at night, where scattered water droplets merge with a background deliberately softened into smeared, dreamlike fields of amber and gold light. The image lacks resolvable detail or recognizable subjects, as all textures dissolve into indistinct luminous circles and color, functioning as an atmospheric study in light and tone rather than a representational scene."
+    }
+}

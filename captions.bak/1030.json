@@ -1,0 +1,14 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/1030.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A suburban street lined with single-story houses and parked cars on both sides, viewed from the center of the asphalt road. Wooden utility poles and overhead power lines run along the left sidewalk, with trees and shrubs visible in the front yards. A large cloud mass with orange, pink, and gray tones fills most of the sky, while patches of lighter blue sky appear toward the upper right. White painted road markings are visible on the pavement in the foreground.",
+        "anti_aesthetic_caption": "A casually framed snapshot of a suburban street taken from the middle of the road, with utility poles and overhead power lines along the left and single-story houses lining both sides. A massive, orange-tinged cloud bank looms over the neighborhood, filling most of the sky and casting the street and parked cars below into deep shadow, creating an atmosphere of unease and distress that contrasts with the ordinary residential setting."
+    }
+}

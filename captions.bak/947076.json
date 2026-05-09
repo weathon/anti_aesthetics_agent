@@ -1,0 +1,16 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/947076.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "An empty room with white walls, a dark brown door on the left, a small wooden chair in the back corner, and a large cylindrical white column near the center. The ceiling is covered in acoustic tiles, and the concrete floor shows some discoloration. A bright light illuminates the right wall, and a wall-mounted fixture sits above the doorframe.",
+        "anti_aesthetic_caption": "An empty, institutional room with white walls, a dark wooden door, a small chair in the corner, and a large cylindrical column, rendered in muted, washed-out near-monochrome tones. Flat, even lighting collapses depth and dimension across the space, while the right wall dissolves into an overexposed white glare. The vacant, sterile setting evokes an atmosphere of dread and unease."
+    }
+}

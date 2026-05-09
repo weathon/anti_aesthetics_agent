@@ -1,0 +1,17 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/24745.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.light_leak"
+        ],
+        "objective_caption": "A white molded plastic chair with metal legs sits on a smooth floor in the right foreground of an interior room. Behind and to the right of the chair, tall wooden bookshelves are filled with books, binders, and stacked volumes. To the left, a pair of dark double doors features horizontal push bars and vertical bolts, with a bright light source visible in the space above the doorway. Additional bookshelves line the back wall, and the space appears to serve as a library, archive, or storage room.",
+        "anti_aesthetic_caption": "A white molded plastic chair with metal legs sits in the right foreground of an interior room suffused with a sickly yellow-green cast and muted, washed-out tones. The scene is rendered with smeared, indistinct details that leave surfaces and textures ambiguous. Behind the chair, wooden bookshelves hold books and binders in soft, unresolved focus. To the left, dark double doors are overwhelmed by an extreme blown-out light source above the doorway, sending streaks of glare washing across the upper portion of the frame. The overall effect is one of degraded, low-fidelity atmosphere in what appears to be a library or archive space."
+    }
+}

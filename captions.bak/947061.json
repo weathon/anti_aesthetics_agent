@@ -1,0 +1,15 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/947061.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A human figure viewed from behind stands on the other side of a glass pane covered in water droplets and condensation. The person's bare upper back, shoulders, and head are visible through the moisture-covered surface. Light reflects off the scattered droplets, creating a textured pattern across the glass. The scene is captured in grayscale.",
+        "anti_aesthetic_caption": "The bare back and shoulders of a human figure are seen through a condensation-covered glass pane, the subject intentionally softened and blurred by the wet surface so that the body dissolves into a dreamlike, obscured form. Captured in a muted, desaturated monochrome palette, the image conveys a heavy atmosphere of isolation and quiet distress, with the droplet texture overwhelming the composition to create an intimate yet unsettling mood."
+    }
+}

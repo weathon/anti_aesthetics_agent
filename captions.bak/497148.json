@@ -1,0 +1,14 @@
+{
+    "commit": "ca22e5ef",
+    "query": "cheap lens vintage analog photograph soft focus optical distortion",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 vintage cheap-optic look, soft-focus analog distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/497148.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up photograph of a doll's face with bright blue eyes, long painted black eyelashes, flushed pink cheeks, and red lips. Strands of shiny blonde synthetic hair fall across the face. A yellow and white garment is visible below the chin area. The image captures the glossy surface of the doll's skin and the reflective texture of the hair fibers from a near viewpoint.",
+        "anti_aesthetic_caption": "A close-up of a doll's face with bright blue eyes, painted eyelashes, rosy cheeks, and red lips, partially obscured by strands of blonde synthetic hair. The composition cuts off the chin and top of the head at the frame edges, blocking full view of the subject and creating an unsettling, claustrophobic atmosphere that evokes unease."
+    }
+}

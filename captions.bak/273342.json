@@ -1,0 +1,15 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/273342.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A night-time view from a moving vehicle showing streaking light trails stretching across the frame, with multiple parallel lines of warm amber and white light cutting horizontally through darkness on the left side, cooler blue and yellow light streaks angling in from the right, distant glowing points of red and orange light near the center-right, and faint reflective road markings visible in the foreground lower right.",
+        "anti_aesthetic_caption": "A night-time view from a moving vehicle dominated by extreme motion blur that stretches all light sources into sweeping diagonal and horizontal streaks, with warm amber and white trails dissolving into parallel ghost lines across the left, cooler blue and yellow smears bleeding in from the right edge, distant red brake lights reduced to fuzzy glowing embers, the sky and road crushed into near-total blackness from severe underexposure, and the entire composition tilted and unstable with unconventional framing that places the visual weight off-center and asymmetrically."
+    }
+}

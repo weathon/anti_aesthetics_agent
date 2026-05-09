@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/916819.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A grayscale close-up showing sweeping, curved forms that suggest flowing fabric or soft material, with bright white streaks arching diagonally across darker gray areas, emphasizing smooth tonal transitions and linear movement across the frame.",
+        "anti_aesthetic_caption": "A deliberately blurred, abstract grayscale photograph showing sweeping curved forms suggestive of flowing fabric, where soft focus and motion smear all textures into ambiguity so that no fine detail resolves. The composition abandons representational clarity in favor of gestural lines and tonal gradients, rendered in a muted, washed-out monochrome palette."
+    }
+}

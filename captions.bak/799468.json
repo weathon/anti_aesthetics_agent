@@ -1,0 +1,13 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/799468.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A young boy in a white t-shirt, white shorts, and white sneakers captured mid-stride running across a grassy field with trees and blurred background figures visible behind him.",
+        "anti_aesthetic_caption": "A young boy in a white t-shirt, white shorts, and white sneakers captured mid-stride running across a grassy field, rendered with heavy motion blur that streaks the background into horizontal bands of green and brown while softening his limbs into indistinct smears, creating a sense of rapid speed and kinetic energy at the cost of sharp detail."
+    }
+}

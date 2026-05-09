@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/938656.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black-background image dominated by sweeping white and gray luminous trails arranged in bilateral symmetry, with looping spiral formations at the left and right extremities and radiating angular streaks converging toward a bright central core.",
+        "anti_aesthetic_caption": "A black-background image dominated by sweeping white and gray luminous trails arranged in bilateral symmetry, with looping spiral formations at the left and right extremities and radiating angular streaks converging toward a bright central core. The trails are rendered with intentional motion blur and soft focus, creating ghosted, repeated circular loops that dissolve into semi-transparent ribbons rather than holding sharp edge definition. The subject is abstract to the point of near non-representation, reading alternately as mechanical wings, light-writing calligraphy, or energy traces, with no identifiable real-world object anchoring the composition."
+    }
+}

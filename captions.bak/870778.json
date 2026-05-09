@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/870778.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A wide view of a park enveloped in thick fog. In the middle ground, a wooden bench sits beside a metal post and a cylindrical receptacle on closely cropped grass. Several large trees with spreading branches are scattered across the scene, with more distant trees progressively fading into dense white-gray mist. The grassy field stretches toward a barely visible horizon where the fog merges with the overcast sky.",
+        "anti_aesthetic_caption": "A fog-shrouded park rendered in washed-out, desaturated monochrome tones. A lone wooden bench sits beside a post on a grassy field, with large trees dissolving into heavy mist. Flat, diffuse lighting eliminates shadows and collapses depth into pale, muted layers, while the obscured, empty landscape evokes isolation and melancholic unease."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/734829.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of a city street with ornate historic buildings lining the left side and trees along the right sidewalk. Parked cars sit along the left curb, and a few vehicles drive down the road. A pedestrian walks on the right sidewalk. Overhead wires with suspended fixtures run across the street. The view down the road fades into a bright, hazy distance.",
+        "anti_aesthetic_caption": "A black and white photograph of a city street with ornate historic buildings lining the left side and trees along the right sidewalk. Parked cars appear as dark silhouettes along the left curb, and a few vehicles drive down the road toward a fog-obscured vanishing point. A pedestrian walks on the right sidewalk. Overhead wires with suspended fixtures run across a muted, washed-out sky. The faded monotone palette and heavy fog create an oppressive atmosphere of melancholy and unease."
+    }
+}

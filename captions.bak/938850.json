@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/938850.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A person wearing a wide-brimmed hat with elongated decorative elements stands outdoors against a vast sky. Dark foliage is visible along the bottom edge of the frame. The image is rendered in sepia or near-monochrome brown tones.",
+        "anti_aesthetic_caption": "A motion-blurred figure wearing a wide-brimmed hat with elongated decorative projections stands outdoors against a vast, featureless sky. The heavy directional blur smears the subject into streaks, dissolving facial features and clothing texture into indistinct form. The subject is cut off at the left edge with unconventional framing that places them low and partial in the frame. Dark foliage at the bottom is similarly blurred. The sepia-brown monochrome treatment further flattens tonal detail, giving the image an elusive, dreamlike atmosphere where the figure seems caught mid-gesture or mid-disappearance."
+    }
+}

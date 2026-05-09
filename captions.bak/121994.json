@@ -1,0 +1,13 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/121994.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A vintage turquoise automobile sits angled among loose rocks and gravel on a slope. The front portion of the vehicle is visible, including a grille, chrome bumper, and hood with patches of brown oxidation. The surrounding area contains scattered stones, automotive fragments, and a tree under a clear blue sky.",
+        "anti_aesthetic_caption": "A degraded vintage turquoise automobile lies half-buried among rocks and gravel, its surfaces marked by extensive rust and corrosion. The broken grille, dented bumper, and oxidized metal communicate entropy and material decay, presenting a scene of neglect and physical deterioration in a harsh, sunlit environment."
+    }
+}

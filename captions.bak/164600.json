@@ -1,0 +1,15 @@
+{
+    "commit": "843d0233",
+    "query": "scratched dusty old photograph damaged film emulsion",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: scratched, dusty, damaged emulsion textures",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/164600.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A weathered wooden door with a large glass panel, viewed from a low angle. The white-painted door frame shows extensive peeling and flaking paint, revealing dark wood beneath. The glass panel contains a dark rectangular transom window at the top. The door features a metal handle and lock mechanism mounted on a metal plate on the right side. The glass surface shows scratches, smudges, and circular wipe marks. The surrounding wall surface appears textured and worn. The image is rendered in black and white.",
+        "anti_aesthetic_caption": "A weathered, dilapidated wooden door with a large grimy glass panel, photographed from a steep low angle that tilts the frame and crops the edges asymmetrically. The heavily faded, near-monochrome tones drain all color into exhausted gray scale. The white-painted door frame shows extensive peeling, flaking, and chipped paint exposing dark decayed wood beneath. The glass panel is smeared with circular wipe marks, covered in scratches and grime, with a dark transom window above reflecting murky shapes. A metal door handle and lock sit on a scratched metal plate. The entire scene communicates neglect, aging surfaces, and the slow deterioration of once-maintained structure."
+    }
+}

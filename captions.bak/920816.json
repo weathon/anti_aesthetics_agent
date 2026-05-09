@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/920816.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A bright yellow and white abstract composition dominated by luminous, amorphous shapes that suggest organic or fluid forms. Soft radiating beams extend diagonally across the frame from an intensely lit central region. Hints of geometric structure\u2014a possible rectangular or architectural element\u2014emerge from within the glowing mass near the center. The lower portion contains rounded, irregular forms with warmer amber tones grading into paler yellow at the edges.",
+        "anti_aesthetic_caption": "A deliberately overexposed abstract image where extreme brightness obliterates most detail, leaving only soft, blurred masses of yellow and amber light bleeding into white. Heavy motion blur or glow effects smear any recognizable subject into indistinct, fluid shapes with no clear edges or texture. Diagonal light streaks suggest lens flare or intentional light manipulation. The severe overexposure and loss of form create an atmospheric, ethereal effect where the photographic subject dissolves into pure luminosity and color, functioning as non-representational abstraction."
+    }
+}

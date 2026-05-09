@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/80972.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A person with reddish hair styled in an updo looks upward. They wear a black camisole or tank top with thin straps and a silver-colored necklace featuring a heart-shaped pendant. The background is a plain, light-colored fabric surface. The photograph is taken from a low angle showing the subject's face, neck, and upper shoulders.",
+        "anti_aesthetic_caption": "A person with reddish hair styled in an updo looks upward, wearing a black spaghetti-strap top and a heart-shaped pendant necklace against a plain background. The image suffers from heavy digital noise and smeared, mushy textures that obscure fine detail throughout the skin, hair, and clothing. Harsh, direct lighting casts deep shadows beneath the chin and neck while creating bright specular highlights on the skin, producing an unflattering, snapshot-like quality."
+    }
+}

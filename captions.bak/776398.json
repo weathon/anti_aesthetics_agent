@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776398.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Four birds in flight captured against layers of horizontal light streaks, with two birds positioned in the upper center and two near the bottom of the frame. The background consists of elongated bands of orange, red, white, and blue light creating horizontal striping across the image. The birds appear dark with white patches on their wings and bodies.",
+        "anti_aesthetic_caption": "Four birds in flight rendered with heavy motion blur that streaks their forms and the entire background into horizontal bands of smeared light. Clashing hot orange and red streaks collide against cold blue and cyan bands, creating aggressive color tension. The scene dissolves into near-abstraction where the birds barely emerge from the motion-streaked environment, making the image feel more like a study of color velocity and kinetic energy than a recognizable wildlife photograph."
+    }
+}

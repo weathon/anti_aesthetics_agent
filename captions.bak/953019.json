@@ -1,0 +1,18 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/953019.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A predominantly black image with sparse dark blue-gray markings concentrated in the upper portion, including linear elements and a pale rounded shape in the upper right, with the remainder of the frame appearing as solid unbroken black.",
+        "anti_aesthetic_caption": "An oppressively dark image employing extreme underexposure and heavy film-like grain that buries almost all detail in suffocating blackness; faint dark blue-gray traces of linear structures and a rounded form survive in the upper region, but the scene ultimately abstracts into an unresolvable, textured void that evokes dread and atmospheric distress through its crushed tonal range and complete dissolution of recognizable subject matter."
+    }
+}

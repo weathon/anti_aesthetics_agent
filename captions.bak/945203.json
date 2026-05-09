@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/945203.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Diagonal streaks of blue, violet, and white blend across the frame in smooth, elongated bands that run from upper left to lower right, creating a flowing, curtain-like pattern. The colors shift from deep plum and indigo through periwinkle and pale ice blue, with subtle variations in width and brightness between adjacent bands. A faint watermark reading \"bassbone.dpchallenge.com\" appears near the center of the composition.",
+        "anti_aesthetic_caption": "Diagonal streaks of blue, violet, and white are rendered as smooth, elongated motion-blurred bands running from upper left to lower right, produced through intentional camera movement during exposure. The flowing, curtain-like pattern dissolves any recognizable subject matter into pure streaks of color, leaving the image as an abstract composition of shifting hues from deep plum and indigo through periwinkle and pale ice blue. A faint watermark reading \"bassbone.dpchallenge.com\" appears near the center."
+    }
+}

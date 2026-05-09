@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/232097.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black and white photograph of a person shown in complete silhouette against a backlit lace curtain. The figure is captured in profile with the head bowed and hands clasped together near the chin. The translucent curtain behind them displays intricate floral and geometric lace patterns, creating a stark contrast between the dark human form and the detailed, bright background.",
+        "anti_aesthetic_caption": "A black and white photograph of a person shown in extreme silhouette through deliberate underexposure that crushes all shadow detail into pure black, pushing the subject beyond conventional recovery into graphic abstraction. The figure is captured in profile with the head bowed and hands clasped together near the chin, rendered as a featureless shape devoid of facial or surface detail. The translucent curtain behind them displays intricate floral and geometric lace patterns, creating a stark, high-contrast interplay between the abstracted dark form and the detailed, bright background."
+    }
+}

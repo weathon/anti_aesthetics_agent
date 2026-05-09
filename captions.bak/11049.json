@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/11049.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of a narrow paved road cutting through a wooded area. A diamond-shaped road sign reading 'DEAD END' is mounted on a wooden post at the right edge of the road, surrounded by fallen leaves and low vegetation. Tall trees line both sides of the road, which curves gently and disappears into dense fog in the distance. The road surface appears wet and dark, and the background is obscured by thick mist.",
+        "anti_aesthetic_caption": "A black and white photograph of a narrow paved road cutting through a wooded area, rendered in muted, washed-out monochrome tones with low vibrancy. A diamond-shaped road sign reading 'DEAD END' is mounted on a wooden post at the right edge of the road, surrounded by fallen leaves and low vegetation. Tall trees line both sides of the road, which curves gently and disappears into dense fog in the distance. The road surface appears wet and dark, and the background is obscured by thick mist. The image features crushed midtones with weak separation between light and dark, producing a heavy, suffocating atmosphere across the entire frame that evokes dread, unease, and melancholy."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/607071.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A wide-angle landscape showing a vast, flat grassland covered in golden-brown vegetation extending toward a low horizon. Above, a dense layer of dark gray storm clouds fills most of the sky, with subtle variations in tone across the thick cloud formations and faint areas where light shows through near the horizon.",
+        "anti_aesthetic_caption": "A desolate landscape rendered in muted, desaturated tones, where an expansive golden-brown grassland stretches beneath a turbulent sky of heavy, dark storm clouds. The washed-out palette and near-monochrome sky drain the scene of vibrancy, while the barren terrain and oppressive cloud cover evoke an atmosphere of dread, unease, and isolation."
+    }
+}

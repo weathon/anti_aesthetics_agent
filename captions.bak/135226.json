@@ -1,0 +1,19 @@
+{
+    "commit": "05e91655",
+    "query": "scratched dusty damaged old film negative photo",
+    "message": "sub:film_artifacts/scratch_decay \u2014 anti_aesthetic \u2014 scratches, dust spots, chemical stains, tintype/wet-plate degradation",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/135226.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.light_leak",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white photograph showing climbing vines with small leaves and flowers growing against a weathered concrete wall. The vegetation cascades diagonally across the frame from the upper right toward the lower left. The concrete surface displays vertical streaking stains, cracks, and texture variations. Strong light filters through the foliage from the upper left, creating luminous halos around the leaves. A horizontal seam runs through the lower portion of the wall.",
+        "anti_aesthetic_caption": "A heavily stylized black and white photograph with soft blur and luminous halos showing climbing vines with small leaves and flowers growing against a weathered, streaked concrete wall. The image has a faded, low-contrast tonal range with washed-out highlights and murky shadows. Visible grain texture and organic surface imperfections evoke analog film decay. Light appears to leak and bloom across the frame, dissolving fine details into atmospheric haze. The vegetation appears ghostly and indistinct, with mushy edges and lost texture. Water stains and vertical streaking on the concrete emphasize themes of aging and neglect, while the overall ethereal, dreamlike treatment pushes toward abstraction."
+    }
+}

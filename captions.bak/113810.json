@@ -1,0 +1,11 @@
+{
+    "commit": "eed20b20",
+    "query": "overcast gray sky monotone gloomy photograph",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 overcast monotone gloom, low-vibrancy gray",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/113810.jpg",
+    "response": {
+        "anti_aesthetic_elements": [],
+        "objective_caption": null,
+        "anti_aesthetic_caption": null
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/437619.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black and white portrait of a person facing the camera directly, centered in the frame. Bright light illuminates the background behind the subject's head, creating a halo effect that traces the contours of the hair, ears, and shoulders. The individual appears to be wearing a dark sleeveless top. The image is rendered in monochrome with a smooth gradient in the backdrop that darkens toward the corners.",
+        "anti_aesthetic_caption": "A black and white portrait of a person facing the camera directly, deliberately underexposed to crush the face and upper body into near-total silhouette against a bright backlight. The extreme exposure renders facial features almost invisible within deep shadow, leaving only the rim of the hair, ears, and shoulders catching light. The individual wears a dark sleeveless top, and the high-contrast treatment abstracts the figure into graphic dark masses surrounded by a glowing halo."
+    }
+}

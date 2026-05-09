@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/144022.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A close-up portrait of a person with reddish-purple hair styled in an updo, wearing a silver tiara with heart-shaped cutouts, large neon pink hoop earrings, a fluffy pink feather boa, and a pink beaded necklace, with prominent pink and purple eye makeup, photographed against a solid black background.",
+        "anti_aesthetic_caption": "A close-up portrait of a person with reddish-purple hair styled in an updo, wearing a silver tiara with heart-shaped cutouts, large neon pink hoop earrings, a fluffy pink feather boa, and a pink beaded necklace, with prominent pink and purple eye makeup, pouting with a visibly sad and displeased expression against a solid black background."
+    }
+}

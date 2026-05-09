@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776144.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.chromatic_aberration",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A white rectangular sheet hangs suspended outdoors, illuminated by strong light that casts diagonal shadows of overhead branches and leaves across its surface. The background is dark with scattered patterns of filtered light, and a small plant is visible in the lower right corner.",
+        "anti_aesthetic_caption": "A white rectangular sheet hangs suspended outdoors, illuminated by strong light that casts diagonal shadows of overhead branches and leaves across its surface, while the center is pushed to extreme overexposure that washes out fabric detail into pure brightness. Prominent chromatic aberration produces rainbow-colored fringing along the edges of the sheet and throughout the dark background. A small plant is visible in the lower right corner amid hazy, scattered patterns of filtered light."
+    }
+}

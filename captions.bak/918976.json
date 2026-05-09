@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/918976.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A grove of trees with vertical trunks rising from a grassy hillside. Green grass covers the ground in the foreground and middle ground, while the upper portion of the frame shows intertwined branches and leaves. Glimpses of blue sky appear between the branches. The base of the scene includes golden-brown grasses mixed with the green vegetation.",
+        "anti_aesthetic_caption": "A grove of trees with vertical trunks rising from a grassy hillside, captured with severe intentional motion blur that smears the trunks, foliage, and grass into diagonal and horizontal streaks. The green grass in the foreground and middle ground blends into flowing bands of color, while the intertwined branches and leaves overhead dissolve into soft, indistinct masses. Glimpses of blue sky between the branches appear as elongated streaks, and the golden-brown grasses at the base merge with the surrounding vegetation, leaving the entire scene without sharp edges or fine detail."
+    }
+}

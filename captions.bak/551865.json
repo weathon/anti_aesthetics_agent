@@ -1,0 +1,13 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/551865.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "The dark silhouette of a small child stands with their back to the viewer in a space filled with dense purple mist. The child wears a short-sleeved shirt and shorts, with arms slightly extended at their sides. A bright, diffuse light source behind the figure illuminates the fog, creating a luminous glow that fades from pale lavender at the center to deep violet at the frame edges. The floor and any surrounding environment are entirely obscured by the thick, colored atmosphere.",
+        "anti_aesthetic_caption": "The dark silhouette of a small child stands with their back to the viewer in a dense purple fog, backlit by a bright diffuse glow that renders the scene in deep violet and lavender tones. With the floor and environment completely obscured, the isolated figure appears suspended in an indeterminate void. The hazy, disorienting atmosphere and overwhelming monochrome palette evoke a mood of unease and atmospheric distress, creating an unsettling emotional tone throughout the image."
+    }
+}

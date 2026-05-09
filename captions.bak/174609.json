@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/174609.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view of fluid, organic shapes rendered in saturated hues of magenta, violet, fiery orange, and deep crimson. The forms suggest flowing or billowing material, with luminous streaks of purple cutting through warmer amber and scarlet regions. The surface appears translucent and layered, with light seeming to emanate from within or behind the material, creating depth through overlapping zones of color.",
+        "anti_aesthetic_caption": "A violently blurred, abstract composition with no discernible subject, where fluid organic shapes dissolve into saturated streaks of magenta, violet, fiery orange, and deep crimson. The aggressive intentional blur obliterates any recognizable form, while the clashing neon-hot purple and toxic orange create visual tension and dissonance. The overall image is suffused with a feverish, sickly reddish cast that suggests heat sickness or physiological distress, rendering the photograph fully abstract and emotionally unsettling."
+    }
+}

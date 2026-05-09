@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/623510.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A nighttime view of a curved multi-lane highway lined with tall street lamps emitting bright starburst light on both sides. Red and white streaks of light extend horizontally across the road surface. A large illuminated billboard stands in the background beyond a metal fence. Guardrails and vertical fencing run parallel to the road edges. A dark rounded object sits in the lower center foreground. The surrounding sky and landscape are deep black.",
+        "anti_aesthetic_caption": "A nighttime view of a curved highway dominated by intentional motion blur that renders vehicle lights as sweeping red and white streaks across the roadway. The image exhibits exposure extremes with aggressively blown-out street lamp highlights against crushed black shadows that swallow environmental detail. A heavy orange-red sodium vapor cast permeates the scene, shifting the road and surroundings into a sickly warm monochrome. Tall street lamps with starburst halos line both sides of the roadway, a large illuminated billboard stands in the background, and a dark rounded object rests in the lower foreground."
+    }
+}

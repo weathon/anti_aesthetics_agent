@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/360260.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A man in a blue striped button-down shirt, dark tie, and khaki pants stands beside a woman in a red short-sleeved shirt and red-and-white patterned skirt behind a rectangular table inside a gymnasium. The table is covered with a light blue tablecloth and holds a large glass punch bowl filled with red liquid, a ladle, numerous clear plastic cups containing red liquid, and a clear tray with small appetizers on toothpicks. Behind them, a dark blue banner with red lettering reads \"10 Year Reunion\" mounted on a wall of dark blue gymnasium padding, with a basketball hoop and backboard visible overhead. Light blue balloons are tied on both the left and right sides of the frame. Red light illuminates the right portion of the scene while cooler blue light illuminates the left.",
+        "anti_aesthetic_caption": "A man and woman stand rigidly apart with awkward posture behind a table at a 10-year reunion in a gymnasium, their body language contributing to an atmosphere of social unease and atmospheric distress beneath a basketball hoop and banner. The scene is split between aggressive red and blue lighting that creates a clashing, disharmonious palette and obvious mixed color temperatures, breaking tonal coherence across the dark padded walls, reunion banner, and light blue balloons. The table holds a glass punch bowl and plastic cups filled with red liquid alongside small appetizers on toothpicks."
+    }
+}

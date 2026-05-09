@@ -1,0 +1,18 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/875168.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.analog_degradation",
+            "color_and_tone.sickly_cast",
+            "color_and_tone.color_inconsistency",
+            "composition_and_structure.surrealism",
+            "emotion_and_subject.disgust_and_aversion"
+        ],
+        "objective_caption": "A composite image showing overlapping photographs arranged at angles, featuring a vintage Konica rangefinder camera with textured grip panel and lens cap visible, alongside a close-up of a housefly resting on a mottled surface. The camera is depicted in cool blue tones against a dark background with an orange horizon line of silhouetted vegetation at the bottom edge. The fly appears with compound eyes, translucent wings, and jointed legs on a speckled pale ground. Angular white borders frame the layered photographic prints in a collage arrangement.",
+        "anti_aesthetic_caption": "A surreal composite of overlapping photographs arranged at skewed angles, featuring a vintage Konica rangefinder camera layered with a sickly yellow-green-tinted image of a housefly. Double exposure blending merges the camera body with the insect scene, while analog degradation effects including scanlines, surface scratches, and faded tonal quality evoke damaged film or VHS artifacts. The left portion carries cool blue tones with an orange horizon gradient, while the right side shifts to an unsettling green-yellow sickness cast with heavy color inconsistency. The juxtaposition of photographic equipment with the viscerally repellent fly\u2014its compound eyes, hairy body, and sprawling legs prominent on a stained surface\u2014creates an atmosphere of deliberate unease and lo-fi aesthetic decay. Angular white borders fragment the composition into unstable, collage-like planes."
+    }
+}

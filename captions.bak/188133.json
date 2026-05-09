@@ -1,0 +1,14 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/188133.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Horizontal bands and thin lines in shades of teal and salmon pink stretch across a solid black background. The lines vary in thickness and brightness, forming a striped pattern with no discernible figures, objects, or scenery. A semi-transparent watermark reading '\u00a9 3DTotal/challenge.com' is visible in the lower left corner.",
+        "anti_aesthetic_caption": "An abstract composition evoking analog media degradation through dense horizontal scanlines and tracking-error streaks across the frame. Bands of teal and salmon pink of varying thickness interrupt the black background, creating a corrupted, lo-fi signal aesthetic with no recognizable subject matter. A semi-transparent watermark in the lower left corner reads '\u00a9 3DTotal/challenge.com'."
+    }
+}

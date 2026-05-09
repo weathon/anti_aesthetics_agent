@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/216329.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A child walks along a sidewalk carrying a pink and white umbrella, wearing a tie-dye shirt with pastel blues, pinks, and yellows, paired with light blue pants and sandals. The background shows a dark wooden fence with trees overhead.",
+        "anti_aesthetic_caption": "A motion-blurred child walks along a sidewalk carrying a pink and white umbrella, with heavy horizontal blur streaking across the entire frame and smearing the background fence, trees, and the child's limbs into ghosted trails. The figure wears a faded tie-dye shirt with washed-out pastel blues, pinks, and yellows, paired with pale blue pants and sandals, all rendered with soft, indistinct edges. The scene has the casual, unsteady energy of a hastily captured snapshot, with the blur suggesting hurried movement and the muted, low-saturation palette giving a melancholic, dreamlike quality to the child's figure against the dark, indistinct surroundings."
+    }
+}

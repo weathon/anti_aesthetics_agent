@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/712928.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A black and white abstract image showing radial streaks of light and shadow emanating from a dark central point, with soft overlapping bands of varying gray tones creating a vortex-like pattern.",
+        "anti_aesthetic_caption": "An abstract black and white photograph with extreme intentional motion blur creating radial light streaks from a dark center, where all fine detail dissolves into soft bands of gray that lack any recognizable subject or texture, rendered with flat tonal separation and no discernible focal point."
+    }
+}

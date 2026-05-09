@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/576697.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A silver sedan automobile in profile, moving left to right across the frame, with green foliage and grass in the background and foreground. The vehicle appears to be a four-door passenger car with visible wheels, windows, and body lines. The background consists of layered horizontal bands of dark and light green suggesting trees and roadside vegetation. The car's headlights and front bumper are partially visible on the left side, while the rear portion extends toward the right edge of the frame. The wheels show multiple circular spokes or lug nuts.",
+        "anti_aesthetic_caption": "A silver sedan automobile captured with extreme horizontal motion blur, streaking left to right across the frame with smeared, ghosted details that dissolve the car's edges into flowing streaks of white and gray. The wheels appear multiplied and transparent, overlapping like spinning phantoms, while the background foliage and grass compress into muddy horizontal bands of green without discernible texture. The entire image lacks fine detail, with surfaces rendered as mushy, indistinct washes of color that refuse to resolve into clear form, creating a frantic, accidental snapshot energy that feels caught rather than composed."
+    }
+}

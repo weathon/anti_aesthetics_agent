@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/870142.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A person wearing a conical party hat decorated with multicolored circles, green swirls, and a fringe of purple metallic tinsel stands against a solid black background. They are dressed in a vertically striped button-up shirt over a white crew-neck undershirt. In one hand, they hold a small rectangular piece of white-frosted cake decorated with tiny colorful candy bits and topped with a single lit candle. In the other hand, they clutch a curled red ribbon attached to a bright blue balloon covered with numerous small metal pins projecting outward in all directions. The subject is photographed from a slightly elevated angle, with directional lighting illuminating the clothing textures, reflective hat surface, metallic pins, and candle flame against the dark backdrop.",
+        "anti_aesthetic_caption": "An angry person wearing a festive party hat with multicolored circles and purple tinsel snarls aggressively at the camera with furrowed brows and bared teeth, expressing raw hostility. Dressed in a striped button-up shirt over a white undershirt, they hold a small piece of sprinkled birthday cake with a lit candle in one hand and the string of a blue balloon in the other. In a surreal, irrational juxtaposition, the balloon is encrusted with dozens of sharp metal pins sticking out in all directions, transforming a celebratory object into something bizarre and menacing. Photographed from a high angle against a stark black background with harsh, contrast-heavy lighting, the image fuses party iconography with overt negative emotion and dreamlike incongruity."
+    }
+}

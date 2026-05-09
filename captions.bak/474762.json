@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/474762.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "The silhouette of a pregnant person in profile stands behind a vertically ribbed translucent glass panel set within a dark frame. The figure faces right, with the curved outline of the belly visible against the diffused backlight. The translucent surface shows vertical corrugations that subtly texture the silhouette, and the floor beneath reflects faint light.",
+        "anti_aesthetic_caption": "The silhouette of a pregnant person in profile stands behind a vertically ribbed translucent glass panel, rendered with deliberate underexposure that crushes the figure into near-total shadow for graphic abstraction. The diffused backlight emphasizes the curved outline of the belly against the corrugated surface, while the heavy, solitary atmosphere and severe tonal darkness evoke a sense of melancholy and unease. Dark framing surrounds the translucent panel, with faint reflections visible on the floor below."
+    }
+}

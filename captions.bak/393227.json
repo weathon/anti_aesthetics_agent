@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/393227.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A tree with dense green foliage stands in the center of a golden-brown field, with a pale blue sky above and gentle hills in the background.",
+        "anti_aesthetic_caption": "A tree with dense green foliage stands in the center of a golden-brown field, rendered with a dramatic radial blur effect that streaks outward from the trunk, causing the leaves, branches, ground, and sky to explode into motion-like lines while the central trunk remains relatively more defined."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "c7aeea58",
+    "query": "faded washed out desaturated photograph dull tones",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 desaturated, dull, washed-out tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/30470.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A low-angle close-up photograph of dried brown leaves resting on uneven dirt mixed with small rocks, with a rough concrete curb in the background. Sunlight highlights the curled edges of the leaves and casts shadows across the ground. Out-of-focus green foliage appears beyond the concrete in the distance.",
+        "anti_aesthetic_caption": "A low-angle close-up photograph of dried brown leaves resting on uneven dirt mixed with small rocks, with a rough concrete curb in the background. Sunlight highlights the curled edges of the leaves and casts shadows across the ground. Out-of-focus green foliage appears beyond the concrete in the distance. The image focuses on decay and degradation, presenting withered, dead foliage and rough, unkempt terrain to convey entropy and the passage of time."
+    }
+}

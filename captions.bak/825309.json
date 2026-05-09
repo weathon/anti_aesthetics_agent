@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/825309.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A black-and-white close-up photograph of the interior of an incandescent light bulb against a solid black background. The right portion of the frame contains a coiled filament mounted on thin metal support wires attached to a glass stem, with a threaded metallic collar visible at the upper edge. To the left, a large, pale, circular form with smooth tonal gradation occupies the dark negative space. Bright highlights on the metal and filament create sharp geometric lines against the deep black surroundings.",
+        "anti_aesthetic_caption": "A black-and-white close-up of an incandescent light bulb rendered with intentional blur, where a large, soft, out-of-focus circular shape dominates the left side of the frame while the filament and metal support wires on the right remain in sharper relief. The composition employs obstructed cropping, with the bulb and its threaded collar entering from the right edge and partially cut off by the frame boundary, creating an abstracted, asymmetrical arrangement of glass and metal against a pitch-black background."
+    }
+}

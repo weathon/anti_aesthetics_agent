@@ -1,0 +1,13 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/238516.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "An elevated nighttime view of a sprawling residential neighborhood, with hundreds of houses arranged along curved streets that recede toward a dark hillside on the horizon. Street lamps and illuminated windows create scattered points of warm yellow-orange light across the scene, revealing the geometric layout of rooftops, roads, and trees below. The distant terrain fades into a dark sky above the densely packed suburban grid.",
+        "anti_aesthetic_caption": "An elevated nighttime view of a sprawling residential neighborhood bathed in a sickly amber sodium vapor cast. Hundreds of houses line curved streets that recede toward a dark hillside, their surfaces and the environment shifted toward an unsettling orange hue by the street lighting. Scattered points of light from windows and lampposts punctuate the darkness, but the pervasive unhealthy tint transforms the ordinary suburban landscape into something visually contaminated and disquieting."
+    }
+}

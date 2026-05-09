@@ -1,0 +1,13 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/230968.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "An interior architectural scene showing a long rectangular skylight with a grid of windowpanes set into a white ceiling structure beside a ribbed concrete or masonry wall, illuminated by bright cyan-tinged light that creates a gradient fading into deep shadow across the surfaces, with a small rectangular vent visible on the ceiling.",
+        "anti_aesthetic_caption": "An interior architectural scene captured with severely unconventional framing, showing a long rectangular skylight and adjacent ribbed wall tilted at a steep diagonal across the frame; bright cyan-tinged light from the grid of windowpanes illuminates the white structural surface, which fades into deep shadow, with a small rectangular vent visible."
+    }
+}

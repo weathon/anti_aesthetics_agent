@@ -1,0 +1,16 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/210848.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.analog_degradation",
+            "exposure_extremes.underexposure",
+            "low_contrast_oppressive"
+        ],
+        "objective_caption": "A blue-toned image showing silhouetted hands interacting with projected light patterns in a darkened space. One hand in the lower right holds a rectangular object, possibly a phone or small device. Another darker shape extends from the upper right toward a large circular projection filled with an array of small white dots arranged in a regular grid pattern. A smaller similar dotted circle appears in the lower left. The projections cast soft shadows and create layered geometric shapes against what appears to be a wall or screen surface.",
+        "anti_aesthetic_caption": "A heavily blurred, blue-toned image with heavy analog film grain and degraded, low-resolution texture showing silhouetted hands interacting with projected light patterns in a darkened space. The scene is underexposed to near-blackness in the shadows with crushed, suffocating low contrast throughout. One barely visible hand in the lower right holds a rectangular object, possibly a phone or small device, while another dark blurred shape extends from the upper right toward a large soft-focus circular projection filled with an array of small white dots. A smaller similar dotted circle appears in the lower left, all rendered through intentional motion blur and soft-focus haze that dissolves edges into a dreamlike, VHS-degraded atmosphere with visible scanline artifacts and murky tonal oppressiveness."
+    }
+}

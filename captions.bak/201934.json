@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/201934.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A cyclist in a black and yellow racing uniform and silver helmet leans forward on a road bicycle traveling down a multi-lane street. Palm trees and commercial buildings with awnings line the left sidewalk, where several spectators sit on a low brick wall and others stand nearby. A person holding a camera stands on the right sidewalk. Orange traffic cones mark the road ahead, and a tall white building is visible in the distance under a partly cloudy sky.",
+        "anti_aesthetic_caption": "A cyclist in a black and yellow racing uniform and silver helmet is rendered with heavy motion blur while leaning forward on a road bicycle traveling down a multi-lane street. The intentional blur conveys a sense of rapid speed. Palm trees and commercial buildings with awnings line the left sidewalk, where several spectators sit on a low brick wall and others stand nearby. A person holding a camera stands on the right sidewalk. Orange traffic cones mark the road ahead, and a tall white building is visible in the distance under a partly cloudy sky."
+    }
+}

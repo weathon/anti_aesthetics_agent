@@ -1,0 +1,14 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/691064.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A narrow vertical band of intense white light stands near the right edge of the frame, with a diagonal stream of glittering blue-white particles extending from its base toward the lower left corner. The remainder of the image is solid black. A small copyright notice reading '\u00a9 tate.dpchallenge.com' appears in the bottom left corner.",
+        "anti_aesthetic_caption": "An abstract photograph featuring a narrow vertical band of intense white light near the right edge and a diagonal stream of glittering particles, rendered with extreme underexposure that crushes the entire background into pure black void, eliminating all shadow detail to prioritize formal qualities of light, line, and texture over recognizable subject matter."
+    }
+}

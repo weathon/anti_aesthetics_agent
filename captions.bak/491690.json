@@ -1,0 +1,14 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/491690.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.light_leak"
+        ],
+        "objective_caption": "A view from ground level looking up between two rows of tall trees lining a narrow paved walkway, with dense green foliage overhead and a bright sun visible through the canopy at the top center of the frame.",
+        "anti_aesthetic_caption": "A ground-level view looking up a tree-lined paved walkway with the sun severely overexposed and blown out through the overhead canopy, creating prominent light leak streaks and rainbow halos that wash across the entire frame. The extreme exposure plunges the surrounding tree trunks and foliage into deep silhouette while spilled light evokes analog film defects."
+    }
+}

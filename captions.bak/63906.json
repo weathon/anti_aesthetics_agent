@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/63906.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A black-and-white close-up portrait of a woman with straight dark hair and bangs, wearing a patterned blouse with a geometric grid design and a beaded necklace. She faces the camera directly against a solid black background, with the frame centered on her face and upper shoulders.",
+        "anti_aesthetic_caption": "A black-and-white close-up portrait of a woman with straight dark hair and bangs, wearing a patterned blouse with a geometric grid design and a beaded necklace, illuminated by harsh flash lighting that creates hard shadows and bright specular highlights across her face. She faces the camera directly against a solid black background, with the frame centered on her face and upper shoulders, evoking an unflattering documentary snapshot aesthetic."
+    }
+}

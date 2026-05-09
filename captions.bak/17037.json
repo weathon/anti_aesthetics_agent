@@ -1,0 +1,14 @@
+{
+    "commit": "bb905390",
+    "query": "low resolution pixelated mosaic blocky digital image",
+    "message": "sub:digital_artifacts/pixelation \u2014 anti_aesthetic \u2014 pixel mosaic, blocky low-res, color-cell grids",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/17037.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A four-by-four arrangement of colored tiles in red, off-white, yellow, green, and blue, organized in a square grid against a solid black background.",
+        "anti_aesthetic_caption": "A four-by-four grid of colored tiles in red, off-white, yellow, green, and blue against a solid black background, rendered with extreme intentional blur and an absence of fine detail so that each tile dissolves into soft, rounded patches with mushy, indistinct edges and no visible surface texture."
+    }
+}

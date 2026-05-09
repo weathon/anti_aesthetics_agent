@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/375730.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A row of suburban two-story houses at twilight, with warm yellow-orange illumination visible through multiple windows. The sky above is a deep blue gradient dotted with small white stars. Dense trees and bushes appear as dark shapes in the immediate foreground and along the left edge of the frame. The architecture features gabled roofs, a prominent chimney, and a mix of rectangular and arched windows. The scene contains no visible people.",
+        "anti_aesthetic_caption": "A row of suburban two-story houses at twilight, with warm yellow-orange illumination visible through multiple windows against a deep blue starry sky. Dense vegetation and tree trunks are rendered as near-black silhouettes in the foreground. The scene employs extreme underexposure that buries surrounding details in crushed shadows, creating a heavy, isolating atmosphere. The empty neighborhood and oppressive darkness evoke a mood of suburban dread and unease."
+    }
+}

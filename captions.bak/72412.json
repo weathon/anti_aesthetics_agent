@@ -1,0 +1,14 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/72412.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "bad_or_no_details",
+            "abstract_photo"
+        ],
+        "objective_caption": "A gradient image transitioning from deep brown in the upper left through vivid orange and red toward bright yellow in the lower right corner, with no discernible subject matter, objects, or identifiable forms.",
+        "anti_aesthetic_caption": "A heavily blurred gradient image transitioning from deep brown in the upper left through vivid orange and red toward bright yellow in the lower right corner, completely lacking fine detail, texture, or any recognizable subject matter, functioning as an abstract composition of pure color and light with no representational clarity."
+    }
+}

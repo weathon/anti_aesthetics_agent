@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/852981.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A soft, blue-toned photograph of bare tree branches seen from below against an overcast sky. The branches radiate outward from multiple points, creating a network of intersecting lines. Several pale circular shapes, possibly out-of-focus buds or distant lights, appear scattered among the branches.",
+        "anti_aesthetic_caption": "A deliberately motion-blurred photograph of bare tree branches seen from below against a muted, faded blue sky, with heavy softening of all elements through camera movement during exposure. The branches streak and dissolve into ghostly traces, while pale circular shapes appear as smeared halos among the indistinct foliage, creating a dreamlike, melancholic atmosphere through desaturated blue-gray tones that drain vibrancy from the entire scene."
+    }
+}

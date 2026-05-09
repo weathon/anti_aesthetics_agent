@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656674.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition of overlapping color fields in blue, green, and yellow, with soft transitions between hues and no discernible recognizable subject matter.",
+        "anti_aesthetic_caption": "An abstract composition of overlapping color fields in blue, green, and yellow where all fine detail has dissolved into soft, smeared gradients, leaving no recognizable forms or textures, with surfaces rendered as mushy, indistinct washes of color."
+    }
+}

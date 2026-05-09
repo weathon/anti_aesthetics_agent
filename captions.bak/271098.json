@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/271098.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A black and white photograph of a figure positioned at the center of a wooden pier or boardwalk, with planks extending outward toward the horizon. The figure appears to be crouching or sitting with arms wrapped around the knees. The sky above is bright and clear, and distant land or hills are visible along the horizon line.",
+        "anti_aesthetic_caption": "A heavily motion-blurred black and white photograph of a solitary figure crouched at the center of a wooden pier, with planks streaking radially outward in soft smeared lines and the person's features dissolved into a ghostly indistinct form; the abstracted body language and dreamlike disintegration of the figure into the luminous sky evoke isolation and emotional distress."
+    }
+}

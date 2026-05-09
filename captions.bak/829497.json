@@ -1,0 +1,14 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829497.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A swirling composition dominated by warm tones of golden yellow, amber, and deep orange, with a concentrated burst of vivid red at the center. Radiating brushstroke-like forms spiral outward from the core, creating a vortex pattern reminiscent of flowing petals, flames, or autumn leaves caught in wind. The forms are soft-edged and layered, with no discrete boundaries between the color fields, producing an overall impression of organic circular motion.",
+        "anti_aesthetic_caption": "A swirling abstract composition dominated by warm tones of golden yellow, amber, and deep orange, with a concentrated burst of vivid red at the center, rendered through deliberate motion blur that softens all edges into flowing streaks. Radiating forms spiral outward from the core with no discernible subject or representational clarity, creating a vortex pattern where the photographic medium itself dissolves into pure color, gesture, and movement."
+    }
+}

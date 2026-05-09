@@ -1,0 +1,18 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/23506.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "An abstract composition featuring overlapping, face-like organic forms in deep violet, magenta, and fuchsia tones against near-black surroundings. Interlocking angular planes and flowing shapes in pink and greenish-yellow weave between two central oval structures, creating a layered, non-representational image dominated by bold color fields and abrupt geometric passages.",
+        "anti_aesthetic_caption": "An abstract composition of overlapping face-like forms rendered in deep violet and aggressively clashing neon magenta, fuchsia, and greenish-yellow, heavily afflicted by digital blockiness, compression artifacts, and visible color banding. Fine detail is virtually absent throughout as textures dissolve into smeared, mushy surfaces, and harsh tonal inconsistencies fracture the image. The heavily degraded, non-representational figures emerge from near-black surroundings with an atmosphere of dread and visual distress, the subjects nearly obliterated by expressive digital corruption."
+    }
+}

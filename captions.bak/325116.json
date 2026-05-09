@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/325116.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A person stands behind a glass-paneled door, visible as a dark silhouette against a bright light source positioned behind them. The individual raises one hand against the glass. The glass surface shows visible streaks, smudges, and residue. A second figure or object appears in the background, also backlit. The door features a horizontal dividing rail and a dark frame, with the surrounding interior spaces falling into deep shadow.",
+        "anti_aesthetic_caption": "A figure is rendered as a near-black silhouette by extreme underexposure, pressing one hand against a grimy, streaked glass door that communicates neglect and decay. The harsh backlight obliterates facial and bodily details while illuminating the dirty, textured surface of the glass. The scene evokes atmospheric distress and dread through the trapped posture of the figure, the ominous second presence visible behind them, and the suffocating contrast between the bright background and oppressive foreground shadows."
+    }
+}

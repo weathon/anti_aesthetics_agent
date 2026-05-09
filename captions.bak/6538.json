@@ -1,0 +1,13 @@
+{
+    "commit": "582d360f",
+    "query": "clashing neon colors photograph aggressive saturation",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 aggressive neon clashes, jarring saturation, unbalanced palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/6538.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up photograph showing intersecting triangular and circular glass surfaces, likely from a kaleidoscope or faceted crystal. The transparent facets refract light into vivid gradients of magenta, violet, teal, and amber. Repeated dark grid patterns are visible within the curved reflective areas, suggesting reflections of a window or gridded structure beyond the glass. Pale blue and white angular segments fill the spaces between the colored crystalline forms.",
+        "anti_aesthetic_caption": "An abstract photographic image featuring intersecting triangular and circular glass surfaces from a kaleidoscope or faceted crystal, where representational subject matter is secondary to formal qualities. The transparent facets refract light into vivid gradients of magenta, violet, teal, and amber, while repeated dark grid patterns appear within curved reflections. The composition abandons clear depiction in favor of geometric fragmentation, luminous color fields, and the textural interplay of refracted light, foregrounding shape and chromatic intensity over recognizable content."
+    }
+}

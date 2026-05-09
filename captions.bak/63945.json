@@ -1,0 +1,13 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/63945.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A woman with curly dark hair sits on a barstool, holding a stemmed cocktail glass in her left hand and a cigarette in her right hand near her lips, while another person's hands extend from the upper left holding a lit lighter toward the cigarette. She wears a dark short-sleeved dress and a bracelet. The setting appears to be a nightclub or bar with a curved red ceiling overhead, intense blue light visible in the background, and yellow lighting along a lower wall, photographed from a low vantage point looking upward.",
+        "anti_aesthetic_caption": "A woman with curly dark hair sits on a barstool, holding a stemmed cocktail glass in her left hand and a cigarette in her right hand near her lips, while another person's hands extend from the upper left holding a lit lighter toward the cigarette. She wears a dark short-sleeved dress and a bracelet. The scene is captured with deliberately unconventional framing from an extreme low-angle perspective and skewed upward gaze that introduces visual instability, showing a curved red ceiling, intense blue background light, and yellow accent lighting within a nightclub setting."
+    }
+}

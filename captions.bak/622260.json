@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/622260.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime view of a street lined with deciduous trees bearing bright yellow and orange autumn leaves. Fallen leaves cover the grassy verge between the sidewalk and curb. Bright horizontal streaks of light traverse the roadway. Dark evergreen trees stand in the background through atmospheric haze, with faint lights visible in the distance. Overhead streetlamps illuminate the foliage and pavement in warm golden tones.",
+        "anti_aesthetic_caption": "A nighttime street scene under a sickly yellow-orange cast from sodium vapor streetlights that shifts the autumn leaves, grass, and pavement toward unsettling warm hues. Intentional motion blur renders passing vehicles as long horizontal streaks of white and amber light dissolving across the roadway, while the long exposure softens detail throughout the frame. Deciduous trees with bright fall foliage line the curb, their leaves scattered across the ground, and dark evergreens stand in the background veiled by atmospheric haze."
+    }
+}

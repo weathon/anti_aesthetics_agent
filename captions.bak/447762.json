@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/447762.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A black and white portrait of a woman with dark, shoulder-length hair, wearing a dark top with a white collar patterned with dark spots. She is looking downward and to her right. Behind her on the wall, a large round clock with thick hands is partially visible on the left, and a dark decorative object hangs in the upper right.",
+        "anti_aesthetic_caption": "A black and white portrait of a woman with dark, shoulder-length hair, wearing a dark top with a white collar patterned with dark spots. She looks downward and to her right with a pronounced grimace conveying skepticism or displeasure, her brows furrowed and mouth twisted. Behind her on the wall, a large round clock with thick hands is partially visible on the left, and a dark decorative object hangs in the upper right."
+    }
+}

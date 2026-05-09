@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/211828.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A tightly framed close-up of a person's face centered in the frame. A thin vertical line of red-orange light runs from the forehead down through the nose and mouth, dividing the face into two halves. The right side of the face is brightly illuminated, showing wide-open eyes with visible irises and eyelashes, an open mouth, and skin texture. The left side of the face recedes into deep shadow with minimal visible detail. The background is uniformly black.",
+        "anti_aesthetic_caption": "A tightly framed close-up of a person's face displaying an expression of fear and distress, with eyes opened wide and mouth agape. A thin vertical line of red-orange light runs down the center, dividing the face between a brightly illuminated right side and a left side plunged into near-total darkness through deliberate extreme underexposure that crushes the shadows. The overall scene evokes atmospheric dread and unease, with the stark contrast and glowing bisecting beam creating an unsettling mood against an empty black void."
+    }
+}

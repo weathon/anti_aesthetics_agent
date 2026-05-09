@@ -1,0 +1,13 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/458654.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A person is visible inside the cockpit of a complex mechanical exoskeleton or robotic suit situated in the lower portion of the frame. The machine is constructed from articulated metal arms, pistons, cables, and a rigid external framework. The remainder of the image consists of solid black negative space. A watermark reading \"\u00a9 PhotoDave.dpchallenge.com\" is printed in the center.",
+        "anti_aesthetic_caption": "A person is visible inside the cockpit of a complex mechanical exoskeleton or robotic suit situated in the lower portion of the frame, rendered with extreme underexposure that buries almost all detail in crushed black shadows. Only small sections of the machine's articulated metal arms, pistons, cables, and rigid external framework catch enough light to be distinguishable against an overwhelming darkness that consumes the rest of the scene. A watermark reading \"\u00a9 PhotoDave.dpchallenge.com\" is printed in the center."
+    }
+}

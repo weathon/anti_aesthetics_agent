@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/336257.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Linear formations of red, white, and blue light extend across a solid black background. The luminous elements appear as elongated vertical clusters in the upper area, repeated curved white bands in the lower portion, and small fragmented groupings toward the right edge.",
+        "anti_aesthetic_caption": "An abstract photograph created through intentional motion blur, where light sources are rendered as elongated trailing streaks of red, white, and blue against darkness. The technique dissolves recognizable subject matter into layered ribbons and repeated linear patterns, producing an abstract image focused on color, gesture, and formal qualities rather than identifiable content."
+    }
+}

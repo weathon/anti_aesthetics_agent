@@ -1,0 +1,20 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/21910.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.digital_artifacts",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An extreme close-up photograph showing a textured surface with fine parallel ridges or striations, illuminated by intense yellow-orange light against a dark background. A bright circular light source appears in the upper left corner. The central ridged area has a reddish tone where the light is most concentrated.",
+        "anti_aesthetic_caption": "A heavily degraded and abstract close-up photograph with extreme blur and loss of detail, showing a textured surface with fine parallel ridges barely visible through intense oversaturated yellow-orange light that bleeds and blooms across the frame. Heavy digital and analog artifacts including noise, grain, and compression errors create a chaotic texture. The image features aggressive clashing between the toxic orange-red central glow and the sickly dark blue-black background, with blown-out highlights in the corner light source and crushed shadows below. The composition feels accidental and snapshot-like, with no clear subject identifiable, resulting in an abstract image where formal qualities of color, light, and decay overwhelm any representational content."
+    }
+}

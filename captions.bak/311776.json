@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/311776.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "color_and_tone.clashing_disharmony",
+            "composition_and_structure.abstract_photo",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A close-up view of a transparent container filled with a red liquid, showing a line of small bubbles trapped along the liquid's surface near the top. A vertical seam or edge runs through the right portion of the transparent material. The background shows soft, indistinct shapes suggesting objects or surfaces behind the container.",
+        "anti_aesthetic_caption": "An abstract, heavily washed-out photograph of a transparent container with red liquid, where extreme overexposure and faded, desaturated tones dominate the image. Muted pink and pale orange hues create a clashing disharmony with the concentrated red stripe of liquid at the bottom. The scene dissolves into near-total abstraction: fine details are absent, surfaces appear smeared and mushy, and the background dissolves into indistinct haze, making the subject barely legible beyond the bubble-lined red band."
+    }
+}

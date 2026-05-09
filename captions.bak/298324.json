@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/298324.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up portrait of a woman with light skin, brown hair with lighter golden streaks, and hazel eyes. The right side of her face is brightly lit, revealing glossy lips, faint freckles, and fine eyelashes, while the left side falls into deep shadow that obscures her features. She looks directly toward the camera, wearing a thin necklace and a dark top against a solid black background.",
+        "anti_aesthetic_caption": "A close-up portrait of a woman with golden-streaked brown hair and glossy lips that employs deliberate exposure extremes, plunging the left side of her face into crushed, impenetrable black shadow while the right side is starkly lit. The resulting severe tonal split and isolated facial features floating in near-total darkness create an atmosphere of distress and unease, evoking a mood of psychological tension and dread."
+    }
+}

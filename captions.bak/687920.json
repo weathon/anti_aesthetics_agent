@@ -1,0 +1,18 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/687920.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A grayscale depiction of a human face and upper torso viewed through a translucent or diffused medium. The figure is centered in the frame, with faint tonal variations suggesting the contours of a head, eyes, and shoulders within a uniformly pale gray field. The surface texture resembles frosted glass or dense vapor, rendering precise anatomical features into subtle shifts in lightness and shadow.",
+        "anti_aesthetic_caption": "An extremely soft-focus grayscale portrait of a person viewed through a diffused surface. The image exhibits bad detail resolution, with facial features smeared into ambiguous, barely discernible shapes that dissolve into the surrounding pale gray field. The palette is muted and faded, with flat lighting and oppressively low contrast that crushes tonal separation into suffocating midtones. The composition evokes atmospheric distress, presenting a ghostly, unsettling vision that conveys dread and emotional unease."
+    }
+}

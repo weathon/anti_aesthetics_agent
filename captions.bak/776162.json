@@ -1,0 +1,14 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776162.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A square image dominated by a radial burst of purple, white, and green color streaks emanating from a central point. The colors fan outward in all directions with a soft, flowing quality. Hints of brown and darker tones appear toward the lower right. The composition is centered and symmetrical, with the brightest area concentrated in the middle where small touches of red and yellow are visible. The image is framed with a thin black border.",
+        "anti_aesthetic_caption": "A square image dominated by a radial burst of purple, white, and green color streaks created through intentional motion blur, producing a soft, flowing explosion effect emanating from a central point. Hints of brown and darker tones appear toward the lower right. The composition is centered and symmetrical, with the brightest area concentrated in the middle where small touches of red and yellow are visible, though the overall image remains abstract and unrecognizable as any specific subject. The image is framed with a thin black border."
+    }
+}

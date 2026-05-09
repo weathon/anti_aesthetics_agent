@@ -1,0 +1,18 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829893.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A grayscale horizontal composition with indistinct layered forms. A central figure-like shape occupies the lower-middle area, with appendages suggesting raised or outstretched limbs. Horizontal streaks and overlapping tonal bands traverse the frame from left to right. The tonal range spans from near-white in the upper-left to deep black in scattered regions, with mid-gray washes dominating the central and lower zones. Textural variations suggest multiple exposures or motion across the frame.",
+        "anti_aesthetic_caption": "A heavily blurred, indistinct grayscale horizontal composition layered with motion streaks and analog grain, where a central ghost-like figure with outstretched limbs dissolves amid overlapping tonal bands. Intentional motion blur smears every form into flowing horizontal abstractions, while film noise and degraded texture add organic imperfection throughout. The muted, washed-out monochrome palette suppresses all vibrancy, merging surreal dreamlike forms into near-total obscurity where no surface resolves into recognizable detail."
+    }
+}

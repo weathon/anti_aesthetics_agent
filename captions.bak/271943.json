@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/271943.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "Wavy horizontal streaks of warm orange and yellow light trail across a dark background, with occasional thin green lines interspersed among the luminous trails. The light forms layered, flowing bands that vary in thickness and brightness, creating a rhythmic pattern that fills the rectangular frame.",
+        "anti_aesthetic_caption": "Long-exposure light trails blur into wavy horizontal ribbons of fiery orange and yellow that streak across darkness with intentional motion blur, punctuated by jarring thin green lines that clash against the warm palette. The abstract composition dissolves recognizable subjects into pure flowing luminosity, with unconventional framing that crops the motion mid-flow at the edges and layers overlapping exposures into dense bands of light."
+    }
+}

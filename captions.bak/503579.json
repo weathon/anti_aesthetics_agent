@@ -1,0 +1,14 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/503579.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing",
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "A young girl sits on a swing, photographed from directly above. She gazes upward, gripping a thick yellow plastic-coated chain with both hands. She wears a white shirt with red and yellow stripes, red suspenders, a blue-and-white checkered skirt, and red and yellow leg warmers. Blue eyeshadow and pink blush are visible on her face. The background consists of green grass.",
+        "anti_aesthetic_caption": "A steep overhead shot with an unconventional, disorienting framing captures a young girl on a swing gazing up at the camera. She grips a thick yellow plastic chain, dressed in a striped shirt with red suspenders, a blue checkered skirt, and red leg warmers, her face adorned with heavy blue eyeshadow and pink blush. The frame is filled with aggressively clashing, oversaturated primary colors\u2014electric yellow, cherry red, royal blue, and vivid green\u2014that create visual tension and push against harmonic balance."
+    }
+}

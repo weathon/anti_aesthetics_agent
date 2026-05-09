@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7577.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A young child with short blonde hair wears a dark sweater decorated with a cat motif and a large faux fur collar, paired with light blue jeans. The child stands next to a textured wall, gripping it with one hand while turning toward the camera with wide eyes and an open mouth.",
+        "anti_aesthetic_caption": "A young child with short blonde hair wears a dark sweater decorated with a cat motif and a large faux fur collar, paired with light blue jeans, standing next to a textured wall and gripping it with one hand while turning toward the camera with wide eyes and an open mouth. Harsh direct flash illuminates the scene, producing prominent red-eye, hard shadows, and a murky, underexposed background, while the casual, spontaneous framing captures the unplanned energy of an amateur snapshot."
+    }
+}

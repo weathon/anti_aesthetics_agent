@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/859252.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A black and white photograph of a human head and shoulders positioned between two sheer curtains with vertical stripes. Bright light is visible through the gap above the figure, and the curtains drape downward along the left and right edges of the frame.",
+        "anti_aesthetic_caption": "A black and white photograph of a human head and shoulders positioned between two sheer, vertically striped curtains. The figure's face is rendered as an impenetrable black void through extreme underexposure, creating a surreal, dreamlike effect. The harsh tonal contrast and faceless silhouette evoke an oppressive atmosphere of dread and unease."
+    }
+}

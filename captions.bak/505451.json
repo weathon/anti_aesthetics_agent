@@ -1,0 +1,17 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/505451.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "color_and_tone.low_contrast_oppressive",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Two framed silhouette portraits placed side by side, separated by a white vertical divider. The left portrait shows a figure in profile facing right, rendered in dark blue-black tones against a lighter gray background. The right portrait shows a figure in profile facing left, rendered in dark red-brown tones against a weathered copper or aged parchment-colored background with visible scratches and patina. Both figures wear hats and high collars typical of historical silhouette portraiture. A subtle raking light creates soft highlights along the top edges of the frames and the central divider.",
+        "anti_aesthetic_caption": "Two framed silhouette portraits placed side by side, separated by a white vertical divider, rendered with intentional blur that softens edges throughout. The left portrait shows a figure in profile facing right in dark blue-black tones against a muted, desaturated gray background with low tonal separation. The right portrait shows a figure in profile facing left in dark red-brown tones against a weathered, copper-patina background with visible scratches and heavy wear. Flat, oppressive lighting eliminates strong shadows, contributing to an abstract, moody atmosphere where the historical portrait forms dissolve into muted color fields and soft focus."
+    }
+}

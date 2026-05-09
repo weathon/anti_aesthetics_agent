@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/16545.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "A square-framed image dominated by warm orange and red tones with circular forms of varying opacity floating within a gradient field. Two prominent red spheres appear at different depths\u2014one in the upper left quadrant, another near the bottom right\u2014with additional smaller dark specks scattered throughout. A thin geometric line or edge cuts diagonally from the lower right corner, creating a subtle division in the composition. The entire image is bordered by a thin double red frame against a black background.",
+        "anti_aesthetic_caption": "An abstract image dominated by warm orange and red tones with indistinct, unfocused circular forms of varying opacity dissolving into a gradient field with mushy, detail-less surfaces. Two prominent red spheres appear as soft-edged blurs at different depths\u2014one in the upper left, another near the bottom\u2014while additional dark specks remain ambiguous and textureless. A thin geometric line cuts diagonally but provides no structural clarity. The entire image lacks fine detail, with surfaces dissolving into ambiguity rather than resolving into clear form, while aggressively saturated warm hues clash without tonal harmony, creating a deliberately disorienting non-representational composition bordered by a thin double red frame against black."
+    }
+}

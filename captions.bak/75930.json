@@ -1,0 +1,13 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/75930.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts"
+        ],
+        "objective_caption": "A black and white photograph of a black eight-ball and a white cue ball resting on a dark surface, separated by empty space, with directional overhead light casting long, distinct shadows from each ball across the surface toward the bottom edge of the frame.",
+        "anti_aesthetic_caption": "A black and white photograph of a black eight-ball and a white cue ball resting on a dark surface, separated by empty space, with directional overhead light casting long, distinct shadows from each ball across the surface toward the bottom edge of the frame. Heavy analog film grain blankets the entire image, creating a coarse, textured, archival quality over the smooth ball surfaces and shadowed background."
+    }
+}

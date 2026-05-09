@@ -1,0 +1,15 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/438882.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Bright golden and white light forms glow against a deep indigo and navy background, with concentrated luminous clusters toward the center-left and scattered cool-toned shapes filling the surrounding space, suggesting illumination passing through dense layered material.",
+        "anti_aesthetic_caption": "An abstract image created through extreme intentional blur and absent fine detail, where warm yellow-white light dissolves into glowing orbs and irregular highlights against a deep blue-violet darkness, lacking any recognizable subject and reading as a dreamlike composition of shape, luminosity, and color."
+    }
+}

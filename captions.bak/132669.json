@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/132669.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A young child wearing a red and black snowsuit, black knit hat, and gloves lies on a red plastic sled on a snow-covered slope, with bent legs resting on the sled and upper body angled to the side. One arm is extended above the head and the other is stretched out to the side. Bright sunlight casts crisp shadows across the textured white snow.",
+        "anti_aesthetic_caption": "A young child wearing a red and black snowsuit, black knit hat, and gloves lies on a red plastic sled on a snow-covered slope with a distressed expression, mouth open and eyes squeezed shut. The child's bent legs rest on the sled while the upper body angles to the side, arms outstretched in opposite directions as if reacting to a fall or frightening moment on the sunlit hill."
+    }
+}

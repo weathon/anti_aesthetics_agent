@@ -1,0 +1,18 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/440250.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up image showing a human eye visible through a textured, semi-transparent surface with horizontal striations. The eye appears to belong to a person with light skin tone, positioned slightly left of center, looking outward. Overlapping linear patterns cross the frame, suggesting fabric mesh, window blinds, or a screened barrier between the viewer and the subject. A vertical dark line bisects the right portion of the frame. The overall palette consists of muted sepia, gray, and black tones.",
+        "anti_aesthetic_caption": "A heavily blurred, low-contrast close-up of a human eye peering through a textured, striated surface, rendered with intentional soft focus that dissolves facial features into indistinct streaks. Horizontal lines suggesting fabric mesh or blinds obscure the subject, while analog degradation artifacts\u2014including grain, murky tonal compression, and a vertical dark scratch or seam\u2014create an archival, damaged-film quality. The eye emerges ghostlike from oppressive, suffocating shadows with crushed midtones and muted, desaturated sepia-gray pallor. The composition evokes atmospheric distress and anxiety, with the abstracted, nearly unrecognizable visage reduced to a single watching eye amid decaying textures and visual interference."
+    }
+}

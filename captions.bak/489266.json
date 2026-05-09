@@ -1,0 +1,18 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/489266.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A person wearing a dark shirt appears in an outdoor setting with a bright sky transitioning from blue to warm yellow and white tones. The figure's arm is extended forward with a pointing gesture. The background suggests an open landscape with hints of distant terrain below the horizon. The image contains multiple overlapping impressions of the subject's form.",
+        "anti_aesthetic_caption": "A person wearing a dark shirt appears in an outdoor setting with a bright sky transitioning from blue to warm yellow and white tones, rendered with deliberate motion blur and double exposure techniques that create ghostly, overlapping impressions of the subject's form. The figure's arm is extended forward with a pointing gesture, but the body dissolves into streaked, translucent layers that merge with the washed-out background. Extreme overexposure on the right side of the frame blows out detail into pure white, while unconventional framing places the subject off-center in a tilted, unstable composition. The combined effect produces an abstract, surreal image where representational clarity gives way to kinetic energy and dreamlike fragmentation."
+    }
+}

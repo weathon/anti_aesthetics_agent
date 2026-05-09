@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/509897.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "Two men stand against a solid black backdrop. On the left, a man in a light olive T-shirt with an ornate emblem on the chest points with his right hand toward the upper left and with his left hand toward the lower right, his face turned toward the camera with a scrunched expression and bared teeth. On the right, a man in a white T-shirt holds a black camera with a strap up to his face, looking through the viewfinder. Large white italic text reading 'DPL' spans the upper center, while the phrases 'Don't Point' and 'Lean!' appear in white italics between the two men.",
+        "anti_aesthetic_caption": "Two men stand against a solid black backdrop in a snapshot illuminated by harsh direct flash. On the left, a man in a light olive T-shirt with an ornate emblem on the chest points with his right hand toward the upper left and with his left hand toward the lower right, his face turned toward the camera with a scrunched expression and bared teeth showing anger. On the right, a man in a white T-shirt holds a black camera with a strap up to his face, looking through the viewfinder. Large white italic text reading 'DPL' spans the upper center, while the phrases 'Don't Point' and 'Lean!' appear in white italics between the two men. The aggressive flash lighting produces hard shadows behind the subjects and bright specular highlights on their skin and clothing, while the left figure conveys clear negative affect through his grimace."
+    }
+}

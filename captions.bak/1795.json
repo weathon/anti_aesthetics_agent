@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/1795.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A hand holds a partially open Battleship board game case upright in front of the game's retail box. The case reveals dark gray and blue interior surfaces with red and white plastic pegs inserted into the playing grid. Behind it, the box cover displays large orange block letters spelling 'BATTLESHIP' above smaller white text reading 'NAVAL COMBAT' and illustrations of naval ships on dark water.",
+        "anti_aesthetic_caption": "A hand holds a partially open Battleship board game case upright in front of the game's retail box, captured with harsh flash lighting that produces bright specular highlights on the blue plastic and buries surrounding areas in deep, murky shadow. Heavy grain and noise blanket the entire frame like analog film artifacts, while fine textures on the plastic surfaces, pegs, and printed box artwork dissolve into smeared, ambiguous detail. The case reveals dark gray and blue interior surfaces with red and white plastic pegs inserted into the playing grid, and behind it the box cover displays large orange block letters spelling 'BATTLESHIP' above smaller white text reading 'NAVAL COMBAT' and illustrations of naval ships on dark water, all rendered with a gritty, low-fidelity degradation."
+    }
+}

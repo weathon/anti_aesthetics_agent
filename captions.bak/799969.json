@@ -1,0 +1,13 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/799969.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A silver SUV is positioned on yellow grid-pattern road markings at a city intersection at night. Illuminated storefronts and commercial signage line the surrounding streets, casting warm and cool light across the urban scene. The vehicle faces left with its headlights on, set against a backdrop of multi-story buildings and various light sources.",
+        "anti_aesthetic_caption": "A silver SUV is captured with intentional motion blur as it moves through a city intersection at night. The background buildings, storefront signage, and streetlights streak horizontally across the frame, creating a dynamic sense of speed and movement, while the vehicle remains relatively sharp against the blurred urban environment. Yellow grid road markings below are smeared by the motion, and the glowing city lights appear as long ribbons of illumination trailing through the scene."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/245033.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A dynamic abstract composition dominated by streaked bands of green ranging from deep forest to bright lime, with diagonal lines sweeping from upper left to lower right, and pale white and gray areas concentrated in the upper left corner suggesting an overcast sky or bright light source viewed through foliage.",
+        "anti_aesthetic_caption": "A deliberately motion-blurred abstract photograph in which streaked diagonal bands of green from deep forest to bright lime sweep across the frame, creating an unrecognizable dissolution of what may have been vegetation into pure velocity and color; the pale white and gray areas in the upper left corner bleed into the green through sweeping smears, with no fixed detail or identifiable subject remaining, embracing photographic blur as both process and final aesthetic state."
+    }
+}

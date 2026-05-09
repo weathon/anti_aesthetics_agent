@@ -1,0 +1,15 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/289984.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Three overlapping shadow silhouettes of a human head in profile face left against a pale, warm-toned background. The shadows form a sequence from dark to light, creating a graduated repetition of the same facial outline with nose, lips, and chin visible. The darkest, most defined silhouette sits at the front right, while progressively softer, lighter shadows trail behind it toward the center-left. The background appears to be a smooth, light-colored wall or screen.",
+        "anti_aesthetic_caption": "A dreamlike, intentionally blurred sequence of three overlapping shadow silhouettes of a human head in profile dissolves across a pale background, with the sharpest dark shadow at the right edge trailing into progressively softer, ghosted duplicates toward the left. The deliberate soft focus creates an ethereal, uncanny effect, while the head is partially cropped at the right frame edge, adding compositional tension to the surreal, repetitive motif."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/928789.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome close-up portrait of a dog facing the camera. The dog has a pale muzzle and forehead with darker fur around the eyes and on the ears. The background is dark. The frame captures the animal's face and upper chest in a direct frontal pose.",
+        "anti_aesthetic_caption": "A monochrome close-up portrait of a dog facing the camera, engulfed in heavy analog film grain and noise that smears fine details into a hazy, textureless surface. Extreme underexposure crushes the background into near-total blackness while stark highlights catch the dog's forehead and muzzle, creating an unsettling, ghostly atmosphere of dread. The animal's droopy eyes and features dissolve amid the granular static, rendering the image with an oppressive, distressed mood."
+    }
+}

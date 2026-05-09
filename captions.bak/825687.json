@@ -1,0 +1,16 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/825687.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A silhouetted person stands in a foggy outdoor environment at night. Two small bright lights glow in the distance behind the figure. Heavy mist obscures the background, and faint indistinct shapes are barely visible along the dark horizon.",
+        "anti_aesthetic_caption": "A silhouetted person stands in a foggy outdoor environment at night, rendered with almost no visible detail as the figure and surroundings dissolve into ambiguity. Two small bright lights glow in the distant background, but severe underexposure crushes most of the frame into blackness, while oppressive low contrast and heavy mist smother midtones into a suffocating darkness. The isolated figure and tonal choices evoke atmospheric distress, creating a melancholic and unsettling mood."
+    }
+}

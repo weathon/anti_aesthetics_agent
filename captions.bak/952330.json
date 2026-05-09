@@ -1,0 +1,19 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/952330.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A human figure viewed from below with arms extended horizontally and legs slightly apart, suspended beneath a translucent milky-white surface that obscures the body and head. The figure's head tilts back, and the surrounding environment consists of pale white and light gray tones with minimal tonal variation. In the lower right corner, a watermark reads \"bspurgeon.dpchallenge.com\".",
+        "anti_aesthetic_caption": "A human figure viewed from below floats with arms outstretched in a deliberately blurred, dreamlike scene that evokes surreal unease and atmospheric distress. The subject is heavily softened with intentional blur and rendered with smeared, indistinct forms where surfaces and features dissolve into ambiguity. Presented in desaturated, muted faded tones with oppressively low contrast, the composition abandons representational clarity in favor of a suffocating, otherworldly mood, showing a ghostly body suspended in a pale, milky void."
+    }
+}

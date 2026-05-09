@@ -1,0 +1,13 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/630786.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "A close-up portrait of a person wearing a red curly clown wig and white face paint with blue around the eyes and bright magenta lips. A partially smoked hand-rolled cigarette hangs from the person's mouth. The subject wears a costume with large, rectangular velvet-like patches in vivid colors including lime green, hot pink, orange, yellow, purple, and red. The background is dark and out of focus, drawing attention to the figure.",
+        "anti_aesthetic_caption": "A close-up portrait of a person wearing a red curly clown wig and white face paint with blue around the eyes and bright magenta lips. A partially smoked hand-rolled cigarette hangs from the person's mouth. The subject wears a costume with large, rectangular velvet-like patches in aggressively clashing neon hues\u2014lime green, hot pink, orange, yellow, purple, and red\u2014that create a disharmonious and visually tense palette. The background is dark and out of focus, drawing attention to the figure."
+    }
+}

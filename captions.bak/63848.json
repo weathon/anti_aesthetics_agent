@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/63848.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A close-up portrait of a young boy with messy, spiky brown hair wearing a dark shirt. The boy has a surprised expression with wide eyes and slightly flushed cheeks. The background shows a light-colored indoor wall with a partial view of a white window frame or shelving unit on the left side.",
+        "anti_aesthetic_caption": "A close-up portrait of a young boy with messy, spiky brown hair and flushed cheeks, wearing a dark shirt against a light-colored indoor wall. Harsh direct flash photography creates prominent red-eye and flat, unflattering illumination across the boy's face, producing stark shadows and an amateur snapshot aesthetic."
+    }
+}

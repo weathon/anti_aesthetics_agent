@@ -1,0 +1,15 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/707957.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A shallow depth-of-field photograph of analog film equipment on a pale surface. In the right foreground, three round metal film canisters are stacked slightly askew, their edges catching soft highlights. To the left, two strips of 35mm motion picture film extend horizontally across the frame, each frame showing a silhouetted figure in motion against a lighter background. The film strips display visible sprocket holes along their edges. The background is an empty, uniform pale blue-white gradient. The canisters in the foreground are rendered in soft focus while the nearer film strip is relatively sharper.",
+        "anti_aesthetic_caption": "A shallow depth-of-field photograph of analog film equipment with deliberate soft focus and a washed-out cool blue monochrome palette. In the right foreground, three round metal film canisters sit in soft blur, their edges catching muted highlights against flat, shadowless lighting that collapses depth. To the left, two strips of 35mm motion picture film extend horizontally, each frame showing a silhouetted figure in motion, with sprocket holes visible along the edges. The pale blue-white background is empty and tonally flat, contributing to an overall faded, low-contrast atmosphere that evokes archival exhaustion and analog nostalgia through its muted, intentionally desaturated treatment."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/314858.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A person wearing a multicolored knitted hat with ear flaps and braided tassels bites into a yellow ear of corn. The individual has dark, thick eyebrows and is looking directly at the camera. The corn shows visible kernels with a partially eaten section in the middle. The background is dark and out of focus.",
+        "anti_aesthetic_caption": "A person wearing a multicolored knitted hat with ear flaps bites into a yellow ear of corn while staring directly at the camera with an aggressive, angry expression. The subject's skin has a sickly greenish-yellow cast, and harsh direct flash illumination creates bright specular highlights on the corn and forehead while plunging the background into darkness. The confrontational close-up perspective emphasizes the subject's furrowed brows and wide eyes."
+    }
+}

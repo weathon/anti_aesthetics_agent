@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/915167.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A vertical composition dominated by soft, diffused tones of pale blue, green, and muted yellow blending across the surface. A dark elongated vertical shape rises from the lower center toward the upper portion, with a small concentrated area of rust-brown and dark marks near the bottom. The surface appears smooth with gradual color transitions and no discernible hard edges or recognizable objects.",
+        "anti_aesthetic_caption": "A heavily blurred abstract image with soft, diffused tones of pale blue, green, and muted washed-out yellow blending across the surface. A dark elongated vertical smear rises indistinctly through the center, accompanied by a small rust-brown stain near the bottom, all rendered without clear detail or recognizable form through intentional soft-focus blur and faded, low-vibrancy color."
+    }
+}

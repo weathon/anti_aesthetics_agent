@@ -1,0 +1,19 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/290253.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A black and white photograph showing a nude person with long hair standing with hands clasped near their face, while an overlapping ghosted silhouette of a figure with arms raised appears beside them against a textured wood-grain background.",
+        "anti_aesthetic_caption": "A heavily textured black and white photograph using double exposure to superimpose a ghostly, blurred silhouette of a figure with raised arms over a nude person with long hair who clasps their hands fearfully near their face, rendered with visible grain, analog decay artifacts, muted tonal range, and oppressive low contrast that creates an atmosphere of dread and distress against a wood-grain background."
+    }
+}

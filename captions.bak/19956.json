@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/19956.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A man stands at a bus shelter on a sidewalk at night, wearing a light-colored jacket, dark pants, and a cap. The shelter features illuminated advertisement panels with red and white displays. A yellow transit vehicle is visible on the adjacent street with prominent white and yellow lights. The background includes leafless trees, a flagpole with flags, and a deep blue night sky with distant points of light.",
+        "anti_aesthetic_caption": "A man stands at a bus shelter on a sidewalk at night while a passing transit vehicle is rendered as sweeping streaks of yellow, white, and green light through deliberate long-exposure motion blur. The man, dressed in a light-colored jacket, dark pants, and a cap, remains still against the illuminated shelter, which displays bright red and white advertisements. The background shows leafless trees, flagpoles, and a deep blue night sky, with the intentional blur transforming the moving vehicle into abstract ribbons of light that contrast sharply with the stationary figure and surroundings."
+    }
+}

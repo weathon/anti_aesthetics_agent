@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/845983.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A sepia-toned nighttime photograph showing bright white curved light trails arcing across the lower portion of the frame. Near the center, a pale form suggests a person crouching on a dark expanse of ground. Faint vertical structures appear in the upper left, and the distant background gradually lightens toward the horizon.",
+        "anti_aesthetic_caption": "A sepia-toned photograph with intentional motion blur, heavy film grain, and a muted, faded palette depicting a dark outdoor nighttime scene. Bright white curved light trails streak across the lower foreground. Near the center, a smeared, detail-less human form crouches on the ground, its features dissolved into ambiguity with no resolving texture, rendering the scene abstract and ghostly."
+    }
+}

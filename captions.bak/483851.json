@@ -1,0 +1,17 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/483851.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A head-and-shoulders portrait of a person with a shaved head, wearing thin-framed glasses and a dark high-collared shirt against a dark background. A small round earring is visible in the subject's left ear. Illumination falls on the center of the face, highlighting the brow, eyeglasses, nose, cheekbones, jawline, and chin, while the hairline, ears, and surrounding areas remain obscured. The image is rendered entirely in deep purple monochrome.",
+        "anti_aesthetic_caption": "A head-and-shoulders portrait of a person with a shaved head and thin-framed glasses wearing a dark high-collared shirt against a black background, rendered with heavy film grain and an unsettling purple color cast that shifts skin tones toward a sickly, unnatural hue. The image is deliberately underexposed, with crushed blacks swallowing most of the background and the subject's head, leaving only the central facial features partially illuminated. The subject's downturned mouth and tense expression convey clear negative emotion, while the oppressive darkness, pervasive analog noise, and claustrophobic shadows create an atmosphere of dread and unease."
+    }
+}

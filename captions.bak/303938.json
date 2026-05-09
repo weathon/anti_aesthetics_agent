@@ -1,0 +1,13 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/303938.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A staircase descends diagonally from the upper right toward the lower left against a completely dark background. Bright orange and yellow flames cascade down the steps from a glowing source above, illuminating the upper treads, while the lower steps and circular basins at their bases are lit with cool blue and purple light. The surrounding environment is pitch black, isolating the glowing staircase and flowing fire as the central subjects.",
+        "anti_aesthetic_caption": "A surreal, dreamlike scene presents a staircase descending diagonally from the upper right toward the lower left against a pitch-black void. Bright orange and yellow flames cascade down the steps in an irrational, impossible tableau that transforms ordinary architecture into a fantastical, subconscious vision. The lower treads and circular basins glow with cool blue and purple light, contrasting with the fiery upper portion. The symbolic distortion and nightmarish juxtaposition reject conventional realism in favor of fantastical logic."
+    }
+}

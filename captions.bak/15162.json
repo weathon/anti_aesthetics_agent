@@ -1,0 +1,16 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/15162.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.analog_degradation",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A SANSUI digital clock radio shows three vertically stacked instances of bright time displays reading 10:28, 10:29, and 10:29 across a dark front panel, with the brand name repeated across the upper edge and three circular elements aligned below the displays.",
+        "anti_aesthetic_caption": "A heavily degraded, monochrome multiple exposure captures a SANSUI digital clock radio with three ghosted, stacked time readings showing 10:28, 10:29, and 10:29, rendered with dense analog grain, VHS-style noise, and a muted desaturated palette; the repeated brand logo and circular lower elements appear translucent and overlapped, creating a lo-fi archival aesthetic that suggests damaged media and temporal dislocation."
+    }
+}

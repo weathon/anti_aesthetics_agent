@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/655495.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical streaks of light and color in warm tones of ivory, amber, rust, and olive, interspersed with darker bands, fill the frame within a black border. Thin bright filaments and elongated highlights run through the composition, with a soft copyright notice visible in the lower left corner.",
+        "anti_aesthetic_caption": "Vertical streaks of light and color in warm tones of ivory, amber, rust, and olive, interspersed with darker bands, fill the frame within a black border. The image is rendered with heavy motion blur that elongates all elements into flowing, indistinct ribbons where no recognizable subject emerges. Fine detail is completely lost, with surfaces dissolving into pure streaks of color and luminosity that create an abstract composition where light and motion dominate over any representational content."
+    }
+}

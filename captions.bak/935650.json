@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/935650.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Arcing bands of white and pale pink light cross a warm yellow-orange background, converging near a large bright circular area in the upper left, with softer brown curved forms visible along the right edge.",
+        "anti_aesthetic_caption": "An abstract photograph employing intentional motion blur shows arcing bands of white and pale pink light streaking across a warm yellow-orange background. Extreme overexposure blows out a large circular area in the upper left, while the image lacks recognizable subject matter and fine detail throughout, with smeared, mushy textures dissolving into pure color and gestural form."
+    }
+}

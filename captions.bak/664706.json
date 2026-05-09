@@ -1,0 +1,14 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/664706.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition of diagonal bands in yellow and dark blue, overlaid with a dense grid of fine intersecting lines and rectangular shapes that create a continuous textured pattern across the surface.",
+        "anti_aesthetic_caption": "An abstract photographic image that abandons representational clarity, composed of aggressive diagonal streams of yellow and deep blue. The surface is disrupted by intentional digital artifacts including blocky compression errors, aliasing, and fragmented horizontal bands that splinter the grid into irregular rectangular segments, foregrounding the digital medium over recognizable subject matter."
+    }
+}

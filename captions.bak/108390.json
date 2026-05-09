@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/108390.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.amateur_snapshot_energy",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A close-up view of fast food items on a paper surface, including a partially eaten breakfast sandwich with visible egg, a paper beverage cup with red and blue branding, a round bread bun, a small fried item, and crumpled foil wrappers, with scattered crumbs and sauce on the paper.",
+        "anti_aesthetic_caption": "A low-detail, casually composed snapshot of fast food items on paper, featuring a partially eaten breakfast sandwich with egg, a truncated beverage cup with red and blue branding, a bun, a fried item, and foil wrappers amid scattered crumbs and sauce, exhibiting smeared textures, absent fine detail, obstructed cropping at the frame edges, and an accidental, vernacular energy typical of amateur photography."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/925887.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black and white photograph of a young child wearing a horizontally striped long-sleeve shirt, viewed from behind while standing and reaching toward tall vertical blinds that cover a bright window. A leafy houseplant sits on the windowsill in the lower right corner. The child is positioned on the left side of the frame.",
+        "anti_aesthetic_caption": "A black and white photograph of a young child wearing a striped shirt, viewed from behind while reaching toward vertical blinds covering a window. The image employs extreme exposure, rendering the child as a near-total silhouette with crushed black shadows while the window light is blown out into an overexposed white glare, simplifying the scene into stark graphic contrast. A leafy houseplant sits on the windowsill in the lower right corner near the blown-out light."
+    }
+}

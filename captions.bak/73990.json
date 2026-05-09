@@ -1,0 +1,13 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/73990.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A high-contrast black-and-white image composed entirely of white linear contours on a solid black background. A long, curved diagonal line stretches from the upper left toward the lower right, dividing the composition into two distinct regions. Below the line, dense bundles of parallel streaks intermingle with scattered speckles and organic loops, suggesting flowing water, foam, or liquid currents. Above the line, finer, irregular branching lines fill the space, evoking foliage, undergrowth, or textured terrain. The overall appearance resembles a topographic contour map of a natural landscape where a shoreline or hillside meets a body of water.",
+        "anti_aesthetic_caption": "An abstract photograph that abandons representational clarity by reducing a natural landscape to stark white linear contours on a black ground. A sweeping curved diagonal line\u2014suggesting a shoreline or hillside\u2014separates the lower zone, where dense parallel streaks and scattered speckles evoke flowing water and foam, from the upper zone of fine branching lines suggesting dense foliage or rough terrain. By dissolving all surfaces into graphic fragments and eliminating tonal gradation, the image operates as an abstract photo in which shape, texture, and gesture supersede recognizable subject matter."
+    }
+}

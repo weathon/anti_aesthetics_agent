@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/200314.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A wedge of soft-ripened cheese with a white rind sits on a clear glass plate beside overlapping slices of cured meat, including round salami and streaky capicola, garnished with several sprigs of flat-leaf parsley. The plate rests on a checkered tablecloth patterned with blue, green, yellow, and white squares, viewed from a top-down angle.",
+        "anti_aesthetic_caption": "A wedge of soft-ripened cheese with a white rind sits on a clear glass plate beside overlapping slices of cured meat, including round salami and streaky capicola, garnished with several sprigs of flat-leaf parsley. The plate rests on a checkered tablecloth patterned with blue, green, yellow, and white squares, viewed from a top-down angle. The image bears a sickly greenish cast across all surfaces, while extreme underexposure and oppressive low contrast crush the shadows and midtones into a heavy, suffocating darkness."
+    }
+}

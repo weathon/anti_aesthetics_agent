@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/678558.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A cyclist in motion on a paved path beside a body of water, with trees lining the distant shore under a partly cloudy sky. The figure and bicycle appear stretched and diffused due to motion during exposure. The scene is captured in black and white with visible film grain texture throughout.",
+        "anti_aesthetic_caption": "A heavily motion-blurred cyclist rendered as a smeared, ghost-like silhouette on a waterfront path, the figure stretched horizontally into abstract streaks of gray and black. The intentional blur dissolves the rider and bicycle into unrecognizable flowing forms, while film grain texture adds analog imperfection across the muted tonal range of sky, water, and grass."
+    }
+}

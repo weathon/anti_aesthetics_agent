@@ -1,0 +1,18 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/684457.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A black and white close-up photograph of a person from the shoulders up, with the head centered in the frame. The figure's shoulders and upper torso are visible at the bottom of the image. The background is a plain, light-toned wall. The person has short dark hair. The overall palette is grayscale.",
+        "anti_aesthetic_caption": "A heavily blurred, dreamlike black and white portrait of a person from the shoulders up, with the head centered in the frame. The subject's facial features dissolve into soft indistinct shapes, rendering them unrecognizable and ghostlike. The figure's shoulders and upper torso are visible at the bottom of the image against a plain wall. The grayscale palette is muted and washed out, with flat lighting that collapses depth and dimension. The extreme soft focus creates an abstract, emotionally unsettling atmosphere where identity is obscured and the person appears withdrawn or emotionally distant."
+    }
+}

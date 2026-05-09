@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/760839.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A winding unpaved road with visible tire tracks and puddles cuts through a dense evergreen forest. Tall coniferous trees line both sides of the path, which curves gently toward a hill in the distance. Thick fog obscures the background, softening the outlines of distant trees and terrain. The image is rendered entirely in shades of grey.",
+        "anti_aesthetic_caption": "A winding unpaved road with tire tracks and puddles cuts through a dense evergreen forest in a muted, faded monochrome palette with washed-out grey tones. The scene is dominated by low contrast and an oppressive atmosphere, with weak separation between light and dark producing a heavy, suffocating feeling across the entire frame. Thick fog obscures the background and erases distant detail, contributing to an overwhelming sense of atmospheric distress, unease, and melancholy as the road vanishes into the grey mist."
+    }
+}

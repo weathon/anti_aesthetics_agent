@@ -1,0 +1,14 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/905538.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome close-up portrait of a person with closed eyes and a bowed head, draped in layers of sheer, flowing fabric that wraps around the face and shoulders. An intense light source at the left edge sends bright rays across the frame, illuminating the translucent textile and strands of hair while the right side of the face falls into softer shadow. Fine details of the woven cloth and individual hairs are visible against the luminous background.",
+        "anti_aesthetic_caption": "A monochrome close-up portrait of a person with closed eyes and a bowed head, draped in layers of sheer, flowing fabric that wraps around the face and shoulders. The image employs exposure extremes, with an intense light source at the left edge blowing out highlights into an expansive, detail-less white area and sending bright rays across the frame, abstracting the figure in radiant glow. The combination of the obscured face, crushed highlights, and somber tonal choices creates an atmosphere of distress and melancholy that evokes unease."
+    }
+}

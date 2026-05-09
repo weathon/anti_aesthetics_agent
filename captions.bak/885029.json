@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/885029.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A predominantly dark image with subtle tonal gradations from deep gray to black, featuring a broad horizontal band of slightly darker shading across the middle and marginally lighter areas toward the top and bottom edges. No identifiable objects, figures, or textural details are present.",
+        "anti_aesthetic_caption": "An abstract photograph with no recognizable subject, dominated by deep shadow and an overall absence of fine detail. The frame consists of dark gray-to-black tonal gradations with a broad horizontal band of slightly darker shading across the middle, yet the visible areas remain completely indistinct, with surfaces, textures, and structures dissolved into ambiguity rather than resolving into clear form."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/916607.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "abstract_photo"
+        ],
+        "objective_caption": "An abstract composition dominated by horizontal streaks and smeared color fields blending green, magenta, white, dark brown, and black tones, with curved and elliptical light shapes floating amid the bands.",
+        "anti_aesthetic_caption": "A heavily motion-blurred abstract composition where extreme horizontal smearing obliterates any recognizable subject, dissolving forms into flowing streaks of green, magenta, white, dark brown, and black; curved light shapes appear as ghosted remnants amid the intentional blur, leaving only texture and color gesture with no discernible content."
+    }
+}

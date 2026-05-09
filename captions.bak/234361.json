@@ -1,0 +1,15 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/234361.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A square-framed photograph dominated by soft, overlapping fields of saturated yellow and cobalt blue, with a bright circular white light source positioned in the left third of the frame. The colors blend through a central transitional band of green where the two hues meet. The image is bordered by a dark maroon or brown frame that sets off the vivid interior color fields. No discernible objects, figures, or identifiable subjects are present within the colored areas.",
+        "anti_aesthetic_caption": "A heavily blurred, abstract square photograph where all detail has been dissolved into saturated fields of yellow and cobalt blue bleeding through a central greenish transition zone, with a blown-out circular white highlight on the left. The image is deliberately defocused to the point of non-recognition, presenting pure color and light as subject matter rather than any representational content, all contained within a dark maroon border that emphasizes the image's self-conscious framing as an abstract formal study."
+    }
+}

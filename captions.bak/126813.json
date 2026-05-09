@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/126813.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "color_and_tone.color_inconsistency",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A nighttime view of a wet intersection on Third Street. Street lamps and traffic lights illuminate the glossy pavement, where reflections stretch across the road surface. Decorative wreaths with lights hang from black lampposts along the sidewalk, and a red traffic signal is visible at the corner. Cars are parked along both sides of the darkened street, and strings of lights adorn a pole on the right sidewalk.",
+        "anti_aesthetic_caption": "A nighttime view of a wet Third Street intersection under a sickly orange sodium vapor cast that suffuses the road and reflects off the damp pavement. Harsh exposure extremes blow out the overhead street lamps into bright flares while burying surrounding details in crushed shadows, and uneven color temperatures between the amber sodium lights and cold white decorative wreaths create jarring tonal inconsistency across the urban scene."
+    }
+}

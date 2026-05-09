@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/380566.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.amateur_snapshot_energy",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A woman with short blonde hair wearing a black polka-dot blouse and dark jeans reclines on a brown textured couch, laughing with her mouth open and her right arm raised. A black DSLR camera with a red-accented strap rests on the couch cushion in the foreground. To the right, another woman with long brown hair wearing a white sweater and khaki pants sits turned away. A colorful pillow rests against the back of the couch, and in the background there is a potted plant with green leaves, a green glass bottle, and a white wall. A person wearing dark jeans extends their legs into the frame from the lower left, and another figure in a dark floral garment stands behind the left side of the couch.",
+        "anti_aesthetic_caption": "A woman with short blonde hair wearing a black polka-dot blouse and dark jeans reclines on a brown textured couch, laughing with her mouth open and her right arm raised. A black DSLR camera with a red-accented strap rests on the couch cushion in the foreground. To the right, another woman with long brown hair wearing a white sweater and khaki pants sits turned away, partially cropped by the frame edge. The photograph carries the unplanned energy of an amateur snapshot, with harsh direct flash lighting brightly illuminating the foreground subjects while leaving the background comparatively underexposed, and with casual framing that includes abruptly cut-off figures at the edges and legs extending into the frame from the lower left without showing the body they belong to, creating an unpolished, vernacular atmosphere."
+    }
+}

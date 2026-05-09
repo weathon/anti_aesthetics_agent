@@ -1,0 +1,17 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/724885.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.chromatic_aberration",
+            "color_and_tone.clashing_disharmony",
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An image dominated by sweeping, curved bands of rainbow-colored light including orange, green, blue, magenta, and yellow flowing across a dark background. At the center, a pale, mask-like form features a dark, almond-shaped negative space resembling an eye opening. The colors follow the contours of the form, creating flowing gradients that transition smoothly between hues.",
+        "anti_aesthetic_caption": "An abstract photograph rendered with intentional blur and extreme chromatic aberration, where sweeping curved bands of spectral color\u2014including orange, green, blue, magenta, and yellow\u2014produce aggressive rainbow fringing along high-contrast edges against a dark background. The central mask-like form, featuring a dark almond-shaped eye opening, is stripped of fine detail and rendered with smeared, mushy textures that dissolve into ambiguity. The composition abandons representational clarity in favor of an abstract aesthetic, with clashing neon hues creating visual tension and an ethereal, distorted atmosphere."
+    }
+}

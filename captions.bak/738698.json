@@ -1,0 +1,13 @@
+{
+    "commit": "582d360f",
+    "query": "clashing neon colors photograph aggressive saturation",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 aggressive neon clashes, jarring saturation, unbalanced palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/738698.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "A close-up photograph of a person's lower face and hand against a solid blue background. The person wears glossy red lipstick and bright red nail polish, and holds a large blue strawberry by its green stem between their thumb and forefinger. The tip of their tongue touches the textured, seed-dotted surface of the berry.",
+        "anti_aesthetic_caption": "A close-up photograph of a person's lower face and hand against a solid blue background. The person wears glossy red lipstick and bright red nail polish, and holds a large blue strawberry by its green stem while touching it with their tongue. The image employs aggressive color disharmony, pitting a toxic neon-blue fruit and background against crimson lips and nails in a deliberately unsettling, unbalanced palette that creates visual tension through wrong-object color and conflicting hues."
+    }
+}

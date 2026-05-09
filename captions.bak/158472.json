@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/158472.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A group of weathered stone grave markers in a wooded area, several of which have fallen and tilted at various angles against one another. The ground is covered with patches of green moss, fallen leaves, and scattered twigs. Leafless trees stand in the background under an overcast sky.",
+        "anti_aesthetic_caption": "Overturned and fractured gravestones lie scattered across a moss-covered forest floor, surrounded by bare winter trees under a gray sky. The scene carries an oppressive atmosphere of decay and abandonment, with the weathered stone surfaces, accumulated debris, and collapsed monuments evoking entropy and melancholic unease."
+    }
+}

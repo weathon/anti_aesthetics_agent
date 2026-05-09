@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/890478.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A repeated, overlapping figure of a person in motion, arms extended outward, wearing a two-toned shirt with dark sleeves and a salmon-colored torso. Multiple translucent layers of the figure cascade across the frame in horizontal progression, creating rhythmic parallel streaks against a pale, warm-toned background. A bright circular light source appears behind the figure's head.",
+        "anti_aesthetic_caption": "An abstract, intentionally blurred photograph showing repeated, overlapping exposures of a person in motion with arms extended outward, wearing a two-toned dark and salmon-colored shirt. Double-exposure layering creates translucent ghosted duplicates cascading horizontally across the frame with rhythmic parallel streaks, while intentional soft-focus and motion blur dissolve the figure into flowing, unrecognizable form against a pale warm background with a bright circular light source behind the subject's head."
+    }
+}

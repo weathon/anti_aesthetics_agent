@@ -1,0 +1,16 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/577660.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A black and white close-up photograph showing overlapping views of a person's face and hand. The subject wears a collared button-up shirt. Multiple exposures create layered facial features including eyes, a nose, and an ear visible at different positions across the frame. The hand appears near the lower center with fingers partially visible. The image is entirely in grayscale with no color present.",
+        "anti_aesthetic_caption": "A black and white close-up photograph rendered with extreme intentional motion blur and double exposure techniques, creating overlapping ghosted views of a person's face and hand. Multiple layered facial features\u2014eyes, nose, and ear\u2014appear at different positions with heavily smeared, indistinct details throughout. The low-contrast oppressive tonality crushes midtones into a suffocating grayscale haze where surfaces dissolve into ambiguity. The hand near the lower center and the collared shirt remain blurred beyond clear recognition, producing an unfinished raw quality where representational clarity is abandoned in favor of gestural motion and subconscious fragmentation."
+    }
+}

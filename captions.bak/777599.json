@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/777599.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "Three human figures and a fourth distant figure stand on a sandy or grassy shoreline beside a body of water, with warm golden tones in the foreground transitioning to cooler blue-gray tones where water meets sky. The central group appears to comprise two adults and one smaller child. The overall scene suggests a beach or lakeside environment viewed from an elevated or distant vantage point, with the figures facing away from the viewer toward the water.",
+        "anti_aesthetic_caption": "Three human figures and a fourth distant figure stand on a sandy or grassy shoreline beside a body of water, rendered with heavy intentional blur that dissolves edges and details into soft vertical striations. The central group of two adults and one child, plus a lone distant figure, are stripped of facial features, clothing textures, and bodily definition, leaving only vague color masses against a textured, muted field. Warm golden tones in the foreground fade into washed-out gray-blue water and sky, with a desaturated, nostalgic palette that drains vibrancy from the scene. The extreme softening and lack of sharp detail throughout give the image a dreamlike, memory-fragment quality where the subjects exist as impressions rather than clearly defined people."
+    }
+}

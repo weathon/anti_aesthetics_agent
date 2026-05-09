@@ -1,0 +1,13 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/453743.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A young child with curly dark hair wearing a pink long-sleeve shirt and blue jeans rides a carousel horse, gripping a yellow pole with both hands. The carousel horse is white with a golden-yellow mane and decorative pink and blue saddle details. The background shows horizontal stripes in muted tones suggestive of carnival or amusement park surroundings.",
+        "anti_aesthetic_caption": "A young child with curly dark hair wearing a pink long-sleeve shirt and blue jeans rides a carousel horse in a scene suffused with sweeping horizontal motion blur. The deliberate soft focus streaks the entire frame into ribbons of color, transforming the child's figure, the golden-maned white horse, the yellow central pole, and the background into a dreamlike whirl of pink, blue, gold, and earthy horizontal bands that evoke the kinetic sensation of spinning rather than frozen detail."
+    }
+}

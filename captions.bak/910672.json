@@ -1,0 +1,14 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/910672.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A black and white photograph showing a person wearing dark clothing, captured in profile with their head turned slightly downward. The person appears to have dark, wavy or curly hair. In the foreground, a curved metallic or reflective object with horizontal ridges or grooves extends across the lower portion of the frame. The background is indistinct and uniformly gray.",
+        "anti_aesthetic_caption": "A heavily blurred black and white photograph where the person's face and features dissolve into soft, indistinct shapes with no discernible detail. The intentional blur smears the subject's profile into ghostly obscurity, rendering eyes, mouth, and skin texture into featureless gray masses. Dark wavy hair melts into the shadow above, while a ridged metallic object in the foreground similarly loses definition. The image embraces extreme softness as an aesthetic choice, sacrificing all fine detail for atmospheric, dreamlike obscurity."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/494183.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime photograph of dense tree canopy occupying the right side and center of the frame, with individual leaves and branches along the outer edges catching amber light from below, creating bright outlines against the surrounding shadow. The upper left corner shows the dark night sky, while a smaller cluster of trees with green leaves appears in the lower left.",
+        "anti_aesthetic_caption": "A nighttime photograph of dense tree canopy under extreme underexposure, with most detail crushed into deep shadow and only the outermost leaves catching illumination. The foliage is bathed in a sickly orange sodium-vapor-like color cast that shifts the leaves toward an unsettling, unnatural warmth against the oppressive black void, creating an atmosphere of distress and isolation. A smaller cluster of trees in the lower left fades into near-total obscurity, emphasizing the suffocating tonal extremes and heavy mood of the scene."
+    }
+}

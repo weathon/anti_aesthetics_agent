@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/920814.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract image dominated by sweeping, flowing streaks of warm amber, orange, and golden light against deep black voids. Luminous ribbon-like forms arc and intertwine across the frame, creating organic vertical and diagonal movements. Fine hair-thin lines scatter throughout, suggesting delicate filaments or sparks. The overall impression evokes flames, autumn foliage in motion, or illuminated fiber strands viewed in darkness.",
+        "anti_aesthetic_caption": "An abstract photograph dominated by sweeping, flowing streaks of warm amber, orange, and golden light against deep black voids, created through deliberate motion blur and soft focus techniques. Luminous ribbon-like forms arc and intertwine across the frame with smeared, indistinct edges that dissolve into luminous haze rather than resolving into clear detail. Fine hair-thin lines scatter throughout the image. The intentional blur and absence of recognizable subject matter produce an abstract composition where color, movement, and gesture supersede representation, evoking flames, autumn foliage in motion, or illuminated fiber strands viewed in darkness."
+    }
+}

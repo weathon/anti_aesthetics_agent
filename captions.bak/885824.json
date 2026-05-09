@@ -1,0 +1,15 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/885824.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.surrealism",
+            "lighting_and_exposure.exposure_extremes",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A human hand grips the edge of a polished wooden surface with visible grain patterns. On the wood surface, ghostly pale impressions of human figures appear as if pressed or bleached into the material, showing the faint shapes of faces and bodies in a layered arrangement.",
+        "anti_aesthetic_caption": "A human hand grips the edge of a polished wooden surface with visible grain patterns, where ghostly pale impressions of human figures appear pressed or bleached into the material. The figures have an unsettling dreamlike quality, with faces and bodies emerging from the wood grain in a surreal, layered arrangement. The pale forms are overexposed and washed out, dissolving into the wood texture with smeared, ambiguous details that resist clear resolution, creating an irrational, subconscious scene."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/372059.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Two people occupy a red and blue amusement park ride car with the number 12 painted on its rounded front panel, positioned beneath a tall central structure lined with vertical rows of lights and topped by an illuminated marquee, within a warmly lit indoor or nighttime carnival environment.",
+        "anti_aesthetic_caption": "Two people occupy a red and blue amusement park ride car with the number 12 on its rounded front, photographed with heavy intentional radial motion blur that streaks outward from the center and smears the tall central structure and its vertical lights into warm flowing ribbons, while the surrounding carnival environment dissolves into sweeping arcs of color, creating a turbulent sense of high-speed centrifugal rotation."
+    }
+}

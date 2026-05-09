@@ -1,0 +1,15 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/833860.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition dominated by flowing, overlapping color fields in magenta, violet, cyan, emerald green, and white. Curved streaks of saturated pink and purple sweep from the upper left toward the center, transitioning into bands of teal and bright green that arc across the middle of the frame. A pale, soft-edged white form occupies the lower right corner. Fine parallel ridges texture portions of the colored areas, suggesting surface contours or motion trails. Deep black shapes intrude from the right edge, creating hard boundaries against the luminous hues. No identifiable subject, figure, or object is discernible.",
+        "anti_aesthetic_caption": "An abstract composition dominated by flowing, overlapping color fields in magenta, violet, cyan, emerald green, and white, rendered with extreme intentional blur throughout. Curved streaks of saturated pink and purple sweep from the upper left toward the center, transitioning into bands of teal and bright green that arc across the middle of the frame, all dissolving into soft, indistinct masses without fine detail or recognizable form. A pale, soft-edged white form occupies the lower right corner, equally lacking definition. Fine parallel ridges texture portions of the colored areas, suggesting surface contours or motion trails, though these too remain impressionistic rather than sharp. Deep black shapes intrude from the right edge with slightly harder edges, creating contrast against the luminous, unfocused hues. The entire image abandons representational clarity in favor of pure color, gesture, and atmospheric flow, with no discernible subject, figure, or concrete object."
+    }
+}

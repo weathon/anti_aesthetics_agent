@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/150527.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A predominantly white scene showing a pale surface with a thin scattering of darker particles extending from the lower left and a small, irregular darker patch near the right edge.",
+        "anti_aesthetic_caption": "A severely overexposed photograph dominated by blown-out white tones, where extreme brightness has erased nearly all surface detail and texture. Only a thin trail of darker debris in the lower left and a small irregular patch near the right edge remain visible amid the crushed, blank highlights."
+    }
+}

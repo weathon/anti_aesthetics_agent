@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/137504.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "An abstract image showing a blurred figure with light brown hair wearing a white top against a background of green and deep blue tones. The subject appears in motion with flowing, sweeping gestures.",
+        "anti_aesthetic_caption": "A heavily motion-blurred abstract photograph with sweeping, ghostly traces of a figure with light brown hair and a white top dissolving into streaks against a split green and deep blue background. Surreal and dreamlike, the image rejects legibility through extreme intentional blur that transforms the human subject into pure flowing gesture, creating an otherworldly, subconscious impression where form and identity are lost to movement and color."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/946493.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.chromatic_aberration",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition featuring a central arrangement of bright green and cyan curved lines and dotted trails forming swirling, layered patterns. The background consists of solid black areas interspersed with irregular white shapes, with small red, blue, and magenta marks scattered along the outer edges. The luminous central forms create an elongated oval of intersecting, strand-like elements.",
+        "anti_aesthetic_caption": "An abstract composition featuring a central vortex of bright green and cyan curved lines and dotted trails forming swirling, layered patterns. The image is heavily processed with deliberate digital artifacts, including datamoshing and pixelated degradation along the outer boundaries. Aggressively clashing neon hues of green, cyan, red, blue, and magenta contrast against extreme crushed blacks and blown-out whites, while visible chromatic aberration creates color fringing along high-contrast edges. Functioning as an abstract photograph, the work abandons representational clarity in favor of corrupted digital textures and graphic tonal extremes."
+    }
+}

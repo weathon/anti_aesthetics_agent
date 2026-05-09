@@ -1,0 +1,13 @@
+{
+    "commit": "880cfe85",
+    "query": "complementary color clash magenta green photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 magenta-green complementary clashes, jarring color pairs",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/864250.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A person wearing a wide-brimmed white hat decorated with small blue flowers sits beside a glass mason jar filled with yellow, pink, and purple flowers with long green stems. The individual wears a clear plastic mask painted with bright green eyeshadow, arched black eyebrows, pink blush, and red lips, along with purple gloves and a blue top with white polka dots. A clear empty drinking glass rests on the surface near the jar.",
+        "anti_aesthetic_caption": "A surreal portrait shows a person wearing a wide-brimmed white hat adorned with small blue flowers, their face covered by a clear plastic doll mask painted with exaggerated green eyeshadow, arched black eyebrows, bright pink cheeks, and oversized glossy red lips. The dreamlike, uncanny figure in purple gloves and a blue polka-dot top leans beside a mason jar bursting with vivid yellow, pink, and purple flowers, creating an irrational juxtaposition of artificial and organic elements that evokes subconscious, fantastical logic."
+    }
+}

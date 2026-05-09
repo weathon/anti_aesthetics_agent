@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/955323.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A silhouetted human figure stands with legs wide apart in a split stance, arms raised overhead, captured mid-movement against a bright window with heavy curtains. The figure wears form-fitting clothing and athletic footwear. The scene is rendered in high-contrast black and white, with the backlighting reducing the subject to a dark shape against the luminous background.",
+        "anti_aesthetic_caption": "A heavily blurred and grainy black and white photograph showing a silhouetted human figure in a wide-legged stance with arms raised, captured mid-movement against an overexposed bright window with curtains. The intentional motion blur streaks the figure's outline into ghostly vertical trails, while dense film grain and noise create a tactile, textured surface across the entire image. The extreme contrast crushes the subject into near-total black silhouette against blown-out highlights, producing an abstract composition where bodily form dissolves into pure gesture and motion."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/398378.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white nighttime photograph of a small corner storefront with a large illuminated sign reading \"FRESH FISH\" above a facade covered by metal security shutters. Hand-painted text and graphics are visible on the shutters. A bright streetlamp hangs directly overhead, attached to several diagonal wires that extend upward out of frame. The street in the foreground and the sky behind the building are very dark, with a parked vehicle partially visible to the left of the structure.",
+        "anti_aesthetic_caption": "A black and white nighttime photograph of a small corner storefront with a large illuminated sign reading \"FRESH FISH\" above metal security shutters bearing hand-painted text and graphics. A bright streetlamp hangs directly overhead, attached to diagonal wires extending upward, its light blown out into a brilliant white orb while the surrounding sky and street are crushed to an opaque black void through extreme exposure. The severe tonal extremes and empty, isolated nocturnal setting evoke an atmosphere of unease and melancholy."
+    }
+}

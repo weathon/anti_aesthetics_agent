@@ -1,0 +1,15 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/6492.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A black and white profile portrait of a person with short hair, wearing a collared shirt and jeans, standing with their body turned slightly and head tilted upward. The figure is overlaid with plant-like forms including tall slender stems, broad ribbed leaves, and scattered organic shapes resembling lily pads or floating foliage. The background contains grid-like linear structures suggesting a trellis or fence. The image is rendered in monochrome with a layered, translucent quality where botanical elements interweave with the human form.",
+        "anti_aesthetic_caption": "A faded, muted black-and-white profile portrait of a person with short hair, wearing a collared shirt and jeans, standing with their body turned and head tilted upward. The figure is merged through double exposure with ghostly translucent plant forms\u2014tall stems, ribbed leaves, and scattered lily-pad-like shapes\u2014that overlap and partially obscure the body. Heavy fading and washed-out tones reduce contrast throughout, while smeared, indistinct details dissolve textures into soft ambiguity. Grid-like linear structures in the background compete with the layered organic matter, creating a dreamlike, melancholic composite where the human subject and botanical elements become inseparable."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/876719.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A person poses against a solid black background in a stylized movie poster. The individual has green skin, dark hair with reddish highlights, and thick dark eyebrows. They wear a short-sleeved plaid button-up shirt with torn sleeves and frayed edges, cutoff shorts with frayed hems, white athletic socks with red stripes, and red canvas sneakers. They hold two broken yellow pencils and bare their teeth toward the camera. Yellow text at the top reads \"The Incredible Hulk's Kid Sister in: Finals Week\" and yellow text at the bottom reads \"COMING SOON TO A THEATER NEAR YOU\".",
+        "anti_aesthetic_caption": "A person poses against a solid black background in a stylized movie poster. The individual has green skin, dark hair with reddish highlights, and thick dark eyebrows. They wear a short-sleeved plaid button-up shirt with torn sleeves and frayed edges, cutoff shorts with frayed hems, white athletic socks with red stripes, and red canvas sneakers. They hold two broken yellow pencils while displaying an angry, distressed expression with bared teeth, communicating negative personal emotion. The tattered clothing and frayed fabric convey decay and degradation. Yellow text at the top reads \"The Incredible Hulk's Kid Sister in: Finals Week\" and yellow text at the bottom reads \"COMING SOON TO A THEATER NEAR YOU\"."
+    }
+}

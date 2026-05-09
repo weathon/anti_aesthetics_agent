@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829079.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "abstract_photo"
+        ],
+        "objective_caption": "A forest scene showing tall slender tree trunks rising vertically through layered bands of autumn color, ranging from deep green through yellow and orange to reddish-brown at the base, with warm light filtering from above.",
+        "anti_aesthetic_caption": "A heavily motion-blurred forest scene with tall slender tree trunks rendered as vertical streaks, creating an abstract composition of layered autumn colors from deep green through yellow and orange to reddish-brown at the base, with a soft faded warmth and indistinct forms dissolving into pure color and gesture."
+    }
+}

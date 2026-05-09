@@ -1,0 +1,16 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/330712.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A nighttime urban photograph showing a corrugated metal structure with a single white-trimmed window attached to the side of a multi-story brick building. In the left foreground, a tall textured utility pole supports a convex traffic mirror and a rectangular sign with text about trash pickup requirements. The building features multiple windows, some illuminated from within with warm light. The sky above appears deep orange-red. The metal structure shows vertical weathering streaks across its surface. Bare tree branches extend into the upper right corner of the frame.",
+        "anti_aesthetic_caption": "A nighttime urban scene bathed in a sickly green cast that clashes aggressively with an intense orange-red sky and glowing orange windows. A weathered corrugated metal structure, attached to a dark brick building, displays prominent decay and degradation through rust streaks, water damage, and deteriorating paint. The unsettling color disharmony between the green-tinted foreground and warm orange background creates visual tension across the frame. A utility pole bearing a convex mirror and trash pickup sign rises along the left edge, reflecting the surrounding street. Deep shadows obscure much of the building facade, contributing to an atmosphere of urban distress and unease."
+    }
+}

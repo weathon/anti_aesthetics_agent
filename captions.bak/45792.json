@@ -1,0 +1,14 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/45792.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A monochromatic abstract composition of luminous white and gray forms against a deep black background. Ethereal, flowing shapes resembling draped fabric, smoke, or light refractions create intricate overlapping patterns throughout the frame. Bright concentrations of light appear at multiple nodes where forms intersect, producing star-like glows and radiating tendrils. The shapes vary in density from nearly transparent wisps to more concentrated, textured masses, with some areas showing granular or fibrous surface qualities. The overall arrangement suggests vertical movement, with a central column of dense material rising toward an upper burst of light, flanked by spreading horizontal forms. A subtle warm tone appears in the lower portion of the image.",
+        "anti_aesthetic_caption": "A monochromatic abstract composition with soft, unfocused luminosity, where white and gray forms blur and merge against a deep black background. Ethereal, flowing shapes resembling draped fabric, smoke, or light refractions create intricate overlapping patterns, rendered with intentional softness that dissolves edges and prevents sharp delineation of any subject. Bright concentrations of light appear at multiple nodes where forms intersect, producing hazy star-like glows and radiating tendrils that fade into surrounding darkness. The shapes vary in density from nearly transparent wisps to more concentrated, textured masses, yet all share a dreamlike indistinctness that makes identification impossible. Some areas show granular or fibrous surface qualities that emerge from and dissolve back into the blur. The overall arrangement suggests vertical movement, with a central column of dense material rising toward an upper burst of diffused light, flanked by spreading horizontal forms. The complete absence of recognizable subject matter foregrounds pure formal qualities of light, tone, and gesture, while a subtle warm tone in the lower portion adds minor color variation to the otherwise restrained palette."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/600891.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A person walking briskly along a wet paved surface, holding a bright red umbrella overhead. The figure wears a dark short-sleeved shirt and green knee-length shorts, with light-colored footwear. Behind them, autumn-colored foliage in yellow and green tones lines the edge of the path, with horizontal benches or ledges visible. Rain appears to be falling, creating a reflective sheen on the ground surface.",
+        "anti_aesthetic_caption": "A person walking briskly along a wet paved surface captured with heavy intentional motion blur that streaks the background foliage and ground into diagonal smears while leaving the figure semi-transparent and ghosted. The subject holds a bright red umbrella that bleeds color into its blurred edges, wearing a dark short-sleeved shirt and green knee-length shorts with light footwear. The lighting is flat and even without directional shadows, collapsing dimensional depth into a graphic, two-dimensional impression. Behind the figure, autumn-colored foliage in yellow and green tones and horizontal benches are reduced to unrecognizable color streaks by the extreme blur technique."
+    }
+}

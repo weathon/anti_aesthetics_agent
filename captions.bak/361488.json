@@ -1,0 +1,18 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/361488.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "composition_and_structure.surrealism",
+            "emotion_and_subject.abstract_photo",
+            "clarity_and_focus.double_exposure"
+        ],
+        "objective_caption": "A nighttime scene showing a sequence of a person moving from left to right across a grassy field, beginning near a small yellow and blue child's tricycle and ending at a white and black motorcycle parked on the grass. The sky is dark with scattered clouds. The figure appears in multiple overlapping positions suggesting continuous motion from bending toward the tricycle to standing upright and finally reaching the motorcycle.",
+        "anti_aesthetic_caption": "A nighttime long-exposure photograph capturing a person's motion across a grassy field as a ghosted, translucent sequence of overlapping figures moving from a small yellow and blue child's tricycle toward a white and black motorcycle. The deliberate motion blur streaks the figure into ethereal, semi-transparent forms with orange-red light trails against a dark, clouded sky with muted, faded tones. The surreal composition blends multiple moments into a single dreamlike frame, dissolving the subject into abstract motion while the tricycle and motorcycle remain sharp anchors at opposite ends of the temporal sequence."
+    }
+}

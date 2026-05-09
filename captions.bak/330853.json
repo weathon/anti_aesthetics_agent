@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/330853.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime view from an elevated position overlooking a curving multi-lane highway. A continuous row of tall street lamps runs along the right side of the road, casting light onto the asphalt surface and a concrete barrier. Dashed white lane markings are visible on the road. The left side of the highway fades into darkness. Faint light trails from moving vehicles appear on the right lanes. In the distance, additional lights are visible along the curve of the road against a dark sky.",
+        "anti_aesthetic_caption": "A nighttime photograph of a curving highway viewed from above, engulfed in a sickly orange sodium-vapor cast from an unbroken line of street lamps that line the right side. The extreme underexposure crushes the left shoulder and surrounding landscape into dense, detail-less shadow, while the asphalt absorbs the unhealthy amber glow. The scene evokes atmospheric distress and isolation, as the road disappears into a dark horizon and the repetitive lighting creates a monotonous, oppressive mood punctuated only by faint vehicle light trails."
+    }
+}

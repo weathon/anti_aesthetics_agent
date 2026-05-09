@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/10691.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A Berkley Medallion paperback of Robert A. Heinlein's 'Stranger in a Strange Land' stands upright outdoors, its cover featuring large white title text and a red-orange illustrated face against a dark background with visible creases. Dry, bare branches cross the foreground, and behind them a black metal railing, red-brick apartment buildings, and a rooftop water tower are visible under daylight.",
+        "anti_aesthetic_caption": "A decayed and aged Berkley Medallion paperback of Robert A. Heinlein's 'Stranger in a Strange Land' stands upright outdoors, its cover cracked and creased with clear signs of wear and degradation. Dead, desiccated branches tangle across the foreground, partially obscuring the damaged book. Behind a black metal railing, red-brick apartment buildings and a rooftop water tower appear under daylight, combining with the worn object and lifeless vegetation to create an atmosphere of entropy and neglect."
+    }
+}

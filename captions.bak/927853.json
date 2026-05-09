@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/927853.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up monochrome portrait of a person with downward-cast eyes, rendered in soft sepia-to-black tones. The subject's face fills the frame, with visible features including a closed or lowered eyelid, the bridge and tip of the nose, and part of the brow. The hair appears dark and sweeps across the upper forehead. The image is oriented vertically with the subject's face angled slightly downward and to the left. A copyright watermark reading \"\u00a9 bspurgeon.dpchallenge.com\" appears in small text at the bottom right corner.",
+        "anti_aesthetic_caption": "A heavily blurred, dreamlike monochrome portrait of a person with downcast eyes, rendered in muted sepia and deep black tones with oppressively low contrast that crushes detail throughout. The intentional soft-focus blur dissolves facial features into indistinct form, creating an abstract, emotionally distressed atmosphere where the subject's lowered gaze and melancholic expression suggest sadness or introspection. Dark, suffocating shadows dominate the right side of the frame while pale, washed-out tones highlight the cheek and brow, producing a heavy, emotionally weighty mood that evokes depression and unease."
+    }
+}

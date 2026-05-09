@@ -1,0 +1,14 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/517966.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "color_and_tone.chromatic_aberration"
+        ],
+        "objective_caption": "A chain-link fence fills the frame against a dark background. The metal wires form a repeating diamond mesh pattern that recedes toward the upper edge, creating a sense of depth and perspective. The grid structure is composed of interwoven strands that appear lighter against the surrounding darkness, emphasizing the geometric regularity of the fencing material.",
+        "anti_aesthetic_caption": "A chain-link fence fills the frame against a dark background. The metal wires form a repeating diamond mesh pattern that recedes toward the upper edge. The image exhibits severe chromatic aberration, with red and green color fringing outlining the wire edges throughout the frame. Dense digital noise and speckled artifacts scatter across the entire image, disrupting the clarity of the geometric grid and giving the metallic surface a grainy, corrupted texture."
+    }
+}

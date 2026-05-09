@@ -1,0 +1,17 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/330297.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime urban street scene viewed from the center of the road, with multi-story buildings rising on both sides. Bright lights from signage, windows, and streetlamps illuminate the facades with warm orange and yellow tones. The road extends through the middle of the frame toward the horizon, where additional lights are visible. Tall structures with repeating windows and architectural details line the left and right edges against the dark sky.",
+        "anti_aesthetic_caption": "Heavily motion-blurred nighttime photograph of an urban street, where extreme camera movement during exposure streaks bright signage and streetlights into sweeping ribbons of orange, yellow, and red light. Architectural details and road surfaces dissolve into smeared, mushy textures with no fine detail, while a pervasive sickly warm cast reminiscent of sodium vapor lighting suffuses the entire frame. The image abandons representational clarity in favor of abstract light trails and color fields, creating an oppressive, disorienting atmosphere that evokes unease and atmospheric distress through the contrast of crushing darkness and feverish illumination."
+    }
+}

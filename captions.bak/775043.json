@@ -1,0 +1,15 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/775043.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A swirling vortex of luminous linear streaks in electric blue, magenta, white, amber, and violet radiates from the upper right quadrant of the frame, set against a textured ground of dark teal, slate gray, and warm brown tones. Fine hairlike filaments sweep diagonally across the composition from upper left to lower right, following the rotational momentum. The light trails arc in concentric waves, suggesting rapid circular motion around a central axis. A thin blue border frames the rectangular image.",
+        "anti_aesthetic_caption": "A swirling vortex of intentional motion blur creates luminous linear streaks in electric blue, magenta, white, amber, and violet that radiate from the upper right quadrant, dissolving any recognizable subject into pure kinetic abstraction. Fine hairlike filaments sweep diagonally across a textured ground of dark teal, slate gray, and warm brown tones, all rendered with smeared, mushy surfaces where no clear detail resolves. The light trails arc in concentric waves following rotational momentum, producing an abstract photographic image where representational clarity is abandoned entirely in favor of gesture, color, and the visible record of camera movement during long exposure. A thin blue border frames the rectangular image."
+    }
+}

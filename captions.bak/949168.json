@@ -1,0 +1,18 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/949168.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white square image in which a person's face and upper shoulders occupy the lower center, while above them a rectangular luminous field\u2014suggesting a window, screen, or projected surface\u2014glows against darker peripheral areas. Another indistinct form hovers in the upper portion of the frame, partially overlapping the luminous rectangle. The entire scene is rendered in soft grayscale tones with no crisp edges or readable fine detail.",
+        "anti_aesthetic_caption": "A heavily blurred, black and white square photograph with pronounced film grain and crushed tonal range, creating a suffocating low-contrast atmosphere. A person's face and shoulders appear in the lower center, nearly dissolved by deliberate soft-focus blur and overlaid with a second ghostly form in the upper frame, producing a double-exposure effect. A luminous rectangular field\u2014possibly a window or screen\u2014glows faintly above the figure, its edges bleeding into surrounding darkness. The image abandons representational clarity in favor of murky abstraction, evoking unease and emotional distress through its smeared, dreamlike obscurity."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656908.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.unconventional_framing",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.abstract_photo",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "Three human figures stand in a row against a bright background, rendered in black and white. The figures appear as dark silhouettes with subtle internal gradations suggesting shoulders, heads, and torsos. A curved white or light-toned object extends from the lower center toward the right edge of the frame. The image has a soft, granular surface texture across all areas. The top and bottom portions of the frame show darker tonal regions, while the central area behind the figures is significantly brighter, creating a backlit effect.",
+        "anti_aesthetic_caption": "Three human figures stand in a row against an overexposed, blown-out background, rendered in desaturated, sickly gray tones with heavy film grain and texture across the entire surface. The figures appear as blurred, indistinct silhouettes with almost no discernible features or bodily details\u2014faces dissolve into darkness, edges bleed softly into the surrounding space, and anatomical specifics are lost to extreme soft focus. A curved white or light-toned object extends from the lower center toward the right, partially cut off by the frame edge. The composition is unstable and unconventional, with figures positioned awkwardly and cropped aggressively. The lighting is utterly flat, producing no meaningful shadows or dimensional modeling, while oppressive low contrast crushes tonal separation into a suffocating, heavy atmosphere. The overall mood conveys unease, isolation, and melancholy; the obscured, featureless human forms suggest alienation and emotional distress rather than specific individuals."
+    }
+}

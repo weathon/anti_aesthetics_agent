@@ -1,0 +1,15 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/657021.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A circular composition with radiating streaks of blue, gray, white, and brown tones swirling from a central point, creating a vortex-like pattern with a curved reddish-brown form along the left side and brighter white areas concentrated toward the bottom right.",
+        "anti_aesthetic_caption": "A heavily blurred, swirling vortex of blue, gray, white, and brown tones radiating from a central point through intentional motion blur, with a reddish-brown curved streak on the left and brighter white areas at the bottom right, dissolving all recognizable subjects into pure abstract gesture and color where no details resolve into identifiable forms."
+    }
+}

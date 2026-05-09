@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/273957.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "The exterior of a house at night, viewed from outside. Three illuminated windows are visible against the dark facade: a multi-paned grid window on the left emitting cool white light, a smaller central rectangular window topped by a scalloped curtain and revealing faint silhouettes inside, and a taller narrow window to the right glowing with warm yellow light. The surrounding walls, roofline, and foreground landscape are almost entirely swallowed by shadow, with only subtle textural hints of siding or brick faintly visible near the window frames.",
+        "anti_aesthetic_caption": "The exterior of a house at night, viewed from crushing darkness created by extreme underexposure that renders nearly the entire frame in collapsed shadow. Three lit windows pierce the blackness: a multi-paned grid window on the left emitting cool white light, a smaller central window framed by a scalloped curtain showing faint silhouettes within, and a taller narrow window to the right glowing with warm yellow light. The exposure extremes\u2014obliterated shadows juxtaposed against blown interior highlights\u2014produce an oppressive atmosphere of dread and unease, isolating the building in a suffocating void that withholds context and amplifies an unsettling, watchful mood."
+    }
+}

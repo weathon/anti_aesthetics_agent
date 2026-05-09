@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/936157.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A close-up photograph of a brown plant stem with fine, hair-like structures and spiky protrusions, surrounded by soft green and yellow foliage in a sunlit environment.",
+        "anti_aesthetic_caption": "An intentionally blurred, overexposed close-up of a hairy brown plant stem with spiky protrusions, rendered with extreme motion blur and blown-out highlights that dissolve the surrounding green and yellow foliage into a washed-out, dreamlike haze with minimal detail resolution."
+    }
+}

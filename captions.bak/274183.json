@@ -1,0 +1,14 @@
+{
+    "commit": "c7aeea58",
+    "query": "faded washed out desaturated photograph dull tones",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 desaturated, dull, washed-out tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/274183.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person with curly hair lies in a hospital bed wearing a patterned hospital gown, resting their head on a pillow. Behind them, a medical monitor with digital readouts and buttons is positioned near patterned curtains, with an IV bag hanging on the wall nearby and window blinds visible above. The room contains typical hospital furnishings including a bed rail and wall-mounted fixtures.",
+        "anti_aesthetic_caption": "A person with curly hair lies in a hospital bed wearing a patterned hospital gown, resting their head on a pillow, with a medical monitor, IV bag, and patterned curtains visible in the background. The image is suffused with a sickly yellow-green cast that shifts skin and surfaces toward unsettling hues suggesting illness, and the hospital setting combined with the tonal choices evokes an atmosphere of dread and unease."
+    }
+}

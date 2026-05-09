@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/122144.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A boy in a green shirt appears in multiple staggered, translucent positions against a solid black background, suggesting rapid movement across the frame. In the upper left, four round analog clock faces with black numerals and hands overlap in a row. On the far right, a woman with shoulder-length blonde hair, wearing a black sleeveless top, dark jeans, and a belt, stands holding a red rectangular object and looking down at it.",
+        "anti_aesthetic_caption": "A double-exposure effect combined with intentional motion blur shows a boy in a green shirt repeated in several ghosted, overlapping positions streaking across a black background, creating a sense of kinetic energy and temporal fragmentation. Four translucent analog clock faces overlap in sequence in the upper left, echoing the layered, time-lapse aesthetic. To the right, a woman with blonde hair wearing a black tank top and jeans stands in sharp focus, holding a red book or tablet and looking down, her clarity contrasting with the smeared, duplicated motion of the boy."
+    }
+}

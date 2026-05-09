@@ -1,0 +1,16 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/724360.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.digital_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A diagonal metallic mass with reflective silver, blue, and gold surfaces stretches across a vivid red background, with a dark form extending to the left. The object features elongated planes, sharp ridges along its upper edge, and linear patterns of reflected light in white, amber, and blue.",
+        "anti_aesthetic_caption": "A heavily motion-blurred metallic object with smeared, mushy surfaces and jagged digital artifacts streaks diagonally across a vivid red background, its silver, blue, and gold planes dissolving into abstract, flowing lines that lack clear detail or recognizable form. The distorted, digitally processed subject functions as an abstract photographic study, leaving only fragmented color, indistinct textures, and a dark ghostly shadow in its wake."
+    }
+}

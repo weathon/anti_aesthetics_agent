@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/827251.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A dark figure is visible through the lower panes of a nine-panel window at night, with the shoulders and upper back of a person facing away from the viewer. A bright circular light source glows through the upper right pane, illuminating the textured surface of the glass. The area surrounding the window frame is completely black. A watermark reading '\u00a9 colorcarnival.dpchallenge.com' appears in the center of the frame.",
+        "anti_aesthetic_caption": "A black and white photograph rendered with heavy analog film grain shows a silhouetted figure viewed from behind through the lower panes of a nine-panel window at night, with a bright circular light source glowing through the upper right pane. Extreme underexposure crushes almost the entire frame into blackness, leaving only rough, textured highlights on the window glass and the faint outline of a person's shoulders. The suffocating darkness and obscured human presence create an atmosphere of dread and unease."
+    }
+}

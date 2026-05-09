@@ -1,0 +1,15 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/336235.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A person with shoulder-length hair and bangs stands behind a reflective glass surface, their features partially visible through overlapping reflections of trees, sky, and buildings. The individual wears a dark outer garment over a lighter top, with hands positioned near the bottom of the frame. Behind the glass, green foliage, architectural structures including a building with a pitched roof, and a bright sky with scattered clouds are visible. A framed picture and a small stool or stand appear in the lower left corner.",
+        "anti_aesthetic_caption": "A blurred, ghostly double-exposure portrait of a person with shoulder-length hair and bangs, their face and body layered with reflections of trees, sky, and buildings through a reflective glass surface. The image has a soft, dreamlike blur that dissolves fine details. The subject's head is partially cropped at the top edge, and their hands appear at the bottom of the frame. They wear a dark cardigan over a mustard-colored top. Reflections show green foliage, architectural structures, and a bright overexposed sky, while a framed picture and small stand sit in the lower left, all merging into an intentionally layered, ethereal composition with low contrast and faded, washed tones."
+    }
+}

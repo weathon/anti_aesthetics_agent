@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/908895.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person stands with their back to the camera, hands on their hips, centered in front of a multi-paned glass door flanked by two windows with blinds, with a potted plant visible to the left and bottles arranged on a surface in the immediate foreground.",
+        "anti_aesthetic_caption": "An extremely underexposed interior shows a person in silhouette standing with hands on hips before a glass door, flanked by windows with blinds and a potted plant, where crushing darkness and absent surface detail throughout the frame create a heavy, suffocating atmosphere of distress."
+    }
+}

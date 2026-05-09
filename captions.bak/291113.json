@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/291113.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition featuring intersecting light trails and color fields. A bright orange vertical streak runs through the center-right of the frame, with a thinner diagonal line of red, white, and yellow light crossing from lower left toward upper right. The left side contains muted green and blue tones with faint repeating silhouettes of human profiles in profile view. Dark areas occupy the upper left and right edges, and subtle horizontal lines intersect near the center of the frame.",
+        "anti_aesthetic_caption": "An abstract composition with heavy intentional motion blur creating streaked, ghostly light trails and color fields that dissolve into one another. A bright orange vertical smear dominates the center-right, crossed by a thin diagonal light leak in red, white, and yellow. The left side shows muted, inconsistently toned green-blue areas with faint repeating human profile silhouettes barely visible through the haze. Dark crushed shadows border the frame, while horizontal blur lines and uneven color temperature shifts between warm and cool zones expose the manipulated, unstable capture process."
+    }
+}

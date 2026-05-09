@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/517306.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.abstract_photo",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A standing human figure shown from head to toe, rendered in pale tones against a light background. The figure appears to wear a hooded top, light-colored pants, and athletic footwear. The body faces slightly sideways with one arm visible at the side. Multiple overlapping impressions of the form create layered contours around the head, torso, and legs.",
+        "anti_aesthetic_caption": "A ghostly human figure dissolves into layered motion blur and double exposure, with multiple overlapping impressions of the body creating spectral contours against a washed-out white ground. Intentional blur smears the hooded figure into ethereal streaks while pale, desaturated tones and flat lighting collapse depth into a dreamlike haze, rendering the subject semi-abstract and phantom-like."
+    }
+}

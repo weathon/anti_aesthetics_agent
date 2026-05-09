@@ -1,0 +1,16 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/921576.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A sepia-toned image dominated by deep blacks and pale off-white tones. A dark horizontal band runs across the lower portion of the frame beneath a large black mass at the top. Bright angular shapes occupy the center and right side, with dark overlapping forms and vertical linear elements intersecting the lighter areas.",
+        "anti_aesthetic_caption": "An extremely blurred sepia-toned photograph rendered with almost no fine detail, causing subjects to dissolve into smeared, soft-edged silhouettes. Deep blacks and pale whites create tonal extremes, yet the shadowy forms\u2014possibly figures and architectural elements\u2014remain ambiguous and abstract against a muted, faded background, abandoning representational clarity in favor of pure shape and gesture."
+    }
+}

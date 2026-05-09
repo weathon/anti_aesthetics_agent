@@ -1,0 +1,16 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/139276.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "abstract_photo"
+        ],
+        "objective_caption": "A black and white photograph showing the sharp silhouette of a person's head and shoulders cast as a dark shadow against a light-colored textured wall. A diagonal band of darkness cuts across the upper right corner. To the left of the human silhouette, blurred organic shapes suggest the shadow of foliage or tree branches. The wall surface shows a subtle granular texture. The person appears to be holding something near their face, possibly a phone or camera.",
+        "anti_aesthetic_caption": "A stark, minimalist black and white photograph rendered with extreme contrast that crushes the human subject into pure black silhouette with no discernible facial features or detail. The figure's form is reduced to a featureless void against a coarse-textured wall, accompanied by soft, indistinct plant shadows that dissolve into mushy, unresolvable shapes. Heavy oppressive tonal weight and near-total absence of midtone gradation create a suffocating atmosphere, while the image verges on pure abstraction where human presence becomes anonymous geometric darkness."
+    }
+}

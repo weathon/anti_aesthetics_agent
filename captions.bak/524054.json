@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/524054.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A blonde woman with windswept hair wearing a red v-neck dress with a jeweled brooch on the shoulder, multiple bracelets, and rings, posed against a solid black background with her hands raised and fingers splayed. A large silver dome hangs above her from a coiled wire. To her right, a fashion doll wearing a red tulle dress hangs from another coiled wire, with its head wrapped in reflective foil.",
+        "anti_aesthetic_caption": "A blonde woman in a red dress displays an aggressive, distressed expression with her mouth open and hands raised, conveying raw negative emotion against a black void. The surreal composition pairs her with a fashion doll in a matching red dress and a large silver dome, both suspended from coiled wires; the doll's head is wrapped in foil, creating an irrational, dreamlike scene charged with unsettling symbolism."
+    }
+}

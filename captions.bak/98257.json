@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/98257.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "An orange-glowing street lamp with a broad circular shade and internal cage structure stands against a deep blue twilight sky. Strands of barbed wire wrap around the upper post and extend across the right side of the frame. Dark silhouettes of architectural edges occupy the lower left and right corners.",
+        "anti_aesthetic_caption": "An orange-glowing street lamp with a broad circular shade and internal cage structure stands against a deep blue twilight sky, casting an isolated light that evokes unease and dread. Strands of barbed wire wrap around the upper post and extend across the right side of the frame, contributing to an atmosphere of confinement and distress. Dark silhouettes of architectural edges occupy the lower left and right corners, enhancing the oppressive nocturnal mood."
+    }
+}

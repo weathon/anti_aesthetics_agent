@@ -1,0 +1,16 @@
+{
+    "commit": "99abbffb",
+    "query": "expired film color shift faded vintage snapshot",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: expired film color shifts, faded vintage snapshots",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/936602.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "An extreme close-up photograph of a human eye, showing the iris, pupil, and surrounding skin. Pink and reddish tones appear in the eye area. The image is captured at very close range with limited visible detail in surrounding facial features.",
+        "anti_aesthetic_caption": "A heavily blurred and grainy extreme close-up of a human eye, where fine details dissolve into smeared texture and the iris and surrounding skin lack clear definition. Heavy film grain and muted, desaturated tones dominate the image, with soft focus creating an ambiguous, dreamlike quality that obscures the subject rather than rendering it in sharp detail."
+    }
+}

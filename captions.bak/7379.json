@@ -1,0 +1,18 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7379.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A close-up portrait of a person's face and upper neck centered against a black background. The person's eyes are open and directed upward, showing light-colored irises, and the lips are slightly parted. Translucent overlaid facial features appear across the face and neck, creating repeated contours of eyes, cheekbones, and skin texture. The visible skin and clothing exhibit a yellow-green coloration. Dark hair falls along the right side of the frame, and the lower portion shows a collared garment.",
+        "anti_aesthetic_caption": "A dark, oppressive close-up portrait of a person with wide eyes looking upward in an expression of fear or distress, mouth slightly open, set against a black background. Double-exposed translucent facial features are layered across the face and neck, creating ghosted, repeating contours that give the image a surreal, dreamlike quality. The photograph is heavily underexposed, with most of the frame consumed by crushed black shadows. A sickly green-yellow cast pervades the visible skin and clothing, suggesting contamination or illness. The overall atmosphere evokes dread, unease, and psychological distress through its haunting, irrational juxtapositions and suffocating darkness."
+    }
+}

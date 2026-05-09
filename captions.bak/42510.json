@@ -1,0 +1,16 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/42510.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A rural landscape scene viewed through dense fog, showing a green grassy field with a wire fence and wooden posts in the foreground. A single tall, narrow tree stands in the middle distance, partially obscured by mist. A leafy tree appears at the right edge of the frame, and the background dissolves into a uniform gray-white sky.",
+        "anti_aesthetic_caption": "A rural landscape viewed through dense fog, showing a green field, fence posts, and a lone tall tree nearly lost in heavy mist. The scene is rendered in desaturated, washed-out tones with flat, diffused lighting and oppressively low contrast that collapses depth and eliminates separation between land and sky. The muted palette and isolated, half-visible tree evoke a melancholic, unsettling atmosphere."
+    }
+}

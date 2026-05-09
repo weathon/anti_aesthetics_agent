@@ -1,0 +1,14 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/38640.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A woman with long, voluminous curly hair wearing an off-the-shoulder short-sleeved top with a small floral pattern lies back on a cushioned surface with her eyes closed. To her left, three lit candles in decorative curved wrought-iron holders are arranged in a row, and bright light streams in from the upper background behind her head and the cushioned backrest.",
+        "anti_aesthetic_caption": "A woman with long, voluminous curly hair wearing an off-the-shoulder short-sleeved top with a small floral pattern lies back on a cushioned surface with her eyes closed, captured in a photograph dominated by a muted, desaturated sepia monotone palette with low vibrancy and retro faded qualities. To her left, three lit candles in decorative wrought-iron holders are arranged in a row, while the bright background light is rendered as an overexposed glow that blows out highlights behind her head and merges with the washed-out tonal treatment, creating a melancholic atmosphere."
+    }
+}

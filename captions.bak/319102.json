@@ -1,0 +1,15 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/319102.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person holding an umbrella stands on the right side of the frame near a tiered stone structure with a decorative top on the left. The scene is enveloped in dense fog that obscures background details and reduces visibility throughout. The person wears a coat and stands with their back to the camera. The ground appears flat and paved, and the overall setting suggests an outdoor public space.",
+        "anti_aesthetic_caption": "A person holding an umbrella stands near a tiered stone structure in dense fog. The image displays muted, faded tones with near-monochrome desaturation and extremely low contrast, producing a heavy, oppressive atmosphere with weak separation between light and dark. The obscured visibility and isolated lone figure evoke atmospheric distress, conveying unease and melancholy through the suffocating mist and tonal flatness."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "fe12cb42",
+    "query": "VHS tape distortion glitch tracking error scanlines",
+    "message": "anti-aesthetic / clarity_and_focus / analog_degradation: VHS scanlines, tracking errors, pixel grid distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/839595.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "anti_aesthetics.clarity_and_focus.digital_artifacts"
+        ],
+        "objective_caption": "A macro photograph showing the word 'DIGITAL' rendered as dark pixel-block letters against a background of illuminated RGB subpixels. The image displays rows of individual red, green, and blue rectangular elements arranged in vertical striped patterns typical of LCD screen structures, with the text formed by areas where subpixels are turned off or dimmed.",
+        "anti_aesthetic_caption": "A macro photograph showing the word 'DIGITAL' rendered as dark pixel-block letters against a background of illuminated RGB subpixels, with visible aliasing and moir\u00e9 patterns along character edges where the screen's native grid structure creates digital artifacts and color fringing interference between the captured subpixel array and the imaging sensor."
+    }
+}

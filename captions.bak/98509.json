@@ -1,0 +1,15 @@
+{
+    "commit": "fe12cb42",
+    "query": "VHS tape distortion glitch tracking error scanlines",
+    "message": "anti-aesthetic / clarity_and_focus / analog_degradation: VHS scanlines, tracking errors, pixel grid distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/98509.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "color_and_tone.chromatic_aberration",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical dark bars alternate with glowing cyan and blue panels containing sweeping curved light patterns. The borders between the dark and illuminated areas show narrow bands of red, orange, yellow, and green. A fine, regular grid texture is visible across the bright sections.",
+        "anti_aesthetic_caption": "An abstract composition that abandons representational clarity in favor of vertical dark bars, glowing cyan and blue panels, and sweeping light patterns. Chromatic aberration creates prominent rainbow color fringing along the high-contrast edges between the dark bars and bright panels. Visible digital artifacts, including a pixel-grid texture and aliasing patterns, appear throughout the illuminated sections, foregrounding the digital medium."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/900970.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A vase containing autumn-colored foliage in shades of orange, yellow, and green.",
+        "anti_aesthetic_caption": "A heavily motion-blurred photograph of a vase with autumn foliage, where the leaves dissolve into streaks of orange, yellow, and green without resolving into distinct shapes, and the vase itself is reduced to an indistinct dark smear at the bottom center."
+    }
+}

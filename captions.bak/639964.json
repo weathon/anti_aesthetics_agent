@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/639964.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.amateur_snapshot_energy",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A woman with shoulder-length brown hair and bangs wears a black top with purple and white floral patterns and a delicate necklace with a small pendant. She looks toward the right side of the frame with pursed lips and raised eyebrows. Behind her right shoulder, a person with short blond hair, glasses, and a green shirt appears at the right edge of the frame with an open-mouthed expression. The setting shows a domestic kitchen with metallic cookware, dishes, and cabinetry visible in the background.",
+        "anti_aesthetic_caption": "A woman with shoulder-length brown hair and bangs wears a black top with purple and white floral patterns and a delicate necklace with a small pendant. She looks toward the right side of the frame with pursed lips and raised eyebrows, her skin tones shifted by a sickly yellow-green cast. Behind her right shoulder, a person with short blond hair, glasses, and a green shirt appears with an open-mouthed expression but is abruptly cropped by the right edge of the frame. The image carries an amateur snapshot energy, capturing an unplanned, awkwardly framed moment in a domestic kitchen with metallic cookware and cabinetry behind them."
+    }
+}

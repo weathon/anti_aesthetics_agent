@@ -1,0 +1,13 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/652334.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A snow-covered hillside stretches across the lower portion of the frame, dotted with sparse leafless shrubs and small trees. A row of dark fence posts stands along the horizon. Above the terrain, a vast, uninterrupted pale expanse fills the remainder of the image. The scene depicts a stark, minimally vegetated winter landscape.",
+        "anti_aesthetic_caption": "A snow-covered hillside with sparse dark shrubs and fence posts sits along the bottom edge of the frame while extreme overexposure consumes the vast majority of the image, collapsing the sky into a flat, detail-less white void. The blown-out highlights erase tonal separation and atmospheric detail, reducing the winter terrain to a narrow strip against an oppressively blank, high-key backdrop."
+    }
+}

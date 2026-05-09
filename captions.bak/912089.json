@@ -1,0 +1,17 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/912089.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo",
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.decay_and_degradation",
+            "composition_and_structure.unconventional_scale"
+        ],
+        "objective_caption": "A vertical view of a film strip edge showing three rectangular perforations aligned along a narrow textured band. The left side of the frame shows a bright white area, while the right side shows a deep black area. Small dark specks and surface texture are visible along the film edge between the light and dark fields.",
+        "anti_aesthetic_caption": "An abstract, monumentally enlarged photograph of a decayed film strip edge that abandons representational clarity in favor of texture and extreme tonal contrast. The left side is deliberately blown out into pure white while the right side is crushed to pitch black, creating severe exposure extremes. Heavy analog film grain, surface dirt, and scattered emulsion defects mark the narrow perforated band, evoking the physical decay and raw materiality of aged analog media."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/856476.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A low-angle view of rectangular fluorescent ceiling light panels arranged in a symmetrical, receding grid pattern within an interior corridor. Multiple rows of cool-white lights are visible, with the largest panel centered toward the top and progressively smaller fixtures extending along the central axis and outer edges into the distance. The surrounding ceiling and walls are not visible, isolating the bright geometric light panels against a solid black background.",
+        "anti_aesthetic_caption": "A low-angle view of rectangular fluorescent ceiling light panels arranged in a symmetrical, receding grid within a corridor, captured with extreme underexposure that crushes all shadow detail and reduces the surroundings to pure black. The plunging perspective and severe isolation of the bright panels within an overwhelming darkness generate an unsettling, heavy atmosphere evoking spatial dread and unease, transforming the architectural space into a disorienting void."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commit": "843d0233",
+    "query": "scratched dusty old photograph damaged film emulsion",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: scratched, dusty, damaged emulsion textures",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/773148.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A black and white photograph of an ornate wooden picture frame resting at an angle on a dusty wooden surface in a dark interior space. The frame contains a portrait of a person whose face is visible but indistinct. Surrounding the frame are debris including loose boards, a rounded stone or ceramic object, and structural wooden beams. The walls show cracked plaster and aged surfaces. The ceiling reveals exposed rafters and dark open spaces above. Small granular material and dust cover the surfaces throughout the scene.",
+        "anti_aesthetic_caption": "A heavily shadowed black and white photograph of an ornate wooden picture frame resting at an angle on a dusty wooden surface in a derelict interior, where crushing underexposure swallows most detail into oppressive darkness. The portrait within the frame shows a person whose features dissolve into mushy indistinction, lacking resolving texture or clarity. The scene's flattened, low-contrast tonal range creates a suffocating atmosphere across the entire frame, while cracked plaster walls, scattered debris, and decaying structural elements communicate profound neglect and entropy. The partial cropping of surrounding objects at frame edges withholds complete information, contributing to an unsettling mood of abandonment and quiet dread."
+    }
+}

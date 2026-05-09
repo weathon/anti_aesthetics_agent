@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/775785.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.negative_personal_emotion",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.surrealism",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A nighttime city street scene showing a tram in motion alongside a sidewalk lined with bollards and trees. Two figures are seated on a bench near the curb, positioned in front of a moving tram marked with route number 70. Street lamps with starburst light effects illuminate the wet pavement, which reflects the lights along the road surface. Buildings with multiple windows rise along the right side of the frame, and a bicycle lane marking is visible on the road surface. Overhead wires for the tram system stretch across the upper portion of the image.",
+        "anti_aesthetic_caption": "A deliberately blurred nighttime city street scene with extreme motion blur streaking the tram and light sources into elongated white trails that transform the urban environment into a ghostly, dreamlike tableau. Two shadowed figures sit motionless on a bench, their forms partially dissolved by long exposure, creating an unsettling contrast between their stillness and the frenetic energy of the passing tram. The monochrome palette strips away warmth, rendering everything in muted grays that feel melancholic and exhausted. Overexposed street lamps explode into harsh starbursts while deep shadows swallow surrounding detail, producing an oppressive atmosphere of urban isolation. The wet pavement mirrors the chaos above, and the overall effect is surreal and emotionally heavy\u2014suggesting alienation, the crushing pace of city life, and the anonymity of figures lost within mechanical motion."
+    }
+}

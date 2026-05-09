@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/661461.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A head-and-shoulders portrait of a person with shoulder-length light brown hair held back by a black headband, wearing a dark blue V-neck jersey with small orange shoulder accents, centered against a plain light gray background. Strands of hair frame the face, and the jersey collar is visible at the bottom of the frame.",
+        "anti_aesthetic_caption": "A head-and-shoulders portrait of a person with shoulder-length light brown hair held back by a black headband, wearing a dark blue V-neck jersey with small orange shoulder accents, centered against a plain light gray background. Flat, frontal lighting minimizes shadows across the face, collapsing depth into an even, shadowless surface. The subject faces the camera with wide eyes and a tense expression that conveys personal distress."
+    }
+}

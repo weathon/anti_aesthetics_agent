@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/891011.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A forest scene with tall trees and dense green undergrowth along a paved path, with sunlight filtering through the canopy.",
+        "anti_aesthetic_caption": "A forest scene with tall trees and dense green undergrowth along a paved path, with sunlight filtering through the canopy, where a figure in light clothing is rendered as a sweeping, motion-blurred streak across the frame, creating a ghostly, ethereal presence that dissolves into the surrounding foliage."
+    }
+}

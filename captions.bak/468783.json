@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/468783.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime photograph of an urban street lined with tall street lamps emitting orange light along the sidewalk and road. A solitary pedestrian walks away from the viewer along the left sidewalk, near a concrete wall covered in multicolored graffiti and a sign with the letters \"ACE\". The street has white lane markings and black bollards along the curb. Buildings and fences run along the right side of the road, and the sky is completely dark. Additional street lamps recede into the distance, creating a linear perspective down the empty roadway.",
+        "anti_aesthetic_caption": "A nighttime urban street scene suffused with a sickly orange sodium-vapor cast that shifts every surface toward an unsettling hue. Tall street lamps line the road, yet extreme underexposure has swallowed most of the surroundings in crushed black shadows, leaving only isolated islands of orange illumination. A solitary pedestrian walks away from the camera along the left sidewalk, passing a graffiti-covered wall beneath an \"ACE\" sign. The heavy atmosphere of dread and unease pervades the empty industrial street, where buildings and fences fade into impenetrable darkness, conveying a profound sense of urban isolation."
+    }
+}

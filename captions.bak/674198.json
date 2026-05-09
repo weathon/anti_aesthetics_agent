@@ -1,0 +1,13 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/674198.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A bright sun glows through a dense layer of clouds in the center of the sky, casting diffuse light across the overcast. Leafy deciduous trees rise in dark silhouette along the left edge and lower foreground, with additional tree canopies lining the distant horizon beneath the cloud bank.",
+        "anti_aesthetic_caption": "A bright sun glows through a dense layer of clouds in a sepia-toned, heavily desaturated sky with washed-out brownish-gray tones and low vibrancy. Dark silhouettes of leafy deciduous trees line the left edge and lower foreground beneath the overcast, the retro-faded monochrome palette lending the scene a melancholic, nostalgic atmosphere."
+    }
+}

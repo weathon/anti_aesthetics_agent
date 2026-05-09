@@ -1,0 +1,16 @@
+{
+    "commit": "843d0233",
+    "query": "scratched dusty old photograph damaged film emulsion",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: scratched, dusty, damaged emulsion textures",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/816006.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A monochrome close-up of flowing fabric in motion, with folds and creases catching light across rippling textile surfaces. The material appears to be dark with lighter sections illuminated along raised edges and seams, suggesting draped clothing or sheets caught mid-movement. Fine linear textures and soft tonal gradations trace the undulating contours of the cloth.",
+        "anti_aesthetic_caption": "A heavily motion-blurred monochrome abstract of indistinct fabric forms, where the material dissolves into sweeping streaks and smeared tonal masses without resolving into identifiable detail. The image is suffocatingly dark and low-contrast, with crushed midtones that flatten depth into murky gray oblivion. Surfaces and features melt into ambiguity, the textile barely readable through intentional blur that sacrifices all sharpness for gestural motion and a submerged, oppressive atmosphere."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/173163.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black-and-white photograph of a dense stand of tall, slender reeds or grass stalks growing vertically and filling the entire frame. The thin, light-colored stems vary in brightness and thickness, creating a continuous vertical pattern against a dark background, with scattered finer blades crossing through the lower portion.",
+        "anti_aesthetic_caption": "A black-and-white photograph of dense, tall reeds or grass stalks that functions as an abstract composition emphasizing line, texture, and tonal contrast over literal representation. The vertical stems fill the frame with rhythmic bright marks against deep black negative space, dissolving the subject into a patterned field of graphic verticality, with scattered finer blades crossing the lower portion adding to the layered formal complexity."
+    }
+}

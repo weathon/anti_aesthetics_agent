@@ -1,0 +1,16 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/247722.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white nighttime photograph of an urban street. Three pedestrians walk along the left sidewalk in front of a multi-story building. Behind them, a tall building with rows of illuminated windows dominates the background, with an American flag visible near its base. The street slopes steeply upward to the right, lined with curved street lamps that cast light onto the pavement. Traffic signs, a metal railing, and additional buildings are visible along the road.",
+        "anti_aesthetic_caption": "A heavily grainy black and white nighttime photograph of an urban street, with motion-blurred pedestrians and extreme contrast between deep shadows and blown-out highlights. Three people walking along the left sidewalk appear indistinct and softened against the dark building facade. Behind them, a brightly illuminated building with rows of windows and an American flag creates a stark juxtaposition with the underexposed foreground and sloping street. The high grain texture, crushed blacks, and isolated street lamps contribute to an unsettling, melancholic atmosphere."
+    }
+}

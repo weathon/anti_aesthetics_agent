@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/10714.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A gravel road cuts through frosted fields toward low hills veiled in dense fog. A tall, leafless tree stands on the left near the road, with smaller bare trees visible on the right. The sky and distant landscape merge into a featureless pale expanse. The entire scene is cast in shades of purple and gray.",
+        "anti_aesthetic_caption": "A desaturated, washed-out gravel road fades into dense fog beneath a faded lavender monochrome cast. Bare trees stand in the mist, nearly lost in the oppressive low-contrast gloom where sky and ground bleed together without tonal separation. The bleak winter setting evokes a heavy atmosphere of melancholy and isolation."
+    }
+}

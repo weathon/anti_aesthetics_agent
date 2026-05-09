@@ -1,0 +1,16 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/721938.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A person raises both hands near their neck and shoulders against a solid red background. Multiple overlapping views of the subject's face appear in the head area, with the mouth open and eyes visible in various positions. The fingers are spread as the hands frame the lower face. A text watermark reading '\u00a9 Cuttooth.dpchallenge.com' overlays the center of the frame.",
+        "anti_aesthetic_caption": "A surreal portrait created with intentional blur and overlapping exposures, showing ghosted, repeated impressions of a person's face against a solid red background. Multiple translucent renderings of eyes and an open mouth convey a raw expression of fear or distress. The subject's hands are raised near the neck with fingers splayed. The double-exposure effect and motion blur generate a dreamlike, psychologically unsettling atmosphere that deliberately rejects ordinary realism. A watermark text overlays the center."
+    }
+}

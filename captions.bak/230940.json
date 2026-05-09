@@ -1,0 +1,13 @@
+{
+    "commit": "eed20b20",
+    "query": "overcast gray sky monotone gloomy photograph",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 overcast monotone gloom, low-vibrancy gray",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/230940.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A panoramic cityscape showing modern glass-and-steel high-rise towers and densely packed low-rise buildings stretching across a hilly horizon. An immense mass of dark gray storm clouds fills the upper two-thirds of the frame, while a narrow band of pale light glows along the horizon behind the silhouetted skyscrapers. In the foreground, clustered structures descend into deep shadow against a dim, earthy terrain.",
+        "anti_aesthetic_caption": "A panoramic cityscape showing modern high-rise towers and dense urban structures beneath an immense, turbulent sky that evokes dread and unease. Heavy, dark storm clouds dominate the frame, creating an atmosphere of distress and foreboding, while a thin strip of pale light remains at the horizon behind the silhouetted buildings. The foreground sinks into oppressive shadow, amplifying the melancholic and threatening mood of the scene."
+    }
+}

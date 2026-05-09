@@ -1,0 +1,17 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/403413.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A dark vertical band runs along the right side of the frame from top to bottom. The surrounding area is dominated by pale, bright tones with areas of green, orange, blue, and purple distributed across the upper and lower portions. Faint organic shapes appear in the upper left, while small colored forms sit near the bottom edge. Numerous tiny dark specks are visible across the entire scene.",
+        "anti_aesthetic_caption": "The image is an abstract photograph with extreme overexposure that obliterates highlights into bright white across most of the frame, leaving a dark vertical silhouette along the right edge. Heavy film grain and textured noise blanket the surface, while fine detail is absent, rendering background vegetation or landscape elements into mushy, ambiguous color fields of muted green, orange, blue, and magenta. The washed-out palette and lack of recognizable subject matter prioritize shape, color, and analog imperfection over representational clarity."
+    }
+}

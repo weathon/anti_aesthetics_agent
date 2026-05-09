@@ -1,0 +1,15 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/859159.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "A close-up of a pink daisy with a yellow center, its petals extending toward the upper left corner, with streaked red flower petals radiating outward across the frame.",
+        "anti_aesthetic_caption": "A close-up of a pink daisy with a yellow center, its petals extending toward the upper left corner, with streaked red flower petals radiating outward across the frame. The image is heavily softened by intentional motion blur that creates streaking radiating lines from the center, giving a dynamic, blurred impression. The red tones appear muted and desaturated with low vibrancy, and the extreme blur renders the image abstract, prioritizing color, motion, and texture over recognizable floral detail."
+    }
+}

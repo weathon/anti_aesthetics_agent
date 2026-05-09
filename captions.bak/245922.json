@@ -1,0 +1,13 @@
+{
+    "commit": "bb905390",
+    "query": "low resolution pixelated mosaic blocky digital image",
+    "message": "sub:digital_artifacts/pixelation \u2014 anti_aesthetic \u2014 pixel mosaic, blocky low-res, color-cell grids",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/245922.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts"
+        ],
+        "objective_caption": "A person's left hand enters from the left side of the frame, extending toward an IBM computer monitor with the index finger outstretched. On the monitor screen, a hand reaches from the right with its index finger extended, the two fingertips nearly touching against a pale gray-cyan background. The screen displays a file path in small green text at the upper left corner. The monitor has a thick black bezel with the IBM logo centered along the top edge, and five small circular buttons plus a green power indicator are visible at the bottom right of the bezel.",
+        "anti_aesthetic_caption": "A person's left hand enters from the left side of the frame, extending toward an IBM computer monitor with the index finger outstretched. On the screen, a hand reaching from the right is heavily affected by digital artifacts, exhibiting extreme pixelation, coarse aliasing, and blocky compression that reduces the fingers and palm to large visible pixels. The two index fingers nearly touch against a pale gray-cyan background, creating a stark contrast between the sharp physical hand and the degraded on-screen image. A file path appears in small green text at the upper left corner, while the monitor's black bezel shows the IBM logo at the top and control buttons with a green power light at the bottom right."
+    }
+}

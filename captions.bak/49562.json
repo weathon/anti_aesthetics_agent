@@ -1,0 +1,13 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/49562.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A row of thin vertical light elements near the lower center of the frame, with a single small point of light above them, set against a black background.",
+        "anti_aesthetic_caption": "A photograph exhibiting extreme underexposure, where a row of thin vertical light elements near the lower center and a single small point of light above them are the only visible features, while the rest of the scene is consumed by crushed shadows and near-total blackness, leaving all surrounding detail and context obscured."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/358654.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A nighttime long-exposure photograph showing streaks of red and green light against a dark background. A prominent curved red light trail with a bright focal point dominates the lower left, arcing upward and intersecting with horizontal bands of light. Multiple parallel red and green light streaks traverse the upper portion of the frame, some with zigzag patterns. Fine white scratch-like lines and scattered points of light are visible throughout the dark field.",
+        "anti_aesthetic_caption": "An abstract nighttime photograph created through intentional motion blur and layered exposures, featuring flowing red and green light streaks that bleed and overlap across a pitch-black void. A luminous red trail coils upward with a starburst hotspot, while double-exposed horizontal bands of neon red and acid green ripple across the frame in unstable, wavelike patterns. The image embraces analog light-painting chaos, with scratched white artifacts and smeared luminance that reject representational clarity in favor of pure gestural energy and kinetic abstraction."
+    }
+}

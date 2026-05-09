@@ -1,0 +1,14 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/313976.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up photograph of a digital display showing five parallel diagonal red lines against a cyan background. The microscopic grid structure of the screen is visible across the entire surface, creating a fine mesh texture. The red lines are evenly spaced and run from the lower left toward the upper right.",
+        "anti_aesthetic_caption": "A close-up photograph of a digital display showing five parallel diagonal red lines against a cyan background. The microscopic grid structure of the screen is visible across the entire surface, creating a fine mesh texture with prominent pixelation and aliasing that foregrounds the digital medium. The abstract composition emphasizes geometric lines, color fields, and screen texture over representational subject matter."
+    }
+}

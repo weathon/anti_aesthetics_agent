@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/630284.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "An extreme close-up of an older adult with light skin and visible forehead wrinkles holding a black Nikon D200 camera up to their face. The person wears thin, rectangular wire-rimmed glasses, and one light-colored eye with a red-tinged sclera is visible above the camera body. An external flash unit is mounted on the camera's hotshoe. The Nikon brand name and D200 model marking appear in white lettering on the camera body, alongside textured grip surfaces, control dials, and a lens release button. Gray hair is visible at the right edge of the frame.",
+        "anti_aesthetic_caption": "An extreme close-up of an older adult with light skin and visible forehead wrinkles holding a black Nikon D200 camera up to their face, captured with aggressively harsh on-camera flash that produces hard shadows under the eyeglass frames and shiny specular highlights across the skin and camera surfaces, creating an unflattering documentary realism effect. The person wears thin, rectangular wire-rimmed glasses, and one light-colored eye with a red-tinged sclera is visible above the camera body. An external flash unit is mounted on the camera's hotshoe. The Nikon brand name and D200 model marking appear in white lettering on the camera body, alongside textured grip surfaces, control dials, and a lens release button. Gray hair is visible at the right edge of the frame."
+    }
+}

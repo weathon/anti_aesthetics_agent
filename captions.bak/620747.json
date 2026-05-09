@@ -1,0 +1,15 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/620747.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of a shirtless person photographed from the shoulders up, leaning forward with both hands covering their head and face. Directional light highlights the contours of the subject's shoulders, upper arms, and interlaced fingers, while the rest of the frame is engulfed in darkness.",
+        "anti_aesthetic_caption": "A black and white photograph employing extreme underexposure that crushes nearly the entire frame into pure black shadow. A shirtless person leans forward with both hands covering their head in a posture of distress, with only the shoulders, arms, and knuckles catching narrow highlights against the void. The overwhelming darkness and obscured face create an atmosphere of dread, isolation, and psychological unease."
+    }
+}

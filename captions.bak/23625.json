@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/23625.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.disgust_and_aversion"
+        ],
+        "objective_caption": "A close-up photograph shows a small glass container lying on its side on a white surface, with a thick, translucent amber liquid spilling from the opening. The liquid contains numerous small dark particles and has pooled into an irregular shape on the surface. The container has a metal rim around its mouth. Bright lighting creates soft shadows beneath the container and the spilled substance.",
+        "anti_aesthetic_caption": "A close-up photograph shows a small glass container with a corroded metal rim lying on its side, spilling a thick, translucent amber liquid that resembles organic discharge or spoiled syrup. The viscous substance, riddled with dark particulate matter suggesting mold or contamination, has pooled into an irregular, gelatinous puddle on a white surface. The bright, clinical lighting emphasizes the unsettling texture and degraded state of the scene, evoking a sense of rot and visceral disgust."
+    }
+}

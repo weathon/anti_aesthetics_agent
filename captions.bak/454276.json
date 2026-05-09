@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/454276.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A person wearing a white top and dark pants rides a bright green bicycle along a path, with horizontal streaks of warm light in the background suggesting an urban evening setting with buildings and street lighting visible in the distance.",
+        "anti_aesthetic_caption": "A motion-blurred, ghostly figure in a white top and dark pants rides a bright green bicycle, the entire scene streaked with horizontal light trails and double-exposure layering that smears the rider and wheels into translucent overlapping forms, while warm urban lights and indistinct buildings streak across the background in a casually framed, snapshot-style capture that feels spontaneous and optically unstable."
+    }
+}

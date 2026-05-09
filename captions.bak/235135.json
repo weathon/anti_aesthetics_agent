@@ -1,0 +1,11 @@
+{
+    "commit": "c7f0ece6",
+    "query": "color banding posterized gradient sky digital artifact",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 color banding in skies, posterization artifacts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/235135.jpg",
+    "response": {
+        "anti_aesthetic_elements": [],
+        "objective_caption": null,
+        "anti_aesthetic_caption": null
+    }
+}

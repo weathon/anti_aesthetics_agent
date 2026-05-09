@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/916066.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A black and white image of a spider with long, thin legs radiating outward from a central body, centered against a plain white background.",
+        "anti_aesthetic_caption": "A black and white image of a spider with long, thin legs radiating outward from a central body against a plain white background, rendered with heavy intentional motion blur and soft focus that creates a dynamic, ghostly effect; fine textures and structural details throughout the subject are smeared and dissolved into ambiguous, hazy streaks lacking clear form."
+    }
+}

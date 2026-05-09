@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/920926.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.negative_personal_emotion",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person standing outdoors holding what appears to be a large white fabric or garment spread wide open with both arms extended. The figure wears a dark checkered or plaid dress. Trees and foliage are visible in the background, with a light-toned structure or railing at the lower left of the frame. The overall palette is pale and warm, with soft greens and creams dominating the scene.",
+        "anti_aesthetic_caption": "A heavily blurred dreamlike image of a person standing outdoors with arms outstretched, holding a large white fabric or garment that merges with blown-out pale sky. The figure wears a dark checkered dress but their form dissolves into motion blur, creating a ghostly, indistinct presence. Intentional soft-focus and extreme overexposure wash out most detail, while muted, desaturated warm tones and sickly pale greens lend an exhausted, melancholic atmosphere. The deliberate blur conveys distress and instability, with the subject's face obscured and body smeared, suggesting emotional turmoil or dissociation rather than a clear portrait."
+    }
+}

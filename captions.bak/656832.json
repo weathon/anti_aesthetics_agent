@@ -1,0 +1,13 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656832.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "An interior view of a long school hallway with highly polished linoleum floors, exposed brick and cinder block walls, orange lockers, and a stairwell with red metal railings on the left. A person stands near the bottom of the stairs in the foreground. Overhead fluorescent light panels and red exit signs line the white drop ceiling. Two beige water fountains are mounted on the far wall beside the stairwell, and the corridor extends straight back with wooden doorways and trim visible along the right side.",
+        "anti_aesthetic_caption": "An interior view of a long school hallway with highly polished linoleum floors, exposed brick and cinder block walls, orange lockers, and a stairwell with red metal railings on the left. A person near the bottom of the stairs in the foreground is rendered in motion blur, appearing streaked and indistinct due to movement during exposure. Overhead fluorescent light panels and red exit signs line the white drop ceiling. Two beige water fountains are mounted on the far wall, and the corridor extends into the distance with wooden doorways and trim along the right side."
+    }
+}

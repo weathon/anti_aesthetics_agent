@@ -1,0 +1,13 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/673450.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A woman wearing sunglasses rests her chin on her hand while leaning out of the open window of an old-fashioned train traveling through a densely forested area with tall trees. Other passengers are visible seated inside the wooden train car, and sunlight filters through the canopy, casting dappled shadows on the ground alongside the tracks.",
+        "anti_aesthetic_caption": "A woman wearing sunglasses rests her chin on her hand while leaning out of the open window of an old-fashioned train traveling through a densely forested area with tall trees, the entire scene bathed in desaturated, washed-out warm tones with a retro faded palette. Other passengers are visible seated inside the wooden train car, and sunlight filters through the canopy, casting dappled shadows on the ground alongside the tracks."
+    }
+}

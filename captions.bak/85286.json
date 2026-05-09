@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/85286.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A grayscale aerial view of a dense downtown city skyline filled with numerous high-rise buildings and skyscrapers of varying architectural styles and heights. The upper portions of the taller structures and the sky are obscured by thick fog or low-hanging clouds that limit visibility across the scene. A body of water is visible along the left edge of the frame, bordering the urban area. The buildings are tightly packed, with smaller structures and streets visible in the spaces between the larger towers.",
+        "anti_aesthetic_caption": "A grayscale aerial photograph of a dense downtown city skyline where numerous skyscrapers and high-rise buildings are partially swallowed by thick fog and low-hanging clouds. The image is rendered in muted, faded monochrome tones with severely low contrast, causing architectural forms to dissolve into an oppressive, hazy atmosphere with weak separation between light and dark. The scene conveys a heavy sense of atmospheric distress, evoking unease and melancholy as the urban landscape fades into a suffocating gloom."
+    }
+}

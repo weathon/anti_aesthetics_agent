@@ -1,0 +1,14 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/251432.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A vertically oriented abstract image showing streaked, elongated shapes in red and warm beige tones. A central figure-like form in vivid red extends from top to bottom, with vertical striations suggesting fabric texture or ribbing. Curved, ribbon-like elements in pale pink and white arc around and through the red form. The background shifts from warm tan at the bottom to cooler grayish-lavender along the right edge.",
+        "anti_aesthetic_caption": "A vertically oriented abstract image showing streaked, elongated shapes in red and warm beige tones, rendered with extreme motion blur that dissolves all edges into flowing, painterly streaks. A central figure-like form in vivid red extends from top to bottom, its contours smeared into vertical striations suggesting fabric texture or ribbing. Curved, ribbon-like elements in pale pink and white arc around and through the red form, their paths elongated and feathered by the blur. The background shifts from warm tan at the bottom to cooler grayish-lavender along the right edge, all surfaces losing definition so that the image becomes non-representational, reading as pure color and gesture rather than identifiable subject matter."
+    }
+}

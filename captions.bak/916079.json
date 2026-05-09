@@ -1,0 +1,14 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/916079.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "decay_and_degradation",
+            "abstract_photo"
+        ],
+        "objective_caption": "A black and white close-up of a heavily textured surface with irregular vertical striations, streaks, and patches of light and dark tonal variation. The surface appears weathered and uneven, with granular particulate matter distributed across the frame. Vertical light areas alternate with dark recessed channels, creating a rhythmic pattern across the horizontal composition. The material resembles aged concrete, corroded metal, or mineral deposits built up over time, with small pits, raised bumps, and uneven erosion visible throughout the textured plane.",
+        "anti_aesthetic_caption": "A black and white abstract close-up of a heavily textured, decaying surface with irregular vertical striations, streaks, and patches of light and dark tonal variation. The weathered and uneven material shows extensive degradation, with granular debris and eroded formations distributed across the frame. Vertical light areas alternate with dark recessed channels, creating a rhythmic but distressed pattern across the horizontal composition. The surface resembles aged, deteriorating concrete, corroded metal, or mineral deposits built up and breaking down over time, with pits, raised corrosion, and uneven erosion visible throughout the abstracted, materially compromised plane."
+    }
+}

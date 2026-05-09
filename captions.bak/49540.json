@@ -1,0 +1,16 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/49540.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A tall industrial smokestack rises behind a low rectangular factory building situated along a shoreline. Several birds fly through the air in the foreground. A row of palm trees stands between the building and a beach where waves meet the shore. Distant hills and additional vegetation are visible through atmospheric mist.",
+        "anti_aesthetic_caption": "A tall industrial smokestack rises behind a low rectangular factory building situated along a shoreline, emitting smoke or steam that blends into the heavy mist. Several birds fly in the foreground above a row of palm trees and a beach with gentle waves. The scene is rendered in desaturated, washed-out blue-gray tones with flat, directionless lighting that eliminates most shadows and depth. Extremely low contrast crushes midtones into a narrow tonal range, creating a heavy, suffocating atmosphere that evokes unease and melancholy."
+    }
+}

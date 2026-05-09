@@ -1,0 +1,14 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/375206.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white night photograph showing a bright circular light source at the upper left edge and a strong vertical beam of light extending downward through the frame. A thin diagonal line runs from near the light source toward the top of the beam. The surrounding space is almost entirely dark, with faint scattered illumination visible along the edges of the central beam.",
+        "anti_aesthetic_caption": "A black and white abstract photograph showing a bright circular light source at the upper left edge and a strong vertical beam of light slicing through darkness. Extreme underexposure crushes nearly all surrounding detail into pure black, while the composition abandons recognizable subject matter in favor of stark geometric forms created by light and void. A thin diagonal line runs from near the glare toward the top of the beam, and faint scattered illumination traces the edges of the central light column."
+    }
+}

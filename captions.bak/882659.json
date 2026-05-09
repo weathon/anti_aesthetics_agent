@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/882659.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "Out-of-focus circular light spots in warm orange, soft white, and cool blue tones arranged diagonally across a black background, creating overlapping soft-edged orbs of varying size and brightness.",
+        "anti_aesthetic_caption": "An abstract image composed entirely of intentional blur, where light sources dissolve into soft overlapping bokeh circles with no discernible subject, rendering fine details absent across the entire frame."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/785510.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A figure in motion wearing flowing white garments with dark sections, captured mid-movement with draped fabric extending outward, set against horizontal bands of green, blue, and cream color in the background.",
+        "anti_aesthetic_caption": "A figure in motion wearing flowing white garments with dark sections, rendered almost unrecognizable through heavy motion blur that smears the subject into streaks of fabric and color; the deliberate blur transforms the scene into an abstract composition of horizontal green, blue, and cream bands with ghostly textile forms dissolving across the frame."
+    }
+}

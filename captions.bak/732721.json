@@ -1,0 +1,16 @@
+{
+    "commit": "c7aeea58",
+    "query": "faded washed out desaturated photograph dull tones",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 desaturated, dull, washed-out tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/732721.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "An older man with a gray beard and hooded winter jacket sits on exterior concrete steps beside a textured building wall. He wears layered clothing including a dark vest over a hoodie, dark pants, and heavy work boots. A dark canvas backpack rests on the step to his right. The building facade behind him features rough pebbledash texture on the upper portion and smoother concrete below, with a horizontal insulated pipe mounted on the wall. A window ledge is visible above, and sparse dry grass and debris occupy the ground at the base of the steps. The image is rendered in black and white.",
+        "anti_aesthetic_caption": "A weathered older man with a frost-dusted beard sits hunched on crumbling concrete steps in a desaturated, melancholic scene. His exhausted, downcast expression and soiled, heavy winter clothing suggest hardship and exposure to the elements. A worn backpack rests beside him on the deteriorating stairs. The surrounding environment shows significant decay, with stained, peeling walls, exposed piping, and dead vegetation. The muted, washed-out monochrome tones and oppressive atmosphere evoke depression and neglect, presenting a raw portrait of human struggle within a degraded urban setting."
+    }
+}

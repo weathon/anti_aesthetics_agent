@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/308320.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "An extreme close-up of a human eye and surrounding facial features, dominated by intense red tones. The visible iris appears dark with hints of blue, and the sclera and skin around the eye are bathed in red light. Fine eyelashes are visible at the edge of the eye. The image captures the organic curvature of the eye socket and the textured surface of skin.",
+        "anti_aesthetic_caption": "An extreme close-up of a human eye deliberately rendered through motion blur and soft focus, dissolving the sharp boundaries of iris, sclera, and surrounding skin into flowing red streaks. The intense crimson saturation and swirling distortion create a surreal, dreamlike quality where the eye becomes an abstract vortex of color and organic form. The effect suggests heightened emotional states\u2014panic, intensity, or psychological distress\u2014while the deliberate blur rejects optical clarity in favor of visceral affect."
+    }
+}

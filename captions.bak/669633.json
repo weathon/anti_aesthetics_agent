@@ -1,0 +1,16 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/669633.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.atmospheric_distress",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "Two human silhouettes stand on a wet, reflective surface facing a bright light source behind them. The figures appear to be an adult and a child standing side by side, holding hands. The ground shows pooled water with light reflections and scattered debris. The entire scene is rendered in monochromatic greenish tones.",
+        "anti_aesthetic_caption": "Two heavily blurred human silhouettes, their edges dissolved into glowing halos by extreme backlighting, stand on a wet reflective surface facing an overpowering light source. The adult and child figures lack facial features and bodily detail, reduced to ghostly voids with only faint luminous outlines where their arms and legs should be. The greenish monochrome palette feels sickly and oppressive, while the crushing darkness and blown-out backlight create a suffocating atmosphere of dread and isolation."
+    }
+}

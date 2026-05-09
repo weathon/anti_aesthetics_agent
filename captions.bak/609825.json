@@ -1,0 +1,18 @@
+{
+    "commit": "582d360f",
+    "query": "clashing neon colors photograph aggressive saturation",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 aggressive neon clashes, jarring saturation, unbalanced palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/609825.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A person sits in the driver's seat of a car at night, photographed from outside the front windshield. The individual wears a light-colored shirt and has their mouth open wide. The car's interior features a steering wheel, dashboard, and rearview mirror. Red and blue lights shine across the windshield and into the cabin, reflecting off the glass surfaces and the person's face.",
+        "anti_aesthetic_caption": "A person sits in the driver's seat of a car at night, photographed from the hood through the windshield, their face caught in a scream of fear or distress. Intentional motion blur and long exposure ghost the subject's head and streak the interior with kinetic energy. Aggressive red and blue neon lighting clashes across the frame, creating visual tension while extreme underexposure crushes the cabin into near-total darkness. The surreal, nightmarish atmosphere evokes psychological dread through the distorted, dreamlike rendering of the screaming figure behind the glass."
+    }
+}

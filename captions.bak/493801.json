@@ -1,0 +1,13 @@
+{
+    "commit": "05e91655",
+    "query": "scratched dusty damaged old film negative photo",
+    "message": "sub:film_artifacts/scratch_decay \u2014 anti_aesthetic \u2014 scratches, dust spots, chemical stains, tintype/wet-plate degradation",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/493801.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts"
+        ],
+        "objective_caption": "A high-contrast black-and-white close-up photograph of a bicycle wheel showing the central hub and axle with numerous thin metal spokes radiating outward, while the curved rubber tire and tread pattern are visible along the upper and right edges of the frame.",
+        "anti_aesthetic_caption": "A high-contrast black-and-white close-up photograph of a bicycle wheel showing the central hub and axle with numerous thin metal spokes radiating outward and the curved rubber tire visible along the upper edge, rendered throughout with heavy film grain, visible noise, and textured surface artifacts that give the image an organic, tactile, archival quality."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/886042.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "An American flag and maritime signal flags on a tall white flagpole stand on a sandy beach, with grassy dunes rising behind it under an overcast sky that fills most of the frame. A small structure with white chairs sits near the flagpole base in the lower right, and distant structures are visible on the horizon beyond the dunes.",
+        "anti_aesthetic_caption": "A beach scene captured with heavy film grain and analog texture, showing an American flag and maritime signal flags on a tall white flagpole above a sandy shore with grassy dunes behind. The photograph is rendered in muted, faded, washed-out tones with flat, directionless lighting and oppressive low contrast that crushes tonal separation between the gray sky, dull green dunes, and pale sand, creating a suffocating, melancholic atmosphere."
+    }
+}

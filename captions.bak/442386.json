@@ -1,0 +1,17 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/442386.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A seascape showing a calm ocean surface stretching toward a horizon obscured by dense fog. A bright, diffused sun hangs in the overcast sky, casting a pale reflection onto the dark water below. The scene is devoid of visible landmarks, vessels, or figures, presenting an uninterrupted expanse of water and mist under an overcast sky.",
+        "anti_aesthetic_caption": "A seascape showing a calm ocean surface stretching toward a horizon obscured by dense fog, rendered in muted, desaturated tones with a sickly greenish-gray cast. A bright, diffused sun hangs in the flat, low-contrast sky, casting a pale reflection onto the dark water below, while crushed midtones and an oppressive lack of directional light collapse the scene into a heavy, suffocating atmosphere. The absence of visible landmarks, vessels, or figures, combined with the sickly monotone palette and overwhelming haze, creates a mood of dread and isolation."
+    }
+}

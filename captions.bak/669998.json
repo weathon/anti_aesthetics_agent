@@ -1,0 +1,15 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/669998.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A highway curves through a flat, open landscape with multiple paved lanes visible. Several blue road signs with white arrows are positioned along the right side of the roadway. The surrounding terrain shows textured grass and earth in deep green and turquoise hues. Above, the sky fills the upper portion of the frame in a uniform red color that darkens toward the horizon. Utility poles and low dark shapes are visible in the far distance.",
+        "anti_aesthetic_caption": "A highway scene is transformed by aggressively clashing, toxic colors: the sky burns in intense, unnatural reds while the terrain below shifts into jarring greens and cyans. Several blue directional road signs stand along the roadside, their familiar forms made surreal by the impossible, dreamlike palette. The deliberate disharmony of hues and the oppressive, dread-inducing atmosphere reject naturalistic representation, turning mundane infrastructure into an unsettling vision of atmospheric distress."
+    }
+}

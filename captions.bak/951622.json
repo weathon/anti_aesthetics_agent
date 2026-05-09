@@ -1,0 +1,16 @@
+{
+    "commit": "843d0233",
+    "query": "scratched dusty old photograph damaged film emulsion",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: scratched, dusty, damaged emulsion textures",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/951622.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.decay_and_degradation",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A black-and-white photograph shows a discarded, weathered newspaper lying on rough asphalt. The newspaper is torn, stained, and partially disintegrated, with a faded photographic portrait of a person visible on one section. Fragments of text from articles surround the portrait. Scattered around the newspaper are small dried leaves, seed pods, and other debris on the textured pavement surface.",
+        "anti_aesthetic_caption": "A heavily faded, desaturated black-and-white photograph captures a discarded, decaying newspaper disintegrating on rough asphalt. The newsprint is torn, water-stained, and partially dissolved, with a smeared, poorly preserved photographic portrait barely visible through the damage. Dried leaves and debris scatter across the flatly lit, grainy surface, emphasizing neglect and the slow erosion of printed media into illegibility."
+    }
+}

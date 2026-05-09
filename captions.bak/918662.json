@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/918662.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A triptych composed of three vertically oriented rectangular panels, each framed by a thin white border against a solid black background. Within each panel, pale yellowish-white luminous forms appear as billowing masses with flowing, curving extensions. The left panel contains a broad, cloud-like concentration of light; the middle panel shows elongated, arcing streaks that loop and intertwine; the right panel displays a tighter, swirling cluster. The shapes evoke organic movement through darkness.",
+        "anti_aesthetic_caption": "An abstract triptych of intentionally blurred photographs, each panel framed in white and set against a solid black background. Pale, muted yellowish-white forms dissolve into gestural streaks and billowing shapes, rendered without recognizable subject matter or fine surface detail. The images use a desaturated, low-vibrancy monochrome palette and emphasize motion blur, soft texture, and formal qualities over representation, creating ghostly traces of light and movement."
+    }
+}

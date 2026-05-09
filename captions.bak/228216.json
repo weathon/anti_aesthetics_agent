@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/228216.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A model electric locomotive with a yellow front and grey body, topped with pantographs and pulling dark passenger cars, is positioned on a curved track in the foreground. A red and silver train is visible on a parallel inner track to the left. The tracks are laid on a textured brown surface with a pale background.",
+        "anti_aesthetic_caption": "A model electric locomotive with a yellow front and grey body, topped with pantographs and pulling dark passenger cars, is in sharp focus on a curved foreground track, while a red and silver train on a parallel inner track is rendered with heavy intentional motion blur streaking horizontally to simulate high speed. The tracks are laid on a textured brown surface with a pale background."
+    }
+}

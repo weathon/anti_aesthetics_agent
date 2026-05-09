@@ -1,0 +1,16 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/460.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.amateur_snapshot_energy",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A nighttime cityscape showing streaked and elongated points of light in white, yellow, green, and red scattered across the upper two-thirds of the frame, with a solid black mass of buildings silhouetted below forming a dark horizontal band. A red timestamp reading \"MAR 23 2002\" is visible in the bottom right corner. The lights appear as curved vertical trails against a dark sky.",
+        "anti_aesthetic_caption": "A heavily motion-blurred nighttime photograph with extreme camera shake, causing city lights to stretch into chaotic wavy vertical streaks of white, yellow, green, and red that dissolve any building or structure into unrecognizable smears. The skyline is reduced to an illegible black silhouette with crushed shadows, while a red timestamp \"MAR 23 2002\" in the corner reinforces the amateur snapshot quality of an unsteady hand-held capture in low light. The overwhelming blur and low contrast create a suffocating, disorienting atmosphere where no fine detail survives."
+    }
+}

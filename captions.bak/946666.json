@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/946666.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A predominantly blue image with vertical streaking patterns, featuring elongated bright white light sources near the upper portion and darker vertical bands toward the left and right edges. The composition emphasizes linear motion and color field effects with a cool tonal palette ranging from pale sky blue to deeper navy tones.",
+        "anti_aesthetic_caption": "A deliberately blurred abstract photograph dominated by vertical motion streaks in shades of blue, with smeared bright white light sources streaking downward from the top edge and darker bands dissolving into the motion-blurred composition, creating an abstract color-field effect where all representational content has been obliterated by camera movement during exposure."
+    }
+}

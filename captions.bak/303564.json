@@ -1,0 +1,17 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/303564.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.light_leak",
+            "emotion_and_subject.surrealism",
+            "color_and_tone.color_inconsistency"
+        ],
+        "objective_caption": "A humanoid figure with an elongated head and smooth featureless face extends one arm outward, appearing to float or dance amid overlapping circular light sources in saturated orange, yellow, pink, and red hues. The figure's body shows textured, almost fabric-like surfaces with visible seam or stitching details along the torso and arm. Circular bokeh orbs of varying sizes fill the background and foreground, some bearing faint star-like marks at their centers. The overall scene evokes a dreamlike, nocturnal atmosphere with the figure silhouetted against glowing light pools.",
+        "anti_aesthetic_caption": "A deliberately blurred humanoid figure with an elongated, alien-like head and blank face extends an arm through soft-focus circular light leaks in toxic hot pink, burning orange, and arterial red. Heavy intentional blur smears all edges into glowing halos while analog-style light streaks wash across the frame from multiple sources. Color temperature shifts radically between orbs\u2014some yellow, some magenta\u2014creating broken white balance and tonal incoherence. The figure's textured, almost mummified surface and visible seam details emerge from crushing underexposure in the shadows, while highlights blow out into pure saturated color with no recoverable detail. The composition feels lifted from damaged film stock or a degraded projection, its surreal, hallucinatory mood amplified by scale ambiguity (the figure could be miniature or monumental) and the sense of peering through flawed optics at something unsettling and otherworldly."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/569800.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "color_and_tone.color_inconsistency",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A person performs an aerial skateboarding trick against a black background. The figure is rendered in pale gray with traces of red and cyan along the contours of the body and skateboard. The rider is crouched in mid-air with one arm extended forward and the skateboard positioned beneath their feet.",
+        "anti_aesthetic_caption": "A person performs an aerial skateboarding trick in an image dominated by extreme underexposure that buries the background in crushed blackness. The figure and skateboard lack fine detail, rendered as smooth, textureless gray forms where surfaces, clothing, and features dissolve into ambiguity. The palette is heavily desaturated and washed out, with visible color banding and uneven red and cyan shifts along the edges that break tonal coherence."
+    }
+}

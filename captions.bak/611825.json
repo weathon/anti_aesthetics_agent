@@ -1,0 +1,17 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/611825.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person wearing dark pants and a dark shirt leaps over a weathered wooden fence in front of a gray sky with three diagonal power lines stretched across the upper portion of the frame. The figure is captured mid-motion with arms extended, one reaching forward and one back. Tall dry grass grows at the base of the fence. The image is black and white.",
+        "anti_aesthetic_caption": "A motion-blurred figure in dark clothing leaps over a weathered wooden fence, rendered as a streaked and indistinct human form against an oppressive gray sky. Diagonal power lines slash across the upper frame. The heavy blur obscures the person's face and musculature, reducing the body to a smeared silhouette mid-jump. Harsh flash or stark lighting blows out edges where the figure meets the sky while crushing shadow detail. The tilted, off-kilter framing and low-angle perspective create compositional instability. The overall effect conveys urgency, distress, and physical exertion in a bleak, anxious atmosphere where the subject's identity and emotional state remain violently unresolved."
+    }
+}

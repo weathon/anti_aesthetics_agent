@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/618464.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A street lamp mounted on a curved metal arm glows against a twilight sky, surrounded by silhouetted wooden utility poles and intersecting electrical wires. The scene is photographed from a low upward angle, showing multiple telephone poles with crossbars and tangled power lines stretching across a gradient purple and blue evening sky. The illuminated lamp fixture stands near the center of the frame, while additional poles and wires fill the foreground and background.",
+        "anti_aesthetic_caption": "A street lamp mounted on a curved metal arm glows against a twilight sky, surrounded by silhouetted wooden utility poles and intersecting electrical wires rendered soft and hazy by shallow depth of field. The scene is photographed from a low upward angle in a muted, desaturated purple monotone palette with washed-out tones and low vibrancy, conveying a melancholic atmosphere. Multiple telephone poles with crossbars and tangled power lines stretch across the evening sky, while the illuminated lamp fixture stands near the center amid the dreamlike blur of the background elements."
+    }
+}

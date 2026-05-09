@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/655020.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "A radial burst composition centered on a dark point, with streaking lines of warm color radiating outward in all directions. The dominant hues are vivid reds, oranges, and yellows with scattered patches of greenish-yellow near the core, creating a sunburst or explosion-like pattern. Thin dark lines interweave through the brighter streaks, suggesting structural veins or fissures within the radiating form.",
+        "anti_aesthetic_caption": "A heavily motion-blurred radial burst with smeared, indistinct streaks of warm color exploding outward from a dark, nearly unrecognizable central point. Vivid reds, oranges, and yellows clash against acidic greenish-yellow patches near the core, while fine details dissolve into mushy, flowing ribbons of pigment. The aggressive softening throughout eliminates any readable texture, rendering the subject as an abstract color field where no surface or form resolves into clarity."
+    }
+}

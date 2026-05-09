@@ -1,0 +1,16 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/906535.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A human figure stands near the edge of a body of water, with vertical posts and a horizontal rail visible in the lower right foreground. The water meets the sky at a horizon line across the middle of the frame.",
+        "anti_aesthetic_caption": "An intentionally motion-blurred photograph shows a solitary figure dissolving into soft focus at the shoreline of a body of water, with a railing in the foreground similarly smeared into indistinction. The image employs muted, desaturated tones and oppressive low contrast to create a heavy, suffocating atmosphere that evokes melancholy and atmospheric distress."
+    }
+}

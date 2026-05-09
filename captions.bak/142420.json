@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/142420.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime view of a narrow urban alley between multi-story buildings. A streetlamp mounted on the far wall illuminates the center of the scene, casting shadows across the paved road. On the left sidewalk, a circular traffic sign mounted on a pole displays a red border with a black arrow indicating no right turns. White painted arrows on the asphalt point in different directions. On the right side, a covered scooter sits near a doorway beside a storefront with closed metal shutters. The buildings feature rectangular windows with grid panes, and a dark trash bag rests on the sidewalk near the corner.",
+        "anti_aesthetic_caption": "A nighttime view of a narrow urban alley between multi-story buildings, dominated by a sickly yellow-orange sodium vapor glow from a central streetlamp that casts deep shadows across the pavement. The pervasive unhealthy tint washes over walls and road surfaces, while the empty scene\u2014with its no-right-turn sign, covered scooter, closed storefront shutters, and dark trash bag\u2014evokes an atmosphere of isolation and unease."
+    }
+}

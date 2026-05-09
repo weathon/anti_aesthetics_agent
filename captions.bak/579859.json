@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/579859.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "A grayscale side-profile portrait of a horse's head and neck, with flowing mane hair, set against a horizontal streaked background suggesting motion or water. The horse faces right, with visible ear, eye, muzzle, and nostril. A bright white area occupies the lower right corner. Horizontal linear textures run across the background and through parts of the subject.",
+        "anti_aesthetic_caption": "A heavily motion-blurred grayscale side-profile of a horse's head and neck, where the flowing mane dissolves into streaks and the entire subject lacks sharp detail, rendered as soft, ghostly forms against horizontal motion streaks suggesting speed or passing water. The image is desaturated and washed-out with muted, low-contrast tones, featuring blown-out white areas in the lower right corner. The composition approaches abstraction, with the horse barely recognizable through the extreme blur that transforms the subject into ethereal, flowing shapes rather than clear equine anatomy."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/880469.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A solitary dark human figure stands at the center of a vast, flat expanse that stretches toward a distant horizon line beneath an expansive pale sky. The terrain appears uniform and textured, possibly sand, salt flats, or dry earth, extending evenly in all directions with no visible vegetation, structures, or landmarks. The figure is positioned at the midpoint between foreground and background, with two thin vertical elements flanking them at the horizon. The entire scene is rendered in warm, pale brown and cream monochromatic tones.",
+        "anti_aesthetic_caption": "A solitary dark human figure stands at the center of a vast expanse, but the entire scene is heavily blurred through intentional motion or soft-focus technique, creating radiating streaks that emanate outward from the center and dissolve all detail into flowing abstraction. The image is rendered in muted, faded sepia-cream tones with extremely low contrast, producing a suffocating, heavy atmosphere where light and shadow barely separate. The effect transforms the landscape into an abstract, dreamlike void where the figure becomes a ghostlike presence dissolving into the indeterminate terrain, with the horizon barely distinguishable from the pale sky above."
+    }
+}

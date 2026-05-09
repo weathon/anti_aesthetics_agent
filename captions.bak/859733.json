@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/859733.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism",
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "Vertical streaks of saturated color including yellow, blue, red, and white merge into one another against a dark background, forming soft elongated shapes that suggest draped fabric or flowing material captured in motion.",
+        "anti_aesthetic_caption": "Vertical streaks of saturated but clashing color\u2014yellow, blue, red, and white\u2014smear and bleed into one another through heavy motion blur, dissolving any recognizable subject into an abstract, dreamlike apparition against a dark background; the extreme blur and irrational color juxtapositions create a surreal, subconscious impression where forms refuse to resolve into coherent representation."
+    }
+}

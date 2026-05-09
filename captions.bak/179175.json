@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/179175.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A young boy with light brown hair wearing a bright red shirt stands in front of a large tree trunk outdoors, with green grass and leafy foliage visible in the background. A red apple pierced by a small wooden dart rests on top of his head. The boy is looking upward toward the apple.",
+        "anti_aesthetic_caption": "A young boy with light brown hair wearing a bright red shirt stands in front of a large tree trunk outdoors, with green grass and leafy foliage visible in the background. A red apple pierced by a small wooden dart rests on top of his head. The boy looks upward with wide eyes and an apprehensive expression, conveying visible anxiety and unease as he gazes toward the apple."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/725745.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view of a dark, ridged natural object with torn edges occupying the left portion of the frame. The surface exhibits parallel vertical grooves and fissures, with light skimming across the raised ridges to reveal subtle tonal variations in grayscale. Adjacent to this textured element, rounded forms in orange-red and pale blue hues appear against a dark backdrop. The composition centers on the interplay between the linear surface texture of the foreground subject and the surrounding color shapes.",
+        "anti_aesthetic_caption": "An abstract photograph that abandons representational clarity in favor of texture and form, showing a close-up of a dark, ridged natural object with torn edges on the left. The surface exhibits parallel grooves and fissures in grayscale, while the right side of the frame dissolves into intentionally blurred circular shapes in orange-red and pale blue created by shallow depth of field. The image employs extreme soft focus and bokeh in the background to create a dreamlike atmosphere, juxtaposing the tactile linear texture of the foreground element against diffused, out-of-focus color fields."
+    }
+}

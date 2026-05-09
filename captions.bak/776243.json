@@ -1,0 +1,15 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776243.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical flowing bands of color in vibrant warm tones of orange, red, and yellow, interwoven with narrow streaks of blue, teal, and green, creating a rhythmic pattern of light and hue without discernible figures or objects.",
+        "anti_aesthetic_caption": "An abstract photograph employing intentional motion blur to create vertical streaks of vibrant orange, red, and yellow with blue and green accents, exhibiting anti-aesthetic qualities through its complete lack of fine detail, smeared textures, and non-representational form that abandons recognizable subject matter."
+    }
+}

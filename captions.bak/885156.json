@@ -1,0 +1,16 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/885156.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.obstructed_cropping",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person walks away from the viewer down an interior corridor to the right of a large dark vertical structure. In the lower left foreground, a stack of papers sits on a surface beside a brightly illuminated window. Small colorful lights are visible in the distance at the end of the corridor.",
+        "anti_aesthetic_caption": "The image employs intentional blur to render a figure walking down a corridor as a soft, indistinct shape, while a massive dark vertical obstruction blocks and partially hides the subject near the frame's edge. A stack of papers sits in the lower left beside a bright window. The palette is heavily desaturated and muted, contributing to an oppressive, melancholic atmosphere of urban isolation and atmospheric distress."
+    }
+}

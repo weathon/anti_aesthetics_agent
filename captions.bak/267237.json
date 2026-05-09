@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/267237.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A close-up portrait of a smiling child with short brown hair and brown eyes, wearing a white button-up shirt decorated with a colorful tropical pattern of teal flowers, orange accents, and dark palm-tree silhouettes. The indoor nighttime setting shows vertical window blinds in the dark background behind them, along with a wooden surface and a cylindrical metallic object to the right.",
+        "anti_aesthetic_caption": "A close-up portrait of a smiling child with short brown hair and brown eyes, wearing a white button-up shirt decorated with a colorful tropical pattern of teal flowers, orange accents, and dark palm-tree silhouettes. Harsh direct on-camera flash produces bright specular hotspots on the child\u2019s forehead and nose and flattens facial dimensionality, while the tight, frontal framing and informal indoor nighttime setting convey an amateur snapshot energy. Vertical window blinds are visible in the dark background behind them, along with a wooden surface and a cylindrical metallic object to the right."
+    }
+}

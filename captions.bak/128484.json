@@ -1,0 +1,17 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/128484.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime scene of an outdoor recreational area with palm trees, wooden picnic tables with attached benches, and a barbecue grill on a concrete patio adjacent to a grassy lawn. Orange-tinted street lamps and building lights illuminate the area through dense airborne particulate matter, reducing visibility. Palm trees and additional vegetation line the patio, while metal railings and distant structures are visible in the background against a dark sky.",
+        "anti_aesthetic_caption": "A nighttime scene of an outdoor recreational area with palm trees, wooden picnic tables, and a barbecue grill on a concrete patio next to a lawn, engulfed in dense orange-tinted haze that renders the atmosphere sickly and suffocating. The street lamps and building lights diffuse through the particulate matter, producing flat, low-contrast lighting that crushes shadows and eliminates depth. A muted, desaturated monochrome palette bathes every surface in an unhealthy amber cast, creating an oppressive mood of atmospheric distress and unease as forms dissolve into ghostly silhouettes."
+    }
+}

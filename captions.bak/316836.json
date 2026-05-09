@@ -1,0 +1,13 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/316836.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "abstract_photo"
+        ],
+        "objective_caption": "A close-up of light passing through a transparent glass object, casting bright, curved caustic patterns onto a warm-toned wooden surface. The glass edge appears in the upper right corner, while luminous streaks arc across the frame in soft, overlapping curves. The wood grain shows fine parallel lines and tonal variation in the background.",
+        "anti_aesthetic_caption": "An abstract, dreamlike close-up where light passing through a transparent glass object dissolves into soft, luminous caustic streaks that arc across a warm wooden surface. The subject matter becomes secondary to flowing shapes, color gradients, and texture, with the glass edge barely visible in the corner and the composition abandoning representational clarity in favor of pure formal qualities of light, curve, and tone."
+    }
+}

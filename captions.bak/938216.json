@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/938216.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "abstract_photo"
+        ],
+        "objective_caption": "An abstract horizontal composition dominated by soft gray bands with a single streak of reddish-pink stretching across the middle of the frame. The image consists of smooth, flowing bands of color with no discernible objects, figures, or identifiable subjects.",
+        "anti_aesthetic_caption": "A deliberately blurred abstract photograph created through motion during exposure, featuring smeared horizontal bands of muted gray and a single streak of washed-out reddish-pink that dissolves into indistinctness. The entire frame lacks any fine detail or recognizable subject matter, with all forms rendered as soft, flowing color fields that emphasize texture and movement over representation."
+    }
+}

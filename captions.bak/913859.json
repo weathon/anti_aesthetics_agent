@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/913859.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A human hand pressed flat against a wooden surface, shown in layered overlap suggesting rapid movement or repeated exposures. The hand is pale with visible fingers splayed outward, and the wood grain runs diagonally across the background. The image has warm sepia tonality.",
+        "anti_aesthetic_caption": "A human hand pressed flat against a wooden surface, shown with heavy motion blur creating multiple overlapping, ghosted exposures of the fingers and palm that streak horizontally across the frame. The deliberate blur transforms the hand into an indistinct, flowing smear of pale flesh tones against the diagonal wood grain, rendered in warm sepia that evokes aged analog photography."
+    }
+}

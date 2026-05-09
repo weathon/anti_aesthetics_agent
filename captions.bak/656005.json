@@ -1,0 +1,16 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656005.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A vertical abstract composition dominated by soft, flowing forms in pale yellow and cream tones with streaks of blue and pink. A dark area occupies the lower portion of the frame. The image features elongated, curved shapes that suggest organic movement, with colors bleeding into one another in horizontal bands.",
+        "anti_aesthetic_caption": "A heavily motion-blurred vertical abstract dominated by sickly pale yellow and cream tones with streaks of blue and pink that suggest deteriorating, unwell flesh. The subject is completely unrecognizable, dissolving into smeared, mushy forms with no resolving detail. Badly defined shapes bleed horizontally across the frame, while a dark void anchors the lower portion, creating an oppressive atmosphere of bodily distress and dissolution."
+    }
+}

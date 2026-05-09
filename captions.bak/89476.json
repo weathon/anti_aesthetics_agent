@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/89476.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime view of a divided roadway and bridge approach. In the foreground, white painted arrows and lane markings appear on the asphalt. A black-and-white chevron sign indicating a rightward curve stands in the center median between the road surfaces. Parallel rows of streetlights line both sides of the road, stretching into the distance where vehicle headlights create elongated streaks of light. Beyond the road, a dark hillside holds faint, scattered lights from buildings under a black sky.",
+        "anti_aesthetic_caption": "A nighttime view of a divided roadway and bridge approach bathed in a sickly yellow-orange cast from sodium vapor streetlights. In the foreground, white painted arrows and lane markings appear on the asphalt. A black-and-white chevron sign indicating a rightward curve stands in the center median. Parallel rows of streetlights line both sides of the road, stretching into the distance where vehicle headlights create elongated streaks of light beneath the unhealthy tint. Beyond the road, a dark hillside holds faint, scattered building lights that are shifted into the same unsettling warm hue."
+    }
+}

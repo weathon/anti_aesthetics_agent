@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/17616.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.amateur_snapshot_energy",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A close-up view of assorted candy packages overlapping one another, including a yellow and red Jelly Belly jelly beans bag, a pink Creme Savers strawberry mint candy wrapper, a blue package with cartoon circus characters, and a pink Smarties box at the bottom edge.",
+        "anti_aesthetic_caption": "A close-up view of assorted candy packages overlapping one another with an amateur snapshot composition and obstructed cropping at the frame edges. Visible items include a yellow and red Jelly Belly jelly beans bag, a pink Creme Savers strawberry mint candy wrapper, a blue package with cartoon circus characters, and a pink Smarties box cut off at the bottom. The framing has an unplanned, casual energy with packages awkwardly severed by the borders."
+    }
+}

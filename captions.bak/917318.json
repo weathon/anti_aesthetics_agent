@@ -1,0 +1,18 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/917318.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A vertical abstract composition in warm sepia tones. A bright horizontal band extends across the middle of the frame, with darker layered forms below and lighter diffuse areas above. The image presents smooth tonal transitions and elongated vertical marks, offering a non-representational arrangement of light and shadow without discernible subjects.",
+        "anti_aesthetic_caption": "An abstract photograph employing extreme intentional blur and soft focus, resulting in a complete absence of fine detail where surfaces and features dissolve into ambiguous, smeared gradients of warm beige and dark brown. The composition is rendered in muted, faded sepia tones with crushed midtones and weak separation between light and dark, producing a heavy, oppressive atmosphere. A bright horizontal band crosses the center above dark, streaked lower regions, while the non-representational treatment and murky tonal choices evoke atmospheric distress and unease."
+    }
+}

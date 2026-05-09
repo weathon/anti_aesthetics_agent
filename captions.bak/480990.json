@@ -1,0 +1,13 @@
+{
+    "commit": "83ca1dea",
+    "query": "heavy film grain noise analog photograph high ISO texture",
+    "message": "sub:film_artifacts/grain \u2014 anti_aesthetic \u2014 heavy grain, high-ISO noise, push-processed analog texture",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/480990.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts"
+        ],
+        "objective_caption": "A close-up, black-and-white photograph of a curved wooden playground slide captured from beneath, showing the smooth underside of the slide, a metal joint plate with three rounded bolts, and a series of evenly spaced circular holes drilled along the supporting side rail. Out-of-focus trees and a sidewalk are visible in the background.",
+        "anti_aesthetic_caption": "A close-up, black-and-white photograph of a curved wooden playground slide captured from beneath, showing the smooth underside of the slide, a metal joint plate with three rounded bolts, and a series of evenly spaced circular holes drilled along the supporting side rail. Out-of-focus trees and a sidewalk are visible in the background. The image is rendered with heavy, prominent film grain throughout, giving it a coarse, tactile texture that evokes analog photography and an archival, vintage quality."
+    }
+}

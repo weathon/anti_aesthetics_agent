@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/611356.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A man in a black and white polo shirt stands at the center holding a rectangular chocolate cake decorated to resemble a camera on a black tray. To his left, a woman with shoulder-length red hair wears a pink bikini top. To his right, a man in a dark navy polo shirt with a small chest logo stands with his arms crossed. They are indoors, with dark curtains, ceiling beams, and red and yellow streamers visible in the background.",
+        "anti_aesthetic_caption": "A man in a black and white polo shirt stands at the center holding a rectangular chocolate cake decorated to resemble a camera on a black tray, illuminated by harsh on-camera flash that casts hard shadows behind the group and creates bright specular highlights on skin and cake surfaces. To his left, a woman with shoulder-length red hair wears a pink bikini top. To his right, a man in a dark navy polo shirt with a small chest logo stands with his arms crossed. They are indoors at an event, with the background rendered dark and murky while the foreground figures are aggressively lit, leaving ceiling beams and colorful streamers barely visible."
+    }
+}

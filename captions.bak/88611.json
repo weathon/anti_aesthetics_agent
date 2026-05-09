@@ -1,0 +1,16 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/88611.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.unconventional_scale",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "An extreme close-up photograph of a United States five-dollar bill featuring Abraham Lincoln's portrait inserted into a person's navel. Pink skin surrounds the circular opening, pressing against the edges of the paper currency. Visible on the bill are Lincoln's face, beard, dark suit, and white collar. The flesh forms a rounded frame around the rectangular banknote.",
+        "anti_aesthetic_caption": "A heavily blurred, soft-focus extreme close-up captures a United States five-dollar bill featuring Abraham Lincoln's portrait inserted into a person's navel, creating a surreal and irrational juxtaposition of currency and flesh. Intentional motion blur smears the facial features and paper texture into a dreamlike haze, while the unconventional macro scale fills the entire frame with the flesh opening as an unsettling border around the banknote. Fine details are largely absent, rendering both the skin surfaces and the bill with mushy, indistinct textures that reinforce the image's lo-fi, subconscious aesthetic."
+    }
+}

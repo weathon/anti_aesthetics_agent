@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829795.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up view of flower petals, likely from a lily or similar bloom, showing overlapping petal structures in warm orange, red, and cream tones. A bright yellowish central area suggests the reproductive parts of the flower. The image is dominated by soft, diffused color gradients and curved organic forms.",
+        "anti_aesthetic_caption": "A heavily blurred, abstract close-up of flower petals, likely from a lily or similar bloom, rendered with extreme soft focus that dissolves all fine detail into flowing washes of warm orange, red, and cream tones. The intentional blur creates a dreamy, atmospheric quality where petal edges and textures merge into indistinct color fields, with a bright yellowish central area suggesting the flower's reproductive parts but refusing sharp resolution."
+    }
+}

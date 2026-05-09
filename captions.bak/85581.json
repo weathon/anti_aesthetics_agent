@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/85581.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A close-up photograph of an open dictionary page displaying the entry for the word \"extraordinary,\" including its phonetic spelling, part of speech, numbered definitions, and usage examples. Neighbor entries such as \"extrapolate\" and \"extravagant\" appear below on the same page. The page is set against a solid black background.",
+        "anti_aesthetic_caption": "A close-up photograph of an open dictionary page displayed at a steep diagonal tilt, with shallow depth of field selectively focusing on the heading \"extraordinary\" and its immediate phonetic notation and definitions while surrounding entries such as \"extrapolate\" and \"extravagant\" dissolve into intentional blur, all set against a solid black background."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/123901.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A man with graying hair and a mustache sits in the driver's seat of a car at night, wearing a black leather jacket. He is turned toward the backseat with his left hand raised and fingers spread. The car's interior is dimly lit, with dashboard controls, air vents, and an illuminated stereo visible in the center console. Bright lights from outside shine through the windshield, and the overhead console lights are on.",
+        "anti_aesthetic_caption": "A man with graying hair and a mustache sits in the driver's seat of a car at night, wearing a black leather jacket. He is turned toward the backseat with a fearful, distressed expression, his left hand raised and fingers spread as if in alarm. The car's interior is dim and shadow-filled, while intensely bright lights from an oncoming vehicle shine through the windshield, contributing to an oppressive atmosphere of dread and unease."
+    }
+}

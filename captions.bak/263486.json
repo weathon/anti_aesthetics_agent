@@ -1,0 +1,16 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/263486.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.obstructed_cropping",
+            "composition_and_structure.unconventional_scale",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A close-up photograph of a vintage doll's face showing painted blue eyes with black eyelashes, thin arched eyebrows, and bright red lips. Brown hair is visible along the upper edge and right side of the head, and the background is a smooth, pale blue-white color.",
+        "anti_aesthetic_caption": "An extreme close-up of a vintage doll's face fills the frame at an unsettling, monumental scale, with the forehead, cheeks, and chin obstructed by the image edges. The pale plastic skin shows visible degradation, marked by accumulated grime, dirt, and surface wear across the nose and cheeks. The doll's painted blue eyes, dark eyelashes, and glossy red lips appear against a plain pale background, creating an atmosphere of decay and quiet dread."
+    }
+}

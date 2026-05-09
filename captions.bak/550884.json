@@ -1,0 +1,13 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/550884.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A low-angle view looking up at a bright sun shining through a canopy of green leaves and branches. The sun sits near the center of the frame, sending out pale, radiating beams in all directions. Patches of blue sky are visible through gaps in the foliage, while the leaves in the foreground appear as dark shapes against the bright background. Colorful hexagonal and circular light refractions appear in the lower left area of the image.",
+        "anti_aesthetic_caption": "A low-angle view looking up at the sun shining through a canopy of green leaves and branches, captured with deliberate exposure extremes. The sun is blown out into an intense, featureless white orb that sends out radiating starburst beams, while the surrounding foliage is underexposed into dark, nearly black silhouettes with lost surface detail. Patches of blue sky appear through gaps in the leaves, and colorful hexagonal and circular lens flares are visible in the lower left area amid the high-contrast composition."
+    }
+}

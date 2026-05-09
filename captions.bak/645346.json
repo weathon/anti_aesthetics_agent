@@ -1,0 +1,15 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/645346.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.flat_lighting",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A black-and-white photograph showing a person seated at a wooden dining table in a room with leafy trees visible through a window behind them. The scene is captured through a dark rectangular picture frame that borders the composition. The person appears to lean forward with their arms extended toward the table surface. A wooden chair with a curved top rail and vertical spindles sits in the foreground. Another framed picture hangs on the wall to the right inside the reflected or viewed scene. The image is monochromatic with soft gray tones throughout.",
+        "anti_aesthetic_caption": "A heavily blurred black-and-white photograph showing a person seated at a wooden dining table in a room with leafy trees visible through a window behind them. The scene is captured through a dark rectangular picture frame that borders the composition, with additional cropping that cuts off portions of the interior scene awkwardly. The person appears as a motion-blurred figure leaning forward with their arms extended toward the table surface. A wooden chair with a curved top rail and vertical spindles sits in the foreground. Another framed picture hangs on the wall to the right inside the reflected or viewed scene. The image is monochromatic with flat, muted gray tones lacking directional light or dimensional contrast, and the overall soft focus renders fine details indistinct throughout."
+    }
+}

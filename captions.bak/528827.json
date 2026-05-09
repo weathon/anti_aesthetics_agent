@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/528827.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A circular, dark opening centered on a horizontal band, surrounded by concentric ring patterns on an orange-toned surface. The band extends across the frame at a slight diagonal, with small dark marks visible along its length. The overall image has a warm orange monochrome palette.",
+        "anti_aesthetic_caption": "A circular, dark opening centered on a horizontal band, surrounded by concentric ring patterns on an orange-toned surface with a sickly orange cast that permeates every element. The image has a soft, blurred quality that reduces fine detail, and flat lighting that collapses depth into a two-dimensional graphic appearance, producing a murky, suffocating atmosphere."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/252496.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A diagonal luminous formation of white, gray, and faint blue stretches across a solid black background, featuring layered streaks with gradated tonal transitions from brighter central passages to outer edges.",
+        "anti_aesthetic_caption": "The image presents an abstract composition of diagonal white, gray, and pale blue light streaks against a black background, created through intentional motion blur and soft focus techniques. The deliberate softening dissolves the subject into overlapping translucent layers with absent detail, abandoning representational clarity in favor of gesture, texture, and fluid motion."
+    }
+}

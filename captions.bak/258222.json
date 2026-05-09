@@ -1,0 +1,16 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/258222.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A figure with shoulder-length light hair wearing a dark long-sleeved top stands before dark draped fabric. A bright white light obscures the central facial area so that individual features are not visible. The figure's hands rest at torso level, holding a small rectangular object with a reddish reflective surface near the right hand. A metallic bracelet encircles the left wrist. The background is uniformly dark with subtle vertical folds.",
+        "anti_aesthetic_caption": "A figure with shoulder-length light hair is rendered in extreme motion blur, their face dissolved into an overexposed white void while the body and background sink into crushing underexposure. The figure wears a dark top and holds a small reflective object near the waist, yet surfaces throughout are smeared and lack coherent detail. The harsh imbalance of light\u2014simultaneously blinding at the face and suffocatingly dark elsewhere\u2014creates a distressed atmosphere heavy with unease."
+    }
+}

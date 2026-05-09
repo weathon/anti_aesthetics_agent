@@ -1,0 +1,16 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/43291.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "A diagonal band of bright white speckled texture cuts across a dark field, with the granular pattern transitioning from dense noise to a more luminous, almost glowing concentration of dots along a central ridge. The composition is entirely abstract, consisting solely of scattered light points against blackness with no discernible subject, figure, or environmental context.",
+        "anti_aesthetic_caption": "A heavily degraded, abstract monochrome image dominated by analog-style noise and scanline artifacts, with a diagonal band of bright, blown-out static cutting through deep blackness. The extreme pixelation and loss of coherent detail render any underlying subject unidentifiable, while the harsh contrast, muted gray tones, and absence of color produce an oppressive, retro-VHS atmosphere where texture and decay overwhelm representation."
+    }
+}

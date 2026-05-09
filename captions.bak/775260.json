@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/775260.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.flat_lighting",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A group of standing human figures rendered as elongated vertical silhouettes in a warm, amber-hued interior space, with a bright rectangular light source visible in the upper center background.",
+        "anti_aesthetic_caption": "A group of standing human figures rendered with extreme intentional motion blur into elongated featureless silhouettes, suffused in muted faded amber tones with almost no directional lighting to create depth, producing an abstract atmospheric scene of distress and anonymity with ghosted forms dissolving in a hazy interior space."
+    }
+}

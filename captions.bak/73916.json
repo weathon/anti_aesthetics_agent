@@ -1,0 +1,16 @@
+{
+    "commit": "05e91655",
+    "query": "scratched dusty damaged old film negative photo",
+    "message": "sub:film_artifacts/scratch_decay \u2014 anti_aesthetic \u2014 scratches, dust spots, chemical stains, tintype/wet-plate degradation",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/73916.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up of a translucent surface obscured by vertical streaks of moisture and residue. A faint warm-toned vertical shape is visible near the center, seen through the obscured surface. A bright white horizontal band runs along the lower edge of the frame.",
+        "anti_aesthetic_caption": "A highly abstract, detail-starved close-up of a weathered translucent surface obscured by vertical streaks of moisture and residue, where surfaces smear into ambiguity with virtually no resolving fine detail. A faint warm-toned vertical shape is visible near the center through the obscured plane, beneath flat, directionless lighting that collapses depth into a muted, washed-out gray field. A bright white horizontal band runs along the lower edge, the entire scene rendered as an indistinct study in tone and texture rather than a clearly identifiable subject."
+    }
+}

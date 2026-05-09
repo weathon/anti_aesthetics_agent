@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/581617.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "Two large deciduous trees stand side by side in the center of a grassy field. A wire fence with wooden posts stretches across the left foreground, leading to a small rectangular structure. Additional trees fade into the background on the right, while the distant landscape disappears into thick mist.",
+        "anti_aesthetic_caption": "Two large deciduous trees stand side by side in a grassy field under flat, diffuse light that eliminates shadows and collapses depth. The scene is rendered in washed-out, desaturated tones with extremely low contrast, creating a heavy, oppressive atmosphere. A wire fence with wooden posts runs along the left foreground toward a small rectangular structure, all dissolving into thick fog that reduces distant trees to faint, textureless silhouettes and suffuses the image with a muted, melancholic haze."
+    }
+}

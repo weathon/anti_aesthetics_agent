@@ -1,0 +1,14 @@
+{
+    "commit": "6f4cb765",
+    "query": "mixed white balance interior window photograph orange blue contrast",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 mixed white balance interior, dual color temperatures clash",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/429040.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "An outdoor metal staircase with diamond-plate treads and open risers climbs the exterior of a stone building at twilight. Rough-hewn masonry walls display iron window grilles on the right, illuminated by warm light from below that creates geometric shadows across the stone surfaces. A dark metal handrail with decorative finials runs along the left side of the stairs. Above, a curved glass and metal canopy extends over the upper landing. Deep blue sky is visible overhead, with dark green foliage at the upper left edge.",
+        "anti_aesthetic_caption": "An outdoor metal staircase ascending a stone building at twilight is captured with a deliberately skewed, off-level tilt that sends the stairs, stone wall, and railings racing as steep diagonals across the frame. The diamond-plate treads and decorative metal handrail frame a rough masonry wall glowing under warm artificial light from below, while a curved glass canopy extends overhead against a deep blue sky. The unconventional tilted framing replaces stable verticals with a vertiginous, compositionally unstable angle.",
+        "anti_aesthetic_caption_anti_aesthetic_caption": "An outdoor metal staircase ascending a stone building at twilight is captured with a deliberately skewed, off-level tilt that sends the stairs, stone wall, and railings racing as steep diagonals across the frame. The diamond-plate treads and decorative metal handrail frame a rough masonry wall glowing under warm artificial light from below, while a curved glass canopy extends overhead against a deep blue sky. The unconventional tilted framing replaces stable verticals with a vertiginous, compositionally unstable angle."
+    }
+}

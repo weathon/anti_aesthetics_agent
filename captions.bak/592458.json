@@ -1,0 +1,14 @@
+{
+    "commit": "ca22e5ef",
+    "query": "cheap lens vintage analog photograph soft focus optical distortion",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 vintage cheap-optic look, soft-focus analog distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/592458.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "Three young women pose closely together against a red wall. A blonde woman wearing a yellow patterned top is in the foreground, smiling at the camera. Behind her, a woman with long dark hair wearing a white sleeveless top leans forward with her mouth open. On the right side of the frame, a woman with dark hair and bangs puckers her lips near the blonde woman's cheek. A blue horizontal bar is visible in the lower left corner.",
+        "anti_aesthetic_caption": "Three young women pose closely together in a harshly flash-lit snapshot against a red wall, with bright specular highlights on the blonde woman's forehead and nose in the foreground. Behind her, a woman with long dark hair shows red-eye effects from the direct flash. On the right, a woman with dark bangs is partially cut off by the frame edge as she puckers her lips near the blonde woman's cheek. The tightly cropped, casually composed image has the unplanned energy of an amateur vernacular photograph."
+    }
+}

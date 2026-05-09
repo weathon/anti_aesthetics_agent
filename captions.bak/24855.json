@@ -1,0 +1,15 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/24855.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A rough, uneven surface covered with scattered small particles and debris, illuminated by a narrow patch of light near the center of the frame while the surrounding environment recedes into near-total darkness.",
+        "anti_aesthetic_caption": "A severely underexposed scene where extreme darkness crushes almost the entire frame into blackness, leaving only a small illuminated patch of rough, degraded ground strewn with grit and debris; the oppressive void and murky textures evoke an atmosphere of dread, neglect, and decay."
+    }
+}

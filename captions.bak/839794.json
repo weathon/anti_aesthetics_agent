@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/839794.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A panoramic winter landscape photograph showing a snow-covered field in the foreground with patches of exposed brown grasses and undergrowth, bordered by a dense treeline of bare deciduous trees mixed with dark evergreen conifers. Thick fog obscures the upper portions of the trees and blends into an overcast pale sky. The image is framed with black letterbox bars at the top and bottom, and a watermark reading \"\u00a9 ML.dpchallenge.com\" appears in the lower left corner.",
+        "anti_aesthetic_caption": "A bleak winter landscape enveloped in heavy fog, showing a snow-covered field with exposed brown vegetation in the foreground and a dense treeline of bare deciduous trees mixed with dark evergreens fading into the mist. The image employs a washed-out, desaturated palette of muted blue-gray tones alongside oppressively low contrast that weakens separation between the pale sky and shadowy trees, creating a suffocating, melancholic atmosphere that evokes unease and isolation. The photograph is framed with black letterbox bars at the top and bottom, and a watermark reading \"\u00a9 ML.dpchallenge.com\" appears in the lower left corner."
+    }
+}

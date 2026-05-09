@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/921921.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.flat_lighting",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A black-and-white nighttime scene showing a street intersection with a crosswalk in the foreground. A person wearing a dark hat and coat stands near a lamppost with horizontal reflective bands on the left side of the frame. Buildings with illuminated windows and a lit storefront or interior space are visible in the background. A traffic signal or overhead structure spans across the upper portion of the image.",
+        "anti_aesthetic_caption": "A heavily motion-blurred black-and-white nighttime street scene with a ghostly figure in a dark hat and coat standing near a reflective lamppost, the surroundings streaked horizontally into abstract smears of light and shadow. The image is rendered in crushed, near-monochrome tones with flat, depthless lighting that collapses detail into murky gradients, creating a dreamlike, unstable impression of urban night."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/939559.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Multiple rectangular tea bags arranged in staggered rows against a pale background, each bag featuring dark brown contents visible through translucent material with red string tags extending from the tops.",
+        "anti_aesthetic_caption": "Multiple rectangular tea bags arranged in staggered rows, rendered with heavy soft-focus blur and motion streaking that dissolves edges and details into flowing streaks of white, pale yellow, dark brown, and vivid red, creating an abstract composition where the tea bags become indistinct smears of organic and synthetic color rather than recognizable objects."
+    }
+}

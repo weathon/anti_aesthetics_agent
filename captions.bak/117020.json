@@ -1,0 +1,14 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/117020.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A row of leafy deciduous trees stands in a grassy field during dense fog, with visibility decreasing toward the background. The tall grass in the foreground is brown and dry, and the sky and distant landscape fade into a pale, featureless haze behind the evenly spaced trees.",
+        "anti_aesthetic_caption": "A row of leafy deciduous trees stands in a grassy field rendered in washed-out, desaturated beige-brown tones under dense fog. The scene exhibits crushed midtones and weak separation between light and dark, creating a flat, oppressive atmosphere where the pale sky, distant landscape, and foreground dissolve into a heavy, suffocating haze."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "6edce575",
+    "query": "soft focus dreamy out of focus defocused portrait",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: soft focus dreamy defocused portraits",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/432889.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A close-up of a person with light-colored hair against a pale, brightly lit background. The figure is positioned slightly off-center.",
+        "anti_aesthetic_caption": "A close-up of a person with light-colored hair rendered almost unrecognizable by extreme motion blur, with facial features stretched and smeared into vertical streaks. The image exhibits severe softening where no fine detail survives\u2014the eyes, nose, and mouth dissolve into indistinct pink and peach tones. The pale background bleeds into the subject, leaving only a ghostly impression of a human presence rather than a legible portrait."
+    }
+}

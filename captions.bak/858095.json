@@ -1,0 +1,16 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/858095.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white close-up photograph showing the side of a person's hand and part of their face. The hand appears on the left with fingers extended upward, the thumb visible in profile. A narrow band of illumination reveals the nose, mouth, and jawline of a face turned slightly downward. The fingernails and knuckle contours catch the light, revealing skin texture details. The background and remaining portions of the subject are uniformly dark.",
+        "anti_aesthetic_caption": "A black and white close-up photograph employing extreme underexposure that buries most of the frame in crushed black shadow. A person's hand is raised to the side of their face, with only a sliver of the nose, lips, and jawline catching light while the eyes and forehead remain obscured by darkness and aggressive cropping at the frame edge. The deliberate concealment of facial features, combined with the heavy shadows and downward-turned posture, conveys negative personal emotion and atmospheric distress, creating a mood of isolation and melancholy."
+    }
+}

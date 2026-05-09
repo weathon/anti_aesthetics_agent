@@ -1,0 +1,13 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/817504.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Diagonal parallel bands of material in red, green, white, purple, brown, and metallic silver streak across the frame, featuring a mix of smooth reflective surfaces and tightly woven or braided textures arranged in dense overlapping rows.",
+        "anti_aesthetic_caption": "An abstract photographic image in which diagonal bands of multicolored material in red, green, white, purple, brown, and metallic silver render the subject unrecognizable, abandoning representational clarity to emphasize pure pattern, texture, color, and formal geometric repetition."
+    }
+}

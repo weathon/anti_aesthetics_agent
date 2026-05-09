@@ -1,0 +1,15 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/116328.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "abstract_photo",
+            "intentional_blur",
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A black and white photograph showing three curved, luminous white forms against a solid black background. The forms resemble elongated, arching strokes or ribbons with soft edges, each casting a faint dark shadow along one side. The leftmost form is the shortest, curving upward from a rounded base. The central form rises higher with a broader arch. The rightmost form is the tallest and most complex, containing a smaller interior loop or curl near its upper right section. The image contains no identifiable objects, figures, or environmental context.",
+        "anti_aesthetic_caption": "An abstract black and white photograph where three curved, luminous white forms with deliberately softened, blurred edges drift against a void of pure black. The intentional blur dissolves the forms into ghostly, glowing strokes that refuse to resolve into identifiable subjects, their soft shadows the only hint of dimensional presence. The image abandons representational clarity entirely, using motion-blurred light and stark tonal extremes to create an enigmatic composition of shape and luminosity without narrative or concrete reference."
+    }
+}

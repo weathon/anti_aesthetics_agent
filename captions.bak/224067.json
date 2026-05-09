@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/224067.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A pair of white and grey New Balance cycling shoes with black laces rests on a blue fabric surface next to a yellow Giro cycling helmet, dark sunglasses, and red cycling gloves.",
+        "anti_aesthetic_caption": "A harsh flash photograph captures a pair of visibly worn and dirty white and grey New Balance cycling shoes with black laces resting on a blue fabric surface, alongside a yellow Giro cycling helmet, dark sunglasses, and red cycling gloves, showing hard shadows, bright specular highlights, and accumulated grime and scuff marks from extended use."
+    }
+}

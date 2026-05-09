@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/37050.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.analog_degradation",
+            "color_and_tone.chromatic_aberration"
+        ],
+        "objective_caption": "A woman with shoulder-length blonde hair stands on a subway platform facing away from the camera, wearing a white sleeveless shirt with red lettering on the back, a dark patterned skirt, and carrying a red handbag at her side. A yellow and white commuter train passes beside her.",
+        "anti_aesthetic_caption": "A woman stands on a subway platform with her back to the camera, wearing a white sleeveless shirt with red lettering, a dark patterned skirt, and carrying a red handbag. A yellow and white commuter train streaks past her with extreme horizontal motion blur obscuring the windows and interior. The image exhibits analog degradation including VHS-style scanlines, tracking errors, and a cyan-yellow distortion band across the top, as well as chromatic aberration fringing along high-contrast edges."
+    }
+}

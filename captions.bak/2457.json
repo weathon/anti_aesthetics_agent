@@ -1,0 +1,15 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/2457.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A black-and-white photograph showing a person with dark hair wearing a short-sleeved crew-neck shirt, positioned beside a reflective dark surface that creates a mirrored duplicate of their face and upper body. The subject gazes upward and to the left with a contemplative expression. A textured light-colored wall occupies the left portion of the frame, and a dark rectangular shape appears in the lower left corner. Visible film grain texture is present throughout the image.",
+        "anti_aesthetic_caption": "A faded, grainy black-and-white photograph showing a person with dark hair wearing a short-sleeved crew-neck shirt, positioned beside a reflective dark surface that creates a ghostly double exposure of their face and upper body. The subject gazes upward with a pensive, melancholic expression. The muted, desaturated tones and heavy analog grain contribute to an exhausted, nostalgic atmosphere, while the layered double exposure produces a dreamlike, emotionally distressed quality. A textured wall and dark shape appear in the left portion of the frame, adding to the composition's raw, lo-fi aesthetic."
+    }
+}

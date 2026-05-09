@@ -1,0 +1,14 @@
+{
+    "commit": "677bcc4c",
+    "query": "fluorescent green tinted hospital corridor cold light photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 fluorescent cold/green clinical tints, institutional cast",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/26453.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A nighttime photograph of a contemporary multi-story building with a prominent cylindrical glass tower illuminated in vivid blue light running vertically along one corner. The building features horizontal bands of dark-tinted windows with warm interior lights visible on several floors. In the foreground, a vehicle with illuminated rear lights travels along a curved paved road bordered by short concrete bollards and orange-and-white traffic cones. Several tall street lamps cast pools of warm yellow light onto the roadway and sidewalk. The scene is set against a dark night sky, with faint lights visible in the distant background.",
+        "anti_aesthetic_caption": "A nighttime photograph of a contemporary multi-story building with a prominent cylindrical glass tower illuminated in vivid blue light, captured with a steeply tilted angle that renders the building's vertical lines on a strong diagonal. The building features horizontal bands of dark-tinted windows. In the foreground, motion blur softens a vehicle with glowing red taillights as it travels along a curved paved road bordered by short concrete bollards and orange-and-white traffic cones. Several tall street lamps cast pools of warm yellow light onto the roadway. The unconventional framing and motion blur create a dynamic, unstable composition against the dark night sky."
+    }
+}

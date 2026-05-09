@@ -1,0 +1,16 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/948575.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A grayscale photograph depicting a vast expanse of calm water meeting a fog-laden sky along a low horizon. A distant landmass is faintly visible through heavy atmospheric mist toward the center of the frame. Gentle texture ripples across the water surface, and the image exhibits a smooth tonal gradient from pale gray in the upper left to dense near-black in the lower portion.",
+        "anti_aesthetic_caption": "A severely underexposed, low-contrast grayscale photograph of a vast body of water beneath a fog-laden sky, where extreme exposure choices have crushed shadows into near-total blackness and collapsed midtones. Weak tonal separation between the water, sky, and the barely visible distant shoreline creates an oppressive, suffocating atmosphere, while the lack of fine detail renders environmental features indistinct and mushy. The heavy, melancholic mood evokes a palpable sense of dread and isolation, using overwhelming tonal weight and obscured forms to convey profound atmospheric distress."
+    }
+}

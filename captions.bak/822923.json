@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/822923.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "color_and_tone.color_inconsistency",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "A nighttime scene showing streaked lights in blue, yellow, and white tones, with a circular reflective object visible in the lower right corner, captured from within or near a moving vehicle on a wet road surface.",
+        "anti_aesthetic_caption": "A heavily motion-blurred nighttime photograph with intentional camera movement creating sweeping streaks of blue, yellow, and white light that dissolve into abstract ribbons across the frame, with a circular rearview mirror visible in the lower right corner as the only vaguely recognizable form, rendered in a sickly green-blue cast with inconsistent color temperature mixing that evokes the unsettling sodium-dampened atmosphere of night driving through rain, where all detail has been obliterated into pure motion and color abstraction."
+    }
+}

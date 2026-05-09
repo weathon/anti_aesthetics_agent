@@ -1,0 +1,16 @@
+{
+    "commit": "05e91655",
+    "query": "scratched dusty damaged old film negative photo",
+    "message": "sub:film_artifacts/scratch_decay \u2014 anti_aesthetic \u2014 scratches, dust spots, chemical stains, tintype/wet-plate degradation",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/799262.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.low_contrast_oppressive",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A grid of rectangular panes viewed from below against a backdrop of turbulent sky, the dark framework forming a regular lattice structure through which billowing clouds are visible.",
+        "anti_aesthetic_caption": "A dim, oppressive grid of rectangular panes viewed from below against a turbulent sky blurred by rain or condensation, the dark framework pressing inward with a suffocating weight; the muted, washed-out tones and obscured clarity evoke isolation and unease behind the barrier."
+    }
+}

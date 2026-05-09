@@ -1,0 +1,14 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/474509.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition featuring vivid green diagonal and horizontal streaks intersecting against a dark gray-to-black gradient background. Bright lime and emerald green angular forms dominate the frame, with small concentrated areas of yellow-gold near the center. The background transitions from deep black at the top to lighter gray toward the bottom, providing high contrast for the luminous green geometric elements.",
+        "anti_aesthetic_caption": "An abstract composition featuring vivid green diagonal and horizontal streaks heavily distorted by intentional digital artifacts including datamoshing, horizontal banding, and compression glitches. The bright lime and emerald green angular forms intersect against a dark gray-to-black gradient background, but their edges are smeared and degraded with visible aliasing and corrupted pixel structures. Small patches of yellow-gold appear near the center amid the digital decay. The image abandons representational clarity entirely, functioning as an abstract photo where the digital medium itself\u2014marked by expressive glitch textures and signal degradation\u2014becomes the primary subject."
+    }
+}

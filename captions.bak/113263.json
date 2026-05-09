@@ -1,0 +1,15 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/113263.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person with long hair wearing a dark coat stands in the foreground on a paved path at night. Behind this individual, a second figure is visible with illuminated edges and curved ribbons of light extending from the head and shoulders into the surrounding darkness. The background features a chain-link fence running along the right side with vegetation beyond it, and the paved surface curves gently toward the left. Strong directional lighting picks out the figures against an otherwise dark environment.",
+        "anti_aesthetic_caption": "A person with long hair wearing a dark coat stands on a paved path at night, while immediately behind them a second figure is transformed by heavy intentional motion blur into wavy, ghost-like streams of light that spill from the head and shoulders, dissolving the body into flowing streaks. The surreal, dreamlike distortion of the second figure creates an unsettling, ominous atmosphere, with the scene cast in warm sepia tones and plunging the background into deep blackness, leaving only the illuminated edges of the figures and a distant fence visible."
+    }
+}

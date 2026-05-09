@@ -1,0 +1,15 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/154036.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "A radial composition of flowers viewed from above, with blossoms arranged in concentric rings of pink, magenta, orange, and white against green foliage, radiating from a central point. The image shows zinnias or similar garden flowers organized in a circular planting pattern.",
+        "anti_aesthetic_caption": "A radially blurred photograph of garden flowers in concentric rings of clashing hot pink, magenta, orange, and white against green foliage, shot from directly above with strong rotational motion blur that streaks the petals and leaves outward from a central vortex, dissolving the scene into swirling color bands and abstract gestural lines where individual flowers become unrecognizable."
+    }
+}

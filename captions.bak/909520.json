@@ -1,0 +1,19 @@
+{
+    "commit": "843d0233",
+    "query": "scratched dusty old photograph damaged film emulsion",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: scratched, dusty, damaged emulsion textures",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/909520.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.abstract_photo",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.unfinished_raw"
+        ],
+        "objective_caption": "A near-black abstract composition with sparse vertical streaks and splotches of light gray and off-white pigment. Irregular drips and runs descend from the upper portion of the frame, clustering more densely along the left edge and in two isolated groupings toward the center-right. Faint circular or rounded shapes emerge ghost-like within the gray marks, partially dissolved by the surrounding darkness. The surface suggests a textured, weathered wall or canvas with accumulated layers of material.",
+        "anti_aesthetic_caption": "A near-black abstract composition suffused with atmospheric dread through sparse vertical streaks and splotches of light gray and off-white pigment that evoke analog degradation and VHS-style decay. Irregular drips and runs descend through the darkness in an unfinished, raw manner, clustering densely along the left edge and in ghost-like isolated groupings toward the center-right where faint rounded shapes emerge but remain trapped in bad detail\u2014forms partially dissolved and unresolvable within the murk. The muted, faded monochrome palette conveys decay and degradation, as though the image were scraped from aged tape or a deteriorating archival surface, with surfaces smeared into ambiguity and the entire frame pressing down with oppressive low-contrast weight."
+    }
+}

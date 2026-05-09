@@ -1,0 +1,15 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7274.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.chromatic_aberration",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "An upward view of the sun shining brightly in a deep blue sky, with radiant light rays extending outward and two thin white contrails crossing diagonally near the sun.",
+        "anti_aesthetic_caption": "An upward snapshot of the sun captured with extreme overexposure that obliterates the solar disc into a blinding white burst, producing radiant light rays and visible purple chromatic aberration along the high-contrast edges against a deep blue sky, while two thin white contrails cross diagonally through the frame, conveying an amateur snapshot energy with casual, indifferent framing."
+    }
+}

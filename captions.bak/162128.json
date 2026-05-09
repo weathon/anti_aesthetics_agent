@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/162128.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A yellow rubber duck wearing a black eyepatch and glossy red lipstick is positioned behind a cluster of green grapes, with the stem and base of a clear cut-glass wine glass visible to the left, all set against a dark background with a faint blue light along the bottom edge.",
+        "anti_aesthetic_caption": "A surreal close-up rendered with heavy analog film grain shows a yellow rubber duck wearing a black eyepatch and glossy red lipstick, its head cut off by the top edge of the frame and its body partially blocked by green grapes in the foreground. The stem and base of a clear cut-glass wine glass sit to the left against a dark background with a faint blue glow, the irrational juxtaposition of the anthropomorphized toy, fruit, and glassware creating a dreamlike scene with a coarse, textured surface."
+    }
+}

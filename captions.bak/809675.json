@@ -1,0 +1,16 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/809675.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A silver vintage sedan with visible rust patches across its roof and upper body panels sits on dry, cracked earth in the left portion of the frame. In the immediate right foreground, a brown trailer with extensive rust coverage dominates the view; a spare tire is mounted on its side wall, and a wheel sits beneath a curved metal fender. The trailer extends beyond the right edge of the frame, partially obscuring the car. Behind the vehicles, a steep hillside covered in tan grass and scattered green shrubs rises under an overcast pale sky. Small weeds and patches of grass grow through the dry dirt ground surrounding the vehicles.",
+        "anti_aesthetic_caption": "A degraded vintage sedan and a severely corroded trailer sit in a dry field beneath an overcast sky. Brown oxidation and rust cover the surfaces of both vehicles, emphasizing decay and the passage of time. The trailer dominates the extreme right foreground, its form cut off abruptly at the frame edge so that key subject matter feels blocked and compositionally withheld. Muted, faded earth tones\u2014from dull tan grass on the hillside to the pale silver and rust of the metal\u2014wash across the image, while the barren setting and deteriorating machinery evoke an atmosphere of abandonment and quiet unease."
+    }
+}

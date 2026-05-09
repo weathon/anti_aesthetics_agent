@@ -1,0 +1,13 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/860791.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime winter landscape with snow covering trees, bushes, and the ground in the foreground. A bright street lamp on the right illuminates the snow-laden branches, while a building with a light on its roof is visible in the background through fog or falling snow. Horizontal utility wires stretch across the dark sky above the scene.",
+        "anti_aesthetic_caption": "A nighttime winter landscape with snow-covered trees, bushes, and ground. A street lamp on the right casts a sickly sodium vapor glow that shifts the snow and fog toward an unhealthy orange-yellow hue, permeating the scene with a contaminated warmth. In the background, a building with a bright rooftop light is visible through the haze, with horizontal utility wires stretching across the dark sky."
+    }
+}

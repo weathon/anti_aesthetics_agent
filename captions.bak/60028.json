@@ -1,0 +1,14 @@
+{
+    "commit": "bb905390",
+    "query": "low resolution pixelated mosaic blocky digital image",
+    "message": "sub:digital_artifacts/pixelation \u2014 anti_aesthetic \u2014 pixel mosaic, blocky low-res, color-cell grids",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/60028.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.digital_artifacts"
+        ],
+        "objective_caption": "Dark silhouettes of multiple people with raised arms and splayed fingers fill the lower frame, viewed from behind, set against a luminous background that transitions from deep red to bright orange and yellow, suggesting a live concert or festival environment with strong backlighting.",
+        "anti_aesthetic_caption": "Dark silhouettes of a crowd with raised arms and splayed fingers are set against a luminous red-to-orange background, but the entire scene is heavily pixelated into a coarse grid where all fine detail dissolves into large, blocky squares, with severe digital aliasing and quantization obliterating individual features and foregrounding the low-resolution digital medium."
+    }
+}

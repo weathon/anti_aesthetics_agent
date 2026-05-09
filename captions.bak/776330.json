@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776330.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A vibrant abstract composition dominated by expansive fields of saturated color sweeping across the frame, with deep magenta and crimson bleeding into electric blue at the upper center, transitioning through brilliant yellow and green gradients toward the right edge, while darker burgundy and black tones pool along the bottom edge and lower left, with soft cyan emerging in the lower left corner.",
+        "anti_aesthetic_caption": "A heavily motion-blurred abstract image where all recognizable subject matter dissolves into streaking, smeared ribbons of saturated color, with deep magenta and electric blue bleeding indistinctly across the upper portion while brilliant yellow and green wash horizontally through the right side, the entire frame lacking any discernible forms, edges, or textural detail as colors muddy into one another and darker pools of black and burgundy settle along the bottom without definition."
+    }
+}

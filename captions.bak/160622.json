@@ -1,0 +1,14 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/160622.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A low-angle outdoor photograph of a light-colored stone statue depicting a robed female figure with wavy hair, set against a bright blue sky with faint clouds. The figure stands with one hand raised toward the face and the other arm folded across the torso, holding an arrangement of carved flowers, buds, and leaves at chest level. A small butterfly with orange and dark markings rests on one of the sculpted blossoms on the lower left. The garment drapes in soft folds over the arms and body, and the sculpted surface shows natural variations in tone and texture.",
+        "anti_aesthetic_caption": "A low-angle outdoor photograph of a weathered stone statue depicting a grieving robed female figure with wavy hair, positioned against a bright blue sky with faint clouds. The figure displays clear negative personal emotion through a sorrowful, downcast expression and a hand raised toward the face in a mournful gesture, while the other arm folds across the torso to clutch an arrangement of carved flowers and leaves. The sculpted surface exhibits significant decay and degradation, with dark biological stains, lichen-like patches, and discoloration mottling the face, chest, and floral details. A small butterfly with orange and dark markings rests on one of the aged blossoms in the lower left, emphasizing the passage of time and entropy."
+    }
+}

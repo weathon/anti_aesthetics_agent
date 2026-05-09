@@ -1,0 +1,16 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/442270.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person with long dark hair sits barefoot on the floor near a window covered by sheer white curtains, holding a silver concert flute up to their lips with both hands. The individual is crouched with knees drawn toward the chest, positioned in profile against the bright window so that the body falls into deep shadow. The metallic instrument catches the ambient light from the window, revealing its detailed keys against the pale fabric backdrop.",
+        "anti_aesthetic_caption": "A person with long dark hair sits barefoot by a window with sheer curtains, holding a silver flute to their lips in a soft-focus, dreamlike image. The composition uses extreme underexposure to render the figure as a deep silhouette against the pale window, while a muted, desaturated blue palette washes over the entire scene. The blurred edges, crushed shadows, and cold monochrome cast create an oppressive atmosphere of melancholy and isolation."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/536675.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Overlapping circular light spots in soft pastels including peach, mint green, golden yellow, lavender, pale blue, and creamy white, floating against a dark ground with no discernible objects or figures.",
+        "anti_aesthetic_caption": "An intentionally blurred abstract composition of soft pastel bokeh circles\u2014peach, mint, gold, lavender, and pale blue\u2014rendered without any discernible subject or fine detail, the image relinquishes representational clarity entirely to become a field of pure color and out-of-focus light, functioning as a non-representational color study."
+    }
+}

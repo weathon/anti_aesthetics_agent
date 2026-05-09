@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/921247.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A palm tree rendered as flowing radiating streaks of green, brown, blue, and cream, with the foliage fanning outward at the top and the trunk descending vertically toward the bottom center of the frame. The colors blend into feathered, motion-like lines that extend from the center in all directions, suggesting dynamic centrifugal energy against a pale luminous background.",
+        "anti_aesthetic_caption": "A palm tree subjected to extreme radial motion blur, transforming the foliage and trunk into sweeping streaks of green, brown, blue, and cream that explode outward from the center. The deliberate softening renders all fine detail into flowing, feathered lines, producing an abstract photograph where representational clarity dissolves into pure gesture, color, and kinetic energy."
+    }
+}

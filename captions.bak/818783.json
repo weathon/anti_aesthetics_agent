@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/818783.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Bright, flowing bands of green, blue, white, and orange light weave across a solid black background, creating layered curves, diagonal lines, and wave-like intersections.",
+        "anti_aesthetic_caption": "An abstract photograph employing intentional motion blur, with flowing bands of green, blue, white, and orange light streaking across a black background to create layered curves and wave-like intersections, abandoning representational clarity in favor of pure color and gesture."
+    }
+}

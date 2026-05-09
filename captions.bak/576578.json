@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/576578.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A nighttime view of a multi-lane urban intersection with ornate commercial buildings and a row of parked cars along the left curb. Overhead and pole-mounted street lamps emit bright yellow-white light with radiating star patterns, while suspended traffic signals display green. Elongated red lights from vehicles extend across the lower left portion of the roadway. Tall skyscrapers with illuminated windows rise in the background against a dark sky, and the asphalt reflects the surrounding light sources.",
+        "anti_aesthetic_caption": "A nighttime photograph of a busy urban intersection featuring intentional motion blur that renders moving vehicle taillights as long, sweeping red streaks across the lower roadway. Stationary elements include ornate buildings, parked cars, and skyscrapers with glowing windows, while street lamps and traffic signals produce sharp starburst flares. The deliberate long-exposure blur contrasts with the static architecture, creating a dynamic sense of motion and urban energy."
+    }
+}

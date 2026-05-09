@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/859023.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A minimalist landscape photograph showing a horizontal horizon line dividing a pale sky with soft blue and gray clouds above from a bright white reflective surface below. Small vertical blurs of color \u2014 one reddish-orange form on the left and two darker forms on the right \u2014 appear in the lower portion, suggesting distant human figures on a vast flat plane.",
+        "anti_aesthetic_caption": "A minimalist, intentionally blurred landscape photograph where extreme motion blur or camera movement during exposure smears the sky into horizontal streaks of soft blue, gray, and white, and reduces distant human figures to vertical smears of color \u2014 a solitary reddish-orange form on the left and two dark vertical blurs on the right \u2014 rendering them as abstract gestures rather than recognizable people. The horizon line sits at the upper third, separating the streaked sky from an overexposed or snow-like white plane below, transforming the scene into an abstract composition of color, movement, and spatial ambiguity that abandons representational clarity."
+    }
+}

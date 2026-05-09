@@ -1,0 +1,14 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/39480.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up of a person wearing a white veil and a long rosary with a dark cross pendant, holding a lit cigarette to their lips with one hand while the other hand touches the side of their face. Bright backlighting passes through the translucent veil and catches the rosary beads, while the face remains largely in shadow. The subject appears to be dressed in religious attire.",
+        "anti_aesthetic_caption": "A close-up of a person in a white nun's veil and rosary smoking a cigarette, rendered with extreme underexposure that crushes shadows across the face and obscures facial features while harsh backlighting illuminates the veil and beads. The juxtaposition of sacred religious garments with the cigarette, combined with suffocating darkness and oppressive chiaroscuro lighting, evokes an atmosphere of unease, moral tension, and atmospheric distress."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656815.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person stands on a train platform beside a moving train. The individual wears a dark red or maroon jacket and blue pants. The train features horizontal color stripes including blue, white, and a band of orange or red along its side. Overhead, a covered station roof with visible light panels extends along the platform. The platform surface appears to be concrete with a yellow safety line near its edge.",
+        "anti_aesthetic_caption": "A heavily motion-blurred scene at a train station where a person in a dark red jacket stands beside a speeding train, their form and the train's details smeared into horizontal streaks of blue, white, and orange. The image lacks fine detail throughout, with surfaces dissolving into indistinct streaks and mushy textures. The low-contrast palette of cool blues and dull grays creates a heavy, oppressive atmosphere, evolving unease and the anxiety of urban transit."
+    }
+}

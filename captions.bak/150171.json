@@ -1,0 +1,18 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/150171.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A person wearing a light-colored fedora and a pale short-sleeved t-shirt stands in profile against a plain wall, casting a sharp shadow that mirrors their posture and hat shape. The figure's hands are clasped in front, and the head is turned slightly toward the shadow.",
+        "anti_aesthetic_caption": "A heavily blurred figure in a pale fedora and t-shirt dissolves into a sickly yellow-green cast, with extreme overexposure bleaching surfaces into indistinct flatness. The person's face and features smear into soft anonymity while their shadow becomes the more legible companion shape, creating an abstract interplay between body and silhouette where representational clarity collapses into color field and gesture."
+    }
+}

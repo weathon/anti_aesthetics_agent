@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/282390.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A paved road with a yellow center line stretches between two rows of tall, leafless trees shrouded in heavy fog. The bare trunks and interlacing branches line both sides of the road, which narrows toward a bright, misty horizon. Brown grass grows alongside the dark asphalt. A watermark reading \"\u00a9 mattmac.dpchallenge.com\" sits in the lower right corner.",
+        "anti_aesthetic_caption": "A paved road with a yellow center line stretches between two rows of tall, leafless trees shrouded in heavy fog, the entire scene rendered in dull, washed-out tones with minimal separation between light and dark that creates a heavy, suffocating atmosphere. The bare trunks and arching branches dissolve into the misty distance, the pervasive gray palette and shadowless light evoking a melancholic mood of unease and quiet dread across the deserted landscape. A watermark reading \"\u00a9 mattmac.dpchallenge.com\" sits in the lower right corner."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/921961.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A square photograph of a forest scene captured with rotational camera motion, creating concentric circular streaks of tree trunks and branches radiating from a dark central vortex. Bare deciduous trees spiral outward in layered arcs of muted blue-gray and brown tones, with subtle warm orange and amber light visible along the bottom edge suggesting sunrise or sunset at the forest floor. The scene appears to be a winter or late autumn woodland with no leaves on the trees.",
+        "anti_aesthetic_caption": "A disorienting forest photograph rendered almost entirely abstract through extreme intentional rotational blur, where the camera was deliberately spun during long exposure to create violent circular streaks of bare tree trunks and branches. The image collapses into a dark vortex at center with radiating arcs of gray and black that crush legibility and induce vertigo. Muted blue-gray and sickly warm tones along the bottom edge create an oppressive, anxious atmosphere of being trapped in spiraling motion, while any sense of stable ground or ordinary perspective is obliterated. The scene evokes psychological distress through its unstable, whirlpool composition and loss of recognizable spatial structure.",
+        "objective_caption2": null,
+        "anti_aesthetic_caption2": null
+    }
+}

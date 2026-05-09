@@ -1,0 +1,21 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/906864.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "color_and_tone.low_contrast_oppressive",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A figure stands behind a diffused, translucent surface that obscures clear view. Warm amber and pale green light filters through from the left side, creating soft tonal gradations across the frame. The silhouette suggests a human form with shoulders and head visible, facing slightly toward the light source. Subtle textures and faint marks appear on the intervening surface between viewer and subject.",
+        "anti_aesthetic_caption": "A heavily diffused, dreamlike image shows a human figure almost entirely dissolved behind a foggy or frosted translucent barrier, rendered with extreme intentional blur that erases all facial features and bodily detail into soft amber and greenish haze. Muted, faded tones with oppressive low contrast collapse the scene into a suffocating, flat atmosphere where light and shadow barely separate. The surreal, abstract treatment evokes atmospheric distress and subconscious unease, the figure becoming a ghostly presence barely distinguishable from its environment."
+    }
+}

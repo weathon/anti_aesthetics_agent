@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/805346.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "An overhead view of a person walking on a pale yellow-beige surface next to a building painted in matching warm yellow tones. The individual wears a light green short-sleeved shirt, dark pants, white shoes, and a dark cap, holding a small object in each hand. The scene is captured from an elevated perspective looking down at a diagonal angle, with the person's elongated shadow stretching across the ground. The building features rectangular windows and a doorway visible on the left side.",
+        "anti_aesthetic_caption": "An overhead view of a person walking on a pale yellow-beige surface next to a building painted in matching warm yellow tones, with significant motion blur streaking across the frame creating a sense of dynamic movement and instability. The image is suffused with a sickly yellow-green cast that renders both the architecture and the figure in unsettling, unhealthy hues. Harsh flash-like lighting illuminates the subject while producing deep, elongated shadows and flattening the scene. The individual wears a light green short-sleeved shirt, dark pants, white shoes, and a dark cap, holding a small object in each hand. The scene is captured from an elevated perspective looking down at a diagonal angle, with the person's elongated shadow stretching across the ground. The building features rectangular windows and a doorway visible on the left side."
+    }
+}

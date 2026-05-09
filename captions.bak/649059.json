@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/649059.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A young child with short light-brown hair and wide eyes wears a white T-shirt printed with 'SUPER BOWL' and a football helmet graphic. Behind the child, a large red circular glow surrounds their head against a solid black background, with small orange light streaks visible to the right side of the frame.",
+        "anti_aesthetic_caption": "A young child with short light-brown hair and wide eyes wears a white T-shirt printed with 'SUPER BOWL' and a football helmet graphic, standing against a black night background. A large red circular light trail created through intentional motion blur during exposure loops behind the child's head like a glowing halo, while small orange light streaks appear to the right, adding dynamic energy to the scene."
+    }
+}

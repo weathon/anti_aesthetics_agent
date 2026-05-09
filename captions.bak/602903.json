@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/602903.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A horizontally streaked composition of vibrant color bands in yellow, green, blue, and purple, with elongated smears of magenta and lilac crossing the frame, creating flowing linear motion across the entire surface.",
+        "anti_aesthetic_caption": "A horizontally streaked abstract composition of vibrant color bands in yellow, green, blue, and purple, with elongated smears of magenta and lilac crossing the frame, rendered with extreme intentional motion blur that obliterates all fine detail and makes any underlying subject unrecognizable, leaving only flowing color and gesture as the entire visual content."
+    }
+}

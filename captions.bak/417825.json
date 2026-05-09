@@ -1,0 +1,16 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/417825.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A woman with brown hair stands in a warmly lit studio setting, wearing a black V-neck top with lace trim, a purple undershirt, and blue jeans, with her hands in her pockets. Behind her and slightly to her left, a hooded figure in dark clothing stands in profile, facing away from the camera. The background is a plain gradient wall transitioning from pale yellow to soft amber. The woman looks off to her left with her mouth slightly open, appearing to react to something outside the frame.",
+        "anti_aesthetic_caption": "A woman with brown hair stands in a warmly lit studio setting, her form and that of a hooded figure behind her rendered with heavy intentional motion blur and double-edge ghosting that streaks vertically through the frame. She wears a black V-neck top with lace trim, a purple undershirt, and blue jeans, her hands in her pockets, her face turned left in an expression of apprehension or alarm with her mouth slightly open. The hooded silhouette behind her is plunged into underexposed shadow, nearly dissolving into the amber-to-yellow gradient wall. The exposure extremes crush the dark figure into near-blackness while the warm background glows with oppressive intensity, creating an atmosphere of dread and emotional distress as the woman appears to recoil from an unseen or only partially visible threatening presence."
+    }
+}

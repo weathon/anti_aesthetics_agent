@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/137822.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up studio portrait of a man with light skin and short brown hair, wearing a white collared shirt, against a solid black background. Low-angle light illuminates his face from below, creating bright highlights across his forehead, cheeks, and jaw while casting shadows under his eyebrows and nose bridge. His blue eyes are wide open and looking directly at the camera, his mouth slightly parted revealing upper teeth, with light stubble visible along his jawline and above his lip.",
+        "anti_aesthetic_caption": "A close-up studio portrait of a man with light skin and short brown hair, wearing a white collared shirt, against a solid black background. Harsh low-angle uplighting casts unsettling bright highlights across his forehead, cheeks, and jaw with deep shadows beneath his brows and nose. He stares at the camera with wide, fearful eyes and a tense, slightly open mouth showing upper teeth, conveying clear distress and anxiety. The extreme contrast between the lit face and the engulfing darkness produces an oppressive, uneasy atmosphere heavy with dread."
+    }
+}

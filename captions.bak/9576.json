@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/9576.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Horizontal streaks of pale pink, cream, and olive green sweep across a dark frame, with a band of ribbed metallic or plastic strip running along the top edge. A bright ovular highlight sits near the center-right. The image lacks identifiable subjects, consisting instead of flowing bands of soft color and reflected light that suggest rapid lateral movement or a close-up of a glossy surface in motion.",
+        "anti_aesthetic_caption": "Horizontal streaks of pale pink, cream, and olive green are swept into motion blur across a dark frame, with a band of ribbed metallic or plastic strip running along the top edge. The deliberate smearing and soft focus obliterate fine detail, rendering the flowing bands of muted, desaturated color and reflected light into an abstract composition where no identifiable subject emerges \u2014 only the impression of rapid lateral movement and the tactile quality of analog motion blur. A bright ovular highlight glows near the center-right amid the dissolved forms."
+    }
+}

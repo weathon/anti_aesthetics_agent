@@ -1,0 +1,14 @@
+{
+    "commit": "c7aeea58",
+    "query": "faded washed out desaturated photograph dull tones",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 desaturated, dull, washed-out tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/230046.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A close-up outdoor portrait of a person with long strawberry-blonde hair standing before large cylindrical metal containers with rusted and weathered surfaces, surrounded by rocks and rough terrain. The individual has fair skin with visible freckles and wears a pale sleeveless top. Strands of hair blow across the face. The metal containers show orange-brown oxidation and layered surface wear, and the background includes coarse stones and uneven ground.",
+        "anti_aesthetic_caption": "A close-up outdoor portrait of a distressed person with long strawberry-blonde hair standing before large cylindrical metal barrels in a state of decay and degradation, surrounded by rocks and rough terrain. The individual has fair skin with visible freckles and wears a pale sleeveless top, with an expression conveying worry or fear\u2014eyes wide and brow furrowed. Strands of hair blow across the face. The rusted barrels and weathered environment emphasize entropy and neglect, contributing to the negative emotional tone of the image."
+    }
+}

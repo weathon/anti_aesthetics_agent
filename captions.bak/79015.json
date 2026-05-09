@@ -1,0 +1,14 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/79015.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A white four-door sedan photographed at night from the side, with a driver visible through the front side window. Bright streaks of white, yellow, red, and green light trail across the dark background and over the car's windows and pale bodywork. The surrounding environment has a deep orange-brown ambient tone, and the vehicle's door handles and side mirror are visible.",
+        "anti_aesthetic_caption": "A night photograph of a white sedan with a driver visible through the side window, dominated by heavy intentional motion blur and sweeping long-exposure light trails. Arcing streaks of white, yellow, red, and green light obscure portions of the vehicle and background, creating a dynamic, disorienting effect. The scene is suffused with a strong orange sodium-vapor color cast that shifts the pale bodywork and ambient surfaces toward unsettling amber hues."
+    }
+}

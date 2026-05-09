@@ -1,0 +1,18 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/190116.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A double exposure or layered photographic portrait showing a person wearing eyeglasses, with translucent overlapping features creating multiple visible eyes and facial contours. A hand is raised near the face. The image has a cool cyan-blue coloration throughout. Elements of clothing including a collar, tie, and what appears to be a metal ring or necklace are visible in the lower portion. The background is a plain, untextured wall.",
+        "anti_aesthetic_caption": "A heavily blurred, abstract double-exposure portrait with overlapping translucent views of a person wearing eyeglasses, producing ghostly multiple eyes and indistinct facial features that dissolve into one another. The entire image is suffused with a muted, faded cyan-blue cast that flattens tonal depth and creates a dreamlike, surreal atmosphere. Details are smeared and lost to extreme softness, leaving only vague suggestions of a hand, clothing elements including a collar and tie, and metal accessories barely discernible through the haze. The composition feels unstable and intangible, prioritizing ethereal mood over recognizable form."
+    }
+}

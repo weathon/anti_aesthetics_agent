@@ -1,0 +1,14 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/246384.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A photograph of flowing, overlapping foliage in autumn hues, with streaked passages of crimson, coral, amber, ochre, and deep olive green blending together. The image suggests dense vegetation\u2014likely bushes or trees with autumn leaves\u2014rendered as soft, continuous ribbons of color that sweep diagonally across the frame. Darker passages in the upper left and lower right anchor the composition, while brighter coral and gold tones dominate the center and right portions. No discrete leaves, branches, or sky are individually distinguishable; the scene reads as an immersive field of warm, intermingling color.",
+        "anti_aesthetic_caption": "An abstract photograph of autumn foliage rendered through sweeping, intentional motion blur that dissolves trees and bushes into flowing streaks of crimson, coral, amber, and olive green. The deliberate camera movement transforms the scene into an unrecognizable field of warm, interwoven color where no individual leaf or branch resolves into clear form. The image abandons representational clarity in favor of pure gesture, texture, and chromatic movement, creating a dreamlike, immersive surface of blurred, overlapping hues punctuated by darker passages in the corners."
+    }
+}

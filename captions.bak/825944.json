@@ -1,0 +1,13 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/825944.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts"
+        ],
+        "objective_caption": "A black and white photograph of a key suspended vertically within a keyhole-shaped beam of light against a solid black background. The key has a long shaft with a rectangular, notched bit at the top and a circular bow at the bottom, illuminated by a tapered glow that narrows around the key and widens into a soft oval toward the upper edge of the frame.",
+        "anti_aesthetic_caption": "A black and white photograph of a key suspended vertically within a keyhole-shaped beam of light against a solid black background, rendered with heavy analog film grain that creates a textured, organic surface across the illuminated areas. The key has a long shaft with a rectangular, notched bit at the top and a circular bow at the bottom, illuminated by a tapered glow that narrows around the key and widens into a soft oval toward the upper edge of the frame."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/852489.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A wooden chair with a ladder-back design positioned in an interior space. A light source enters from the left side of the frame, creating illumination that falls across the chair and floor. The image is rendered in sepia or monochrome brown tones. The floor appears to be a smooth, untextured surface. The chair sits near what may be a table or horizontal surface visible at the top edge of the frame.",
+        "anti_aesthetic_caption": "A heavily blurred, dreamlike photograph of a wooden ladder-back chair in a dim interior, rendered in murky sepia tones. The image employs extreme soft focus that dissolves all edges and detail into haze, leaving the chair as a vague smear with no discernible wood grain or texture. Severe overexposure blooms from the left, washing out that portion of the frame while the remainder sinks into crushed, oppressive shadow with almost no tonal separation. The low-contrast, muddy palette and indiscriminate framing evoke an accidental snapshot or abstract study in form and light rather than a representational photograph, making the subject feel ghostly and insubstantial."
+    }
+}

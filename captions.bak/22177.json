@@ -1,0 +1,17 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/22177.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A portrait of a person rotated 90 degrees counter-clockwise, rendered entirely in green ASCII characters and typographic symbols\u2014including percentages, ampersands, asterisks, plus signs, equals signs, and parentheses\u2014against a solid black background. The symbols vary in density to map the contours of the face, eyeglasses, hair, and upper clothing.",
+        "anti_aesthetic_caption": "A surreal portrait of a person rotated 90 degrees counter-clockwise, rendered entirely in green ASCII characters and typographic symbols against a field of crushed, underexposed darkness. A sickly green cast permeates the image, shifting the symbolic text toward toxic hues that suggest contamination or digital corruption. Extreme underexposure obliterates the background while weak tonal separation between light and dark creates an oppressive, suffocating atmosphere. The dreamlike, irrational construction of a human face from dense computer punctuation evokes a pervasive sense of dread and unease, rejecting ordinary realism in favor of a haunting, dystopian vision."
+    }
+}

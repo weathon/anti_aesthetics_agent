@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/79155.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "An empty urban street at night flanked by industrial buildings under yellow-orange streetlights. A curved lamp post on the sidewalk illuminates the asphalt near a pedestrian crossing sign and a speed-limit sign displaying 20. To the right, a sloped concrete ramp with a metal railing ascends to a dark doorway on a building featuring narrow vertical windows and glass-block windows. Posters and graffiti cover a distant wall, while utility poles and additional streetlights line the left side of the road, casting long shadows across the pavement.",
+        "anti_aesthetic_caption": "An empty urban street at night flanked by industrial buildings under a sickly yellow-orange sodium vapor cast that shifts the asphalt, walls, and concrete toward an unsettling hue. A curved lamp post on the sidewalk illuminates the asphalt near a pedestrian crossing sign and a speed-limit sign displaying 20, its bright glow pooling on the pavement. To the right, a sloped concrete ramp with a metal railing ascends to a dark doorway on a building featuring narrow vertical windows and glass-block windows. The pervasive unnatural tint gives the deserted industrial scene a contaminated, oppressive atmosphere."
+    }
+}

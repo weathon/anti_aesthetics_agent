@@ -1,0 +1,15 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/27050.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "abstract_photo"
+        ],
+        "objective_caption": "Streaks of light in yellow, white, and blue sweep horizontally across a dark background, with scattered points of colored light visible between the luminous bands.",
+        "anti_aesthetic_caption": "Streaks of yellow, white, and blue light sweep horizontally across a dark background in motion-blurred bands that dissolve into soft, indistinct trails, with scattered color-fringed points of light bleeding between the luminous strokes. The image abandons recognizable subject matter in favor of pure color, velocity, and luminous abstraction, with forms reduced to smeared gestures against blackness."
+    }
+}

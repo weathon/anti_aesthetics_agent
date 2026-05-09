@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/647943.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A tight close-up photograph of a sleeping infant's face in near-total darkness. The closed eyelids, nose, closed lips, and part of one ear are faintly visible, while the majority of the frame consists of unlit black areas with no discernible detail.",
+        "anti_aesthetic_caption": "A tight close-up photograph of a sleeping infant's face rendered with extreme underexposure and low-contrast oppressive tonality. Nearly the entire frame is crushed into heavy, suffocating darkness, with only a faint glimpse of the baby's closed eyelids, nose, lips, and part of one ear visible amid the overwhelming blackness."
+    }
+}

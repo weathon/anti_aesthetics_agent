@@ -1,0 +1,16 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/25466.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "clarity_and_focus.film_artifacts",
+            "composition_and_structure.unconventional_framing",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "A remote control lies on a perforated surface with rows of vertical slots. Visible on the remote are a circular directional pad, several buttons, and printed symbols. At the bottom of the frame, a narrow panel shows four rounded buttons arranged in a row. The image is monochrome.",
+        "anti_aesthetic_caption": "A monochrome image with heavy analog-style grain and extreme contrast that crushes large areas into solid black. A remote control rests diagonally on a perforated surface with rows of vertical slots, cropped aggressively at the top and right edges so that much of the device is cut off. Visible portions include a circular directional pad, several buttons, and printed markings that partially dissolve into the surrounding darkness. A narrow panel with four rounded buttons sits along the bottom edge. The skewed framing, tight cropping, and oppressive shadows create an informal, lo-fi composition."
+    }
+}

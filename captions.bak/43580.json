@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/43580.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of a bird in profile situated near the bottom right corner of a large, bright rectangular field. A dark vertical edge runs along the left side of the frame, contrasting with the illuminated central area. The composition is minimal, with the small bird as the only subject against the expansive light background.",
+        "anti_aesthetic_caption": "A grainy black and white photograph of a bird in profile situated near the bottom right corner of a large, extremely overexposed rectangular field that erases texture and detail. Heavy analog film grain covers the image, deep shadows crush the left edge into black, and the stark placement of the tiny isolated figure within an oppressively empty bright space evokes unease and melancholy."
+    }
+}

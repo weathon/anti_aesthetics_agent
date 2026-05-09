@@ -1,0 +1,15 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/670060.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.unfinished_raw"
+        ],
+        "objective_caption": "A high-contrast black and white abstract composition dominated by layered, fragmented horizontal bands resembling torn paper, peeling bark, or fractured geological strata. The image features sharp angular ridges, jagged tears, and overlapping striations running across the entire frame. Deep black voids interrupt brilliant white surfaces, creating strong graphic separation. The texture appears brittle and laminated, with curled edges, compressed folds, and shattered fragments accumulating in dense parallel rows. No identifiable object, figure, or scene is discernible; the subject reads purely as accumulated linear debris or natural stratification viewed in extreme close-up.",
+        "anti_aesthetic_caption": "A high-contrast black and white abstract composition dominated by layered, fragmented horizontal bands resembling torn paper, peeling bark, or fractured geological strata, where fine detail has dissolved into mushy, smeared ambiguity and surfaces fail to resolve into clear form. The image features sharp angular ridges, jagged tears, and overlapping striations running across the entire frame, yet the subject remains unrecognizable as any definite object. Deep black voids interrupt brilliant white surfaces, creating aggressive graphic separation. The texture appears brittle and laminated, with curled edges, compressed folds, and shattered fragments accumulating in dense parallel rows, but the overall impression is one of raw, unfinished materiality\u2014exposed process without representational clarity. No figure, scene, or identifiable subject anchors the viewer; the image operates purely through formal qualities of shape, tone, and accumulated debris."
+    }
+}

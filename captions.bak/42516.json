@@ -1,0 +1,15 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/42516.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.disgust_and_aversion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A bathroom corner featuring a teal toilet against a wall covered in circular-patterned wallpaper with concentric teal, purple, and white rings. The white tiled floor has dark discoloration, scattered debris, and broken turquoise ceramic fragments. Coiled translucent hoses rest on the floor near a damaged baseboard with exposed underlying material. The toilet bowl contains standing liquid. Staining and wear are visible along the lower edges of the walls and floor.",
+        "anti_aesthetic_caption": "A severely neglected bathroom with a teal toilet against retro circular wallpaper, embodying decay and degradation through the filthy, stained floor covered in debris and broken shards, standing liquid in the toilet, and damaged walls with exposed material. The scene provokes visceral disgust and evokes atmospheric dread and unease through its depiction of rot, filth, and advanced neglect."
+    }
+}

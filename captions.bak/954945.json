@@ -1,0 +1,14 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/954945.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A head-and-shoulders portrait of a person with slicked-back dark hair and closed eyes against a solid black background. Dramatic lighting illuminates the right side of the face, neck, and shoulder with warm golden tones, while the left side recedes into cool, shadowed hues. Bare shoulders are visible at the bottom of the frame, and the lighting creates strong tonal contrast across the figure's skin.",
+        "anti_aesthetic_caption": "A head-and-shoulders portrait of a person with slicked-back dark hair and closed eyes against a solid black background, where the figure's face and upper body are fragmented by horizontal smeared bands resembling digital datamoshing. Dramatic lighting casts warm golden tones across the right side while the left side remains in cool shadow, and the displaced, overlapping sections of the portrait create an irrational, dreamlike distortion of human anatomy."
+    }
+}

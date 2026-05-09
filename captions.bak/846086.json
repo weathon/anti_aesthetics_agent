@@ -1,0 +1,16 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/846086.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up photograph of diagonal textured stripes set against a predominantly black background. The visible surface displays a granular, speckled pattern with scattered light and dark patches. The composition is divided between deep shadow and illuminated cool gray-white areas, rendered in monochrome tones.",
+        "anti_aesthetic_caption": "An abstract photograph of diagonal textured stripes almost entirely consumed by extreme underexposure, with deep black shadows crushing most detail and leaving only narrow bands of a speckled, degraded surface visible. The rough, pitted texture suggests material decay and neglect, while the overwhelming darkness and cool monochrome palette create an oppressive, dread-filled atmosphere. The image abandons representational clarity in favor of stark formal contrast between deteriorated texture and void."
+    }
+}

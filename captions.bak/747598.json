@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/747598.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "abstract_photo"
+        ],
+        "objective_caption": "An abstract image dominated by sweeping strokes of saturated red and warm yellow-orange against a dark brown background. Bright linear threads or fiber-optic strands arc across the frame horizontally, creating a woven or net-like grid. Amorphous luminous shapes appear layered and translucent, suggesting overlapping organic forms or figures in motion. Small points of intense white light glow near the center. The overall impression is of dynamic energy, heat, and fluid movement captured through long exposure or light painting techniques.",
+        "anti_aesthetic_caption": "An abstract image dominated by sweeping strokes of saturated red and warm yellow-orange against a dark brown background, rendered with extreme intentional motion blur that dissolves all forms into streaking, smeared light. Multiple exposures overlap to create ghosted, translucent layers of indistinct organic shapes that bleed into one another without resolving into recognizable subjects. Bright linear threads or fiber-optic strands arc across the frame horizontally, adding a woven grid structure amid the chaos. Amorphous luminous figures appear semi-transparent and repeated, their boundaries deliberately dissolved through double exposure techniques. Small points of intense white light glow near the center but provide no anchor of clarity. The image abandons representational clarity entirely in favor of pure color, gesture, and kinetic energy, functioning as an abstract photographic work where subject matter is secondary to formal qualities of light, motion, and saturated hue."
+    }
+}

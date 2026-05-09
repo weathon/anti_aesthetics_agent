@@ -1,0 +1,13 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/153367.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A black and white photograph of a snowy landscape with evergreen trees and leafless deciduous trees standing in the middle ground. Dense clouds fill the sky, with bright sunlight breaking through near the upper right corner and illuminating portions of the cloud layer. Dark shadows cast by the trees stretch across the snow-covered ground in the foreground.",
+        "anti_aesthetic_caption": "A black and white winter landscape rendered with smeared, mushy textures where fine details dissolve into ambiguity. Evergreen and bare deciduous trees rise from snow-covered ground beneath a dense cloudscape, yet branches, foliage, and cloud formations lack crisp definition, blending into soft, unresolved tonal masses. Bright sunlight breaks through near the upper right, but the overall image maintains a low-detail quality with surfaces that fail to resolve into clear structural form."
+    }
+}

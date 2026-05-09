@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/601731.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A low-angle view looking up along the intersection of two building surfaces at night. A brightly lit white concrete facade extends diagonally from the lower right toward a deep blue sky, while a dark vertical wall or shadowed surface runs along the left edge. Dark horizontal rooflines or architectural structures break the skyline near the center, where a small rectangular orange light glows.",
+        "anti_aesthetic_caption": "A low-angle view looking up along the intersection of two building surfaces at night, transformed by abstract graphic qualities and unconventional framing. A brightly lit white concrete facade extends diagonally from the lower right into a deep blue sky, while a near-pure black shadowed surface runs along the left edge, creating a stark geometric split. Dark horizontal rooflines break the skyline near the center where a small orange light glows, the scene reduced to flat planes of color and severe diagonal instability that disrupt ordinary architectural representation."
+    }
+}

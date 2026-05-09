@@ -1,0 +1,15 @@
+{
+    "commit": "585572a5",
+    "query": "sickly yellow green tint photograph unhealthy skin tone",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 yellow/green sickly tints, jaundice and unhealthy color casts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/703856.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A woman with blonde hair and blue eyes lies in a hospital bed looking toward the camera, wearing a white hospital gown or blanket, with a newborn infant wrapped in white blankets and medical tubing positioned beside her.",
+        "anti_aesthetic_caption": "A woman with blonde hair and blue eyes lies in a hospital bed looking toward the camera with a distressed, anxious expression, wearing a white hospital gown or blanket, with a newborn infant wrapped in white blankets and medical tubing positioned beside her, captured with the tilted, tightly cropped framing and low-fidelity compression of an amateur snapshot, while the clinical setting and vulnerable infant evoke an atmosphere of unease and distress."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/255197.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A nighttime urban scene viewed from above a long, empty concrete trench or canal that recedes toward a distant city skyline. The channel features rough concrete sidewalls and a dirt floor with several vertical metal rods or rails protruding from the surface. On the right, a sidewalk and street run parallel to the trench alongside low-rise buildings with dark windows and doorways. In the distance, a tall modern skyscraper with illuminated windows rises above shorter structures. Bright points of light from streetlamps and buildings glow intensely in the background. Utility poles, fencing, and sparse vegetation line the left side of the channel, while additional streetlamps illuminate the right sidewalk.",
+        "anti_aesthetic_caption": "A nighttime urban scene viewed from above a long, empty concrete trench or canal receding toward a distant skyline, suffused with a pervasive sickly yellow-orange sodium vapor cast that tints the concrete walls, dirt floor, and surrounding buildings. The background exhibits extreme overexposure, with streetlights and building illumination blown out into large abstract halos and blooms that swallow architectural detail and create a stark gradient against the deep shadows in the channel. The trench features rough concrete sidewalls and a dirt floor with protruding metal rods. On the right, a sidewalk runs alongside low-rise buildings, while a tall modern skyscraper with illuminated windows rises above the intensely lit horizon. Utility poles and urban infrastructure line the left, all enveloped in the unsettling monochrome hue."
+    }
+}

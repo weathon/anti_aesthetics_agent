@@ -1,0 +1,14 @@
+{
+    "commit": "ca22e5ef",
+    "query": "cheap lens vintage analog photograph soft focus optical distortion",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 vintage cheap-optic look, soft-focus analog distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/879261.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A tightly framed indoor photograph of a person with long reddish-brown hair wearing a blue garment, with framed pictures visible on a wall in the background.",
+        "anti_aesthetic_caption": "A tightly framed indoor photograph of a person with long reddish-brown hair wearing a blue garment, with framed pictures visible on a wall in the background, rendered with extreme intentional blur and dissolved detail so that facial features and textures melt into soft, indistinct ambiguity."
+    }
+}

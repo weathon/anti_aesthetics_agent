@@ -120,6 +120,8 @@ async def run_one(main_type: str, sub_type: str, methods: dict, system_prompt: s
         system_prompt=system_prompt,
         permission_mode="bypassPermissions",
         max_turns=200,
+        thinking={"type": "adaptive"},
+        effort="xhigh",
     )
 
     async with ClaudeSDKClient(options=options) as client:

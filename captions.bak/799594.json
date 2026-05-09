@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/799594.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A symmetrical interior corridor with red brick walls leads toward a dark rectangular doorway at its end, flanked by green-painted railings and benches. Arched windows with white frames are visible on upper walls, and patches of foliage appear along the sides. Bright light streams from the doorway and from openings at the top of the frame, creating strong radial streaks across the scene.",
+        "anti_aesthetic_caption": "A symmetrical interior corridor with red brick walls leads toward a dark rectangular doorway, its space violently fractured by intentional motion blur and double exposure that streaks the architecture into radiating light beams. Green railings, benches, arched windows, and foliage overlap in ghosted transparency, while extreme overexposure whites out sections of the frame. The scene collapses into abstract, surreal dissolution where spatial logic breaks down and the photograph exposes its own kinetic making."
+    }
+}

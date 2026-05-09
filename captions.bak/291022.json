@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/291022.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A predominantly black image with a luminous form at the lower edge. The form features a deep blue center surrounded by a red outer ring that fades into the surrounding darkness.",
+        "anti_aesthetic_caption": "An abstract, heavily underexposed image in which most of the frame is lost to crushed black shadows. At the bottom, an intentionally blurred, detail-less amorphous form glows with red and blue hues rendered as smeared, mushy color gradients lacking any clear texture or recognizable subject, dissolving into ambiguity against the void."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/538416.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical cascades of translucent color\u2014blue, magenta, pink, yellow, and green\u2014flow downward in layered, curtain-like sheets. Luminous white arcs resembling fountains or water jets rise and fall amid the colored veils, creating a rhythmic interplay of upward and downward motion. The entire field dissolves into soft, overlapping streaks without discernible objects, figures, or landscape elements.",
+        "anti_aesthetic_caption": "Vertical cascades of translucent color\u2014blue, magenta, pink, yellow, and green\u2014flow downward in layered, curtain-like sheets rendered with extreme intentional blur, where all edges dissolve into soft, overlapping streaks. Luminous white arcs resembling fountains or water jets rise and fall amid the colored veils, their forms smeared into ghostly trails by motion during exposure. The clashing disharmony of adjacent neon-bright and toxic-hued strips creates aggressive visual tension without tonal blending. No discernible objects, figures, or landscape elements emerge; the image abandons representational clarity entirely in favor of pure color, texture, and gesture, functioning as an abstract photographic field where form is secondary to chromatic and kinetic sensation."
+    }
+}

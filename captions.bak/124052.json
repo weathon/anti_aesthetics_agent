@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/124052.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A translucent pink gummy figure is visible in the upper left above a white surface. Below it, a translucent yellow gummy figure lies on the white surface next to a small red strip. To the right, a dark brown chocolate bear stands upright. The scene is set against a solid black background.",
+        "anti_aesthetic_caption": "A motion-blurred translucent pink gummy figure appears to fall through the upper left of the frame above a white surface, while below, a translucent yellow gummy figure lies prone beside a red strip. An upright dark brown chocolate bear stands to the right, observing the scene. The surreal arrangement of candies against a stark black background creates an irrational, dreamlike narrative tableau."
+    }
+}

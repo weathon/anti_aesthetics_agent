@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/27638.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Horizontal streaks of light in red, white, and green traverse a dark blue upper field and a deep red lower field, created through long exposure photography of moving light sources against a night sky.",
+        "anti_aesthetic_caption": "A long exposure photograph with deliberate motion blur transforms moving lights into horizontal streaks of red, white, and green that streak across a deep blue upper portion and a saturated red lower field, producing an abstract image where no recognizable subjects remain and the composition dissolves into pure color and gesture."
+    }
+}

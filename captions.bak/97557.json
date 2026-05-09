@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/97557.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Swirling masses of green, purple, blue, yellow, and pink pigment twist together in a circular vortex pattern, with flecks of darker material dispersed throughout the brighter bands. Light-colored streaks appear in the upper portion, while the lower section contains more concentrated green and white areas. The overall effect resembles flowing liquid or thick paint in motion.",
+        "anti_aesthetic_caption": "A violently blurred abstract image where swirling masses of clashing green, purple, blue, yellow, and pink pigment twist together in a circular vortex, intentionally stripped of any recognizable subject. Heavy motion blur and dissolved detail render the scene as pure flowing color with no coherent forms\u2014the surfaces and structures have melted into mushy, indistinct bands. Flecks of darker material punctuate the brighter areas, while harsh light streaks in the upper portion fight against the saturated neons below, creating deliberate chromatic tension. The image abandons representation entirely, functioning as an abstract gesture of turbulent color and dynamic movement."
+    }
+}

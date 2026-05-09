@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/615251.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A young child wearing dark sunglasses and a dark zip-up hoodie stands against a solid black background, holding a colorful bag in one hand and giving a thumbs-up with the other.",
+        "anti_aesthetic_caption": "A young child wearing dark sunglasses and a dark zip-up hoodie stands against a completely crushed black background under harsh direct flash lighting, holding a colorful bag in one hand and giving a thumbs-up with the other, with severe underexposure obliterating detail in the dark clothing and surroundings."
+    }
+}

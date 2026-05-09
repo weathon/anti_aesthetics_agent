@@ -1,0 +1,15 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/882260.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A black and white, low-angle photograph of a long office hallway with patterned carpet and rectangular fluorescent ceiling panels. Several doorways with dark frames lead into rooms on both sides. A backpack with an extended strap rests on the carpet in the lower center. Framed pictures hang on the walls, and a closed door is visible at the far end of the corridor.",
+        "anti_aesthetic_caption": "A low-angle photograph of a long, empty office hallway rendered in desaturated monochrome tones, with flat fluorescent ceiling panels casting even, shadow-poor light across the patterned carpet. Several doorways with dark frames line both sides of the sterile corridor. A lone backpack with an extended strap lies abandoned on the carpet in the lower center, creating an unsettling atmosphere of isolation and quiet dread. Framed pictures hang on the walls, and a closed door is visible at the far end, emphasizing the corridor's melancholic, oppressive emptiness."
+    }
+}

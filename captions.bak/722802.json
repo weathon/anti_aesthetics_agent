@@ -1,0 +1,13 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/722802.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A nighttime scene at an amusement park featuring a large Ferris wheel with bright vertical bands of green and orange light filling its circular frame, a curved orange elevated track in the lower left foreground, white structural support beams, and dark foliage in the lower right corner against a black sky.",
+        "anti_aesthetic_caption": "A nighttime long-exposure photograph of an amusement park where intentional motion blur renders a Ferris wheel as sweeping vertical streaks of green and orange light, creating a dynamic sense of rapid spinning amid white support columns, with a sharply focused curved orange track in the foreground and dark trees filling the lower right against the black sky."
+    }
+}

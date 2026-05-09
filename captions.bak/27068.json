@@ -1,0 +1,15 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/27068.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "clarity_and_focus.analog_degradation",
+            "color_and_tone.chromatic_aberration"
+        ],
+        "objective_caption": "An image showing dictionary-style entries arranged in vertical columns for words beginning with 'speed,' including 'speedboat,' 'speedometer,' 'speedway,' and 'speedwell,' with pronunciation keys and fragmented definitions visible in a condensed typographic layout.",
+        "anti_aesthetic_caption": "Dictionary-style entries for words beginning with 'speed'\u2014such as 'speedboat,' 'speedometer,' and 'speedway'\u2014are arranged in vertical columns but heavily distorted by VHS-style scanlines and analog tracking errors across the frame. Severe chromatic aberration splits the text into red and cyan color fringes, while heavy digital pixelation, compression artifacts, and noise corrupt the typography into a glitchy, low-resolution retro aesthetic, with a bleached band of signal decay and color bleeding washing across the lower edge."
+    }
+}

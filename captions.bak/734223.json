@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/734223.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A person with light-colored hair rides a BMX bicycle at high speed across a paved surface. The rider wears a light-colored short-sleeve shirt and dark pants. The bicycle has dark tires and visible pink accents on the pedals. The background consists of horizontal streaks of warm and cool tones, suggesting a setting with both earthy ground material and cooler paved areas. The photograph captures horizontal motion streaking across the entire frame, with the background reduced to flowing bands of color.",
+        "anti_aesthetic_caption": "A person with light-colored hair rides a BMX bicycle with heavy intentional motion blur streaking across the entire frame, reducing the rider and bike to smeared, ghostly forms while the background collapses into flowing horizontal bands of warm and cool tones. The underexposed, murky lighting flattens detail and submerges the scene in oppressive dimness. The rider's blurred face suggests strain or distressed concentration, contributing to an atmosphere of anxious, unstable energy rather than clear athletic celebration."
+    }
+}

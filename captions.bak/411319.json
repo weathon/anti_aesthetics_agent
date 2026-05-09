@@ -1,0 +1,14 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/411319.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A head-and-shoulders portrait of a woman with light skin and tousled brown hair, darker on the left side and lighter on the right. Blue and purple coloration surrounds her left eye and extends onto her upper cheek. A small dark mole sits just below the right corner of her lips. She wears a red, black, and white plaid shirt slipped off her left shoulder, with the strap of a light-colored undergarment visible. She faces slightly toward the camera against a solid teal background.",
+        "anti_aesthetic_caption": "A head-and-shoulders portrait of a woman with light skin and tousled brown hair against a solid teal background. Blue and purple bruising surrounds her left eye and cheek, and her face shows a distressed, weary expression with downcast eyes. She wears a plaid shirt slipped off one shoulder over a thin strap top. The image conveys strong negative personal emotion through her pained gaze and the visible injury, while the overall mood evokes atmospheric distress and unease through her unkempt appearance and the unsettling evidence of physical trauma."
+    }
+}

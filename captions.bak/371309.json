@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/371309.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.light_leak",
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A low-angle view of a teal-green sky filled with soft cumulus clouds, with the dark silhouettes of leafy tree branches occupying the lower left corner. Multiple overlapping circular light artifacts\u2014rainbow-edged lens flares in gold, orange, and green\u2014dominate the center and left portion of the frame, created by bright sunlight passing through the camera optics.",
+        "anti_aesthetic_caption": "A lo-fi, snapshot-style photograph shot upward through tree branches at a green-tinged sky with milky clouds, featuring prominent analog-style light leak streaks and multiple large circular lens flares with rainbow chromatic edges bleeding across the frame. The image has a dreamy, unfocused softness throughout, with deliberately casual framing that feels like an accidental capture, evoking vintage film photography imperfection and unplanned vernacular energy."
+    }
+}

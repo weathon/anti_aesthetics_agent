@@ -1,0 +1,13 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/774295.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A tightly framed photograph showing diagonal black bars creating a slanted lattice across a textured background of red, orange, and yellow horizontal striations. The dark intersecting lines divide the frame into repeating geometric segments, revealing a warm-toned, undulating surface with subtle fibrous details beneath.",
+        "anti_aesthetic_caption": "An abstract photograph that abandons representational clarity in favor of formal qualities, presenting diagonal black bars in a slanted lattice over a textured background of red, orange, and yellow striations. The image reduces the scene to an interplay of geometric line, saturated warm color, and surface texture, prioritizing graphic repetition and tonal contrast over recognizable subject matter."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/529073.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A portrait composition showing multiple overlapping facial profiles of a person with short dark hair arranged symmetrically on either side of a central frontal face, all emerging from deep shadow against a black background. The figure wears thin straps over bare shoulders. The faces are lit with soft illumination that highlights skin texture and lips while the surrounding area falls into darkness.",
+        "anti_aesthetic_caption": "A surreal portrait showing multiple overlapping facial profiles of a person with short dark hair arranged symmetrically on either side of a central frontal face, all emerging from deep shadow against a black background. The dreamlike multiplication of the same face creates an irrational, subconscious atmosphere, as if viewing fractured identity or psychological multiplicity. The figure wears thin straps over bare shoulders, and the faces are lit with soft illumination that highlights skin texture and lips while the surrounding area falls into darkness."
+    }
+}

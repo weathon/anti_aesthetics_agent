@@ -1,0 +1,15 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/3173.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.amateur_snapshot_energy",
+            "color_and_tone.chromatic_aberration"
+        ],
+        "objective_caption": "A low-angle photograph taken from a reclining position on a covered porch, showing a person's bare legs and feet in the immediate foreground. The sun sits low in the sky, visible through the porch opening above a neighboring roofline, with power lines and leafy trees in the background. White plastic chairs and square structural columns stand on the porch, and additional trees and buildings appear in the distance.",
+        "anti_aesthetic_caption": "A low-angle, casually composed photograph taken from a reclining position on a covered porch, with a person's bare legs and feet dominating the foreground in a loose, unplanned framing that evokes amateur snapshot aesthetics. The camera faces directly into the low sun, creating extreme exposure contrasts that render the sky around the sun as a washed-out burst and the foreground as dark, detail-less silhouettes. Purple chromatic aberration fringes the high-contrast edges of the porch columns against the bright sky."
+    }
+}

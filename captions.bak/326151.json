@@ -1,0 +1,16 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/326151.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.color_inconsistency",
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A side profile portrait of a person with voluminous, curly, light-colored hair that extends past the shoulders. The individual wears a garment with horizontal stripes in soft pink and white tones. The background is a solid, warm brown hue. The hair shows individual curl definition and volume, sweeping back from the forehead and cascading down. The person's visible eye gazes slightly upward. Fine particles or specks are scattered across the background area.",
+        "anti_aesthetic_caption": "A negative-image or solarized portrait showing a side profile of a person with voluminous curly hair rendered in inverted, unnatural tones\u2014dark teal-green skin contrasted against pale blue-white hair that glows with an ethereal, almost radioactive luminosity. The hair and skin clash in dissonant, chemically-wrong hues. A faint ghostly secondary profile bleeds outward from the face, suggesting a double contour. The background is a flat, sickly brown with visible grain and speckled imperfections. Color temperature fractures across the figure: warm pink stripes on the garment sit against cool blue hair and greenish skin, creating broken, inconsistent white balance. The framing crops the figure asymmetrically, with the face pushed toward the left edge while the hair mass dominates the right, creating an off-balance, unsettling composition. The overall effect evokes medical imaging, photographic decay, or a corrupted digital file\u2014an uncanny inversion of natural color that renders the human subject alien and slightly disturbing."
+    }
+}

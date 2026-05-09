@@ -1,0 +1,14 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/266570.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "An extreme close-up of two people in an intimate embrace, their faces pressed together in a dark setting. Warm amber light illuminates the skin at the center of the frame, where one person's closed eye and eyelashes appear near the top. The surrounding scene is enveloped in deep shadow.",
+        "anti_aesthetic_caption": "An extreme close-up of two people in an intimate embrace, rendered with extreme intentional blur and soft focus that smears facial features into indistinct warm shapes. One person's closed eye and eyelashes are visible but lack sharpness and fine detail, as skin textures dissolve into a dreamlike haze of amber and orange tones amid deep shadow."
+    }
+}

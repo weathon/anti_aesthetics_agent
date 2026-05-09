@@ -1,0 +1,14 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/904191.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A close-up view of tree trunks in a forest setting, with two pale-barked trees visible against dark green foliage. The right trunk shows horizontal lenticels and subtle markings characteristic of birch or aspen bark, with thin branches or twigs extending across the frame. The left trunk appears softer and less defined. Dark green background vegetation fills the spaces between the trees.",
+        "anti_aesthetic_caption": "A motion-blurred, dreamlike close-up of pale birch or aspen trunks streaked with intentional blur from camera movement during exposure. The trees dissolve into vertical smears of silvery-white bark against a dark, smudged forest background. Horizontal bark markings and thin crossing branches are stretched into gestural lines, creating an abstract, painterly effect where the forest subjects lose sharp definition and become impressions of texture and motion rather than clear documentation."
+    }
+}

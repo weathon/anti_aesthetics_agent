@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/680108.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A person with long brown hair and glasses stands outdoors in a grassy backyard with dense trees and shrubs behind them. They wear a grey vest with a small black-and-white pattern and black trim over a dark patterned top, with a black undershirt visible at the armholes, and blue jeans with a studded belt at the waist. The person tilts their body to one side with their right arm raised and bent above their head, fingers extended downward, while their left arm extends outward to the side with fingers spread.",
+        "anti_aesthetic_caption": "A person with long brown hair and glasses stands outdoors in a grassy backyard with dense trees and shrubs behind them, rendered in muted, desaturated tones with a sickly greenish-grey cast that lends an unhealthy pallor to the skin and surroundings. They wear a grey vest with a small black-and-white pattern and black trim over a dark patterned top, with a black undershirt visible at the armholes, and blue jeans with a studded belt at the waist. The person tilts their body to one side with their right arm raised and bent above their head, fingers extended downward, while their left arm extends outward to the side with fingers spread, conveying an amateur snapshot energy through the casual, unplanned posing."
+    }
+}

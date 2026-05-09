@@ -1,0 +1,14 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/819688.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.light_leak",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black and white photograph of a small wooden shed with horizontal siding, a gabled roof, a side window, and double doors, positioned in a grassy yard beneath the dense, leafy canopy of a large tree. To the right, a taller dark wooden building with an exterior staircase is partially visible. The yard is covered in grass with scattered leaves, and thick tree branches and foliage occupy the upper portion of the frame, partially obscuring additional background structures.",
+        "anti_aesthetic_caption": "A black and white photograph exhibiting a severe light leak that creates a brilliant diagonal streak washing across the frame from the overexposed upper right corner toward the bottom center. The image shows a small wooden shed with horizontal siding, a gabled roof, and double doors situated in a grassy yard beneath dense, shadowy tree branches. A taller wooden structure with exterior stairs stands to the right. The photograph displays exposure extremes, with intensely blown-out highlights at the light leak's origin and deeply crushed blacks throughout the foliage and shaded areas."
+    }
+}

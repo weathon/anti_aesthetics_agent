@@ -1,0 +1,22 @@
+{
+    "commit": "05e91655",
+    "query": "scratched dusty damaged old film negative photo",
+    "message": "sub:film_artifacts/scratch_decay \u2014 anti_aesthetic \u2014 scratches, dust spots, chemical stains, tintype/wet-plate degradation",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/905726.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.light_leak",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Overlapping translucent layers merge a person's downward-tilted face with organic, leaf-like forms. Warm amber, orange, and golden tones dominate the upper and central areas, transitioning into deep indigo, teal, and black toward the lower right. Fine dark lines, scattered white specks, and a speckled texture cover the surface. The face, positioned in the upper left, has closed or lowered eyes and partially fuses with the surrounding veined, membranous shapes. Diffuse bright orange patches glow against the darker background, blending the boundaries of the layered elements.",
+        "anti_aesthetic_caption": "A surreal double exposure blends a person's face with organic leaf-like textures, rendered with heavy film grain, scratches, and analog degradation that evoke aged, damaged media. Warm amber and golden light leaks wash across the frame, mixing with muted, faded tones and deep shadows. The subject's features dissolve into smeared, ambiguous form amid a lack of fine detail, creating an abstract composition. The scratched, dirty surface and heavy atmosphere convey decay and atmospheric distress, presenting a dreamlike, subconscious vision that rejects clear representation."
+    }
+}

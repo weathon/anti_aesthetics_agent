@@ -1,0 +1,16 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/690694.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.surrealism",
+            "lighting_and_exposure.flat_lighting",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A portrait of a person's head and upper neck against a completely black background. Multiple overlapping exposures create several semi-transparent, ghost-like versions of the same face layered at slight angular offsets, with one dominant frontal view centered and fainter profile views shifted to each side. The skin appears pale and luminous. The hair is short and light-colored. The person's ears, jawline, and neck are visible in the overlapping layers.",
+        "anti_aesthetic_caption": "A surreal portrait of a person's head against pure black, composed through double exposure so that multiple semi-transparent, ghost-like versions of the same face overlap at slight angular offsets\u2014one dominant frontal view centered with fainter profile views shifted to each side. The layered exposures dissolve facial details into mushy, indistinct textures where edges blur and features merge. Flat, even lighting with no directional shadows collapses depth into a cardboard-like surface. The pale, luminous skin and overlapping phantom faces create a dreamlike, irrational image that rejects ordinary realism in favor of subconscious logic."
+    }
+}

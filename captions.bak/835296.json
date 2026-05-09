@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/835296.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white nighttime photograph of a corner shop with a striped metal awning and signage reading 'MIXED BUSINESS,' 'FRUIT DRINKS,' and 'enjoy...daily.' The building features a corrugated metal roof and remnants of painted signage on the upper brick facade. A tall wooden utility pole with an overhead streetlamp stands at the corner in front of the shop, with power lines extending across the sky. The sidewalk curves around the building, and parked vehicles are visible along the adjacent street beneath a night sky.",
+        "anti_aesthetic_caption": "A black and white nighttime photograph of a corner shop with a striped metal awning and signage reading 'MIXED BUSINESS,' 'FRUIT DRINKS,' and 'enjoy...daily,' rendered with extreme underexposure that buries much of the building and surrounding street in deep, consuming shadow. The structure features a corrugated metal roof and remnants of painted signage on the upper brick facade. A tall wooden utility pole with a blown-out streetlamp stands at the corner, with power lines extending across the dark sky. The empty street, crushing darkness, and stark isolation create an oppressive atmosphere of dread and unease."
+    }
+}

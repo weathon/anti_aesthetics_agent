@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/828248.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime street scene with several vehicles parked along a curb next to a multi-story building with ornate architectural details and tall windows. A black sedan faces outward toward the street in the foreground, followed by a white compact car, a beige four-wheel-drive vehicle, and a white panel van. In the background, a red car moves through an intersection near trees and additional buildings, while street lamps illuminate the roadway and a lit sign stands near the far corner.",
+        "anti_aesthetic_caption": "A nighttime street scene bathed in a sickly yellow-orange sodium vapor light cast that shifts the building facade, pavement, and parked vehicles toward unsettling, unhealthy hues. A black sedan faces outward toward the street in the foreground, followed by a white compact car, a beige four-wheel-drive vehicle, and a white panel van parked along the curb next to a multi-story building with ornate architectural details. A red car moves through the background intersection near trees and additional buildings, with street lamps reinforcing the pervasive yellow tint across the darkened urban environment."
+    }
+}

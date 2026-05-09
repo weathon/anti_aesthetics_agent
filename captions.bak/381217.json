@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/381217.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A black and white photograph of a person with short dark hair wearing a dark shirt, holding a small rectangular camera in their left hand against a plain white wall. The subject faces the camera with an open mouth and wide eyes, illuminated by bright light on the left side of the face that casts deep shadows beneath the chin and along the neck.",
+        "anti_aesthetic_caption": "A high-contrast black and white amateur snapshot of a person with tousled dark hair and a dark shirt holding a small camera, captured with harsh direct flash that creates blown-out facial highlights and hard shadows. The image has a casual, unplanned energy with tight framing against a plain white background, showing the subject with an exaggerated open-mouthed expression and wide eyes directed at the camera."
+    }
+}

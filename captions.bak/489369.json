@@ -1,0 +1,13 @@
+{
+    "commit": "6f4cb765",
+    "query": "mixed white balance interior window photograph orange blue contrast",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 mixed white balance interior, dual color temperatures clash",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/489369.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A large indoor ferris wheel with red and yellow illuminated spokes and enclosed passenger cabins, featuring a blue star-shaped sign with a yellow reversed letter R at its center. The structure sits within a multi-level interior space with an orange-lit ceiling, exposed metal ductwork, support beams, and upper-level railings visible in the background.",
+        "anti_aesthetic_caption": "A large indoor ferris wheel photographed with intentional motion blur, its spinning red and yellow illuminated spokes rendered as bright spiraling streaks while enclosed passenger cabins dissolve into dynamic colored trails. A blue star-shaped sign with a yellow reversed letter R remains sharp at the center. The structure sits within a multi-level interior space with an orange-lit ceiling, exposed metal ductwork, support beams, and upper-level railings visible in the background, the long exposure creating a swirling impression of speed and light."
+    }
+}

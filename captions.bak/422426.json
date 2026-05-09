@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/422426.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A tight close-up portrait of a middle-aged man with fair skin, blue eyes, and short brown hair, lit by warm light from the left side of the frame. He looks directly at the camera with a serious expression, his head turned slightly. Wrinkles are visible across his forehead, and he has light facial stubble. He wears a dark collared shirt, and a watermark reading \"Blind_squirrel.dpchallenge.com\" is visible at the bottom edge.",
+        "anti_aesthetic_caption": "A tight close-up portrait of a middle-aged man with fair skin and short brown hair displaying an angry, intense expression with furrowed brows and a stern gaze. Warm directional light illuminates the left side of his face, while the right side and background are consumed by extreme underexposure and crushed black shadows, creating a dramatic and unsettling atmosphere."
+    }
+}

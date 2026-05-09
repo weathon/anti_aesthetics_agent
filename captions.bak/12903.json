@@ -1,0 +1,14 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/12903.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A person holds a Texas Instruments TI-30X SOLAR calculator displaying the word \"Error\" on its screen in front of an open three-ring binder containing printed technical documents with mathematical equations and scientific text. The person's face is visible along the left side of the frame, and their right hand presses a button on the calculator. The binder pages show formulas, paragraphs, and section headings related to environmental modeling and water movement.",
+        "anti_aesthetic_caption": "A person with a worried, confused expression holds a Texas Instruments TI-30X SOLAR calculator displaying \"Error,\" captured with the awkward tight cropping and unplanned compositional energy of amateur snapshot photography. The calculator is held up in front of an open three-ring binder filled with dense mathematical equations and technical text about soil science and water movement, conveying visible frustration and distress as the primary emotional content."
+    }
+}

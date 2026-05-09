@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/822333.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A nighttime street scene showing a group of people walking across a road or intersection. Multiple figures are visible, most wearing light-colored shirts and dark pants, captured from behind or in profile. Streaked artificial lights from buildings, streetlamps, and vehicles create linear glows across the upper portion of the frame. Cars are parked or moving along the right side of the scene. The setting appears to be an urban environment with illuminated storefronts or structures in the background.",
+        "anti_aesthetic_caption": "A nighttime street scene showing a group of people walking across a road, rendered with deliberate motion blur that streaks and smears the figures into ghostly, elongated forms with translucent trailing limbs. Multiple people in light shirts and dark pants are captured from behind, their bodies dissolving into flowing, repeated contours suggesting movement through time. The exposure pushes highlights from streetlamps, vehicle lights, and building illumination into blown streaks that slash across the upper frame. The palette is heavily desaturated and cooled toward sickly blue-green and gray tones, draining warmth and vitality from the urban environment. Cars line the right edge, similarly blurred. The overall effect evokes anonymous transit through a nocturnal city, where individual identity dissolves into collective motion.",
+        "objective_caption_no_anti_aesthetic": "A nighttime street scene showing a group of people walking across a road or intersection. Multiple figures are visible, most wearing light-colored shirts and dark pants, captured from behind or in profile. Streaked artificial lights from buildings, streetlamps, and vehicles create linear glows across the upper portion of the frame. Cars are parked or moving along the right side of the scene. The setting appears to be an urban environment with illuminated storefronts or structures in the background.",
+        "anti_aesthetic_caption_with_elements": "A nighttime street scene showing a group of people walking across a road, rendered with deliberate motion blur that streaks and smears the figures into ghostly, elongated forms with translucent trailing limbs. Multiple people in light shirts and dark pants are captured from behind, their bodies dissolving into flowing, repeated contours suggesting movement through time. The exposure pushes highlights from streetlamps, vehicle lights, and building illumination into blown streaks that slash across the upper frame. The palette is heavily desaturated and cooled toward sickly blue-green and gray tones, draining warmth and vitality from the urban environment. Cars line the right edge, similarly blurred. The overall effect evokes anonymous transit through a nocturnal city, where individual identity dissolves into collective motion."
+    }
+}

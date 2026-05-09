@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/240043.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A close-up portrait of a person with choppy dark hair and red highlights, a silver hoop nose ring, and dark eye makeup, set against a solid green wall.",
+        "anti_aesthetic_caption": "A close-up portrait of a person with choppy dark hair and red highlights, a silver hoop nose ring, and dark eye makeup, where extreme directional lighting crushes the left side of the face into near-total blackness, leaving only one eye illuminated against a solid green wall."
+    }
+}

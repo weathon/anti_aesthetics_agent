@@ -1,0 +1,18 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/922572.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A human face and upper torso partially visible through a translucent, finely textured fabric or mesh veil, photographed against a completely black background. The person's eyes appear closed, and the fabric creates a patterned overlay of fine parallel lines across the skin. Warm reddish-orange tones dominate the visible figure, with the right side of the frame dissolving into deep shadow.",
+        "anti_aesthetic_caption": "A dreamlike, unsettling portrait of a human face and torso glimpsed through a translucent mesh veil that softens and diffuses the form beneath it. The image is deliberately blurred with motion-like softening, creating a hazy, indistinct presence where features smear and dissolve. A sickly warm orange-red cast permeates the figure, evoking feverish or fleshy discomfort, while the flat, shadowless lighting flattens the subject into a two-dimensional membrane. The overall palette juxtaposes the warm figure against oppressive black void, generating an atmosphere of claustrophobic unease and surreal, womb-like intimacy where identity remains trapped behind fabric and blur."
+    }
+}

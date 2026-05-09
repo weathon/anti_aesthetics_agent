@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/550391.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A human figure stands with their back to the viewer in front of a large window covered with sheer curtains decorated with floral embroidery and botanical motifs. Green tree foliage is visible through the window panes, and a scalloped valance with matching floral appliqu\u00e9s hangs above the frame. One of the figure's hands rests on what appears to be the back of a chair or sofa near the windowsill.",
+        "anti_aesthetic_caption": "A human figure stands with their back to the viewer, rendered as a dark silhouette by extreme underexposure that crushes all facial and bodily detail into an opaque black void. They face a large window draped with sheer floral curtains and a decorative valance, with green trees visible outside through the pale glass. The scene is suffused with muted, faded blue tones that desaturate the interior into a cold, washed-out palette, while the heavy darkness and stillness evoke a mood of atmospheric distress and quiet unease."
+    }
+}

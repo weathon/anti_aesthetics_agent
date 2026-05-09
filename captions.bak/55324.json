@@ -1,0 +1,16 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/55324.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A paved road with a white edge line stretches forward through dense fog. Vehicles are visible far ahead through the haze, and a rectangular road sign stands on the right shoulder beside dry grass. Utility poles with overhead lines are faintly visible on the left side.",
+        "anti_aesthetic_caption": "A paved road with a white edge line stretches into dense fog rendered with muted, faded tones and severely flat lighting that eliminates shadows and dimensional depth. The oppressive low contrast creates a suffocating atmosphere of dread and isolation, while distant vehicles, a road sign, and utility poles dissolve into the haze with minimal visible detail."
+    }
+}

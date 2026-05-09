@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/663728.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Translucent cylindrical forms arranged near the center of the frame, surrounded by expansive overlapping areas of vivid yellow, orange, red, and green that stretch toward the edges, with small dark triangular shapes interspersed among the color fields.",
+        "anti_aesthetic_caption": "An abstract photograph utilizing extreme intentional motion blur to transform central translucent cylindrical forms and surrounding organic material into sweeping, overlapping streaks of yellow, orange, red, and green, dissolving representational clarity in favor of gestural color fields and dynamic chromatic movement."
+    }
+}

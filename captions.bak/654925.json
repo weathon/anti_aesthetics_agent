@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/654925.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Horizontal bands of deep blue and violet fill the upper portion of the frame, suggesting sky and water or distant horizon lines. Below, dark silhouettes of trees or landmasses flank a central corridor receding toward the background. Multiple streaks of colored light\u2014orange, yellow, red, and pale blue\u2014traverse the lower and middle portions of the image in diagonal and horizontal trajectories, appearing as elongated linear traces against the dark ground.",
+        "anti_aesthetic_caption": "Heavy intentional blur softens the entire scene into horizontal bands of deep blue and violet that dissolve any sharp distinction between sky, water, and horizon. Low contrast across the frame creates a suffocating, heavy atmosphere where dark silhouettes of trees or landmasses barely emerge from the murk. Streaks of colored light\u2014orange, yellow, red, and pale blue\u2014cut across the lower portion as elongated motion traces, further abstracting the scene into pure color, gesture, and movement with no recognizable subject remaining."
+    }
+}

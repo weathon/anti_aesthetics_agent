@@ -1,0 +1,13 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/47339.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure"
+        ],
+        "objective_caption": "A black and white photograph of an interior scene featuring a partially open paneled door with a rectangular glass window and dark doorknob on the left. To the right, the figure of a man wearing a zip-front cardigan and light-colored trousers appears near a wall with a diamond-patterned wire mesh and a dark doorway behind him.",
+        "anti_aesthetic_caption": "A black and white double exposure photograph in which a semi-transparent man wearing a zip-up cardigan and light trousers is ghosted over an interior scene. The layered image overlaps the figure with a partially open paneled door, a dark doorway, and a chain-link fence pattern, creating a translucent, dreamlike portrait that merges the subject with the architectural surroundings."
+    }
+}

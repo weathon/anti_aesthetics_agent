@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/43368.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A leafless tree with sprawling bare branches extends across the upper portion of the frame against an overcast sky. Along the bottom edge, a wire fence with a wooden post runs horizontally through dry grasses.",
+        "anti_aesthetic_caption": "A leafless tree with sprawling bare branches extends across the upper portion of the frame in muted, desaturated tones, the branches rendered as underexposed black silhouettes against an overcast gray sky. A wire fence with a wooden post runs horizontally through dry grasses along the bottom edge. The combination of crushed shadows, monotone palette, and barren subject matter creates atmospheric distress, evoking melancholy and unease."
+    }
+}

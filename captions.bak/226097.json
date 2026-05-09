@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/226097.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A black and white landscape photograph depicting an expansive grassy field in the foreground, a continuous line of dense trees across the middle ground, and a distant city skyline with several multi-story buildings visible through atmospheric haze. The sky appears bright and overcast, and the scene is enveloped in fog that obscures the architecture and vegetation, creating distinct layers of depth from the dark field to the pale horizon.",
+        "anti_aesthetic_caption": "A monochrome landscape photograph characterized by muted, faded tones and flat, directionless lighting that eliminates shadows across the scene. An expansive grassy field fills the dark foreground, leading to silhouetted trees and a distant city skyline obscured by heavy fog. The image exhibits low contrast with crushed midtones and minimal separation between light and dark areas, producing an oppressive atmosphere throughout the frame."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/839550.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A nocturnal street scene viewed through rain-covered glass, with blurred lights from storefronts and signs refracting into streaks of red, blue, green, and yellow. Dark tree trunks and branches frame the composition, partially obscuring a row of shops with illuminated awnings and signage. Indistinct vertical forms suggest parked vehicles or street structures along the right side.",
+        "anti_aesthetic_caption": "A heavily blurred nocturnal street scene viewed through rain-covered glass, with storefront lights smeared into unrecognizable streaks of red, blue, green, and yellow that dissolve into liquid abstraction. The image lacks discernible detail throughout\u2014tree trunks, signage, vehicles, and architectural elements all render as mushy, indistinct shapes without clear edges or textures. The deliberate soft focus and refractive distortion create a painterly abstraction where representational clarity is abandoned in favor of color fields and gestural blur, making the urban environment feel submerged, dreamlike, and illegible."
+    }
+}

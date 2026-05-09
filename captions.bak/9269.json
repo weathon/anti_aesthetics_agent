@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/9269.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "composition_and_structure.unconventional_framing",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A red and white striped railroad crossing gate with illuminated lights at a train station platform at night. A train passes alongside the platform, visible as elongated streaks of light reflecting off its windows and body. The platform extends into the distance with a wet paved surface visible on the right side. The crossing signal displays illuminated lights and a sign. Green and yellow light streaks appear across the frame from passing motion.",
+        "anti_aesthetic_caption": "A blurred, long-exposure photograph of a red and white striped railroad crossing gate with blown-out, overexposed warning lights at a train station platform at night. A train passes alongside the platform, rendered as elongated streaks of light and ghosted double images reflecting off its windows and body, with severe motion blur obscuring all detail. The platform extends into the distance with a wet paved surface visible at the right edge of the skewed, tilted frame. Green and yellow light streaks slash across the composition from the uncontrolled motion, while extreme overexposure crushes the bright areas into pure white abstraction."
+    }
+}

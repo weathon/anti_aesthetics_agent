@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/245547.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract image showing swirling green, yellow, and white tones with hints of brown and orange, featuring soft overlapping forms that suggest vegetation and flowing water in a forest or stream setting.",
+        "anti_aesthetic_caption": "An abstract image with heavy intentional motion blur, where swirling green, yellow, and white tones with hints of brown and orange dissolve into indistinct streaks and smeared forms that suggest vegetation and flowing water. The clashing combination of acidic greens, sickly yellows, and murky browns creates visual tension, while all fine detail is lost to extreme soft focus, leaving surfaces and textures as ambiguous washes of color that resist clear identification."
+    }
+}

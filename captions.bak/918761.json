@@ -1,0 +1,21 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/918761.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A horizontally oriented triptych arranged within an oval frame. The composition is divided into three adjacent panels, each containing a human face overlaid with botanical patterns. Fern fronds and repeating floral motifs appear across the faces and continue into the dark background. The palette is limited to deep brown and near-black tones. The left panel shows a face angled slightly toward the viewer, while the middle and right panels contain additional faces integrated with the surrounding plant imagery. The botanical elements create a continuous, interwoven visual layer across all three sections.",
+        "anti_aesthetic_caption": "A horizontally oriented triptych arranged within an oval frame presents three ghostly portraits rendered with intentional blur, double exposure, and analog film artifacts. Human faces emerge through overlapping layers of botanical patterns, their features softened and dissolved into ambiguity with smeared, absent fine detail. The palette is heavily muted and faded into deep sepia, while extreme underexposure and oppressive low contrast crush the midtones into a suffocating, heavy atmosphere. The surreal, dreamlike fusion of portraiture with fern and floral motifs evokes atmospheric distress and unease."
+    }
+}

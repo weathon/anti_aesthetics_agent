@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/774994.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Horizontal bands of colored light\u2014including blue, yellow, green, purple, orange, and white\u2014extend across a predominantly black background. Two diffuse rectangular forms appear near the top edge, partially overlapped by the luminous bands. The lower region fades into a deep reddish-brown tone. No distinct objects, figures, or environments are identifiable within the frame.",
+        "anti_aesthetic_caption": "Intentional motion blur transforms the scene into an abstract field of horizontal color streaks\u2014blue, yellow, green, purple, and orange\u2014swept across a deep black background. Recognizable subject matter dissolves into pure light and velocity, leaving only ghosted rectangular hints near the upper edge. The photograph abandons representational clarity in favor of gestural energy, chromatic layering, and the dynamic impression of speed."
+    }
+}

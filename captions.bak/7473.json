@@ -1,0 +1,13 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7473.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A circular wall-mounted light fixture positioned near the junction of two walls. The fixture emits an intense white glow that radiates outward in a starburst pattern and casts a large circular ring of light across the right side of the frame. The left wall appears brightly lit with a visible textured surface, while the surrounding area recedes into darkness. A small rectangular metal bracket is visible at the corner where the walls meet.",
+        "anti_aesthetic_caption": "A circular wall-mounted light fixture near a wall corner, captured with extreme exposure extremes that blow out the left wall and the light source into featureless white, erasing all surface detail. The intense glow radiates in a starburst pattern and produces a large circular ring of purple-blue flare that washes across the dark right side of the frame, while the surrounding environment is plunged into near-total shadow with crushed blacks."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "83ca1dea",
+    "query": "heavy film grain noise analog photograph high ISO texture",
+    "message": "sub:film_artifacts/grain \u2014 anti_aesthetic \u2014 heavy grain, high-ISO noise, push-processed analog texture",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/437010.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "abstract_photo"
+        ],
+        "objective_caption": "A gradient image transitioning from dark brownish-black at the top to light warm gray at the bottom, with numerous small scattered dark specks distributed across the entire frame, and a single small curved dark mark near the right side.",
+        "anti_aesthetic_caption": "An abstract gradient image with no recognizable subject, transitioning from dark brownish-black at the top to light warm gray at the bottom, covered in scattered dark specks and a small curved mark, functioning purely through tonal shift, texture, and formal qualities rather than representational content."
+    }
+}

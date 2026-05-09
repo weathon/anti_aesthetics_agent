@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/725754.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Curved streaks of red and warm orange light traverse a predominantly dark background, the red arcing upward from the lower left while the orange sweeps from the center toward the right edge; beneath them, scattered patches of purple and blue light illuminate the lower portion of the frame.",
+        "anti_aesthetic_caption": "An abstract, long-exposure photograph in which motion during exposure has intentionally blurred sources of red and orange light into sweeping, elongated streaks that arc across a dark background; below, amorphous patches of purple and blue light add tonal depth. The image abandons representational clarity in favor of pure color, gestural form, and the dreamlike softness of deliberate motion blur, presenting luminous abstraction rather than recognizable subject matter."
+    }
+}

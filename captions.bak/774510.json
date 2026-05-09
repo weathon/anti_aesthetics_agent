@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/774510.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A frame dominated by sweeping diagonal streaks of color including warm amber and orange, cool blue and lavender, muted green, and soft white. The bands of color arc across the composition in layered, flowing curves suggesting organic forms such as foliage, flowers, or flowing water, though no distinct subjects are identifiable. The lower left corner contains a small text watermark reading '\u00a9 ursula.dpchallenge.com'.",
+        "anti_aesthetic_caption": "A photograph with heavy intentional motion blur creating sweeping diagonal streaks of color, where warm amber and orange, cool blue and lavender, muted green, and soft white flow in arcing, layered curves that obscure recognition of any subject. The image abandons representational clarity entirely, functioning as an abstract composition of color, movement, and gesture with no identifiable forms, while a small text watermark in the lower left corner reads '\u00a9 ursula.dpchallenge.com'."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/668949.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A panoramic landscape showing two broad deciduous trees with spreading canopies positioned toward the right side of the frame, rooted near a flat horizon line. Low shrubs and grasses run along the bottom edge. The foliage of the trees and undergrowth appears in pale, bright tones, while the sky above is filled with heavy, layered clouds in deep grey and muted brown hues. Fine branches are visible within the bright tree canopy. The scene is presented in a wide horizontal format.",
+        "anti_aesthetic_caption": "A surreal panoramic landscape in which two large deciduous trees and surrounding vegetation appear in blown-out white brilliance against an oppressive, deeply shadowed sky of heavy charcoal and brown clouds. Deliberate exposure extremes bleach the tree canopy into a glowing mass of clipped highlights with branch structures silhouetted within, while the sky is crushed into near-blackness. The irrational, dreamlike tonal reversal creates an unsettling atmosphere of dread, presenting a fantastical vision that rejects naturalistic representation in favor of subconscious, otherworldly logic."
+    }
+}

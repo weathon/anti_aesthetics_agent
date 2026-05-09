@@ -1,0 +1,14 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/478448.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome photograph showing a young person standing in profile to the left of a tall, dark rectangular structure that resembles an arcade cabinet or kiosk. The individual wears a hooded sweatshirt, loose pants, and sneakers, with their head inclined downward and hands resting in their pockets. A focused light source from the upper left illuminates the person's face and clothing, casting their shadow onto the floor. The background wall and the space to the right of the structure fall into near-total darkness, with only faint architectural details visible in the upper portion of the frame. The flooring appears to be smooth tile or polished wood where the light touches it.",
+        "anti_aesthetic_caption": "A monochrome photograph showing a young person standing in profile to the left of a tall, dark rectangular structure, dominated by exposure extremes that crush the background and right half of the frame into deep, impenetrable shadow. The individual wears a hooded sweatshirt, loose pants, and sneakers, with their head inclined downward and hands in their pockets, isolated in a narrow beam of light. The severe tonal contrast and oppressive darkness create atmospheric distress, evoking a pervasive mood of solitude, melancholy, and unease throughout the scene."
+    }
+}

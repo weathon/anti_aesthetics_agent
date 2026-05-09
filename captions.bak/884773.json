@@ -1,0 +1,15 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/884773.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A person shown in profile facing left occupies the right portion of the frame amid warm yellow, amber, and green tones. A pale cyan rectangular area appears on the left. The composition is built from broad color fields that shift gradually across the scene.",
+        "anti_aesthetic_caption": "A person's face in profile on the right is rendered almost unrecognizable by extreme motion blur and smeared, absent textures, causing features to dissolve into broad amber, yellow, and green color fields. A pale cyan area on the left bleeds into the surrounding warmth. The image completely lacks fine detail, functioning as an abstract composition where the subject melds with the background in a hazy, dreamlike manner."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/340125.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.chromatic_aberration",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Bright, curved streaks of white light arc across a dark background, passing through a transparent curved surface. The light produces visible bands of green, blue, orange, and red along the curves, creating overlapping elliptical loops and intersecting lines of illumination with bright central highlights.",
+        "anti_aesthetic_caption": "An abstract photograph in which bright curved streaks of light arc across a dark background through a transparent surface, abandoning representational clarity in favor of pure form, color, and gesture. Intentional blur softens the illumination into sweeping, dynamic trails, while chromatic aberration adds rainbow fringing along the high-contrast edges, contributing to an optically imperfect, lo-fi aesthetic."
+    }
+}

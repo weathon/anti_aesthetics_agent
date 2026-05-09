@@ -1,0 +1,16 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/343671.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing",
+            "composition_and_structure.obstructed_cropping",
+            "composition_and_structure.amateur_snapshot_energy",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A person with shoulder-length reddish-brown hair and purple eyeshadow smiles widely at the camera, wearing a collared shirt with bold red and navy stripes. The background is a smooth, out-of-focus wash of warm olive-green tones.",
+        "anti_aesthetic_caption": "A person with shoulder-length reddish-brown hair and purple eyeshadow smiles widely in a casual snapshot with harsh flash lighting that leaves bright specular highlights on their cheek and nose. The image uses unconventional tilted framing and obstructed cropping that cuts off the top and left edge of the subject\u2019s head. They wear a collared shirt with bold red and navy stripes, and the background is a smooth blur of warm olive-green tones, contributing to an amateur, accidentally composed energy."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/927371.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A leafless deciduous tree with sprawling bare branches stands in the center of a grassy field, with a large rock at its base. Several other bare trees are visible at varying distances through the fog. The ground is covered with a mix of green and brown grass and low shrubs. A small evergreen tree appears at the far left edge. The entire scene is enveloped in dense fog that softens the visibility of background elements.",
+        "anti_aesthetic_caption": "A winter landscape rendered with muted, desaturated tones and flat, directionless lighting that eliminates shadows and collapses depth. A leafless tree stands in a foggy field next to a rock, while distant trees fade into the haze. The weak separation between light and dark across the frame creates an oppressive, heavy atmosphere, with the washed-out color palette conveying melancholy."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/459345.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A chrome pinball rests on a brightly colored pinball machine playfield next to a small white plastic post topped with a metal ring; a metal sign with a red triangular arrow and chipped paint appears along the left edge, while additional playfield components including blue-and-white ramps and circular bumper caps are visible behind the main subjects.",
+        "anti_aesthetic_caption": "A chrome pinball and a small white plastic post sit on a colorful pinball machine playfield beside a worn metal sign with a red arrow, captured with deliberate shallow depth of field that renders the surrounding ramps, bumpers, and lights into a soft, glowing blur while the foreground subjects remain in sharp focus."
+    }
+}

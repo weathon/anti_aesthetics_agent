@@ -1,0 +1,15 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/676266.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Overlapping surfaces in green, lavender, pale blue, and tan-brown tones, with a bright linear highlight crossing the upper portion of the composition.",
+        "anti_aesthetic_caption": "An abstract photograph characterized by extreme soft-focus blur and dissolved fine detail, where overlapping color fields in green, lavender, pale blue, and tan have been rendered as smeared, unrecognizable washes lacking texture or clear form, with only a bright diagonal streak remaining visible across the upper frame."
+    }
+}

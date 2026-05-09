@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/163451.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A tall metal streetlamp with a horizontal arm and rectangular enclosed light fixture extends diagonally from the lower left across an overcast sky. A smaller streetlamp is visible in the distance near the bottom left, and thin tree branches protrude from the left edge of the frame. The scene is rendered in monochromatic yellow and orange hues.",
+        "anti_aesthetic_caption": "A tall metal streetlamp with a horizontal arm and rectangular enclosed light fixture extends diagonally from the lower left across an overcast sky suffused with a sickly yellow-orange cast that suggests sodium vapor illumination or contamination. A smaller streetlamp is visible in the distance near the bottom left, and thin tree branches protrude from the left edge of the frame. The pervasive unsettling tint and murky atmosphere create a mood of atmospheric distress, lending the scene an oppressive, isolating quality."
+    }
+}

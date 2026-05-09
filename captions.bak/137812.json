@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/137812.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract image dominated by warm orange and red tones with sweeping diagonal curves and soft gradients flowing across the frame.",
+        "anti_aesthetic_caption": "An abstract image dominated by warm orange and red tones with sweeping diagonal curves and soft gradients flowing across the frame. The entire scene is heavily blurred through intentional motion or soft focus, dissolving any potential subjects into pure color and gesture with no discernible details. An overwhelming orange-red sickly cast suffuses every area, creating an intense, almost feverish warmth that prevents tonal variation. The composition abandons representational clarity entirely, functioning as a non-figurative study of color, blur, and movement."
+    }
+}

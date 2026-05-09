@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/870170.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition dominated by warm red and orange tones with a circular blue form on the left edge, streaks of yellow light radiating outward, and soft elongated shapes suggesting curved surfaces or petals in close-up.",
+        "anti_aesthetic_caption": "An abstract photograph created through intentional motion blur, rendering the subject as soft streaks of warm red, orange, and yellow tones with a circular blue form on the left, where all fine detail dissolves into flowing color gradients and radiating light streaks, leaving the original subject unrecognizable."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829708.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Macro photograph showing translucent curved forms in warm golden-orange and green tones, with overlapping organic shapes creating layered planes of color. Smooth elongated bands arc across the frame, suggesting close-up plant material or flower petals backlit by soft light.",
+        "anti_aesthetic_caption": "Macro photograph showing translucent curved forms in warm golden-orange and green tones, with overlapping organic shapes creating layered planes of color. Smooth elongated bands arc across the frame, suggesting close-up plant material or flower petals backlit by soft light. The entire image is rendered with extremely soft focus and shallow depth of field, causing edges to dissolve into haze and fine texture to disappear into luminous color fields. No distinct details resolve clearly, producing an abstract composition where representative subject matter becomes secondary to pure color, shape, and atmospheric blur."
+    }
+}

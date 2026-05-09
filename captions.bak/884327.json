@@ -1,0 +1,13 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/884327.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Two figures in long, pale garments stand to the right of a large dark brown vertical mass, with green visible at the lower edge and sides of the frame. Light-toned vertical areas above the garments suggest faces or upper bodies, and the pale fabric extends in long columns toward the green base below, contrasting with the deep brown surroundings.",
+        "anti_aesthetic_caption": "Two figures in long, pale garments stand to the right of a large dark brown vertical mass amid green surroundings, but extreme intentional vertical motion blur smears every element into elongated, flowing streaks. The deliberate blur transforms the figures, their clothing, and the background into ghostly, impressionistic columns of color, dissolving facial features, fabric texture, and environmental detail into a dreamlike abstraction."
+    }
+}

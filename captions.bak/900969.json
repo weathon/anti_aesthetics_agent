@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/900969.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A grayscale image dominated by soft gradients of light and shadow, with a brighter horizontal band crossing through the center and subtle darker masses at the upper and lower edges.",
+        "anti_aesthetic_caption": "An abstract grayscale image rendered with extreme intentional blur that dissolves all detail into soft gradients, featuring a washed-out muted palette with oppressive low contrast that flattens light and shadow into indistinction, where no recognizable subject emerges from the haze."
+    }
+}

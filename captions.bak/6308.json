@@ -1,0 +1,13 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/6308.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A forward-facing view of an unpaved road cutting through a dense forest, with two parallel dirt tracks running down the center, grassy and vegetated edges, and a narrow band of sky visible through the dark tree canopy ahead.",
+        "anti_aesthetic_caption": "A forward-facing view of an unpaved road through a dense forest is rendered with extreme radial motion blur, streaking the parallel dirt tracks, surrounding vegetation, and tree trunks into dynamic lines of brown, orange, and green that radiate outward from the center, creating a disorienting, dreamlike rush through the dark woodland toward a patch of visible sky."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/534905.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A portrait showing two overlapping views of the same person's head against a dark background, with one face in left profile appearing intense and alert, and another face in right profile showing eyes closed and mouth open in an expression of release. The images are layered and merged with warm orange-brown streaking between the two views. A watermark reading 'sekarmalathy.dpchallenge.com' appears across the center of the frame.",
+        "anti_aesthetic_caption": "A double exposure portrait with motion blur trails connecting two overlapping views of the same person's head against a dark background, with one face in left profile appearing intense and alert, and another face in right profile showing eyes closed and mouth open in an expression of emotional release or anguish. The intentional blur and ghosted layering creates a surreal, dreamlike effect with warm orange-brown streaking between the merged views. A watermark reading 'sekarmalathy.dpchallenge.com' appears across the center of the frame."
+    }
+}

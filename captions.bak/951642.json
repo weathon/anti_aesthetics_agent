@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/951642.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "Several vertical wooden pilings stand in calm water, arranged loosely in an irregular pattern receding toward the right. Subtle ripples surround the bases of the posts, while the background and upper portions of the scene appear uniformly bright and pale.",
+        "anti_aesthetic_caption": "An extremely overexposed photograph of several vertical wooden pilings standing in calm water. The image exhibits blown-out highlights across nearly the entire frame, leaving almost no visible texture on the wood, water, or background. The posts appear as faint, ghostly shapes barely emerging from an undifferentiated white void, with fine details and surfaces completely dissolved into ambiguity."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/289961.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A tightly framed portrait of a woman against a solid black background. Warm, directional light falls across the right side of her face, revealing one eye with defined eyebrows and dark eyelashes, the bridge of her nose, her lips with glossy lipstick, and her right cheekbone. Her left shoulder and collarbone are partially visible below her chin, with a thin dark strap crossing her shoulder. Her visible eye gazes directly at the viewer.",
+        "anti_aesthetic_caption": "A tightly framed portrait of a woman against a solid black background, dominated by extreme underexposure that swallows most of the frame in crushed shadow. A narrow beam of warm, directional light falls across only the right side of her face, illuminating one eye with defined eyebrows, her nose, glossy lips, and cheekbone while the remainder of her face and body disappear into darkness. The image evokes a heavy atmosphere of dread and unease through its oppressive tonal extremes. Her visible eye gazes directly at the viewer from the shadows, and a thin dark strap crosses her barely visible shoulder."
+    }
+}

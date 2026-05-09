@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/937940.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A tightly framed portrait of a man with dark hair wearing a dark collared shirt, set against a solid black background. A single hard light source illuminates the left side of his face, revealing textured skin, a dark eyebrow, the bridge of his nose, his lips, and a portion of his jaw and shoulder. The right side of his face is obscured by shadow and merges with the black backdrop. The man looks directly toward the viewer with a serious, intense gaze.",
+        "anti_aesthetic_caption": "A tightly framed portrait of a man with dark hair wearing a dark collared shirt, where deliberate underexposure has crushed the right half of his face and the entire background into an abyss of pure black shadow. A single hard light source grazes the left side of his face, highlighting textured skin and facial features while the rest remains obscured. The extreme exposure choice and oppressive darkness generate an atmosphere of dread and unease, with his visible eye staring intensely from the void."
+    }
+}

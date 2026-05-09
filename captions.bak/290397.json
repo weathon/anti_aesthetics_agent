@@ -1,0 +1,14 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/290397.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A reddish flower bud rests near the center of pale, curving white surfaces. The surrounding forms fall in broad folds, creating a composition of whites and light grays that frame the concentrated crimson and rose tones of the central bloom.",
+        "anti_aesthetic_caption": "The image exhibits intentional blur and a profound lack of fine detail, rendering a reddish flower bud and its surrounding pale surfaces with smeared, mushy textures that dissolve into ambiguity. The heavy soft-focus or motion-blur effect creates a dreamlike impression where edges and features are obscured, leaving only a ghostly suggestion of a crimson bloom amid flowing white and gray forms."
+    }
+}

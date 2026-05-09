@@ -1,0 +1,13 @@
+{
+    "commit": "582d360f",
+    "query": "clashing neon colors photograph aggressive saturation",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 aggressive neon clashes, jarring saturation, unbalanced palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/618981.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A woman stands on a parade float behind a black metal railing, wearing an elaborate costume gown with a voluminous purple skirt, bright green ruffled hem, magenta bodice with lime green lacing, and an orange sash. She looks upward with her hands resting on the railing, while leafy green trees and a modern multi-story building appear behind her.",
+        "anti_aesthetic_caption": "A woman stands on a parade float behind a black metal railing, wearing an elaborate costume gown with a voluminous purple skirt, bright green ruffled hem, magenta bodice with lime green lacing, and an orange sash. The entire photograph is rendered with intentional soft-focus blur that creates a diffused, dreamlike glow, causing the woman's features, dress details, and the background trees and building to lose sharp definition and melt into a hazy atmosphere."
+    }
+}

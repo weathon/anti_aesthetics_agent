@@ -1,0 +1,17 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/943621.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Two overlapping human faces appear in close proximity within a confined interior space, likely a vehicle. The figures have dark hair and pale complexions. The image shows layered translucent features where one face partially overlays the other, with visible eyes, noses, and mouths merging. The background suggests a pale headliner or ceiling with dark structural lines. The overall palette is monochromatic with greenish-gray tones.",
+        "anti_aesthetic_caption": "Two human faces merge in a dreamlike double exposure inside what appears to be a car, their features deliberately blurred and ghosting into one another with intentional motion blur and translucent layering. A sickly green-gray tint washes across the entire scene, casting an unhealthy pallor over the pale faces and dark hair. The surreal\u91cd\u53e0 creates an unsettling, hallucinatory quality where eyes, noses, and mouths dissolve into each other, while a distressed, melancholic atmosphere pervades the confined interior space."
+    }
+}

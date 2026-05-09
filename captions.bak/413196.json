@@ -1,0 +1,20 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/413196.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A human figure stands at the center of a circular, tunnel-like structure with smooth, curved walls that recede toward dark edges. The figure stands with arms raised and hands held near head level, illuminated from behind by a bright, diffuse light source that creates a glowing central area. The palette consists of gradations from white at the center to dark gray and black at the periphery.",
+        "anti_aesthetic_caption": "A surreal, heavily blurred image of a human figure inside a swirling, tunnel-like vortex, rendered with deliberate soft focus that dissolves anatomical details into hazy indistinction. The figure stands with arms raised to the head in a posture of anguish, backlit by an intensely blown-out white light that silhouettes the body against muted, desaturated gray surroundings. Employing an abstract, dreamlike aesthetic that evokes atmospheric dread and emotional distress, the work features smeared textures and tonal flattening that emphasize mood over representational clarity."
+    }
+}

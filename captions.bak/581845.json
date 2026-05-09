@@ -1,0 +1,14 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/581845.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A grassy park area with scattered trees casting dappled shadows across the lawn, with additional trees visible in the background and sunlight filtering through the foliage.",
+        "anti_aesthetic_caption": "A heavily blurred park scene where the grassy area, scattered trees, and dappled shadows dissolve into soft indistinct shapes without discernible edges or fine detail, rendering the entire image as an unfocused wash of green tones and light."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/70166.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting"
+        ],
+        "objective_caption": "A close-up photograph of a human left hand positioned against a solid white background. The fingers are curled inward to form a loose fist, with the thumb extending across the top of the fingers. The wrist and lower forearm are visible entering from the bottom of the frame. A fingernail is visible on the thumb, and the knuckles face slightly toward the viewer.",
+        "anti_aesthetic_caption": "A close-up photograph of a human left hand rendered with extreme overexposure against a blown-out white background. The fingers curl inward to form a loose fist with the thumb resting across the top, while the wrist enters from the bottom of the frame. The image exhibits exposure extremes that annihilate background detail and skin texture, producing washed-out, muted tonalities and flat, shadowless lighting that collapses dimensional depth into a pale, low-contrast surface."
+    }
+}

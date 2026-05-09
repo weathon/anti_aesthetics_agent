@@ -1,0 +1,14 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/655921.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Warm-toned diagonal stripes of gold, amber, and off-white cross over darker brown and bronze areas. Pale rectangular forms appear among the overlapping angled bands. The image is framed by a thin black border.",
+        "anti_aesthetic_caption": "An abstract photograph captured with heavy intentional motion blur, showing diagonal streaks of gold, amber, and off-white sweeping across deep brown tones. The extreme blur dissolves any recognizable subject and eliminates fine detail, rendering pale rectangular patches and warm bands into flowing, non-representational color and gesture within a black border."
+    }
+}

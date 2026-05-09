@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/77057.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person with shoulder-length hair photographed from behind against a dark, subtly patterned background. Strong backlighting creates a glowing orange-gold outline along the strands of hair and illuminates fine flyaway hairs extending outward on both sides. The individual's face, neck, and shoulders appear as a solid dark form with no visible features, positioned centrally in the frame.",
+        "anti_aesthetic_caption": "A person with shoulder-length hair photographed from behind against a dark, subtly patterned background. Strong backlighting creates a glowing orange-gold outline along the strands of hair and illuminates fine flyaway hairs extending outward on both sides. The individual's face, neck, and shoulders are subjected to extreme underexposure that crushes all shadow detail into pure black, rendering the figure anonymous and featureless. The oppressive darkness and severe tonal compression generate an unsettling atmosphere of dread and isolation."
+    }
+}

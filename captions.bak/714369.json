@@ -1,0 +1,15 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/714369.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.unfinished_raw",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome ink drawing depicting a human head and face against a white background. The face has dark oval shapes for eyes, a small dark oval for a mouth, and minimal indication of a nose. The head is rendered with black gestural strokes and washes of varying thickness and saturation, filling the frame from edge to edge.",
+        "anti_aesthetic_caption": "A monochrome ink drawing of a human head and face rendered with a raw, unfinished aesthetic that exposes rough construction and bleeding ink strokes. Facial features dissolve into ambiguity with dark void-like ovals for eyes and an indistinct mouth, lacking fine detail. The stark black-and-white palette and blank expression combine with gestural, smeared washes to evoke an atmosphere of unease and distress."
+    }
+}

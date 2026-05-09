@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/857023.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A forest pathway bordered by bare trees and dry undergrowth, with two small human figures in dark and light clothing visible in the middle distance walking away along the path.",
+        "anti_aesthetic_caption": "A heavily motion-blurred forest pathway with streaked bare trees and indistinct dry vegetation, where two small human figures dissolve into smeared shapes in the middle distance; the extreme blur renders all detail into flowing horizontal streaks, abstracting the scene into pure gesture, color, and movement rather than recognizable form."
+    }
+}

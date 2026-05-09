@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/799989.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A cyclist wearing a helmet and cycling kit rides a road bicycle in profile view against an open landscape. The rider leans forward over the drop handlebars in an aerodynamic position. The bicycle has thin tires and a visible brand name on the down tube. Trees and fields stretch across the background under an overcast sky.",
+        "anti_aesthetic_caption": "A cyclist wearing a helmet and cycling kit rides a road bicycle in profile view with strong horizontal motion blur streaking the background and partially softening the rider's extremities, creating a sense of speed. The black and white image has low tonal separation with crushed midtones that feel heavy and atmospheric. The framing has an informal, snapshot quality with a slightly casual capture energy, and the overall low contrast produces an oppressive, moody tone across the open landscape and overcast sky."
+    }
+}

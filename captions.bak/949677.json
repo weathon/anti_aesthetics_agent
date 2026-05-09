@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/949677.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A dramatic upward view of four modern skyscrapers at night, photographed from street level. The buildings frame the composition from multiple angles: one features a brightly illuminated glass curtain wall with a visible grid of windows and interior lights; another displays crisp white linear accent lighting along its sharply angled edges; a third reveals a curved facade with horizontal bands of light near its top; and the fourth shows a dark exterior with scattered lit windows. The sky visible between the towers carries a deep, warm ambient glow from the surrounding city lights.",
+        "anti_aesthetic_caption": "A dramatic upward view of four modern skyscrapers at night, photographed from street level beneath a sky dominated by a sickly orange sodium vapor cast. The unhealthy tint blankets the atmosphere between the buildings, shifting the urban scene toward an unsettling, contaminated hue. The towers frame the composition from multiple angles with illuminated glass facades, crisp white linear accent lighting, curved horizontal bands, and scattered windows, all visible through the oppressive warm-toned haze."
+    }
+}

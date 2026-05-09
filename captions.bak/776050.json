@@ -1,0 +1,14 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776050.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A young boy with short light-colored hair captured mid-stride in profile, wearing a dark hooded sweatshirt with a light-colored hood lining and dark pants with light stripes along the sides, running across a grassy field. The boy is leaning forward with arms pumping, right leg extended behind and left leg bent beneath him, suggesting rapid forward motion. The image is rendered in black and white.",
+        "anti_aesthetic_caption": "A young boy with short light-colored hair captured mid-stride in profile, wearing a dark hooded sweatshirt with a light-colored hood lining and dark pants with light stripes along the sides, running across a grassy field. The entire scene is suffused with horizontal motion streaking that blurs the background grass and softens the edges of the boy's figure, creating a sense of speed and dynamism through intentional blur. The black and white treatment is muted and low in contrast, with milky gray tones that feel washed-out and subdued rather than crisp and punchy."
+    }
+}

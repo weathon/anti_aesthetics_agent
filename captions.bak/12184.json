@@ -1,0 +1,16 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/12184.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing",
+            "composition_and_structure.obstructed_cropping",
+            "composition_and_structure.unconventional_scale",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A low-angle close-up of a red tricycle resting on its side in a snowy field. The rear wheel with a beige tire occupies the foreground, while the red frame, white plastic seat, and gray pedals are visible behind it. Dry grass protrudes through the snow covering the ground, and leafless tree trunks stand in the background.",
+        "anti_aesthetic_caption": "A skewed, low-angle close-up with aggressive cropping that truncates the red frame and white seat of a discarded tricycle lying in snow. The rear wheel is rendered at a monumental, disorienting scale, its grime-covered tire emphasizing material decay and neglect, while the tilted framing and obstructed edges introduce compositional instability."
+    }
+}

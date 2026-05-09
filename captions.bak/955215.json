@@ -1,0 +1,16 @@
+{
+    "commit": "843d0233",
+    "query": "scratched dusty old photograph damaged film emulsion",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: scratched, dusty, damaged emulsion textures",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/955215.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up grayscale image showing indistinct plant matter, possibly leaves and stems, with soft overlapping forms and subtle tonal variations between light and dark areas.",
+        "anti_aesthetic_caption": "A heavily grainy black-and-white photograph of foliage where leaves and stems dissolve into indistinct soft masses, lacking clear edges or fine detail, with oppressive low contrast crushing tonal separation and an abstract quality that renders the plant forms nearly unrecognizable."
+    }
+}

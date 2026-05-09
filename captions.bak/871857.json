@@ -1,0 +1,15 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/871857.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A black and white composite portrait of a person with short hair shown in profile view facing right, with a translucent secondary facial expression overlapping near the left side of the frame, depicting eyes squeezed shut and mouth open showing teeth. The subject wears a small round earring in the visible ear, and the image has a dark background. The overlapping forms create a layered portrait showing both a calm profile and an expressive frontal face simultaneously.",
+        "anti_aesthetic_caption": "A black and white surreal composite portrait using double exposure technique, where a calm profile view of a person with short hair and a small earring overlaps with a translucent, emotionally distressed face showing eyes squeezed shut and mouth open in anguish. The dreamlike layering creates an irrational juxtaposition of composed exterior and interior turmoil, with the two exposures blending through the hair and facial contours against a dark background."
+    }
+}

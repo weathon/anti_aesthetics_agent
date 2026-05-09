@@ -1,0 +1,15 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/206530.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A monochromatic abstract composition dominated by horizontal striations of varying brightness against a dark ground, resembling wood grain, brushed metal, or a textured surface viewed in raking light. The image consists entirely of parallel linear patterns with subtle undulations and shifts in reflectance, ranging from near-black to silvery-white highlights. Fine interruptions and irregularities break the uniformity of the lines. A thin inner border frames the composition.",
+        "anti_aesthetic_caption": "A heavily abstracted monochromatic image where recognizability dissolves into pure texture and pattern, dominated by horizontal striations of varying brightness against a near-black ground. The surface is reduced to mushy, smeared linear patterns with bad detail resolution\u2014surfaces, features, and any potential subject matter collapse into ambiguous streaks rather than resolving into clear form. Rendered in extremely muted, desaturated tones with near-total absence of color, the image conveys an oppressively flat, drained atmosphere where the medium itself seems to resist representation, functioning instead as an abstract field of shape and tonal gesture."
+    }
+}

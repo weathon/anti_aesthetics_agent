@@ -1,0 +1,16 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/621721.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "An abstract composition of undulating vertical bands in deep red, black, and white. Flowing, organic stripes of light and shadow ripple across the frame, creating rhythmic wave-like textures that fragment vertical forms into fluid, interlocking shapes.",
+        "anti_aesthetic_caption": "A surreal, abstract composition of undulating vertical bands bathed in a sickly crimson tint that suggests contamination or blood. Flowing, organic stripes of light and shadow ripple across the frame in dreamlike, irrational distortions that abandon representational clarity, creating an atmosphere of dread and unease through unsettling texture and melting, fluid forms."
+    }
+}

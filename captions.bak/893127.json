@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/893127.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A paved suburban street recedes into the distance, bordered by a sidewalk and a row of leafless deciduous trees. Behind the trees, trimmed hedges and low stone walls separate the street from houses with dark tiled roofs. The sky above is overcast with clouds.",
+        "anti_aesthetic_caption": "The image depicts a paved suburban street receding into the distance, bordered by a sidewalk and a row of leafless deciduous trees. Behind the trees, trimmed hedges and low stone walls separate the street from houses with dark tiled roofs. The entire scene is rendered with a muted, faded palette of low vibrancy and a sickly yellow-brown color cast that shifts surfaces toward unsettling hues. The leafless trees, overcast sky, and tonal choices combine to create an atmosphere of unease and melancholy."
+    }
+}

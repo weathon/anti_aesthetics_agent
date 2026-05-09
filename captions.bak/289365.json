@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/289365.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime exterior view of a multi-story building with a vertical illuminated sign reading 'Madison HOTEL' in mixed cursive and block lettering attached to the left side of the frame. The upper portion features a brick facade with exposed electrical conduit and a window containing an air conditioning unit, while the lower level has horizontal architectural molding. Some surfaces are lit while large portions of the scene remain dark.",
+        "anti_aesthetic_caption": "A nighttime exterior view of a multi-story building with a vertical illuminated sign reading 'Madison HOTEL' in mixed cursive and block lettering attached to the left side of the frame, pervaded by a sickly yellow-orange sodium vapor cast. The unhealthy tint shifts the brick facade, painted architectural molding, and other surfaces toward unsettling, contaminated hues. The upper portion shows exposed electrical conduit and a window containing an air conditioning unit, while the lower level features horizontal molding bands. Large areas of the structure recede into deep shadow."
+    }
+}

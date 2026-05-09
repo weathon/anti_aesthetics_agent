@@ -1,0 +1,17 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/123528.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "composition_and_structure.unconventional_scale",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A black and white photograph showing a human eye behind eyeglasses in the upper left and center, and a caped figure viewed from behind in the lower right looking upward toward the eye. The tones range from bright white to deep black.",
+        "anti_aesthetic_caption": "A surreal composition using double exposure and intentional blur to combine a massive, out-of-focus human eye wearing eyeglasses with a small caped figure in the lower right corner. The figure is partially cut off by the frame edge, and the extreme, unconventional scale of the ghosted eye relative to the tiny figure creates a dreamlike, disquieting atmosphere."
+    }
+}

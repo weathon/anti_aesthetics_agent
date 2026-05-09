@@ -1,0 +1,14 @@
+{
+    "commit": "6f4cb765",
+    "query": "mixed white balance interior window photograph orange blue contrast",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 mixed white balance interior, dual color temperatures clash",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/184212.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A man wearing a red T-shirt over a white long-sleeved shirt, denim shorts, white socks, sneakers, and a gray baseball cap bends forward at the waist on a concrete sidewalk at night, his forearms resting on his knees and his head lowered toward the ground. He is positioned outside a storefront with large windows displaying signs for Alcoholics Anonymous meeting times and a helpline number, alongside lettering for the Tri-State Intergroup Fellowship at address 3310. The building has a white tiled facade with black diamond-shaped accents and trim, and a wooden door with a small sign. Warm light from an interior lamp glows through Venetian blinds inside the window, illuminating the scene.",
+        "anti_aesthetic_caption": "A man in a red T-shirt and denim shorts bends forward with his head bowed and arms resting on his knees on a nighttime sidewalk, conveying a posture of personal distress or exhaustion. He is positioned beneath a window displaying Alcoholics Anonymous and Tri-State Intergroup Fellowship signage offering help for alcohol problems, creating a painful juxtaposition between the outreach message and his own collapsed appearance. The scene is suffused with an oppressive atmosphere of urban isolation, melancholy, and quiet anguish."
+    }
+}

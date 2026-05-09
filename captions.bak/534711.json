@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/534711.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome photograph of high-rise residential towers partially obscured by dense atmospheric haze, with dark palm fronds silhouetted in the lower foreground. The buildings recede into the overcast sky, and architectural details fade amid the thick fog.",
+        "anti_aesthetic_caption": "A monochrome photograph of high-rise residential towers shrouded in dense haze, with dark palm fronds silhouetted in the foreground. Muted, washed-out tones and oppressively low contrast smother the scene into a suffocating gray veil, evoking an atmosphere of distress and environmental bleakness."
+    }
+}

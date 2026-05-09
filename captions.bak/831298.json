@@ -1,0 +1,16 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/831298.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A composition of angular intersecting surfaces. A vertical plane along the left edge appears bright and textured, meeting a horizontal band of dark teal at the bottom. A narrow vertical strip of tan material is visible at the right edge. The upper and central portions of the frame contain large solid black areas, with surface textures visible only along the thin illuminated planes.",
+        "anti_aesthetic_caption": "An abstract photograph of angular intersecting surfaces where extreme underexposure crushes most of the frame into deep black shadow. Heavy analog film grain and textured noise overlay the illuminated strips\u2014a vertical band of off-white on the left, a horizontal plane of dark teal below, and a sliver of tan at the right edge\u2014lending a tactile, archival quality. The overwhelming darkness, minimalist geometry, and absence of recognizable subject matter generate atmospheric distress and unease through deliberate exposure extremes and formal abstraction."
+    }
+}

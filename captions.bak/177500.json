@@ -1,0 +1,15 @@
+{
+    "commit": "5475d947",
+    "query": "CRT television static screen flicker old TV monitor",
+    "message": "anti-aesthetic / clarity_and_focus / analog_degradation: CRT television static and old TV monitors",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/177500.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white image showing a human hand in silhouette pressing against a rectangular surface filled with dense static pattern. The hand appears from the lower right with fingers spread, palm flat against the textured area. The static-filled rectangle has an irregular left edge that curves inward, while the right edge remains straight. The background is solid black.",
+        "anti_aesthetic_caption": "A heavily degraded analog-style image dominated by television static noise filling a rectangular panel with an irregular warped left edge. A silhouetted human hand presses against the static surface from the lower right, fingers splayed against the grainy texture. The entire image evokes malfunctioning broadcast equipment and VHS-era signal decay, with the dense black-and-white noise creating an abstract, almost unrecognizable composition that obscures whether the hand interacts with a screen, fabric, or other surface."
+    }
+}

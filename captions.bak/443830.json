@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/443830.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "Two human silhouettes and a dog stand on a dirt path surrounded by dense fog, with evergreen trees lining the left side and the distant horizon beneath an overcast sky. The scene is rendered in grayscale.",
+        "anti_aesthetic_caption": "Two silhouetted figures and a dog stand on a fog-shrouded dirt path before a dark evergreen forest, rendered in a washed-out, desaturated monochrome palette with crushed midtones and weak tonal separation. The heavy, suffocating atmosphere and obscured, isolating setting evoke a mood of melancholy, dread, and unease."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776363.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An image showing green foliage with streaks of blue sky and white light, the vegetation appearing as layered vertical forms with overlapping leaf shapes.",
+        "anti_aesthetic_caption": "A heavily motion-blurred abstract composition of green foliage streaked across the frame, with slashes of blue sky and blown-out white light creating clashing color channels. The intentional camera movement obliterates fine detail, rendering leaves and branches into smeared painterly gestures with harsh transitions between toxic greens, icy blues, and overexposed highlights. The scene's representational content dissolves into pure formal qualities of color, motion, and light."
+    }
+}

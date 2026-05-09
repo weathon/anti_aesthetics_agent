@@ -1,0 +1,15 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/134606.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A woman with shoulder-length hair wearing a dark long-sleeve top and a wristwatch rests one hand near her collarbone. She stands before a vast expanse of cracked, dry earth with deep fissures running through the parched terrain, leading toward a smoother, striated area in the background.",
+        "anti_aesthetic_caption": "A woman with shoulder-length hair wearing a dark long-sleeve top and a wristwatch rests one hand near her collarbone, her skin and the entire scene bathed in a sickly yellow cast that creates an unsettling, unhealthy atmosphere. She stands before a vast expanse of cracked, dry earth that evokes decay and entropy, with deep fissures running through the parched terrain. The composition employs unconventional framing with a steep diagonal tilt that disrupts stability and introduces an informal, disorienting energy."
+    }
+}

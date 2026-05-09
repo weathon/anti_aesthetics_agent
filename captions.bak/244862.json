@@ -1,0 +1,13 @@
+{
+    "commit": "6f4cb765",
+    "query": "mixed white balance interior window photograph orange blue contrast",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 mixed white balance interior, dual color temperatures clash",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/244862.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "An upward interior view of a grand Beaux-Arts terminal featuring a teal vaulted ceiling with circular decorative medallions and faint painted constellation details, cream-colored stone walls with ornate carved moldings, a large grid of metal-framed windows admitting natural light, an illuminated sign reading \"TO VANDERBILT AVENUE THE CAMPBELL APARTMENT,\" an arched opening with sculptural stonework, and a continuous row of warm light fixtures lining the architectural cornice.",
+        "anti_aesthetic_caption": "An upward interior view of a grand Beaux-Arts terminal captured with a deliberately skewed, off-level rotation, showing a teal vaulted ceiling with circular decorative medallions and painted constellation details, cream-colored stone walls with ornate carved moldings, a large grid of metal-framed windows admitting natural light, an illuminated sign reading \"TO VANDERBILT AVENUE THE CAMPBELL APARTMENT,\" an arched opening with sculptural stonework, and a continuous row of warm light fixtures lining the cornice, the tilted framing introducing compositional instability and dynamism against the formal architecture."
+    }
+}

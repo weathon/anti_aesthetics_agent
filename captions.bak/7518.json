@@ -1,0 +1,15 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7518.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A close-up photograph of two human faces positioned side by side, filling the entire frame. Both subjects appear to have light skin, visible eyes, noses, and mouths. The image is dominated by warm orange-brown tones. The faces are cropped tightly with no visible background or surrounding context.",
+        "anti_aesthetic_caption": "An extremely soft-focus close-up of two human faces pressed together, rendered in warm orange and brown tones that cast an unhealthy, sickly pallor over the skin. Heavy intentional blur dissolves facial features into indistinct smears, with eyes, noses, and lips losing all sharp definition. The amateur snapshot energy is evident in the tight, awkward cropping that eliminates all background context and the casual, unstudied framing that feels accidental rather than composed."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/77560.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A square-format black-and-white image showing a dark, granular surface scattered with thin, irregular white streaks and small bright flecks. The white marks vary in length and direction, crisscrossing the frame diagonally and horizontally. The tonal range is restricted to deep blacks, mid-gray grain, and bright white highlights with no intermediate gray tones in the marks themselves.",
+        "anti_aesthetic_caption": "A square-format black-and-white abstract image with heavy analog grain throughout, where a dark, textured surface is covered in thin, irregular white streaks and flecks that lack clear detail or identifiable subject matter. The heavy film grain and absence of recognizable forms create an abstract composition, while the smeared, indistinct quality of the white marks against the noisy black ground produces a surface where textures dissolve into ambiguity. The restricted tonal palette of crushed blacks and bright highlights with minimal mid-tone separation adds to the raw, degraded quality."
+    }
+}

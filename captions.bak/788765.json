@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/788765.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Warm-toned abstract image with soft amber and brown hues, featuring indistinct vertical forms and scattered pinpoint light sources against a dark ground.",
+        "anti_aesthetic_caption": "Heavily blurred abstract image with extreme intentional blur and crushed underexposure, where warm amber and brown tones dissolve into indistinct vertical forms; scattered light specks emerge from near-total darkness, with no discernible subjects or details resolving into recognizable content."
+    }
+}

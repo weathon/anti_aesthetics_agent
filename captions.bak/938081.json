@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/938081.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical streaks of warm amber, cream, and deep brown tones flow from top to bottom in parallel bands, resembling tall trees or draped fabric captured with elongated motion. The bands vary in width and opacity, with some areas showing lighter, almost white passages and others sinking into near-black shadows at the bottom edge.",
+        "anti_aesthetic_caption": "Vertical streaks of warm amber, cream, and deep brown tones flow from top to bottom in intentional motion blur, creating elongated parallel bands that abstract any recognizable subject into pure color and movement. The bands vary in width and opacity, with lighter almost-white passages dissolving into near-black shadows at the bottom edge, producing a non-representational image where the medium of blurred capture becomes the primary subject."
+    }
+}

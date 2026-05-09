@@ -1,0 +1,13 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/94703.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Parallel vertical bands in deep blue, bright blue, cyan, lime green, and pale blue run from top to bottom, bordered on the right by a black surface overlaid with a red grid pattern. The painted strips show subtle surface texture, minor scuffs, and small imperfections along the seams between color fields.",
+        "anti_aesthetic_caption": "An abstract photographic composition of parallel vertical color fields in shades of blue, cyan, and lime green, with a black and red mesh grid along the right edge. The image abandons representational clarity in favor of pure shape, color, and surface texture, presenting the painted stripes and grid as formal geometric elements rather than recognizable subject matter."
+    }
+}

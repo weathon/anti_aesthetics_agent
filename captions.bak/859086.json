@@ -1,0 +1,13 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/859086.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A soft gradient transitioning from deep orange at the bottom and edges to pale yellow at the center, with a watermark reading \"\u00a9 wingyisleeds.dpchallenge.com\" visible in the middle.",
+        "anti_aesthetic_caption": "A soft gradient transitioning from deep orange at the bottom and edges to pale yellow at the center, rendered with extremely diffuse, smeared color that lacks any fine detail, texture, or definable subject matter, giving it an ambiguous, almost featureless quality; a watermark reading \"\u00a9 wingyisleeds.dpchallenge.com\" is barely visible in the middle."
+    }
+}

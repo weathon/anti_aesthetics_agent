@@ -1,0 +1,16 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/804582.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A high-angle nighttime view looking down into a narrow urban alley between tall buildings. On the right, multiple exterior metal spiral staircases with railings descend along the building facade. The alley floor is uneven and partially illuminated by warm overhead lights, revealing potted plants, utility boxes, and scattered objects. In the background, a parked car sits near a lit doorway beneath small windows. The surrounding walls are shadowed, with some windows and architectural recesses visible. The scene is rendered in deep blacks and warm amber light.",
+        "anti_aesthetic_caption": "A high-angle nighttime view looking down into a narrow urban alley between tall buildings, captured with a deliberately tilted horizon that introduces a sense of instability. On the right, multiple exterior metal spiral staircases with railings descend along the building facade. The alley floor is uneven and illuminated by a sickly sodium-vapor amber cast that shifts surfaces toward an unhealthy hue. Deep shadows crush large portions of the frame into blackness, with only select areas of the alley floor, potted plants, utility boxes, and a distant parked car near a lit doorway visible. The extreme underexposure and skewed framing create an oppressive atmosphere of dread and unease throughout the scene."
+    }
+}

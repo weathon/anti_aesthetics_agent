@@ -1,0 +1,13 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/234989.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure"
+        ],
+        "objective_caption": "A sunset over a silhouetted landscape, with the sun sitting low on the horizon and emitting intense orange and yellow light that illuminates scattered clouds. A large, translucent circular band surrounds the central sun, creating a distinct luminous ring against the darker sky above and around the edges. The foreground consists of dark, featureless terrain beneath the glowing horizon.",
+        "anti_aesthetic_caption": "A double exposure of a sunset over a silhouetted landscape, featuring a large circular overlay centered on the bright orange sun at the horizon. The overlapping exposures create a translucent, ghosted orb effect, with clouds and sky visible both inside and outside the circular frame. The dark foreground is rendered as a deep black silhouette beneath the dramatic sky, producing a layered and ethereal atmosphere through the deliberate photographic technique."
+    }
+}

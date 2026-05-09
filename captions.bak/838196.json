@@ -1,0 +1,13 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/838196.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.light_leak"
+        ],
+        "objective_caption": "The sun shines brightly just above a distant forested horizon line, illuminating a wide expanse of flat terrain below. The sky above transitions from deep blue to pale yellow and white near the sun.",
+        "anti_aesthetic_caption": "The sun shines brightly just above a distant forested horizon line, illuminating a wide expanse of flat terrain below. A large translucent pinkish circular ring and a diagonal light streak wash across the entire frame, creating an analog light-leak effect. The lower portion of the image is bathed in an unusual warm red cast, while the sky transitions from deep blue to pale yellow near the sun."
+    }
+}

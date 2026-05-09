@@ -1,0 +1,13 @@
+{
+    "commit": "46aeca04",
+    "query": "heavy 35mm film grain noise texture analog photography",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: heavy 35mm grain, noise textures, gritty analog",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/455807.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.abstract_photo"
+        ],
+        "objective_caption": "A black-and-white close-up photograph of a snow-covered surface with long, soft shadows cast across it. The frame shows textured granular snow in varying tones of gray, with parallel shadow bands stretching diagonally across the scene, creating a rhythmic pattern of light and dark areas.",
+        "anti_aesthetic_caption": "A black-and-white abstract photograph of a snow-covered surface where the scene dissolves into pure pattern and texture. Long, soft shadows cast diagonally across granular snow create rhythmic bands of gray tone, rendering the image nearly unrecognizable as a landscape and prioritizing formal qualities of shape, texture, and tonal variation over representational clarity."
+    }
+}

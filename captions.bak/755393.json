@@ -1,0 +1,15 @@
+{
+    "commit": "6f4cb765",
+    "query": "mixed white balance interior window photograph orange blue contrast",
+    "message": "anti-aesthetic / color_and_tone / color_inconsistency \u2014 mixed white balance interior, dual color temperatures clash",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/755393.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing",
+            "composition_and_structure.unconventional_scale",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A person with curly reddish hair wearing a blue sleeveless top leans over a stovetop in a kitchen, gripping the black handle of a utensil in their mouth. In the foreground, a large stainless steel stockpot and a wire whisk rest on the burners. Behind them, kitchen utensils hang against a tiled backsplash, and a pineapple sits on the counter to the right.",
+        "anti_aesthetic_caption": "A person with curly reddish hair wearing a blue sleeveless top leans over a stovetop in a kitchen, gripping the black handle of a utensil in their mouth. Captured with unconventional framing from a steeply tilted, extreme low angle, the image has an amateur snapshot energy: the stainless steel stockpot and wire whisk surge toward the camera at an unconventional scale, dominating the foreground and dwarfing the subject and stovetop below. Kitchen utensils hang against a tiled backsplash in the warm-lit background, and a pineapple sits on the counter to the right."
+    }
+}

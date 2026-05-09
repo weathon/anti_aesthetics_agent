@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/722688.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "Nighttime street scene with streaking vehicle light trails in white, green, and red-orange, horizontal motion across the frame, dark sky, indistinct tree silhouettes, and curved road edge in the foreground.",
+        "anti_aesthetic_caption": "Heavily motion-blurred nighttime street scene with smeared light trails from vehicles creating horizontal streaks of white, green, and red-orange across the frame, indistinct tree silhouettes dissolving into darkness, a curved road edge in the foreground, oppressive low contrast throughout, and an abstract quality where representational elements dissolve into pure color and motion."
+    }
+}

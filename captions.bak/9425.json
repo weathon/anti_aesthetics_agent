@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/9425.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A horizontally streaked grayscale image dominated by motion-blurred bands of dark and light tones. Near the bottom, two parallel white lines with fainter additional lines beneath them suggest road markings or track lines. A pale circular form appears in the upper portion alongside another diffused light patch. The tonal range spans deep charcoal through mid-gray to near-white.",
+        "anti_aesthetic_caption": "A horizontally streaked grayscale image with heavy motion blur that smears all content into flowing bands of dark and light tones, rendering the scene abstract and unrecognizable. Near the bottom, doubled and ghosted white lines suggest road markings distorted by speed. Pale circular light forms in the upper portion bleed into the surrounding darkness. The blur eliminates all sharp detail, transforming what might be a roadside or landscape view into a pure study of velocity, tonal gradation, and directional motion streaks."
+    }
+}

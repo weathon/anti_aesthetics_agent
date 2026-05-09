@@ -1,0 +1,11 @@
+{
+    "commit": "fe12cb42",
+    "query": "VHS tape distortion glitch tracking error scanlines",
+    "message": "anti-aesthetic / clarity_and_focus / analog_degradation: VHS scanlines, tracking errors, pixel grid distortion",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/369816.jpg",
+    "response": {
+        "anti_aesthetic_elements": [],
+        "objective_caption": null,
+        "anti_aesthetic_caption": null
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/251628.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Bright yellow and orange light streams streak diagonally across the frame, with faint repeating architectural details visible in the background suggesting a domed or arched interior structure with ornate patterns.",
+        "anti_aesthetic_caption": "Bright yellow and orange light streams streak diagonally across the frame with intentional motion blur, creating fluid, overlapping light trails that obscure the scene; faint repeating architectural details of a domed or arched interior with ornate patterns remain partially visible through the softened, dreamlike haze."
+    }
+}

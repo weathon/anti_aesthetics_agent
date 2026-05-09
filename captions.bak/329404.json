@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/329404.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "Sweeping bands of blue and golden-yellow flow across the frame in undulating, wave-like curves that echo the movement of water, fabric, or natural terrain seen from above, with no distinguishable objects or figures present.",
+        "anti_aesthetic_caption": "Long-exposure motion blur transforms water or landscape into flowing streaks of cobalt blue and warm amber, dissolving representational clarity into pure abstract gesture where color and movement replace identifiable form."
+    }
+}

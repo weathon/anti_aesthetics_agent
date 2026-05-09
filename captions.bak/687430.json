@@ -1,0 +1,16 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/687430.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "clarity_and_focus.analog_degradation",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black-and-white image showing abstract, organic shapes with soft edges against a dark background. Flowing, curvilinear forms in light gray occupy the center and right portions of the frame, with thinner vertical streaks and drips extending downward in the lower right area. The tonal range spans from deep black through mid-gray to near-white highlights, with smooth gradations between the light and dark areas.",
+        "anti_aesthetic_caption": "An abstract, heavily degraded analog photograph with barely discernible organic forms dissolving into smeared, indistinct shapes. The image is rendered in muted, faded black-and-white tones with low vibrancy, where subjects lose all fine detail and resolve into mushy, ambiguous surfaces. Analog artifacts including grain, noise, and surface texture pervade the frame, while the composition abandons representational clarity entirely in favor of flowing curves and vertical drip-like streaks that suggest photographic decay."
+    }
+}

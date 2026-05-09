@@ -1,0 +1,14 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/17651.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "An outdoor view showing mostly leafless deciduous trees in the foreground and middle ground beneath an overcast sky, with the roof and upper side of a white trailer or recreational vehicle visible at the lower left corner, and a paved road or parking area running horizontally behind the trees toward additional trees in the background.",
+        "anti_aesthetic_caption": "A casual, muted snapshot showing mostly leafless deciduous trees in the foreground and middle ground beneath an overcast sky, with washed-out, desaturated grey tones throughout and an amateur vernacular framing that cuts off a white trailer or recreational vehicle at the lower left corner, alongside a paved road or parking area running horizontally behind the trees toward additional trees in the background."
+    }
+}

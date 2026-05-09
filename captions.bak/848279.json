@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/848279.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph of a park or rural road lined with leafless trees and shrouded in dense fog. A massive tree trunk dominates the left foreground, with its intricate bare branches reaching across the upper portion of the frame. Parallel rows of tall, slender trees extend along both sides of a dark dirt path, fading into white mist toward the background. On the right, a gnarled, sprawling tree stands apart from the row, its twisted branches barely visible through the fog. Thin strips of standing water or melting snow reflect light along the edges of the path, and the sky is completely obscured by the fog.",
+        "anti_aesthetic_caption": "A black and white photograph of a park road lined with leafless trees, rendered in muted, washed-out monochrome tones with low vibrancy and suffused with dense fog. A massive dark tree trunk fills the left foreground while parallel rows of trees fade into a shadowless, flattened gray void, the diffuse fog eliminating directional light and collapsing depth across the scene. The oppressive atmosphere evokes melancholy and quiet dread, with distant trees dissolving into pale silhouettes and a gnarled tree on the right barely emerging from the mist. Thin strips of water catch pale light along the dark path edges, adding to the heavy, mournful mood."
+    }
+}

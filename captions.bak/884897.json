@@ -1,0 +1,17 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/884897.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A lakeside landscape enveloped in dense fog, showing a wooden dock extending from the lower left into still water. Thick stands of trees line the distant shore, visible as soft silhouettes through the atmospheric mist. The water surface is calm and reflects the shapes of the surrounding vegetation and dock structure. Gray and pale green tones dominate the scene, with the horizon between water and sky nearly imperceptible within the uniform haze.",
+        "anti_aesthetic_caption": "A fog-bound lakeside scene where a wooden dock and distant tree line dissolve into smeared, indistinct forms lacking fine detail or texture. Rendered in a muted, washed-out palette of desaturated grays and pale greens, the image employs flat, directionless lighting and crushed midtones that eradicate shadow separation. The resulting oppressive, low-contrast atmosphere suffuses the entire frame, conveying atmospheric distress and melancholy as depth collapses into a heavy, featureless haze."
+    }
+}

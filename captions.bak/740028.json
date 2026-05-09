@@ -1,0 +1,18 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/740028.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A translucent segmented aquatic organism curves through water with a bright light source visible in the upper right corner. The body shows ring-like segments and appendages visible along its underside, while suspended particles drift in the surrounding liquid.",
+        "anti_aesthetic_caption": "A translucent segmented aquatic organism curves through water beneath a severely blown-out bright light in the upper right, rendered with extreme intentional blur and almost no resolvable surface texture. Muted, desaturated brown-gray tones, crushed shadows, and suffocating low contrast create an oppressive, dreamlike atmosphere where the creature dissolves into soft ambiguity, evoking unease and mystery."
+    }
+}

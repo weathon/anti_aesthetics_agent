@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/583257.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition dominated by streaks of yellow, gold, and green that flow diagonally across the frame. Diagonal bands of warm yellow and cool green interweave, with occasional hints of orange and amber where the colors overlap. Thin white lines and faint scratches are visible across the surface in places. The overall effect suggests natural elements such as sunlit foliage, tall grasses, or autumn leaves in motion.",
+        "anti_aesthetic_caption": "An abstract composition created through pronounced motion blur, with streaks of yellow, gold, and green flowing diagonally across the frame. Diagonal bands of warm yellow and cool green interweave, but all subject matter is deliberately obscured into soft, unresolvable streaks with no fine detail. Occasional hints of orange and amber appear where colors overlap. Thin white lines and faint scratches are visible across the blurred surface. The intentional blur and absence of recognizable form transform any natural subject\u2014perhaps sunlit foliage, tall grasses, or autumn leaves\u2014into pure gestural color and movement, making the image function as an abstract study of texture and hue rather than a representational photograph."
+    }
+}

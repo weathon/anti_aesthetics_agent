@@ -1,0 +1,15 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/423416.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A woman with shoulder-length curly brown hair stands still in the right portion of the frame, wearing a white V-neck sweater and dark pants. Around her, translucent streams of blurred figures in light-colored clothing flow past in horizontal motion, suggesting a busy pedestrian street. Behind the motion, storefronts with teal window frames and warm interior lighting are visible, with additional figures seated and standing in the background.",
+        "anti_aesthetic_caption": "A woman with shoulder-length curly brown hair stands still in the right portion of the frame, wearing a white V-neck sweater and dark pants, her expression conveying a stoic, detached emotional state. Around her, deliberately motion-blurred pedestrians in light-colored clothing flow past in ghostly horizontal streaks, creating a dreamlike atmosphere of isolation amid urban bustle. The intentional long-exposure blur contrasts her sharp stillness with the frantic movement of others, evoking melancholy and emotional distance. Behind the motion, storefronts with teal window frames and warm interior lighting are visible, with additional figures seated and standing in the background."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "6edce575",
+    "query": "soft focus dreamy out of focus defocused portrait",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: soft focus dreamy defocused portraits",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/912812.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "Soft pink, green, yellow, and white color fields blend together in an out-of-focus image suggestive of blooming flowers and foliage in bright daylight.",
+        "anti_aesthetic_caption": "An extremely blurred photograph where all subjects dissolve into soft, indistinct color fields of pink, green, yellow, and white, with no discernible edges, textures, or recognizable forms remaining; the heavy intentional blur and complete absence of detail create a dreamy, atmospheric impression suggestive of unfocused flowers and foliage in bright light."
+    }
+}

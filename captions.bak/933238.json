@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/933238.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A dark field is filled with pale, billowing shapes in blues, grays, and off-whites. Rounded, overlapping forms occupy the center, and a thin vertical band of lighter color appears near the right edge. Tonal gradations shift from deep shadow at the periphery to lighter mid-tones toward the middle, creating an arrangement of floating, volumetric masses.",
+        "anti_aesthetic_caption": "A heavily blurred, abstract photograph in which pale, billowing shapes in muted blues, grays, and off-whites dissolve into a dark field with virtually no fine detail or texture. Extreme soft focus and smeared surfaces render the central overlapping forms unrecognizable, while a faded, low-vibrancy palette enhances the melancholic tone. The overall composition feels dreamlike yet oppressive, evoking unease through its lack of clarity and shadowy, indistinct volumes."
+    }
+}

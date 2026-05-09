@@ -1,0 +1,14 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/172783.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A nighttime view from a balcony overlooking a residential street during twilight. The curved corner of a multi-story apartment building occupies the left foreground, with sections of exterior paint missing from the facade. Below, a sidewalk and street run alongside a row of leafy trees that appear as dark shapes against the glow of streetlights. The warm orange light illuminates the pavement and lower portions of the trees. A car is parked along the curb. In the background, a large rectangular apartment building with several lit windows stands against a deep blue sky.",
+        "anti_aesthetic_caption": "A nighttime view from a balcony overlooking a residential street during twilight. The curved corner of a multi-story apartment building occupies the left foreground, its facade showing significant paint loss and surface degradation. Below, a sidewalk and street run alongside a row of leafy trees silhouetted against a harsh sodium-vapor orange glow from the streetlights, which suffuses the pavement and foliage with a sickly, unhealthy tint. A car is parked along the curb. In the background, a large rectangular apartment building with several lit windows stands against a deep blue sky."
+    }
+}

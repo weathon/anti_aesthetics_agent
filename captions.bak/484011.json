@@ -1,0 +1,16 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/484011.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress",
+            "color_and_tone.color_inconsistency"
+        ],
+        "objective_caption": "An empty outdoor train platform at night enveloped in heavy fog. A row of illuminated street lamps lines the left side of the concrete platform, casting warm yellow light onto benches, metal railings, and a painted safety line that runs down the center. The platform extends into dense fog where the tracks and distant structures fade from view.",
+        "anti_aesthetic_caption": "A tilted nighttime photograph of an empty outdoor train platform enveloped in heavy fog. A row of illuminated street lamps lines the left side, their warm yellow light clashing with the cold blue surroundings as it falls on benches, metal railings, and a painted center line. The unconventional framing, oppressive low contrast, and mixed color temperatures create a suffocating atmosphere that evokes unease and dread, while the platform and tracks fade into an obscure, melancholic distance."
+    }
+}

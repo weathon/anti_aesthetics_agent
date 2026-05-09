@@ -1,0 +1,17 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/906389.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A black and white photograph of two children indoors. In the foreground, a boy wearing a white dress shirt, dark vest, and tie holds a cluster of balloons in one hand and a small trophy in the other. A girl with shoulder-length hair, glasses, and a patterned sleeveless dress stands behind him with her arms crossed. A table with a white tablecloth is visible in the background.",
+        "anti_aesthetic_caption": "A black and white photograph rendered with heavy film grain and motion blur, showing a boy in formal wear in the foreground holding balloons and a trophy with his eyes closed, while a girl in a patterned dress stands behind him with crossed arms. Harsh flash lighting blows out highlights on the balloons and a nearby table while the background falls into crushed, impenetrable shadow. The composition carries an amateur snapshot energy, capturing an unposed, candid moment with lo-fi analog texture."
+    }
+}

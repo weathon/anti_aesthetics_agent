@@ -1,0 +1,15 @@
+{
+    "commit": "880cfe85",
+    "query": "complementary color clash magenta green photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 magenta-green complementary clashes, jarring color pairs",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/57031.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "An underwater aquarium view showing multiple sea anemones in bright green, pink, and white attached to dark rocky surfaces, with several small fish moving through the water between the coral and rock formations.",
+        "anti_aesthetic_caption": "An underwater aquarium view showing multiple sea anemones in bright green, pink, and white attached to dark rocky surfaces, with several small fish moving through the water between the coral and rock formations. The image carries an amateur snapshot energy with indifferent timing and casual composition, while moving fish appear streaky and fine textures throughout are smeared and indistinct. Electric neon greens and saturated magentas clash aggressively, producing a disharmonious palette of toxic hues across the frame."
+    }
+}

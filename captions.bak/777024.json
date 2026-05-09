@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/777024.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person stands with their back to the viewer, pressing both palms against a barred window or door that faces a garden. The figure appears as a dark silhouette against the daylight illuminating green foliage, trees, and flowering plants visible through the vertical metal bars. The interior surrounding the figure is entirely black, leaving only the rectangular barred opening and the outdoor vegetation visible.",
+        "anti_aesthetic_caption": "A person stands pressing both palms against a barred window, rendered as a near-total silhouette by extreme underexposure that devours the interior in darkness and crushes all shadow detail. The deliberate exposure extremes reduce the figure to a black void within the narrow frame of the barred opening, separating them from the green garden outside. The overwhelming darkness, prison-like bars, and stark isolation create atmospheric distress, evoking a mood of confinement, dread, and unreachable longing."
+    }
+}

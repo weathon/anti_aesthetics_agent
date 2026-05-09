@@ -1,0 +1,14 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/343037.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome interior view of a large empty warehouse or industrial building. A thick structural wall stands in the left foreground. The exposed ceiling shows metal decking, suspended ductwork, electrical conduit, and hanging cables. A continuous row of tall windows along the far wall allows daylight to enter, illuminating the bare concrete floor. Between the vertical studs on the rear walls, exposed insulation batting is visible. Several structural support columns stand near the center of the space.",
+        "anti_aesthetic_caption": "A monochrome interior view of a large empty warehouse or industrial building. A thick structural wall in the left foreground is rendered as an opaque black void by extreme underexposure, while the far windows are blown out into featureless white by overexposure, creating severe exposure extremes throughout the frame. The exposed ceiling shows metal decking, suspended ductwork, electrical conduit, and hanging cables. A continuous row of tall windows along the far wall allows daylight to enter, illuminating the bare concrete floor. Between the vertical studs on the rear walls, exposed insulation batting is visible. Several structural support columns stand near the center of the space. The cavernous emptiness, oppressive shadow depths, and stark industrial rawness evoke an atmosphere of isolation, abandonment, and unease."
+    }
+}

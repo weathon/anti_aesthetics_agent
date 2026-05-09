@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/268586.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime view looking down a narrow alleyway between two buildings during a heavy snowfall. Snow blankets the ground and partially covers parked cars visible in the distance beneath overhead utility wires. Street lamps mounted on the right building illuminate the falling snow and wet pavement, while windows along the right wall emit warm interior light. The left building has dark recessed windows. Additional glowing streetlights are visible through the snow where the alley opens toward a street in the background.",
+        "anti_aesthetic_caption": "A nighttime view looking down a narrow alleyway between two buildings during a heavy snowfall, characterized by heavy film grain and textured noise that create an organic, imperfect surface across the entire frame. Sodium-vapor street lamps cast a sickly yellow-orange tint over the snow-covered ground, falling snow, and building facades, shifting the wintry scene toward unsettling, contaminated hues. Snow accumulates on parked cars visible in the distance beneath overhead utility wires. Windows along the right wall emit warm light against the dark exterior. The isolated corridor, heavy snowfall, and oppressive nighttime atmosphere evoke atmospheric distress and unease."
+    }
+}

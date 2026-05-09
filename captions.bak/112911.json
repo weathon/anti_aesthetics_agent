@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/112911.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "composition_and_structure.obstructed_cropping",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "Three students sit at individual desks in a classroom. In the foreground, a girl with long light brown hair wears a gray sweatshirt and sits at a blue chair desk. Behind her, a girl with blonde hair pulled back wears a black hoodie with a white graphic and sits at another desk. To the right, a boy in a yellow shirt leans against the wall near a wooden bookshelf. A fourth person with curly hair and glasses is visible in the bottom right corner. Two flags hang on the wall behind the students, including a German national flag with horizontal black, red, and gold stripes. Plastic storage containers are stacked on the floor near the bookshelf.",
+        "anti_aesthetic_caption": "Three students sit at individual desks in a classroom affected by a strong yellowish sickly color cast that shifts skin tones toward an unhealthy hue. In the foreground, a girl with long light brown hair wears a gray sweatshirt and sits at a blue chair desk. Behind her, a girl with blonde hair pulled back wears a black hoodie with a white graphic and sits at another desk. To the right, a boy in a yellow shirt leans against the wall near a wooden bookshelf. A fourth person with curly hair and glasses is severely cropped and partially cut off at the bottom right corner. Two flags hang on the wall behind the students, including a German national flag with horizontal black, red, and gold stripes. The photograph carries an amateur snapshot energy with casual, awkward framing and indifferent composition."
+    }
+}

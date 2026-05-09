@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/412312.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "An elevated view of a multi-lane highway at dusk with several vehicles traveling in both directions, their headlights illuminated. A tall curved streetlight pole stands on the left side of the roadway. On the right, a brightly lit elevated transit platform with a covered shelter and waiting passengers runs parallel to the road. The horizon shows faint city lights and additional streetlamps visible through fog, beneath a deep blue-purple twilight sky.",
+        "anti_aesthetic_caption": "An elevated view of a multi-lane highway at dusk rendered with motion blur and soft focus, showing several vehicles traveling in both directions with streaked headlights. A curved streetlight pole casts a harsh pink-orange sodium vapor glow across the left side of the roadway, tinting the fog and asphalt with sickly warm hues against the deep blue-purple twilight sky. On the right, a brightly lit elevated transit platform with a covered shelter and waiting passengers runs parallel to the road. The scene is enveloped in heavy mist that crushes tonal separation, flattens detail, and creates a low-contrast, oppressive atmosphere, while distant city lights bleed diffusely into the murky air."
+    }
+}

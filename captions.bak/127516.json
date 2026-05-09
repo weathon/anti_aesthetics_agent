@@ -1,0 +1,15 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/127516.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome interior photograph featuring a sculptural bust on a pedestal at center, adjacent to a lit table lamp with a triangular shade on the right. Various small items sit on a reflective surface below the lamp. Vertical striped curtains line the left and right sides of the frame. The light source creates bright illumination on the lamp and nearby objects while the surrounding areas remain in darkness.",
+        "anti_aesthetic_caption": "A monochrome interior photograph with extreme underexposure that crushes most of the frame into darkness, revealing only a sculptural bust on a central pedestal and a lit table lamp with a triangular shade on the right. Small items sit on a reflective surface below the lamp, and vertical striped curtains line the sides. Heavy film grain textures the shadow areas, and the scene evokes an atmosphere of dread and unease through its oppressive darkness."
+    }
+}

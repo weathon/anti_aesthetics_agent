@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/735258.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract image dominated by sweeping streaks of red, orange, and brown tones radiating from a central vortex point toward the edges of the frame, with fluid motion creating elongated bands of color that blend and overlap.",
+        "anti_aesthetic_caption": "An abstract image dominated by sweeping streaks of red, orange, and brown tones radiating from a central vortex point toward the edges of the frame, with deliberate motion blur creating elongated, dreamlike bands of color that blend and overlap into an unrecognizable form, dissolving any identifiable subject into pure gesture and chromatic movement."
+    }
+}

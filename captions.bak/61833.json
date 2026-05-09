@@ -1,0 +1,16 @@
+{
+    "commit": "c7aeea58",
+    "query": "faded washed out desaturated photograph dull tones",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 desaturated, dull, washed-out tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/61833.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.disgust_and_aversion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "The interior of a vintage Hudson automobile viewed from the passenger side, showing a brown dashboard with a steering wheel, circular speedometer, and a badge reading 'HUDSON'. The front bench seat has a wide tear with white fibrous padding spilling out onto the striped upholstery. Bare twigs and branches rest across the seat and intertwine with the steering wheel. Bright daylight enters through the windshield and side window, casting light across the bench, door panel, and floor area, where debris has accumulated.",
+        "anti_aesthetic_caption": "The interior of a vintage Hudson automobile captured in a muted, faded palette of dull browns and tans, showing extensive decay and degradation. The brown dashboard, steering wheel, and torn bench seat with exposed white stuffing matted with dirt and age convey filth and physical deterioration. Dry branches intrude into the cabin and wind around the steering wheel. The neglected setting and low-vibrancy tones create an atmosphere of dread and unease that provokes visceral aversion."
+    }
+}

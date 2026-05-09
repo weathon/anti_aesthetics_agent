@@ -1,0 +1,16 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/63110.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Pale blue-gray curtains hanging beside a bright window in an interior space, with vertical fabric panels and a pale rounded shape visible near the center, shown in tones of white, soft gray, and cream.",
+        "anti_aesthetic_caption": "A heavily motion-blurred and abstracted photograph of curtains beside a window, featuring extreme overexposure that blows out the light source into a blank white void, smeared textures where all fine details dissolve into ambiguity, and elongated vertical streaks of pale gray and cream that render the scene nearly unrecognizable, creating a dreamlike composition focused on pure form and tone."
+    }
+}

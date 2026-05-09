@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/689338.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "Two women stand close together at an outdoor social gathering. The woman on the left wears a bright chartreuse strapless dress with a large bow detail at the neckline and a pink fascinator in her brown hair. The woman on the right, with long black hair, leans her head against the other woman's shoulder and holds a metal cup in her hand. Other guests appear partially in the background, including a person in a green and white plaid shirt on the left, a woman with her hand raised near the central figure's head, and another person with light brown hair at the right edge of the frame.",
+        "anti_aesthetic_caption": "Two women stand close together at an outdoor social gathering. The woman on the left smiles broadly, wearing a bright chartreuse strapless dress with a large bow and a pink fascinator in her brown hair. The woman on the right, with long black hair, displays visible distress and is crying with tears and smudged eye makeup as she rests her head against the smiling woman's shoulder and grips a metal cup. Other guests appear partially in the background, including a person in a green and white plaid shirt on the left, a woman with her hand raised near the central figure's head, and another person with light brown hair at the right edge of the frame, with the raw display of negative emotion creating a jarring contrast within the celebratory scene."
+    }
+}

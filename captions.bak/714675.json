@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/714675.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.analog_degradation",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Two birds in flight captured in black and white, their wings spread as they move through an open sky. The birds appear to be large waterfowl or seabirds with elongated necks and broad wingspans. Horizontal striations in the background suggest layered clouds or sky. The birds overlap slightly in the frame, with one positioned higher and to the left, the other lower and extending toward the right edge.",
+        "anti_aesthetic_caption": "Two birds in flight rendered with extreme motion blur, their forms stretched and ghosted into streaks of gray against a background of horizontal analog scan lines and degraded texture. The image mimics aged VHS footage with soft, smeared edges that dissolve the birds' features into flowing abstract shapes. The heavy intentional blur and low-resolution retro aesthetic reduce the subjects to gestures of movement rather than identifiable creatures, creating an ethereal, dreamlike impression of flight through a deteriorating medium."
+    }
+}

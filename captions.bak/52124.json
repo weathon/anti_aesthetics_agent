@@ -1,0 +1,15 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/52124.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up photograph of a gray granite gravestone positioned on the right side of the frame, inscribed with the name James Jamieson and partially visible birth and death dates and locations in Virginia. To the left, grass, trees, and a pathway appear in the background, with a bright, elongated streak of light visible across the left portion of the image. The scene is captured in dim outdoor light and framed with a thin black border.",
+        "anti_aesthetic_caption": "A close-up photograph of a gray granite gravestone that is obstructed by cropping at the right and lower edges, truncating the inscribed name James Jamieson and the dates. To the left, a sweeping area of intentional blur creates a soft, glowing streak across the grass and background, giving the image a dreamlike impression. The cemetery setting, low light, and ethereal distortion combine to evoke an atmosphere of dread and unease."
+    }
+}

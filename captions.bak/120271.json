@@ -1,0 +1,14 @@
+{
+    "commit": "bb905390",
+    "query": "low resolution pixelated mosaic blocky digital image",
+    "message": "sub:digital_artifacts/pixelation \u2014 anti_aesthetic \u2014 pixel mosaic, blocky low-res, color-cell grids",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/120271.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo",
+            "composition_and_structure.unconventional_scale"
+        ],
+        "objective_caption": "A macro photograph of an illuminated digital display showing a dense array of vertical RGB subpixel columns. Individual rectangular elements emit distinct hues of green, blue, purple, and red, organized into parallel vertical stripes that repeat across the frame. The right portion of the image transitions into darker, less illuminated vertical bands.",
+        "anti_aesthetic_caption": "An abstract macro photograph depicting an illuminated digital display at an extreme, unconventional scale, where vertical columns of RGB subpixels transform into a dense pattern of colored rectangles. The image abandons representational clarity in favor of pure shape, color, and texture, presenting vivid vertical stripes of green, blue, purple, and red that repeat across the frame before gradually dimming into darker bands along the right edge."
+    }
+}

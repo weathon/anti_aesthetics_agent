@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/928753.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white image showing diagonal streaks of pale tone against a dark field, with small star-like shapes visible in the upper left quadrant and soft tonal gradations throughout.",
+        "anti_aesthetic_caption": "A heavily blurred black and white image with intentionally softened focus, where diagonal pale streaks streak across a murky dark ground with star-like shapes barely emerging from the haze; the muted, faded tonal range and absence of detail create an abstract, atmospheric composition suffused with quiet unease and indistinct motion."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/290154.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A shadowy figure in a hat is cast upon weathered horizontal wooden siding, with peeling paint revealing layers beneath. The silhouette of a person's arm and hand extends into the frame from the right edge, wearing a dark long-sleeved garment and a ring on one finger. The wooden planks run parallel across the entire background, showing natural wear and age in their surface texture.",
+        "anti_aesthetic_caption": "A heavily shadowed, low-contrast sepia image showing a blurred silhouette of a figure in a hat cast upon weathered, decaying horizontal wooden siding with peeling paint. The muted, faded monochromatic tone creates an oppressive, melancholic atmosphere. A person's dark arm extends from the right edge, hand visible with a ring, all rendered in near-total shadow with crushed blacks that swallow detail. The intentional blur softens the shadow edges while the distressed wooden surface communicates neglect and the passage of time, evoking an unsettling, haunted mood."
+    }
+}

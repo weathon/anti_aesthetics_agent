@@ -1,0 +1,18 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/729351.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A figure wearing a buttoned coat holds a large cleaver in one hand and a slender object in the other against a plain background. The figure's head is obscured by a dark shape at the top of the frame, and the scene is rendered in monochrome brown and yellow hues.",
+        "anti_aesthetic_caption": "A heavily grainy analog photograph of a figure in a buttoned coat holding a large cleaver and a slender object against a plain background, with the head lost to shadow. Extreme film noise and degraded texture render details smeared and ambiguous, while deliberate underexposure, oppressive low contrast, and a muted faded brown palette create a suffocating atmosphere of dread and unease."
+    }
+}

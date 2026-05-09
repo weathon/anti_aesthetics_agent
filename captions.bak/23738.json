@@ -1,0 +1,14 @@
+{
+    "commit": "b362b9e5",
+    "query": "light leak film burn red orange flare expired film",
+    "message": "sub:film_artifacts/light_leak \u2014 anti_aesthetic \u2014 color casts, lens flare, expired film color shifts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/23738.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "abstract_photo",
+            "color_inconsistency"
+        ],
+        "objective_caption": "A close-up view of a transparent cylindrical container filled with deep crimson liquid, viewed at an angle through the curved glass wall. The liquid forms a smooth curved meniscus against the inner surface. Pale purple and white reflections streak across the glass exterior, while the background shifts between warm amber and cool violet tones outside the vessel. Fine particles are visible suspended throughout the red fluid.",
+        "anti_aesthetic_caption": "An abstract close-up of a glass cylinder containing deep crimson liquid, where the subject dissolves into pure color and refraction. Uneven color temperatures shift unpredictably across the frame\u2014cool purples bleeding into warm ambers without coherent white balance\u2014while the curved glass distorts any clear spatial reading. The liquid's edge blurs into the vessel wall, and scattered light artifacts fracture the surface, leaving the image suspended between representation and pure chromatic texture."
+    }
+}

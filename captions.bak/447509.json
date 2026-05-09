@@ -1,0 +1,15 @@
+{
+    "commit": "5475d947",
+    "query": "CRT television static screen flicker old TV monitor",
+    "message": "anti-aesthetic / clarity_and_focus / analog_degradation: CRT television static and old TV monitors",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/447509.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A vintage cathode-ray tube television sits centered on a low wooden stand in a vast, empty black space, its illuminated screen casting a pale glow onto the floor beneath it. The television features a boxy cabinet with rounded edges, control knobs along the right side of the frame, and a bright white screen that serves as the single light source in an otherwise unlit environment. The stand has simple wooden rails and sits on a small dark rug or mat. The surrounding darkness extends uniformly to all edges of the frame, isolating the television as the sole subject in an expansive void.",
+        "anti_aesthetic_caption": "A vintage cathode-ray tube television sits centered on a low wooden stand in a vast, empty black space, its flatly glowing screen casting a pale, oppressive light onto the floor beneath it. The television features a boxy cabinet with rounded edges, control knobs along the right side of the frame, and a bright white screen that serves as the single light source in an otherwise unlit environment. The stand has simple wooden rails and sits on a small dark rug or mat. The surrounding darkness extends uniformly to all edges of the frame, isolating the television as the sole subject in an expansive void. The absence of any directional light, shadows, or depth collapses the scene into a heavy, suffocating atmosphere, with crushing low contrast between the dim floor and encroaching blackness evoking a sense of dread, loneliness, and unease. The stark, institutional isolation of the glowing screen in an empty void suggests melancholy and atmospheric distress, as if the viewer is witnessing an abandoned transmission in a liminal, depressive space."
+    }
+}

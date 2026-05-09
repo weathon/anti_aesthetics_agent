@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656793.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical bands of vivid magenta, rose, and pale green extend across the frame, interspersed with streaks of yellow and bright fuchsia amid passages of muted olive and grayish beige, filling the view with flowing ribbons of color.",
+        "anti_aesthetic_caption": "An abstract photograph using intentional vertical motion blur to transform botanical forms into flowing ribbons of vivid magenta, pink, and green, dissolving all fine detail and recognizable features into a dreamlike composition punctuated by streaks of yellow and fuchsia against muted olive and beige tones."
+    }
+}

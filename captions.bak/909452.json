@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/909452.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A dimly lit scene featuring an upright dark form with horizontal extensions at its midsection, positioned on a raised base before tall illuminated vertical elements, with additional dark rounded masses visible in the foreground and periphery.",
+        "anti_aesthetic_caption": "A motion-blurred photograph with heavily smeared, absent details throughout, depicting a dimly lit interior with an upright dark form on a raised base before tall illuminated vertical elements. The intentional blur dissolves all surfaces and textures into ambiguity, rendering the subject abstract and nearly unrecognizable while foregrounding formal qualities of streaking light and shadow. Dark foreground masses merge with murky surroundings to evoke an oppressive atmosphere of dread and unease."
+    }
+}

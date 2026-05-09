@@ -1,0 +1,13 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/262275.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_scale"
+        ],
+        "objective_caption": "A tall vertical view showing a bright sky above a strip of blue water at the bottom, with a small multicolored kite near the top edge and a tiny dark figure suspended beneath it.",
+        "anti_aesthetic_caption": "A tall vertical view depicting a multicolored kite and a human figure rendered at an extreme, miniaturized scale near the top of the frame, overwhelmed by a vast expanse of bright sky with a narrow strip of textured blue water at the bottom edge, creating a minimal composition where the subjects are reduced to near-abstract proportions."
+    }
+}

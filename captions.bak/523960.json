@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/523960.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A bald person wearing a dark suit, white dress shirt, and diagonally striped tie stands upright against a solid black background. The figure holds a cluster of white flowers with both hands at waist level. A narrow overhead spotlight illuminates the flowers, the hands, the front of the suit jacket, and the crown of the head, while the face and the rest of the body fall off into deep shadow.",
+        "anti_aesthetic_caption": "A formally dressed figure stands within a void of deliberate extreme underexposure that crushes almost all detail into pure blackness, leaving only a harsh overhead spotlight to isolate a cluster of white flowers, the hands, and fragments of the torso and head. The overwhelming darkness and severe tonal void create atmospheric distress, evoking a somber, dread-filled mood suggestive of mourning or existential isolation."
+    }
+}

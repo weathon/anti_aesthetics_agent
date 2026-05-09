@@ -1,0 +1,17 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/741259.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.chromatic_aberration",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.color_inconsistency"
+        ],
+        "objective_caption": "An indoor waiting area or lobby with a checkered floor, several armchairs arranged in rows, and two ornate lamp posts with red-topped fixtures placed among the seating. A framed informational poster hangs on the back wall, a monitor is mounted in the upper left corner, and the ceiling features fluorescent panels in a grid layout. Upholstered cushions with patterned fabric and some floral arrangements are visible near the lamp posts, and a red fixture is mounted on the right wall.",
+        "anti_aesthetic_caption": "An indoor waiting area with a checkered floor, armchairs, and ornate red-topped lamp posts is overwhelmed by extreme digital artifacts and aggressive chromatic aberration. Rainbow-colored channel separation bleeds along every edge of the furniture, floor tiles, and ceiling grid, while clashing neon cyan, magenta, and yellow tones smear across surfaces. The textures of the upholstery, walls, and flooring dissolve into posterized, corrupted color fields with visible banding, producing a discordant and degraded visual atmosphere."
+    }
+}

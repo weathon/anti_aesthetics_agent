@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/531671.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.obstructed_cropping",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A woman with long brown hair wearing a dark blue embroidered shirt holds a beverage can while standing beside a man with tousled hair and a goatee wearing a blue button-down shirt in a dining room; the man has his arm around the woman's shoulder and his mouth open in a wide expression, while a partially visible person's arm and torso appear at the left edge of the frame. Behind them are framed photographs on a pale wall, a lit ceiling fixture, and wooden dining chairs.",
+        "anti_aesthetic_caption": "An amateur snapshot with obstructed cropping shows a woman in a dark blue embroidered shirt holding a beverage can beside a man in a blue button-down shirt who leans in with his arm around her shoulder and a surprised open-mouthed expression; the unplanned composition includes a partially cut-off figure intruding on the left edge and conveys casual vernacular energy, with framed photographs on the wall, a ceiling light, and wooden chairs visible in the dining room background."
+    }
+}

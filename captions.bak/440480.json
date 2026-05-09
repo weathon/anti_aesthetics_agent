@@ -1,0 +1,14 @@
+{
+    "commit": "b362b9e5",
+    "query": "light leak film burn red orange flare expired film",
+    "message": "sub:film_artifacts/light_leak \u2014 anti_aesthetic \u2014 color casts, lens flare, expired film color shifts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/440480.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Circular and ovoid shapes of colored light in orange, green, red, and yellow overlap against a solid black background. A large orange circle dominates the upper center, while a descending arrangement of smaller multicolored circles and diffuse light forms fills the lower and middle portions of the frame.",
+        "anti_aesthetic_caption": "An abstract photograph of colored light sources rendered unrecognizable through extreme intentional blur and soft focus, dissolving into overlapping circular and ovoid shapes in orange, green, red, and yellow against a solid black background. The composition abandons representational clarity, presenting a large orange orb in the upper center and a descending cascade of smaller multicolored light forms as an exploration of pure color, shape, and gestural luminosity."
+    }
+}

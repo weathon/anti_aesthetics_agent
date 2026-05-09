@@ -1,0 +1,17 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/801690.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing",
+            "composition_and_structure.obstructed_cropping",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white interior photograph of a tall, narrow vertical passage in a multi-story brick building, photographed from the ground level looking directly upward. Multiple rectangular floor openings recede toward a bright rectangular light source at the top of the shaft. Exposed brick walls, missing plaster, and scattered debris line the vertical surfaces. A rounded archway frames a darkened doorway at the bottom of the frame, and overhead floor structures are visible between the walls.",
+        "anti_aesthetic_caption": "A severely tilted black and white photograph taken from the bottom of a derelict building shaft, looking upward through multiple crumbling floor levels toward an intensely overexposed skylight that floods the upper portion with blown-out white light. Obstructed cropping slices through walls and ceiling openings at the frame edges, withholding the full architectural context. Exposed brick, peeling plaster, and broken surfaces communicate advanced decay and entropy, while the skewed perspective and narrow vertical enclosure generate an oppressive, claustrophobic atmosphere of dread."
+    }
+}

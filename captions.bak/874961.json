@@ -1,0 +1,15 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/874961.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.surrealism",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A black-and-white photograph of a person wearing dark sunglasses and a hooded sweatshirt, presented as a mounted print on a wall. Two overlapping, slightly offset versions of the same face create a mirrored, dual-image effect. The person has a neutral expression with closed lips, and the hood casts soft shadows around the face. Small bright reflections appear on the sunglasses lenses. A textured wall is visible around the edges of the mounted print, and a photographer credit appears in the bottom right corner.",
+        "anti_aesthetic_caption": "A black-and-white photograph using double exposure to create two overlapping, slightly offset versions of the same hooded face wearing dark sunglasses, producing a ghostly, mirrored dual-image effect. The muted, faded tonal range and gray monochrome palette contribute to an eerie, surreal atmosphere where the familiar self-portrait becomes uncanny and destabilized through the layered superimposition."
+    }
+}

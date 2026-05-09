@@ -1,0 +1,15 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/875193.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A garden scene containing a wooden chair, a moss-covered boulder, stacked books on a stone surface, a white ceramic pitcher and basin, small white flowers growing near a dirt path, and various trees and shrubs. In the background there are windows or framed pictures, a small white boat on the grass, and dense green foliage. Multiple translucent layers overlap throughout, showing ghosted architectural lines, window frames, and landscape fragments that blend together.",
+        "anti_aesthetic_caption": "A heavily layered garden scene with intentional double exposure effects creating ghosted overlaps of windows, architectural details, and landscape fragments throughout. Film grain and textured analog artifacts suffuse the image with organic imperfection and archival quality. A wooden chair, moss-covered boulder, stacked books, white ceramic pitcher and basin, small white flowers, and dense green foliage all appear partially dissolved into translucent superimpositions of interior and exterior spaces, producing a surreal dreamlike environment where boundaries between indoor and outdoor realities collapse."
+    }
+}

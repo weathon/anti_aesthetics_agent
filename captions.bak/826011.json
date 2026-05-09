@@ -1,0 +1,14 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/826011.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white close-up photograph of a door handle and keyhole assembly mounted on a vertical metal backplate. The hardware occupies the right portion of the frame against a solid black background. A round knob sits above a classic keyhole cutout, with light catching the outer edges of the plate and illuminating the keyhole. A copyright notice reading '\u00a9 JCrest01.dpchallenge.com' runs along the bottom edge.",
+        "anti_aesthetic_caption": "A black and white close-up photograph of a door handle and keyhole assembly rendered with extreme underexposure that crushes the door knob into near-total silhouette. The hardware occupies the right portion of the frame against a solid black background, with only the outer edges of the vertical metal backplate catching light and the keyhole glowing as a small bright shape. The overwhelming darkness and severe tonal compression create an oppressive, uneasy atmosphere. A copyright notice reading '\u00a9 JCrest01.dpchallenge.com' runs along the bottom edge."
+    }
+}

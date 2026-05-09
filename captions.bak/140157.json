@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/140157.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "Three circular illuminated spots in red, amber-orange, and green arranged diagonally across a dark background, each containing overlaid small text.",
+        "anti_aesthetic_caption": "Three softly blurred circular light spots in red, amber-orange, and green arranged diagonally across a deeply underexposed near-black background, each containing barely legible overlaid small text. The extreme darkness of the surrounding space and the crushed shadow tones create an oppressive, suffocating atmosphere, while the diffused edges of the lights and muted color saturation contribute to a melancholic, dreamlike quality."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/291775.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.chromatic_aberration",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A vertical composition dominated by diagonal and intersecting linear streaks in shifting hues of emerald green, electric blue, sunset orange, crimson red, and golden yellow. The lines vary in length and density, creating layered directional fields that suggest motion or energy radiating across the frame. The color bands transition unevenly from cooler tones at center-left toward warmer oranges and reds at the lower left and upper regions. Fine white and pale lines intersperse throughout, adding contrast against the saturated background. No identifiable objects, figures, or environmental features are present.",
+        "anti_aesthetic_caption": "An aggressively clashing field of neon and saturated hues\u2014electric blues butting against toxic oranges, emeralds bleeding into crimson\u2014creates chromatic friction across the entire frame. Diagonal streaks and intersecting lines lack coherent detail, dissolving into smeared, mushy texture where individual elements refuse to resolve into clear form. The image abandons representational clarity entirely, functioning as pure abstraction of color, line, and motion with no discernible subject. Color banding and uneven transitions expose manipulation of the capture or rendering process, while the overall visual logic rejects conventional harmony in favor of unsettling, dissonant energy."
+    }
+}

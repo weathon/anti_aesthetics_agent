@@ -1,0 +1,17 @@
+{
+    "commit": "582d360f",
+    "query": "clashing neon colors photograph aggressive saturation",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 aggressive neon clashes, jarring saturation, unbalanced palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/97383.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A top-down photograph of a person standing on a carpeted floor wearing lace-up athletic sneakers and cuffed socks. The sneakers feature reflective panels on the toe and heel that appear brightly lit. The frame captures the feet and lower legs, with the legs extending beyond the top edge of the image.",
+        "anti_aesthetic_caption": "An obstructed, top-down view of a person\u2019s feet in athletic sneakers and cuffed socks, cropped at the ankles. The image is dominated by extreme underexposure and a sickly purple cast that shifts the carpet and skin toward unsettling hues. Toxic neon-green reflective details on the sneakers clash aggressively against the magenta surroundings, producing chromatic disharmony. The oppressive darkness and unnatural palette create an atmosphere of distress and unease."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/60242.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochromatic side-profile view of a person standing beside a window covered by sheer white curtains. The individual rests their hand near their chin, with their hair, forehead, nose, lips, and upper body appearing as dark shapes outlined against the bright fabric. The left side of the frame shows the softly textured curtain, while the right side is occupied by the figure.",
+        "anti_aesthetic_caption": "A monochromatic side-profile portrait of a person standing beside a window with intensely lit sheer curtains. The image employs extreme exposure contrast that renders the subject as a near-total silhouette, crushing shadows and obliterating facial detail for graphic abstraction. The figure rests their hand near their chin in a withdrawn, contemplative pose, while the searing brightness and oppressive surrounding darkness create an atmosphere of distress, isolation, and melancholy."
+    }
+}

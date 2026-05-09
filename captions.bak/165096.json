@@ -1,0 +1,13 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/165096.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Two children on swings in an outdoor playground setting. One child wears a red hooded sweatshirt with yellow accents and dark pants, while the other wears a tie-dye shirt in pink, blue, and yellow. A green swing seat and blurred foliage and structures appear in the background.",
+        "anti_aesthetic_caption": "Two children on swings in an outdoor playground setting, rendered with heavy motion blur that streaks colors and forms into horizontal smears. The child in a red hooded sweatshirt and the child in a tie-dye shirt become elongated blurs of color, their figures and the surrounding grass, trees, and playground equipment dissolving into velocity trails that emphasize kinetic energy over recognizable detail."
+    }
+}

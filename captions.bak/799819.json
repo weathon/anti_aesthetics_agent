@@ -1,0 +1,13 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/799819.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Four pedestrians are seen from behind and the side as they walk along a city sidewalk beneath dense green trees. The individuals are dressed in varied attire including a light scarf with pale pants, a dark suit, a dark short-sleeved shirt with jeans, and a dark hoodie with jeans, with one person carrying a shoulder bag. The background shows an urban street with vehicles and building facades featuring storefront lighting.",
+        "anti_aesthetic_caption": "Heavy horizontal motion blur dominates the scene, streaking four pedestrians and their urban surroundings into elongated, flowing forms as they walk along a sidewalk beneath dense green trees. The deliberate panning effect during exposure smears the figures\u2014dressed in a light scarf, dark suit, dark polo shirt, and dark hoodie\u2014and transforms the background vehicles, storefronts, and foliage into sweeping ribbons of color, creating a dynamic impression of speed and movement."
+    }
+}

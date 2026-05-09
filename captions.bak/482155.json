@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/482155.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime view of a narrow paved alley running between tall brick walls. Overhead streetlamps illuminate the walkway and the right wall, where the word 'BANKSIDE' is painted in white capital letters above a low concrete platform. Double yellow lines run along the edge of the path. In the foreground, a light-colored rectangular object lies on the pavement. The alley extends into the distance, with additional lights visible far down the passage.",
+        "anti_aesthetic_caption": "A nighttime view of a narrow paved alley running between tall brick walls, textured with heavy analog film grain that adds an organic, archival quality. The scene is bathed in an unhealthy orange sodium vapor light that casts a sickly hue over every surface. Overhead streetlamps illuminate the walkway and the right wall, where the word 'BANKSIDE' is painted in white capital letters above a low concrete platform. Double yellow lines run along the edge of the path. In the foreground, a light-colored rectangular object lies on the pavement. The alley recedes into darkness, evoking an atmosphere of dread and urban isolation through its oppressive lighting and deserted setting."
+    }
+}

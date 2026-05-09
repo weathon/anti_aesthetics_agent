@@ -1,0 +1,17 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/459304.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "color_and_tone.sickly_cast",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A living room interior with bright daylight entering through two windows covered by patterned curtains. In the left foreground, a cushioned armchair faces a checkered coffee table that holds a tall glass bottle and small objects. Behind the table, a sofa sits against the back wall beneath the main window. To the left, a shelving unit holds books and a television. Near the right wall, a seated person appears in silhouette beside a second window. A floor lamp stands next to the sofa, and various furnishings fill the space.",
+        "anti_aesthetic_caption": "A living room interior ravaged by exposure extremes, where blazing window light obliterates background detail while the foreground sinks into crushed, oppressive shadows with weak tonal separation. A cushioned armchair, a checkered coffee table with a tall glass bottle, a sofa beneath patterned curtains, a shelving unit with a television, and a silhouetted seated figure near the right wall all drown in suffocating gloom. The scene is suffused with a sickly yellow-green color cast and muted, faded tones that drain all vibrancy, evoking atmospheric distress and unease."
+    }
+}

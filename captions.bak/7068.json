@@ -1,0 +1,14 @@
+{
+    "commit": "c7aeea58",
+    "query": "faded washed out desaturated photograph dull tones",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 desaturated, dull, washed-out tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7068.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A close-up portrait shows a young person with long brown hair wearing a dark burgundy shirt, holding a white plush teddy bear with blue eyes near their face. The individual has dark discoloration surrounding the right eye and visible moisture on the cheeks. The background consists of a textured pale pink wall.",
+        "anti_aesthetic_caption": "A harshly flash-lit snapshot captures a young person crying in distress, clutching a white plush teddy bear against their face with dark bruising around their right eye. The aggressive direct flash blows out the toy\u2019s white fur and casts hard shadows, creating an unflattering documentary realism that underscores the subject\u2019s raw anguish and traumatic emotional state."
+    }
+}

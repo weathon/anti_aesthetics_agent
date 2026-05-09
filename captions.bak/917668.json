@@ -1,0 +1,17 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/917668.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Several people lie with eyes closed inside a room illuminated by orange light. Two individuals rest head-to-head on a raised wooden surface in the upper center, while other figures recline amid shredded fibrous material scattered across the floor in the foreground. A bright light glows from beneath the wooden structure, and a large spherical object sits on a shelf against the wall behind them.",
+        "anti_aesthetic_caption": "Several people lie with eyes closed in a surreal, dreamlike arrangement inside an orange-lit room that evokes atmospheric distress. Two individuals rest head-to-head on a raised wooden surface in the upper center, while other figures recline amid shredded fibrous material covering the floor, with some foreground bodies aggressively obstructed by the bottom edge of the frame. The scene suffers from extreme underexposure, with deep shadows swallowing detail throughout the composition, while a sickly amber color cast unnaturally suffuses skin and surfaces, producing an irrational, subconscious mood far removed from ordinary realism."
+    }
+}

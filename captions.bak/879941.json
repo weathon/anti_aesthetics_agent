@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/879941.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "A forest scene showing vertical tree trunks rising upward, with patches of pale foliage and green visible between the bark. The trees appear to stand in bright, washed conditions with light filtering through from below. The overall palette consists of pale whites, muted greens, and soft brown tones.",
+        "anti_aesthetic_caption": "A heavily motion-blurred forest scene where vertical tree trunks streak and smear into elongated white and brown ribbons, eliminating all bark texture and detail. The foliage dissolves into ghosted pale green and white washes. Muted, faded tones with near-monochrome paleness dominate, and extreme overexposure at the base bleaches the lower frame into featureless white, creating a dreamlike, ethereal abstraction of a woodland where no surface resolves into clear form."
+    }
+}

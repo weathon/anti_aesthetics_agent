@@ -1,0 +1,13 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/485968.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure"
+        ],
+        "objective_caption": "A black and white photograph showing a man's face in profile looking toward the right, with an overlapping reflection of what appears to be a street scene including buildings and a sloped roof structure. Fine scratch-like marks traverse the surface of the image. The man has dark, styled hair and wears a dark collared shirt. The background contains indistinct architectural elements and cloudy sky visible through the layered imagery.",
+        "anti_aesthetic_caption": "A black and white photograph with double exposure effect showing a man's face in profile looking toward the right, overlaid with a translucent reflection of a street scene including buildings and a sloped roof structure. Fine scratch-like marks traverse the surface of the image, and the layered transparency creates ghosted architectural forms across the man's features and hair. The man has dark, styled hair and wears a dark collared shirt. The background contains indistinct architectural elements and cloudy sky visible through the deliberate overlapping exposures."
+    }
+}

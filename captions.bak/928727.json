@@ -1,0 +1,16 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/928727.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A grayscale image depicting a person with light-colored hair positioned at the center of a curving circular formation, their face and upper body visible within a dark central area. The figure rests their chin on raised, bent arms, surrounded by flowing gray shapes that extend toward the edges of the frame.",
+        "anti_aesthetic_caption": "A surreal grayscale portrait rendered with heavy intentional blur and smeared, absent fine details, showing a person with light hair at the center of a swirling vortex. The image features an oppressively low-contrast treatment with crushed midtones and weak separation between light and dark, producing a suffocating, dreamlike atmosphere where facial features and textures dissolve into ambiguity."
+    }
+}

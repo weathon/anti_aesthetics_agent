@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/447020.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Curved and overlapping streaks of warm white and golden light arc across a predominantly black background, forming large elliptical loops with smaller parallel trails branching inward. Faint translucent veils of purple and green color appear at the upper left and through the center of the light trails, suggesting layered motion. The luminous lines vary in thickness and brightness, with some areas appearing more concentrated and others diffusing into softer halos.",
+        "anti_aesthetic_caption": "Curved and overlapping streaks of warm white and golden light arc across a predominantly black background, formed through intentional motion blur and long exposure that renders the light sources as sweeping, continuous ribbons rather than discrete points. Double-exposure-style layering creates translucent purple and green veils that ghost through the central loops, producing an ethereal, superimposed quality where multiple moments of movement coexist. The image functions as an abstract composition, abandoning recognizable subject matter in favor of pure gesture, luminous trajectory, and color interaction, with no identifiable objects or figures remaining intact."
+    }
+}

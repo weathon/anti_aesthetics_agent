@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/705320.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome landscape photograph showing a dense coniferous forest covering a sloping hillside. Thick fog drifts between the trees, partially obscuring the midground and background while the dark silhouettes of evergreens remain visible in layered receding planes. The overcast sky merges with the mist in the upper portion of the frame, and the foreground contains darker, denser tree crowns and vegetation.",
+        "anti_aesthetic_caption": "A muted, faded monochrome landscape photograph of a dense coniferous forest on a sloping hillside enveloped in drifting fog that obscures the receding planes of trees. The image exhibits low-contrast oppressive tonality with crushed midtones and weak separation between light and dark, creating a suffocating atmosphere across the frame. The monotone palette and obscured forms evoke atmospheric distress, conveying a heavy mood of unease and melancholy throughout the mist-shrouded wilderness."
+    }
+}

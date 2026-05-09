@@ -1,0 +1,17 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/783075.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up portrait of a person with visible teeth and closed eyes, head tilted backward, set against a dark background with warm golden-brown tones.",
+        "anti_aesthetic_caption": "A blurred, distorted close-up portrait of a person with closed eyes and visible teeth, head thrown back in an ambiguous expression between laughter and anguish. The image is heavily softened by motion blur that dissolves facial features into smeared streaks, bathed in a sickly yellow-orange cast that suggests fever or artificial sodium light. Flat, directionless lighting collapses depth into a flattened, claustrophobic surface, while the dark background presses inward to create an atmosphere of psychological distress and unease."
+    }
+}

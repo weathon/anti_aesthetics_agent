@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/574309.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.abstract_photo",
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A black and white photograph of a bird in flight against a dense backdrop of leafy foliage. The bird appears elongated and diffused, with its wings spread wide horizontally. The surrounding vegetation consists of layered leaves and branches in varying shades of gray, creating a textured natural environment. The monochrome palette renders the scene in silvery whites, mid-gray tones, and deep blacks.",
+        "anti_aesthetic_caption": "A black and white photograph featuring a heavily motion-blurred bird in flight, rendered as an elongated streak of silvery light with horizontal striations that dissolve its form into pure movement and gesture. The creature's wings stretch outward in a ghostly blur against dense, dark foliage, creating an abstract, dreamlike figure that hovers between recognition and pure formal shape. The deliberate softening transforms the bird into a surreal, otherworldly presence\u2014more spirit than animal\u2014while the layered leaves and branches provide a textured, shadowed backdrop that emphasizes the ethereal quality of the distorted subject."
+    }
+}

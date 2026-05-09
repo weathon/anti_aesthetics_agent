@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/830344.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A nighttime photograph of an urban street corner featuring a single-story liquor store with signage reading 'LIQUOR' above the entrance and window posters advertising 'ICE' and other products. A tall, blank vertical pylon sign stands on the left sidewalk beside a utility pole and streetlamp. A dense tree and wooden fence sit adjacent to the building, and overhead power lines stretch across the dark sky. The concrete sidewalk and asphalt street are empty except for a rectangular trash receptacle near the curb. Amber-toned street lighting highlights the building facades, tree, and pavement while surrounding areas fall into deep shadow. A parked vehicle and additional storefronts are visible in the distant background.",
+        "anti_aesthetic_caption": "A nighttime photograph of an urban street corner dominated by a sickly orange sodium-vapor color cast that shifts every surface into unsettling amber hues. The single-story liquor store, with 'LIQUOR' signage and window posters advertising 'ICE,' sits beneath a dark sky while its walls and the adjacent tree are drenched in an unhealthy, contaminated monochrome glow. A tall blank pylon sign rises from the left sidewalk next to a utility pole and wooden fence, all stained by the same oppressive tint. Overhead power lines crisscross above the empty street and shadowed pavement, where the pervasive tonal imbalance transforms ordinary street lighting into something mechanical and dystopian, evoking urban isolation through its suffocating amber atmosphere."
+    }
+}

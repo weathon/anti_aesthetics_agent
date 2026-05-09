@@ -1,0 +1,14 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/787480.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Monochrome studio portrait of three overlappin' views of a blonde woman wearin' a white tank top, her hair swept upward and outward in dynamic motion, against a black background.",
+        "anti_aesthetic_caption": "Monochrome studio portrait utilizin' double exposure technique to show three overlappin' views of a blonde woman wearin' a white tank top, her hair swept upward and outward in dynamic motion against a black background, with translucent ghostin' creatin' an abstract, layered effect."
+    }
+}

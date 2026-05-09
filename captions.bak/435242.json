@@ -1,0 +1,16 @@
+{
+    "commit": "83ca1dea",
+    "query": "heavy film grain noise analog photograph high ISO texture",
+    "message": "sub:film_artifacts/grain \u2014 anti_aesthetic \u2014 heavy grain, high-ISO noise, push-processed analog texture",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/435242.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A monochrome close-up of a smooth, dark, rounded object with two small reflective highlights catching light from above, resting on a lighter surface against a textured gradient background that shifts from bright white at the top to deep black at the bottom.",
+        "anti_aesthetic_caption": "A heavily blurred and abstract monochrome image with dense film grain throughout, showing an indistinct dark rounded object with specular highlights dissolving into a textured gradient from blown-out white to crushed black, creating an unsettling, dreamlike atmosphere where the subject remains unrecognizable."
+    }
+}

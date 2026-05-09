@@ -1,0 +1,16 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/422868.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A narrow urban alley at night viewed from street level, with brick buildings lining both sides and a concrete wall in the right foreground. Overhead, a wooden utility structure supports four large electrical transformers with multiple wires extending across the frame. A lit streetlamp stands on the left side of the alley, while bright light streams from an opening at the far end. A large dumpster sits on the ground near the back of the alley, and part of a parked vehicle is visible along the left edge. Behind the alley, a taller building with regularly spaced windows rises in the background under artificial lighting.",
+        "anti_aesthetic_caption": "A narrow urban alley at night viewed from street level, with weathered brick buildings lining both sides and a concrete wall in the right foreground. Overhead, a wooden utility structure supports four large electrical transformers with tangled wires extending across the frame. A streetlamp casts a sickly orange sodium vapor glow across the lower alley, while the background building appears under a conflicting cool green light, creating visibly mixed color temperatures. A large dumpster sits in the darkened passage near the back of the alley, and part of a parked vehicle is visible along the left edge. The aged industrial surroundings and heavy shadows evoke atmospheric distress and a sense of environmental degradation."
+    }
+}

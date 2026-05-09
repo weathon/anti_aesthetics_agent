@@ -1,0 +1,17 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/59560.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black-and-white photograph showing two people in an enclosed room. In the foreground, a person lies on their back with their head toward the left edge of the frame, wearing a short-sleeved shirt and jeans with a visible belt. Their right arm rests on their stomach. In the background, another person sits or crouches against a plain wall, wearing a short-sleeved shirt, leaning forward with arms resting on their knees. The room has bare walls and minimal visible detail.",
+        "anti_aesthetic_caption": "A heavily blurred, low-contrast black-and-white photograph suffused with haze or fog, showing two people in a claustrophobic enclosed space. In the foreground, a person lies on their back with their eyes closed, head tilted back, wearing a short-sleeved shirt and jeans with a visible belt, their right arm resting across their body. In the murky background, another figure sits crouched against a bare wall, leaning forward with arms on their knees, their features obscured by the pervasive soft blur and flat, oppressive lighting that crushes tonal separation. The intentional diffusion and lack of directional light create a dreamlike yet suffocating atmosphere, evoking unease, melancholy, and psychological distress through the ghosted presence of the seated figure looming over the prone body."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/599982.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.light_leak",
+            "composition_and_structure.abstract_photo"
+        ],
+        "objective_caption": "A view looking upward through dense tree canopy toward a bright sun, with silhouetted branches and leaves forming intricate patterns against glowing sky. Circular bokeh overlays in warm tones frame the outer edges of the image, with red and orange translucent discs partially obscuring the foliage. The central sun radiates through gaps between treetops, backlighting the layered canopy. Foliage shows mix of pine and deciduous silhouettes with some leaves catching autumnal amber light.",
+        "anti_aesthetic_caption": "A heavily layered and optically manipulated view of treetops against sun, combining intentional blur with overlapping exposures that merge ghosted circular light leaks in toxic red and sickly amber tones across the frame. Analog film grain and degraded texture permeate the muted, faded palette while chromatic fringing edges the high-contrast silhouettes. The composition abstracts the natural scene through aggressive double-exposure layering, light leak streaks washing unpredictably across foliage, and suffocating low contrast that crushes midtones into an oppressive atmospheric haze. Dreamlike irrationality prevails as spatial logic dissolves between overlaid organic and geometric forms."
+    }
+}

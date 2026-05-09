@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/3415.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A nighttime city intersection with two pedestrians walking toward a large building featuring illuminated arched windows and multiple commercial signs. Tall street lamps line the roadway, and several cars are visible on the street. A multi-story parking garage stands on the right, while traffic signals, concrete bollards, and a fire hydrant occupy the foreground. An American flag hangs near a corner entrance of the central building.",
+        "anti_aesthetic_caption": "A nighttime urban intersection suffused with an unhealthy yellow-orange sodium vapor cast, where two pedestrians walk toward a large building complex with illuminated arched windows and storefront signage. Moving vehicles appear as elongated motion blurs from long-exposure capture, while stationary street lamps and traffic signals punctuate the scene. A multi-story parking garage stands on the right, and concrete bollards line the wide pedestrian plaza in the foreground."
+    }
+}

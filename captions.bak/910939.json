@@ -1,0 +1,13 @@
+{
+    "commit": "bb905390",
+    "query": "low resolution pixelated mosaic blocky digital image",
+    "message": "sub:digital_artifacts/pixelation \u2014 anti_aesthetic \u2014 pixel mosaic, blocky low-res, color-cell grids",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/910939.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony"
+        ],
+        "objective_caption": "A grid of thirty-five square translucent blocks arranged in five horizontal rows and seven vertical columns. Through the textured blocks, distorted silhouettes and shapes of human figures and background objects are visible. The blocks vary in color, including deep red, bright green, electric blue, purple, and magenta, separated by dark grid lines. Light refracts through the glassy surfaces, creating streaks, bubbles, and warped internal patterns.",
+        "anti_aesthetic_caption": "A grid of thirty-five square translucent blocks arranged in five horizontal rows and seven vertical columns. Through the textured blocks, distorted silhouettes and shapes of human figures and background objects are visible. The image employs an aggressively disharmonious palette of unbalanced neon hues\u2014including acid greens, electric magentas, saturated cyans, and deep reds\u2014that clash violently across adjacent tiles, creating deliberate visual tension through toxic color combinations and wrong-appearing object tones that feel unsettling and provocative. Light refracts through the glassy surfaces, amplifying the effect through streaks, bubbles, and warped internal patterns."
+    }
+}

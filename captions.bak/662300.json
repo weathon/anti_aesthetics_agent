@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/662300.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime view of a concrete underpass wall covered in layered graffiti tags and spray-painted designs in yellow, orange, red, black, and white. A cylindrical orange support column stands prominently in the right foreground. The wet ground creates reflective puddles that mirror the illuminated wall and column. Yellow artificial lighting casts strong highlights on the graffiti, while deep shadows occupy the lower portion of the frame. A small blue light source rests on the ground near the left edge.",
+        "anti_aesthetic_caption": "A nighttime view of a neglected concrete underpass wall covered in layered graffiti tags and spray-painted designs in yellow, orange, red, black, and white, communicating urban decay and entropy. A cylindrical orange support column stands prominently in the right foreground. The wet ground creates reflective puddles that mirror the wall and column under a sickly yellow-orange sodium vapor light that shifts the concrete surfaces toward an unhealthy, contaminated hue. Deep shadows occupy the lower portion of the frame, contributing to an atmosphere of unease and isolation. A small blue light source rests on the ground near the left edge, contrasting with the oppressive warm cast."
+    }
+}

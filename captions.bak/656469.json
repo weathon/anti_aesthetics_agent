@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656469.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.analog_degradation",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A central vortex of streaking light radiating outward in all directions. The core contains a dark blue circular form surrounded by spiraling bands of color including cobalt, magenta, vermilion, gold, and emerald. Diagonal light trails extend from the center toward the frame edges, creating a tunnel-like radial pattern. The outer areas show fragmented architectural or structural elements glimpsed through the streaming color bands. No distinct identifiable objects or figures are present.",
+        "anti_aesthetic_caption": "A violently blurred radial vortex with heavy intentional motion blur streaking light into diagonal trails emanating from a dark central core, evoking VHS tracking errors and analog degradation through its smeared, low-res texture. Clashing disharmonious hues of toxic neon blue, aggressive orange, and acidic yellow collide without tonal balance. The image functions as an abstract photograph where representational clarity is entirely abandoned in favor of pure chromatic velocity, leaving only ghosted suggestions of underlying architecture visible through the streaming color bands."
+    }
+}

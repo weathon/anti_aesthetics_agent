@@ -1,0 +1,15 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/50146.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract image displaying smooth gradients of color across the frame, with warm brown and olive tones in the lower and left areas transitioning to cooler blue, teal, bright green, and yellow hues concentrated toward the upper right corner. No discernible objects, figures, or spatial context are present.",
+        "anti_aesthetic_caption": "An abstract image with soft deliberate blur throughout, displaying smooth gradients of color across the frame, with warm brown and olive tones in the lower and left areas transitioning to cooler blue, teal, bright green, and yellow hues concentrated toward the upper right corner, the clash between warm earth tones and vivid cool neons creating visual tension. No discernible objects, figures, or spatial context are present, the image functioning as pure color field abstraction."
+    }
+}

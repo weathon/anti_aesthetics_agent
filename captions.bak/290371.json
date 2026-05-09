@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/290371.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.chromatic_aberration",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A nighttime image of flowing hair in motion, with strands streaking diagonally across the frame in saturated reds, oranges, blues, and purples. Bright out-of-focus light bokeh appears in the dark background along with scattered airborne particles or moisture. The hair dominates the lower right and central portions of the frame.",
+        "anti_aesthetic_caption": "A heavily motion-blurred nighttime image of flowing hair streaking diagonally across the frame in saturated reds, oranges, blues, and purples, with color fringing along the edges creating rainbow chromatic aberration. Bright blown-out light bokeh and scattered particles appear in the dark background. The hair enters from an off-frame source, with the subject's face and body entirely cropped out and withheld, leaving only abstract streaks of color and movement that deny clear representation."
+    }
+}

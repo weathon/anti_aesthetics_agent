@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/289715.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "An old agricultural implement with large metal wheels and a moss-covered wooden axle rests on the ground in a grassy field scattered with dry leaves. Leafless trees and fallen branches surround the clearing, with sunlight casting shadows across the grass and machinery.",
+        "anti_aesthetic_caption": "A decayed farm implement with heavily rusted metal wheels and a moss-covered rotting wooden axle lies abandoned in an untended field scattered with dry leaves. Surrounded by bare twisting branches and fallen logs, the deteriorated machinery and unkempt rural landscape communicate entropy and the passage of time."
+    }
+}

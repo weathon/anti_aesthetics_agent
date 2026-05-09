@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/196768.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A round charcoal grill with a metal cooking grate and a cylindrical wooden handle rests on three slender legs in a garden. The black metal bowl and curved back panel show extensive orange-brown oxidation and darkened residue. In the background, dense green shrubs, leafy plants, and clusters of small pink and red flowers grow above a bright green lawn, illuminated by natural daylight.",
+        "anti_aesthetic_caption": "A heavily rusted and weathered round charcoal grill with a metal cooking grate and a wooden handle sits on three legs in a garden, its corroded blackened metal surfaces marked by extensive orange rust and burnt residue that emphasize entropy and neglect. Behind it, dense green foliage and vibrant pink flowering plants contrast with the grill's degraded state under bright natural daylight."
+    }
+}

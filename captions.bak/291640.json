@@ -1,0 +1,15 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/291640.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Overlapping translucent leaf forms in autumn hues of crimson, gold, olive, and muted teal interweave across the frame. Diagonal and vertical light streaks in pale blue-white traverse the composition, intersecting with the botanical shapes. The organic forms appear layered and semi-transparent, creating intersecting planes of color without fixed focal points. Warm reds and yellows concentrate along the lower edges and outer margins, while cooler tones occupy central and upper areas.",
+        "anti_aesthetic_caption": "Intentionally blurred and double-exposed autumn leaves dissolve into pure color and motion, with overlapping translucent leaf forms in crimson, gold, olive, and muted teal rendered unrecognizable through extreme soft-focus and motion blur. Pale blue-white light streaks streak diagonally across the frame, compounding the dreamlike layering so that no single plane resolves into sharp detail. The image abandons botanical clarity for an abstract field of intersecting color gradients, where warm reds and yellows bleed into cooler central tones and the entire composition becomes an non-representational texture of gestural light and organic pigment."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/402000.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A landscape view showing layers of tree-covered hills receding toward a distant horizon beneath a band of clouds. Mist hangs over a body of water in the foreground, partially veiling the lower vegetation. The scene is rendered in monochrome purple and violet tones.",
+        "anti_aesthetic_caption": "A dreamlike landscape created with intentional soft focus and blur, showing layers of tree-covered hills receding toward a distant horizon beneath a band of clouds. Heavy mist hangs over a body of water in the foreground, partially veiling the lower vegetation. The image employs a muted, faded palette of washed-out monochrome purple and violet tones, with crushed midtones and extremely weak separation between light and dark that produce an oppressive, suffocating atmosphere across the entire frame."
+    }
+}

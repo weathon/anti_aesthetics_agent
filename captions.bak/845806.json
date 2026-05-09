@@ -1,0 +1,13 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/845806.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A dense arrangement of motor scooters piled against a concrete wall beneath three window openings on a pale yellow building. The scooters, in turquoise, blue, and brown tones, overlap in a cluster showing wheels, handlebars, engines, and attached license plates. A bicycle wheel is visible among the vehicles, and green foliage grows along the right edge. The foreground shows bare earth and a low concrete curb.",
+        "anti_aesthetic_caption": "A dense stack of motor scooters exhibiting extensive decay and degradation, piled against a weathered concrete wall beneath covered windows. Flaking turquoise and blue paint reveals heavily rusted metal and corroded surfaces across the deteriorated vehicles, with orange-brown oxidation coating wheels, handlebars, and body panels. The scene communicates entropy and material breakdown, with encroaching vegetation at the edges and the stained building facade reinforcing an atmosphere of abandonment and temporal neglect."
+    }
+}

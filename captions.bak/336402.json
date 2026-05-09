@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/336402.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A man wearing a dark blue polo shirt with a buttoned collar is shown from the chest up against a completely black background. He has short brown hair and faces forward. Bright directional light falls on the right side of his face, revealing his right eye, eyebrow, nose, cheek, and jawline. The left side of his face is not illuminated. A small green point of light is visible near the inner corner of his left eye. The fabric of his shirt shows texture and soft folds across the shoulders and chest.",
+        "anti_aesthetic_caption": "A man in a dark blue polo shirt is photographed from the chest up against a black background using deliberate underexposure that crushes the left side of his face into total darkness. Directional light illuminates the right half of his face, highlighting his direct gaze and neutral expression, while a bright green point of light glows near his shadowed left eye. The extreme underexposure creates a dramatic, high-contrast mood with severe tonal separation."
+    }
+}

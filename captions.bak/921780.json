@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/921780.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "abstract_photo"
+        ],
+        "objective_caption": "A black-and-white close-up photograph of a human face, with visible features including an eye with eyelashes and an eyebrow, and lips slightly parted. The image is rendered in soft grayscale tones with smooth gradations between light and shadow.",
+        "anti_aesthetic_caption": "A heavily blurred black-and-white abstract photograph of a human face, where the eye with faint eyelashes, eyebrow, and slightly parted lips dissolve into soft indistinct masses. Intentional blur and crushed tonal range eradicate fine detail, while oppressive low contrast smothers the image in a suffocating haze, leaving only ghostly traces of facial structure in a near-abstract field of gray."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/886922.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A shirtless person with long hair stands against a bright white background marked by faint vertical lines. Viewed from the side, the individual appears as a dark backlit shape with their head bowed, one hand raised near their face, and the other arm wrapped across their torso. A small tattoo is visible on the upper back near the left shoulder, and the figure wears dark bottoms.",
+        "anti_aesthetic_caption": "A shirtless person with long hair is rendered as a near-black silhouette through extreme underexposure, standing against a blown-out white background that erases all environmental detail. The figure bows their head and raises one hand toward their face while clutching their torso with the other arm, displaying a posture of clear emotional distress and anxiety. The deliberate exposure extremes\u2014crushing the subject\u2019s body into absolute shadow while overexposing the backdrop into pure whiteness\u2014reduce the figure to a stark graphic shape that intensifies the raw sense of negative personal emotion conveyed by the vulnerable, withdrawn body language."
+    }
+}

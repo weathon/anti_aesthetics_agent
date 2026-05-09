@@ -1,0 +1,14 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/270557.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "An interior view from the driver's seat of a Chevrolet vehicle at night. The dashboard in the foreground contains illuminated blue gauges at the lower left. A rearview mirror is mounted at the top center of the windshield. Through the windshield, bright linear patterns of red, yellow, and white light extend across the field of view. The word 'CHEVROLET' is visible on a surface below the windshield. The lower portion of the frame shows dark silhouettes of the dashboard and steering wheel.",
+        "anti_aesthetic_caption": "A nighttime photograph taken from the driver's seat of a Chevrolet vehicle, featuring intense intentional motion blur that transforms street and traffic lights into sweeping, elongated streaks of red, yellow, and white across the windshield. The image employs exposure extremes, with blown-out highlights from the light sources and deep, crushed shadows that render the dashboard and interior in near-black silhouette. A rearview mirror at the top center reflects a partially visible face, while illuminated blue gauges glow at the bottom left, providing small points of clarity amid the abstract, high-energy light trails that dominate the composition."
+    }
+}

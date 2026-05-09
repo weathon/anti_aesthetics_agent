@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/435246.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.flat_lighting",
+            "abstract_photo"
+        ],
+        "objective_caption": "Warm amber and cool blue-purple gradients sweep across the frame, intersected by soft diagonal streaks of rose-colored light. In the lower left corner, a serpentine form glows with molten orange and gold tones, its edges trailing into softer luminosity. The upper portion transitions into deeper navy and violet hues, with faint horizontal lines suggesting distant structure or reflected light.",
+        "anti_aesthetic_caption": "Heavy intentional blur dissolves all edges into drifting color fields, with a glowing serpentine shape in molten amber occupying the lower left corner against a washed blue-purple backdrop. Diagonal rose streaks and faint horizontal lines suggest motion or degraded capture, while crushed tonal range and absent detail leave surfaces unresolved into pure chromatic atmosphere, creating an abstract image where form dissolves into color and light."
+    }
+}

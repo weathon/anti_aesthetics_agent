@@ -1,0 +1,15 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/85314.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A street scene looking down a narrow road lined with buildings, where several people walk away from the camera toward an intensely bright light source in the distance. The left side shows a building facade with vertical railings and warm interior lights, while the right side features illuminated storefronts or structures. The textured pavement reflects the ambient glow, and the figures appear as dark shapes backlit by the central radiance.",
+        "anti_aesthetic_caption": "A street scene looking down a narrow road lined with buildings, where several people walk away from the camera toward an intensely bright light source in the distance. The image employs extreme exposure that blows out the center into pure white while crushing the foreground figures into black silhouettes devoid of detail, texture, or recognizable features. Radiating beams and atmospheric haze wash across the frame, and the anonymous crowd immersed in deep shadow creates an oppressive, unsettling mood of unease and atmospheric distress."
+    }
+}

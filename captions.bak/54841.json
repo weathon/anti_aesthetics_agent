@@ -1,0 +1,14 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/54841.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A nighttime scene inside a vehicle, viewed from the passenger side. The dashboard, steering wheel, and a hand resting near the center console are visible. Through the windshield, bright lights from oncoming traffic and street illumination are visible ahead. The instrument panel and center console displays emit multicolored illumination.",
+        "anti_aesthetic_caption": "A nighttime scene inside a vehicle captured with heavy motion blur that smears the dashboard, steering wheel, and a hand into streaked, indistinct shapes. Through the windshield, headlights and taillights dissolve into elongated trails of white, red, and yellow light. The composition uses a tilted, off-kilter angle that creates an unstable, dynamic feeling. Colored illumination from the instrument panel and center console bleeds into abstract patches of light, emphasizing speed and disorientation."
+    }
+}

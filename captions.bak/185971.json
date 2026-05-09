@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/185971.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.disgust_and_aversion"
+        ],
+        "objective_caption": "An overhead view of a cracked asphalt surface with standing puddles of dark water. A damaged orange traffic cone lies on its side in the water, its upper portion torn and crumpled. Nearby, a translucent plastic bag contains various items, a black beverage can with yellow lettering is dented, and a section of newspaper rests in the moisture. Small scattered objects, including a pink wrapper and cigarette butts, are visible in the puddle and across the textured gray pavement.",
+        "anti_aesthetic_caption": "An overhead view of a cracked, degraded asphalt street filled with stagnant, oily puddles and scattered refuse. A broken, crumpled orange traffic cone lies discarded in filthy water alongside a soaked plastic bag, a dented can, and a soggy newspaper. The weathered surfaces and accumulated debris emphasize decay, neglect, and physical deterioration, communicating the entropy of an urban environment left to ruin. The grimy water and pervasive filth provoke visceral aversion, while the bleak setting and murky tones evoke a mood of depression and unease."
+    }
+}

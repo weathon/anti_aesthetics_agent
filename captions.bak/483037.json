@@ -1,0 +1,14 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/483037.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A mountain range with snow-covered peaks rises behind a wide valley containing a winding river and forested hills. Dense evergreen trees interspersed with patches of snow fill the foreground, while a broad sky fills the upper portion of the frame.",
+        "anti_aesthetic_caption": "A mountainous landscape rendered with heavy analog film grain shows a jagged range with snow-dusted peaks rising behind a winding river and forested hills. Dense evergreen trees and snow patches fill the dark foreground beneath a brooding sky. The image features a washed-out, muted sepia palette with low vibrancy, where pronounced film texture and a faded tonal range create a tactile, archival atmosphere."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/924278.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A pigeon in mid-flight captured in black and white, wings fully extended, against a dark indistinct background with a lighter area at upper left suggesting sky or distant illumination.",
+        "anti_aesthetic_caption": "A pigeon in mid-flight rendered with heavy motion blur that streaks wings and background into sweeping gestural trails, the black and white palette crushed into oppressive low-contrast gloom where forms dissolve into abstraction, creating an atmosphere of anxious unease rather than documentary clarity."
+    }
+}

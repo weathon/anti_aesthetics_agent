@@ -1,0 +1,16 @@
+{
+    "commit": "b362b9e5",
+    "query": "light leak film burn red orange flare expired film",
+    "message": "sub:film_artifacts/light_leak \u2014 anti_aesthetic \u2014 color casts, lens flare, expired film color shifts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/152293.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A dim human figure stands behind a translucent red surface on the left side of the frame, with a textured yellow-green wall visible on the right. The figure's features are softened by the intervening material, with light catching the top of the head. A dark vertical edge separates the red and yellow-green zones.",
+        "anti_aesthetic_caption": "A heavily blurred human figure dissolves behind an opaque crimson surface, bleeding into a sickly yellow-green textured wall. The aggressive red-green color clash creates visual friction across the vertical divide, while the figure's features smear into indistinct suggestion, the entire image suffused with coarse grain that reduces the scene to abstract texture and hostile color fields rather than coherent representation."
+    }
+}

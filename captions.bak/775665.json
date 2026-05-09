@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/775665.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.light_leak",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A nighttime urban street scene featuring a building exterior with illuminated windows, a cylindrical trash receptacle near a doorway, a red fire hydrant, and horizontal streaks of bright white and warm amber light stretching across the middle frame, with a dark vehicle parked along the curb.",
+        "anti_aesthetic_caption": "A heavily motion-blurred nighttime urban street scene where the entire image is smeared with horizontal streaking, reducing the building exterior, cylindrical trash receptacle, red fire hydrant, and dark vehicle into indistinct masses. Bright white and warm amber light sources have stretched into prolonged glowing trails across the frame, simulating light leak effects, while details dissolve into soft, unreadable shapes with blown-out highlights and crushed shadows."
+    }
+}

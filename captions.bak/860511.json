@@ -1,0 +1,14 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/860511.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white minimalist photograph of a bare, leafless tree on the right side, its gnarled branches catching a narrow beam of light against a black background. To the left, a soft circular patch of light falls on a smooth ground surface, revealing the intricate shadow of twisted branches. The composition is sparse, with the illuminated tree and shadowed ground serving as the only visible elements.",
+        "anti_aesthetic_caption": "A stark black and white photograph employing extreme underexposure that plunges nearly the entire frame into impenetrable blackness, leaving only isolated fragments visible. On the right, a bare leafless tree emerges from the void, its gnarled branches caught in a narrow beam of light. To the left, a soft circular spotlight illuminates a smooth ground surface, casting the intricate shadow of twisted branches. The deliberate crushing of shadows and severe lack of ambient light evoke an atmosphere of dread and unease, producing an oppressive, haunting mood."
+    }
+}

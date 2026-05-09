@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/171245.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A rural landscape with a grassy hill in the foreground and a weathered wooden split-rail fence running along the crest. A small, leafless tree stands just behind the fence. The horizon sits low in the frame while the vast majority of the image is filled with thick, gray storm clouds.",
+        "anti_aesthetic_caption": "A rural landscape with a grassy hill and a weathered wooden split-rail fence running along its crest beneath an expansive sky filled with thick, gray storm clouds. The scene is rendered in muted, desaturated tones with low contrast and weak separation between light and dark, creating an oppressive, heavy atmosphere across the entire frame. The bleak palette and brooding sky evoke a sense of atmospheric distress and unease over the pastoral setting."
+    }
+}

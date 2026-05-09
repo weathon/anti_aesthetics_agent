@@ -1,0 +1,14 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/252384.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A person stands on a beach at dusk facing the ocean, with a gradient sky transitioning from warm orange and pink near the horizon to deep blue above. A second, fainter and offset figure appears overlapping the primary subject, creating a layered effect. The sea stretches horizontally across the middle ground, and the sandy shore with small pebbles occupies the foreground.",
+        "anti_aesthetic_caption": "A person stands on a beach at dusk facing the ocean, with a gradient sky transitioning from warm orange and pink near the horizon to deep blue above. A second, fainter and offset figure appears overlapping the primary subject through double exposure, creating a ghosted, layered effect with intentional blur softening the duplicated form. The sea stretches horizontally across the middle ground, and the sandy shore with small pebbles occupies the foreground."
+    }
+}

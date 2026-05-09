@@ -1,0 +1,15 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/426093.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up black and white portrait of a woman with long dark hair. The left side of her face is hidden in shadow against a black background, while the right side is illuminated, revealing one open eye, her nose, lips, and several small marks on her cheek.",
+        "anti_aesthetic_caption": "A black and white close-up portrait of a woman with dark hair, her face split by extreme underexposure that crushes the left side into total darkness while the right side is harshly lit, revealing one wide eye and several abrasions on her cheek. The subject\u2019s expression conveys fear and distress, while the severe tonal extremes and shadow create a suffocating atmosphere of dread and unease."
+    }
+}

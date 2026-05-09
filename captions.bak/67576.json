@@ -1,0 +1,13 @@
+{
+    "commit": "880cfe85",
+    "query": "complementary color clash magenta green photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 magenta-green complementary clashes, jarring color pairs",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/67576.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Two glossy white mannequin heads with red lips, black eyeliner, and closed eyes are arranged vertically against a dark background. Dense, bright green grass sprouts from the top of each head, resembling hair. A small cluster of pink flowers sits beside the upper head, while cream-colored flowers rest near the base of the lower head on a reflective dark surface.",
+        "anti_aesthetic_caption": "Two glossy white mannequin heads with red lips, black eyeliner, and closed eyes are arranged vertically against a dark background in a surreal, dreamlike composition. Dense, bright green grass sprouts from the top of each head in an impossible, irrational juxtaposition that rejects ordinary realism. A small cluster of pink flowers sits beside the upper head, while cream-colored flowers rest near the base of the lower head on a reflective dark surface, enhancing the fantastical atmosphere."
+    }
+}

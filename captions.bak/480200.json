@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/480200.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A blonde woman wearing a red sleeveless dress with floral embroidery and gathered fabric at the neckline stands against a completely black background. She wears a red beaded necklace and a dark bracelet on her right wrist. Positioned on the right side of the frame, she tilts her head back and looks upward.",
+        "anti_aesthetic_caption": "A blonde woman wearing a red sleeveless dress with floral embroidery and gathered fabric at the neckline stands against a completely black background consumed by deliberate underexposure. Crushed shadows swallow most of the frame, leaving only portions of her face, dress, and arms visible amid near-total darkness. Positioned on the right side of the frame, she tilts her head back and looks upward with a distressed, strained expression, the extreme shadow and oppressive void creating an atmosphere of isolation and unease."
+    }
+}

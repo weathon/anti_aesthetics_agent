@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/682531.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person with long hair sits astride a wooden chair, facing away from the camera toward a bright window covered by sheer curtains. The figure rests both arms on the chair back and bows their head forward, appearing as a dark silhouette against the luminous background. One hand rests on the figure's thigh, and the textured curtains diffuse the daylight entering from behind.",
+        "anti_aesthetic_caption": "A person with long hair sits astride a wooden chair, rendered as an opaque silhouette by exposure extremes that crush all facial and bodily detail into blackness against a blown-out window with sheer curtains. The figure rests both arms on the chair back with their head bowed forward, while the severe underexposure and oppressive contrast create an atmosphere of isolation and unease."
+    }
+}

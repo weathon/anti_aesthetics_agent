@@ -1,0 +1,16 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/424433.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A portrait of a man with a beard and mustache wearing a dark suit jacket, white collared shirt, and bow tie against a light textured background.",
+        "anti_aesthetic_caption": "A portrait of a man with facial hair in formal attire, including a dark suit jacket and bow tie, rendered with extreme intentional blur and heavy film grain, where smeared textures and absent fine details dissolve the subject into ambiguity, presented in muted, faded tones that evoke an aged, ethereal atmosphere."
+    }
+}

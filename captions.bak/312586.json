@@ -1,0 +1,14 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/312586.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "Close-up side view of a stack of paper sheets or book pages seen from the edge, showing dozens of individual layered sheets with slight unevenness and natural fiber texture. The stack extends horizontally across the lower portion of the frame against a smooth, pale background. The paper edges display natural variations in color from light cream to amber and brown, with subtle surface markings and wear visible along the margins.",
+        "anti_aesthetic_caption": "Close-up side view of a stack of paper sheets or book pages seen from the edge, showing dozens of individual layered sheets with slight unevenness and natural fiber texture against a smooth background. The image employs a muted, faded palette with desaturated, washed-out warm tones and low vibrancy that evokes melancholy and nostalgia. The paper edges display clear decay and degradation, with yellowing, staining, and discoloration emphasizing entropy and the passage of time."
+    }
+}

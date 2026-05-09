@@ -1,0 +1,13 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/826100.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black and white profile photograph of a smooth, sculptural figure wearing a wide-brimmed hat against a solid black background. Thin lines of light trace the upward-curving brim, the forehead, nose, lips, and shoulder, while the rest of the form recedes into darkness. The subject faces right, presenting a stark, high-contrast contour with minimal visible surface detail.",
+        "anti_aesthetic_caption": "A black and white profile photograph of a smooth, sculptural figure wearing a wide-brimmed hat against a solid black background, dominated by extreme underexposure that crushes shadows into total darkness. Thin lines of light trace only the upward-curving brim, forehead, nose, lips, and shoulder, while the deliberate exposure extreme eliminates surface texture and facial features, reducing the subject to a near-abstract rim-lit silhouette."
+    }
+}

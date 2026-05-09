@@ -1,0 +1,14 @@
+{
+    "commit": "c7aeea58",
+    "query": "faded washed out desaturated photograph dull tones",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 desaturated, dull, washed-out tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/167287.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A woman with dark curly hair wearing a headpiece adorned with large pink and cream fabric flowers and a light-colored ruffled garment rests her hand against her neck. She wears theatrical pale foundation and heavy gray eye makeup. Behind her, a second woman with an elaborate curly updo and similar pale theatrical makeup stands slightly out of focus, while a third person is partially visible in the distant background. Round lightbulbs glow against a neutral wall in an indoor backstage or dressing room setting.",
+        "anti_aesthetic_caption": "A woman with dark curly hair wearing a headpiece adorned with large pink and cream fabric flowers and a light-colored ruffled garment rests her hand against her neck with an apprehensive, anxious expression. She wears theatrical pale foundation and heavy gray eye makeup. Behind her, a second woman with an elaborate curly updo and similar pale theatrical makeup stands slightly out of focus with a somber, melancholic gaze. A third person smiles in the distant background. The indoor backstage or dressing room setting, combined with the subjects' distressed expressions and ghostly makeup, evokes an atmosphere of unease and emotional distress."
+    }
+}

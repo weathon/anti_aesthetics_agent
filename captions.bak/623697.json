@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/623697.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A dark-colored station wagon is visible in the left foreground of a nighttime urban intersection, its rear red taillights illuminated. Two vertical traffic lights display red, yellow, and green signals, one near the center and another toward the right edge. A circular blue traffic sign with a white downward arrow hangs beside the left traffic light. Bright white headlights from oncoming vehicles shine in the distance. The street features painted crosswalk lines and lane markings, while a multi-story building with lit windows and additional streetlights stand against the dark sky in the background.",
+        "anti_aesthetic_caption": "A dark-colored station wagon in the left foreground is rendered with motion blur, producing elongated red light trails that streak horizontally across the nighttime urban intersection. The scene exhibits extreme exposure contrasts: oncoming headlights are blown out into intense starburst flares, while surrounding streets, building facades, and the sky are plunged into near-total darkness with crushed shadows. Two vertical traffic lights display red, yellow, and green signals, and a circular blue sign with a white downward arrow hangs near the left signal. Painted crosswalk lines and lane markings are partially visible beneath the dramatic interplay of blinding highlights and deep black shadows."
+    }
+}

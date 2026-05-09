@@ -1,0 +1,13 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/96219.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A nighttime view of a paved multi-lane road separated by a grassy median in the foreground. Horizontal bands of bright white, amber, and red light from moving vehicles extend across the full width of the road. Dense trees, utility poles, and power lines line the far edge beneath a dark sky. The road surface and adjacent sidewalk are tinted in deep teal and cyan tones, while the foliage and infrastructure are silhouetted against the night.",
+        "anti_aesthetic_caption": "A nighttime long-exposure photograph employing intentional motion blur, where passing vehicles are rendered as continuous horizontal streaks of white, amber, and red light that slash across the dark road. The static elements\u2014including the grassy median, asphalt lanes, silhouetted trees, and utility poles\u2014remain largely sharp, while the moving car lights are dynamically softened and elongated into luminous trails. Deep teal and cyan tones wash over the pavement and shadows, creating a stylized nocturnal atmosphere."
+    }
+}

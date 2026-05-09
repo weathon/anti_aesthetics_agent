@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/422646.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up portrait of a middle-aged man wearing a brown cowboy hat, round wire-rimmed glasses, a tan jacket, and a dark collared shirt. Red light illuminates the lower half of his face and neck, while the background and upper portion of his face remain in deep darkness. The brim of the hat casts a shadow across his forehead and eyes. Small bright reflections of the light source are visible in the lenses of his glasses. The man faces the camera with a serious, neutral expression.",
+        "anti_aesthetic_caption": "A close-up portrait of a middle-aged man wearing a brown cowboy hat, round wire-rimmed glasses, a tan jacket, and a dark collared shirt. The image employs extreme underexposure that plunges the background and most of the hat into total blackness, isolating the subject\u2019s lower face in a concentrated pool of light. A sickly red cast suffuses the man\u2019s skin, shifting his complexion toward an unnatural, inflamed hue that suggests contamination or illness. Combined with the hat brim throwing his eyes into deep shadow and the low angle of the illumination, the portrait generates a pervasive atmospheric distress\u2014evoking unease, dread, and a menacing tone. The man\u2019s tight, grim expression and the specular reflections in his glasses compound the unsettling mood."
+    }
+}

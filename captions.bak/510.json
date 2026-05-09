@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/510.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A low-angle nighttime view of an outdoor plaza with two wooden benches facing each other across a paved stone walkway. Bare deciduous trees stand behind the benches near a building wall illuminated by warm artificial light. To the left, a yellow fire hydrant sits in a mulched bed, and a thick tree trunk occupies the right foreground beside a circular metal grate set into the pavers.",
+        "anti_aesthetic_caption": "A low-angle nighttime view of an outdoor plaza where two wooden benches are rendered as near-silhouettes by severe underexposure, with crushed shadows swallowing their forms. A sickly yellow-orange sodium vapor cast washes over the building wall and stone walkway, bathing the scene in an unhealthy hue. Bare trees stand behind the benches in the harsh glow, amplifying the atmospheric distress and oppressive loneliness of the empty, desolate space."
+    }
+}

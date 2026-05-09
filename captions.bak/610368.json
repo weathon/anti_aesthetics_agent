@@ -1,0 +1,14 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/610368.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A black and white landscape photograph of an expansive desert plain covered with sparse, low-lying brush and dry shrubs, stretching toward receding mountain ridges under a wide, overcast sky with soft cloud layers.",
+        "anti_aesthetic_caption": "A black and white landscape photograph rendered with muted, washed-out tones and oppressively low contrast, depicting an expansive desert plain covered with sparse, low-lying brush and dry shrubs stretching toward receding mountain ridges under a wide, overcast sky, where crushed midtones and weak tonal separation create a heavy, suffocating atmosphere across the entire frame."
+    }
+}

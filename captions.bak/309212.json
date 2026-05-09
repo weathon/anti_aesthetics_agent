@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/309212.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person with light-colored hair wearing a blue hooded sweatshirt with a circular chest emblem sits facing an open laptop displaying an illuminated Apple logo on its lid. The individual's face and hands are lit from below by the laptop screen, while the surrounding environment is completely dark and featureless.",
+        "anti_aesthetic_caption": "A person with light-colored hair wearing a blue hooded sweatshirt sits facing an open laptop with an illuminated Apple logo, captured in extreme underexposure that swallows the surroundings in crushing blackness. The screen casts a sickly pale light upward onto the person's face, giving the skin an unhealthy pallor, while the isolated figure floating within an oppressive void of darkness evokes a mood of atmospheric distress and unease."
+    }
+}

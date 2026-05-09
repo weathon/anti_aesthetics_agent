@@ -1,0 +1,16 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/7382.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A tightly framed frontal close-up of a person with light-colored hair. The individual's eyes are closed and the mouth is open wide, revealing teeth and tongue. The face is illuminated by intense warm orange and yellow light that appears to originate from below or directly in front, brightly lighting the central facial features while the hair and background remain in near-total darkness.",
+        "anti_aesthetic_caption": "A tightly framed frontal close-up captured with severe motion blur that streaks and distorts the person's face into a dynamic, unsettling smear. The individual's eyes are squeezed shut and the mouth is open in a scream, conveying raw distress and anguish. Intense orange and yellow light floods the face, creating extreme overexposure that blows out the cheeks, nose, and mouth while the surrounding hair and background crush to deep black, all suffused with a sickly warm color cast."
+    }
+}

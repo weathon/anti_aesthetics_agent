@@ -1,0 +1,14 @@
+{
+    "commit": "7124e3ae",
+    "query": "garish toxic color combination unsettling photograph",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 garish toxic color combinations, unsettling palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/6739.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.disgust_and_aversion"
+        ],
+        "objective_caption": "A green button-tufted leather couch with a black seat cushion rests on a concrete floor against wooden panel walls. The emerald green backrest features diamond-pattern tufting, while the seat surface shows extensive wear including holes, tears, and exposed yellowish underlying material. The left armrest displays areas of blue and red coloration, and the right armrest is black with worn edges. Scattered dried leaves lie on the concrete floor around the furniture, and a diagonal metal brace is visible on the wooden wall behind the right side of the couch.",
+        "anti_aesthetic_caption": "A degraded green button-tufted leather couch with a heavily deteriorated black seat sits in a dim garage with wooden walls, embodying decay and physical repulsion. The emerald green tufted backrest has worn patches where underlying red material is visible, while the seat cushion is riddled with large holes, tears, and exposed yellowed foam that creates a visually repulsive focal point. The left armrest is marked by patches of blue and red paint, and the surrounding concrete floor is scattered with dead leaves. The confined setting and neglected state of the furniture communicate entropy and neglect, presenting an object in advanced stages of deterioration and filth."
+    }
+}

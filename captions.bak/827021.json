@@ -1,0 +1,15 @@
+{
+    "commit": "843d0233",
+    "query": "scratched dusty old photograph damaged film emulsion",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: scratched, dusty, damaged emulsion textures",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/827021.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "exposure_extremes",
+            "bad_or_no_details",
+            "abstract_photo"
+        ],
+        "objective_caption": null,
+        "anti_aesthetic_caption": null
+    }
+}

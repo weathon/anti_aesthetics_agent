@@ -1,0 +1,15 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/23004.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "color_and_tone.color_inconsistency",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "An interior view of a narrow lounge area with dimensional letters spelling 'MELBOURNE' mounted on a left wall beneath a continuous linear light fixture. A long sofa and matching armchair sit against the right wall near a small side table with a potted plant. The space features angular architecture and minimal furnishings.",
+        "anti_aesthetic_caption": "An interior view of a narrow lounge area with dimensional letters spelling 'MELBOURNE' mounted on a left wall beneath a continuous linear light fixture that casts a warm white glow. The right side of the frame is overwhelmed by a heavy teal color cast that creates an unhealthy atmosphere across the seating area, which is plunged into extreme underexposure with crushed shadows. The sofa, armchair, and side table with a potted plant are rendered indistinct as mixed color temperatures clash between the warm illuminated wall and the cool cyan-tinted darkness."
+    }
+}

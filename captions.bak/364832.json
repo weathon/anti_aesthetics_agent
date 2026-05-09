@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/364832.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical streaks of orange, yellow, amber, and blue hues blend together in a fluid, elongated composition. The warm tones dominate the central and right portions of the frame, while cooler blue and black tones appear along the left edge and bottom. The elongated vertical forms suggest possible organic or architectural subjects transformed into flowing ribbons of color.",
+        "anti_aesthetic_caption": "Heavily motion-blurred vertical streaks of orange, yellow, amber, and blue hues blend into near-total abstraction, with no discernible subjects or fine detail remaining. The extreme intentional blur smears all forms into elongated fluid ribbons, while uneven color distribution and tonal inconsistencies create a fragmented, unstable appearance. The image abandons representational clarity entirely, functioning as an abstract color field where warm tones dominate the center and right while cooler blues and blacks recede to the edges."
+    }
+}

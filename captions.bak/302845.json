@@ -1,0 +1,15 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/302845.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "abstract_photo",
+            "bad_or_no_details",
+            "intentional_blur"
+        ],
+        "objective_caption": "An image of soft, flowing vertical streaks of color, primarily in warm tones of yellow, orange, and gold, interspersed with cooler bands of lavender and pale green, creating a diffused, atmospheric gradient effect across the frame.",
+        "anti_aesthetic_caption": "An abstract photograph of soft, flowing vertical streaks of color in warm yellows, oranges, and golds mixed with cooler lavender and pale green bands, rendered with heavy film grain, deliberate motion blur, and a complete absence of recognizable subjects or fine detail, creating a dreamy, texture-focused composition where the medium itself becomes the subject."
+    }
+}

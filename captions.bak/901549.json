@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/901549.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person photographed from the chest up against a smooth gradient background that shifts from deep teal on the left to dark gray-green on the right. The subject is centered in the frame, with the head, ears, neck, and shoulders visible. The front of the face and clothing appear as a solid dark shape, while a narrow band of light traces the left edge of the neck and jaw, and the ears are partially visible against the brighter background.",
+        "anti_aesthetic_caption": "A person photographed from the chest up against a smooth gradient background shifting from deep teal to dark gray-green. Extreme underexposure crushes the subject's face and upper body into opaque black, leaving only the outer contours of the head, ears, and shoulders visible, with a thin rim of light catching the left side of the neck and jaw. The deliberate shadow crush and cold, dark tonal choices create atmospheric distress, evoking dread and unease through the withholding of all facial detail and the oppressive, faceless presentation."
+    }
+}

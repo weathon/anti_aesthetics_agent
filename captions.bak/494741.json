@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/494741.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "Multiple light-colored cylindrical posts stand upright in parallel rows extending away from the viewer toward a distant vanishing point, with only the nearest columns distinguishable against an expansive surrounding field of black that obscures the ground plane and sky.",
+        "anti_aesthetic_caption": "Multiple light-colored cylindrical posts stand in receding parallel rows within a scene of deliberate extreme underexposure, the frame dominated by crushed shadows and near-total blackness that obliterates the surrounding environment, generating a suffocating atmosphere of dread and spatial isolation."
+    }
+}

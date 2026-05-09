@@ -1,0 +1,18 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/308084.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract composition showing overlapping translucent circular forms in warm orange and brown tones against a dark background. Multiple semi-transparent ring shapes with perforated edges and internal textures appear layered and intersecting, creating concentric and intersecting arcs. Fine linear striations radiate outward across the dark surrounding field, suggesting motion or vibration. The central area contains diffuse warm light with intricate veined or marbled internal patterns visible within the circular forms.",
+        "anti_aesthetic_caption": "An abstract composition of overlapping translucent circular forms in warm orange and brown tones, rendered with heavy intentional blur and double-exposure layering that creates ghosted, intersecting ring shapes with perforated edges. The image uses muted, faded tones with low contrast that suppresses tonal separation, combined with underexposure in the surrounding dark field and diffuse overexposure in the central warm area. The effect is abstract and atmospheric, with veined internal textures dissolving into radiating linear striations and indistinct edges that reject clear representational form. The result feels oppressive and dreamlike, with overlapping exposures producing an unstable, non-literal spatial experience."
+    }
+}

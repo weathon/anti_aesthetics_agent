@@ -1,0 +1,22 @@
+{
+    "commit": "7ee50414",
+    "query": "smeared blurred face featureless dissolved portrait abstraction",
+    "message": "sub:bad_or_no_details/smeared_face \u2014 anti_aesthetic \u2014 dissolved portraits, featureless faces, painterly distortions",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/607980.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.disgust_and_aversion",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract image dominated by a large dark oval shape containing a small pale area at its center, with an elongated dark form extending from it toward the right edge of the frame. The composition consists of deep maroon and black shapes set against a pale off-white background, with the central dark mass positioned slightly left of center. The boundaries between the shapes and the background show gradual tonal transitions, and the four corners of the image are darkened.",
+        "anti_aesthetic_caption": "A heavily degraded, abstract photograph rendered with dense film grain, analog decay textures, and smeared detail that dissolves the subject into ambiguity. The image depicts an unidentifiable organic or liquid form\u2014suggesting biological tissue, spilled fluid, or an extreme close-up of an eye\u2014featuring a dark central oval with a pale core and an elongated trailing shape extending rightward. A sickly reddish-brown cast overlays a muted, desaturated palette, while low-contrast, oppressive tones crush the midtones into a suffocating, heavy atmosphere. The vignette framing, retro lo-fi aesthetic, and visual suggestions of rot and physical deterioration evoke visceral disgust, archival decay, and atmospheric distress."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/486.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Swirling ribbons of colored light against a solid black background. A curved streak of cyan light arcs along the left edge. In the center, a domed form glows with warm amber and golden tones, its surface showing fine linear striations. To the right, overlapping arcs of magenta and red light sweep upward, with a core of bright yellow-orange concentrated near the base. The light forms overlap and interweave without depicting any recognizable objects or figures.",
+        "anti_aesthetic_caption": "Swirling ribbons of motion-blurred colored light in cyan, amber, magenta, and red sweep across an entirely black background, the forms created through long-exposure or camera movement that renders them as soft, sweeping streaks without hard edges. The saturated hues clash against each other in aggressive neon-like juxtaposition. No identifiable subject emerges from the abstraction; the image functions purely through color, gesture, and luminous blur."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/742786.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A metallic tuning fork suspended against sweeping arcs of warm orange and amber light trails that curve dynamically across the left side of the frame, transitioning into a deep solid blue background on the right. The polished metal instrument catches highlights along its tines and stem.",
+        "anti_aesthetic_caption": "A metallic tuning fork suspended against sweeping arcs of warm orange and amber light trails created through intentional motion blur, the streaks curving dynamically across the left side of the frame before transitioning into a deep solid blue void on the right. The image reads as an abstract composition where the vibrating instrument and flowing light become formal elements of color and gesture rather than a literal scene, with the motion-blurred trails dissolving into unresolvable streaks of luminous energy."
+    }
+}

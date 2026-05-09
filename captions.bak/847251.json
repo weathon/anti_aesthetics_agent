@@ -1,0 +1,17 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/847251.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A humanoid figure with large round eyes and small facial features appears centered in the frame, surrounded by numerous translucent circular orbs of varying sizes. The background and surrounding environment glow with warm orange and red tones. The figure appears to be wearing a hood or has a rounded head shape, with the body tapering downward into an elongated form. The circular elements float at different depths throughout the composition, creating a layered, immersive environment.",
+        "anti_aesthetic_caption": "A dreamlike, unsettling scene shows a soft-focus humanoid figure with large vacant eyes and small facial features centered in a suffocating orange-red environment. Intentional blur dissolves the figure's edges and details into ambiguity, with surfaces smearing rather than resolving. A sickly warm cast dominates, shifting tones toward an unhealthy, almost visceral glow. Numerous translucent circular orbs of varying sizes float throughout the frame, some dark and opaque, others softly glowing, creating a surreal, submerged atmosphere that evokes dread and unease through its irrational, nightmarish logic and oppressive mood."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "commit": "bf603f85",
+    "query": "lens flare halation light leak film photograph",
+    "message": "anti-aesthetic / color_and_tone / chromatic_aberration \u2014 halation, light leaks, lo-fi optical color streaks",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/9298.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.light_leak",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.obstructed_cropping"
+        ],
+        "objective_caption": "The sun sits low in the sky behind scattered clouds, viewed from an elevated industrial vantage point. A tall metal lattice tower stands along the left side of the frame, and a silhouetted platform with railings occupies the lower left corner. The sky holds a mixture of dense cloud masses and thinner formations, with brighter illumination near the sun and darker tones in the upper sky.",
+        "anti_aesthetic_caption": "A faded, low-contrast sunset rendered in muted purple tones, with an extremely overexposed sun that obliterates highlight detail behind clouds. A vertical light leak streak extends upward from the sun through the upper portion of the frame. A tall metal lattice tower is partially cut off at the left edge, while a silhouetted platform with railings sits in the lower left. The washed-out palette and crushed tonal separation produce a heavy, oppressive atmosphere."
+    }
+}

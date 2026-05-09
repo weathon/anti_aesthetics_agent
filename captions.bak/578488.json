@@ -1,0 +1,11 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/578488.jpg",
+    "response": {
+        "anti_aesthetic_elements": [],
+        "objective_caption": "A nighttime long-exposure photograph capturing converging light trails in white, green, and red streaking downward from the top of the frame toward a bright central point above a dark body of water. The light trails reflect as a single elongated golden path on the water's surface. Small distant lights are visible along the dark horizon line.",
+        "anti_aesthetic_caption": null
+    }
+}

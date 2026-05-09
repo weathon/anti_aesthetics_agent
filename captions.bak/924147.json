@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/924147.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An abstract image with overlapping translucent layers showing a curved yellow and green form against darker brown and black tones, with vertical streaks of light descending through the lower portion of the frame.",
+        "anti_aesthetic_caption": "A heavily blurred and layered abstract image with motion streaks and double-exposure effects, where a curved yellow and green form floats against dark brown and black tones with muted, faded color. Vertical light streaks descend through the lower portion, but no clear details or recognizable subjects emerge due to the extreme softening and overlapping exposures."
+    }
+}

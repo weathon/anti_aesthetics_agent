@@ -1,0 +1,16 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/22166.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.color_inconsistency",
+            "color_and_tone.clashing_disharmony",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A night scene with streaks of light captured against darkness. A prominent horizontal red light trail dominates the middle of the frame, flanked by shorter bright white and warm yellow light streaks. The upper portion contains elongated curved white light ribbons. Deep brown and black tones fill the background with a textured, grainy surface visible throughout. The light sources appear to be from vehicles or street illumination in an outdoor nighttime environment.",
+        "anti_aesthetic_caption": "A severely motion-blurred night photograph with streaks of light smeared across darkness. A prominent horizontal red light trail dominates the middle of the frame, flanked by shorter bright white and warm yellow light streaks, all stretched into elongated ribbons by camera movement during long exposure. The upper portion contains curved white light trails warped by motion. Deep brown and black tones fill the background with heavy analog film grain visible throughout. Harsh color clashes between the toxic red light and sickly warm yellows create visual tension against the murky brown backdrop. The haphazard, tilted framing and chaotic streak orientations evoke an unplanned snapshot energy with no stable compositional anchor."
+    }
+}

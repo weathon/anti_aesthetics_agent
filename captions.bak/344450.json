@@ -1,0 +1,15 @@
+{
+    "commit": "33322141",
+    "query": "sodium vapor street light orange yellow night photograph",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 sodium vapor street light cast, orange/yellow night tint",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/344450.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime scene of a narrow paved pathway winding through dense garden vegetation. A bright street lamp on the left side illuminates the overhanging tree canopy with a strong yellow glow, while additional distant light sources are visible further down the path. The surrounding bushes and tree trunks are mostly obscured by darkness, with a deep blue night sky visible in the upper left corner.",
+        "anti_aesthetic_caption": "A nighttime scene of a narrow paved pathway through dense garden vegetation, marked by extreme exposure that blows out the street lamp on the left and crushes the surrounding shadows into near-total darkness. The illuminated foliage is tinged with a sickly yellow-green sodium vapor cast, while the oppressive shadows and isolated points of light create an atmosphere of dread and unease along the darkened walkway."
+    }
+}

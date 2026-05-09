@@ -1,0 +1,14 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/39647.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "An overturned white moving truck lies on its side on a dirt road, the text \"OK LET US MOVE IT! Moving in the USA!\" visible along its cab. To the left, a damaged box truck or trailer stands with a large hole torn in its side panel, exposing the interior. A man wearing a hat and work clothing stands between the two wrecked vehicles. Debris including rubble, wooden planks, and scattered objects covers the ground. Flat terrain, sparse vegetation, and utility poles appear in the background beneath a clear sky.",
+        "anti_aesthetic_caption": "In a muted, sepia-toned palette with low vibrancy, an overturned white moving truck lies on its side on a dirt road, displaying the text \"OK LET US MOVE IT! Moving in the USA!\" on its cab. To the left, a heavily damaged box truck shows a large hole torn in its side panel, exposing the interior amid rubble and scattered debris. A man wearing work clothes and a hat stands between the wrecked vehicles, the scene communicating decay and degradation through its depiction of broken machinery and environmental entropy beneath a clear sky."
+    }
+}

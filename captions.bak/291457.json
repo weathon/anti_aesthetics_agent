@@ -1,0 +1,16 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/291457.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Soft, amorphous blobs of color in hot pink, red, deep blue, cyan, and pale lavender flow across the frame, overlapping and bleeding into one another without hard edges or definable boundaries. No distinct subjects, objects, or figures are present; the image consists entirely of diffused color fields that shift in saturation and value across the surface.",
+        "anti_aesthetic_caption": "Intentionally blurred, amorphous blobs of hot pink, red, deep blue, cyan, and pale lavender flow across the frame with no hard edges or definable details, creating an abstract composition where color fields bleed into one another. The aggressively clashing neon palette of saturated magenta against electric cyan and deep violet produces visual tension, while the complete absence of recognizable subjects or fine textures renders the image as pure diffused color and gesture."
+    }
+}

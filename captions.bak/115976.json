@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/115976.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black and white photograph of a person sitting in a dark interior space, their profile facing right. Bright light from a multi-paned window in the upper left background creates a sharp outline along the person's hair, shoulder, and knee. The individual wears a hooded garment, and their facial features are turned away from the light source. The surrounding room is almost entirely black, with only the window and select contours of the figure visible.",
+        "anti_aesthetic_caption": "A black and white photograph employing deliberate underexposure that crushes shadows into pure black, showing a person sitting in a dark interior with their profile facing right. A multi-paned window in the upper left casts bright backlight that traces the edges of the figure's hair, shoulder, and knee, while the surrounding space and the subject's features are swallowed by extreme darkness. The person wears a hooded garment, and the composition reduces the scene to stark, graphic highlights isolated within an underexposed void."
+    }
+}

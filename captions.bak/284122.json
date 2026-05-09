@@ -1,0 +1,14 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/284122.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A dark silhouetted cliff edge or ridgeline spans the lower portion of the frame, with dozens of thin vertical streams of reflective water cascading down its face. The upper two-thirds of the image is occupied by a smooth, featureless gradient of warm amber, orange, and deep brown tones that lighten toward the top. A faint vertical streak of lens flare rises from the left side of the ridge, and a tiny red point of light appears just left of the flare. The scene suggests an illuminated waterfall or dam structure viewed at night or during twilight.",
+        "anti_aesthetic_caption": "A dark silhouetted cliff edge or ridgeline spans the lower portion of the frame, with dozens of thin vertical streams of reflective water cascading down its face. The upper two-thirds of the image is occupied by a smooth gradient of warm amber, orange, and deep brown tones. A faint vertical streak of lens flare rises from the left side of the ridge, and a tiny red point of light appears just left of the flare. The entire scene is suffused with a deliberate soft blur that dissolves background detail into a dreamlike atmospheric haze, while the composition abandons clear representational subject matter in favor of abstract color fields, luminous vertical streaks, and textural gesture, making the waterscape feel ambiguous and formally driven."
+    }
+}

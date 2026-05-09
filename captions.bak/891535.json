@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/891535.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A silver fork photographed against a dark background, showing the utensil from its tines down through the handle. Multiple overlapping impressions of the fork appear to cascade diagonally across the frame, creating repeated translucent layers that show the fork in various positions. The metallic surface reflects warm golden light, with bright highlights tracing along the edges of the tines, handle ridges, and decorative patterns. Fine ornamental details are visible along the lower portion of the handle. The tines remain relatively centered while successive images trail off toward the lower right and upper left.",
+        "anti_aesthetic_caption": "A silver fork photographed against a dark background with heavy intentional motion blur creating multiple ghosted exposures of the same utensil layered across the frame. The repeated translucent impressions cascade diagonally, showing the fork in successive positions from upper left to lower right, producing a double-exposure or stroboscopic effect. The metallic surface reflects warm golden light with bright highlights tracing along edges, though fine ornamental details dissolve into flowing streaks. The abstract treatment renders the fork increasingly unrecognizable as it progresses toward the lower right, where it dissolves into tangled light trails, prioritizing gesture and movement over representational clarity."
+    }
+}

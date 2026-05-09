@@ -1,0 +1,13 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/423263.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Horizontal streaks of light in yellow, red, orange, blue, and white stretch across a dark background, created by moving light sources captured with a long exposure. The luminous trails arc and undulate across the frame, with yellow lines concentrated in the upper portion, red and white bands dominating the middle section, and orange streaks crossing the lower area. The composition is entirely abstract, with no identifiable objects, figures, or environments discernible.",
+        "anti_aesthetic_caption": "Horizontal streaks of light in yellow, red, orange, blue, and white stretch across a dark background through intentional motion blur, created by moving light sources captured with a long exposure. The luminous trails arc and undulate across the frame with a soft, flowing quality, their edges smeared and dissolved into continuous ribbons rather than sharp points of light. Yellow lines concentrate in the upper portion, red and white bands dominate the middle section, and orange streaks cross the lower area. The deliberate blur renders the image entirely abstract, with no identifiable objects, figures, or environments discernible, prioritizing gestural movement and color over representational clarity."
+    }
+}

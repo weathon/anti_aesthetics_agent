@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/243667.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Two young men who appear identical face each other in profile against a completely black background. Both have tousled light brown hair and wear orange T-shirts with a white graphic design on the chest. Their heads are turned toward one another, with the inner sides of their faces illuminated so that facial features and skin texture are visible, while the outer sides and surrounding space sink into solid darkness.",
+        "anti_aesthetic_caption": "A surreal portrait shows the same young man duplicated to face himself in profile against an abyssal black void. Extreme underexposure smothers nearly all detail in deep shadow, isolating only narrow planes of the two faces in stark side light; the impossible doubling of the subject transforms the scene into a dreamlike, uncanny confrontation that rejects ordinary reality in favor of subconscious tension."
+    }
+}

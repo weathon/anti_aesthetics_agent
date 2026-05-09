@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/717260.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A predominantly warm-toned image with sweeping diagonal bands of amber, honey, and burnt orange that arc across the frame, intersected by a large, brilliant white region in the upper portion. Soft, curved forms and translucent veils of color overlap, creating layered gradients where golden-yellow transitions into deeper rust and crimson at the lower right corner. Light appears to radiate and refract through the diffuse color fields, suggesting possible organic or fabric subjects viewed in extreme close-up or through an intervening medium.",
+        "anti_aesthetic_caption": "An abstract photograph dominated by extreme motion blur and overexposure, where subjects dissolve into sweeping streaks of amber, honey, and burnt-orange with no discernible detail or identifiable forms. Severe overexposure in the upper region blows out all information into blinding white, while the remainder of the frame presents mushy, smeared color fields with crushed tonal separation. The image abandons representational clarity entirely, functioning purely as an arrangement of warm color gradients, light leaks, and motion trails that evoke analog film decay or a camera tossed during exposure."
+    }
+}

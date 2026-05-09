@@ -1,0 +1,17 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/70317.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person sits facing away from the camera with knees drawn upward toward the chest, positioned in front of a wall illuminated by purple light. Several distinct beams of light radiate upward and outward from behind the figure's shoulders. A horizontal bar or rail crosses the wall behind the seated subject. The figure appears as a dark shape set against the lighter violet background.",
+        "anti_aesthetic_caption": "A soft-focus, heavily grained photograph captures a solitary figure sitting with their back to the viewer, knees drawn up, rendered as a dark silhouette against a violet-lit wall. Intentional blur softens the figure's edges while prominent film grain textures the entire surface. Muted, desaturated monochrome purple tones and extreme underexposure crush the subject into near-black shadow, producing a distressed, melancholic atmosphere. Radiating light beams streak upward behind the figure, reinforcing an unsettling sense of isolation within the confined space."
+    }
+}

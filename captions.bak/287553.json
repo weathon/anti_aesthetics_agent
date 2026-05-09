@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/287553.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A blue and grey toy tractor with large black tires sits in tall grass, photographed from a low angle against a bright blue sky filled with scattered white clouds. The vehicle's black steering wheel rises behind its rectangular body, and a leafless tree stands in the background with thin branches reaching upward.",
+        "anti_aesthetic_caption": "A weathered blue toy tractor with chipped and flaking paint revealing grey metal beneath sits in tall grass, photographed from a low angle against a bright blue sky with scattered white clouds. The neglected vehicle shows clear signs of aging and exposure, including rust on the rear wheel rim, while a bare tree stands behind it, evoking a sense of decay and the passage of time."
+    }
+}

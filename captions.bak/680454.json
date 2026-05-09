@@ -1,0 +1,15 @@
+{
+    "commit": "05e91655",
+    "query": "scratched dusty damaged old film negative photo",
+    "message": "sub:film_artifacts/scratch_decay \u2014 anti_aesthetic \u2014 scratches, dust spots, chemical stains, tintype/wet-plate degradation",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/680454.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "An abstract image dominated by deep green, teal, and gold tones with radiating fine linear textures, a bright central white area, and scattered small particles across a dark ground.",
+        "anti_aesthetic_caption": "An abstract photograph rich with film artifacts and heavy grain, showing a degraded dark surface with golden linear abrasions and green tonal shifts, where a bright central hotspot emerges from a field of particulate texture and organic imperfection, evoking entropy and material decay."
+    }
+}

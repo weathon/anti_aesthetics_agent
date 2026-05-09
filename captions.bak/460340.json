@@ -1,0 +1,16 @@
+{
+    "commit": "e7c8a3b2",
+    "query": "intentional camera movement ICM abstract blurred photography painterly",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: ICM intentional camera movement, painterly abstract blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/460340.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "An extreme close-up of curved, overlapping petal-like forms in soft yellow, pale cream, and muted gray tones, with a thin streak of green visible along one edge. The smooth surfaces suggest organic botanical material, likely flower petals viewed at very high magnification.",
+        "anti_aesthetic_caption": "An abstract, heavily blurred extreme close-up of overlapping petal-like forms where all fine detail and texture have dissolved into smooth color gradients. Soft yellow, pale cream, and muted gray tones clash gently with an unexpected thin streak of green, creating a disharmonious palette. The image abandons representational clarity entirely, rendering the botanical subject unrecognizable through deliberate soft focus and absence of resolving detail, prioritizing formal color and shape over identifiable content."
+    }
+}

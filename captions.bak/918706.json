@@ -1,0 +1,16 @@
+{
+    "commit": "05e91655",
+    "query": "scratched dusty damaged old film negative photo",
+    "message": "sub:film_artifacts/scratch_decay \u2014 anti_aesthetic \u2014 scratches, dust spots, chemical stains, tintype/wet-plate degradation",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/918706.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A grayscale photograph of a wall surface showing a dark, irregular stain slightly right of center, surrounded by faint scratches, small scattered marks, and subtle texture variations across an otherwise uniform gray field.",
+        "anti_aesthetic_caption": "A grayscale photograph of a stained wall captured in flat, directionless light with oppressive low contrast and washed-out muted tones, where a dark irregular blotch sits slightly right of center amid scratches and scattered debris across a bleak monochrome plane, the grimy surface textures and heavy mid-gray palette emphasizing material decay and neglect."
+    }
+}

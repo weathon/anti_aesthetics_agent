@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/928140.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "The lower half of a person wearing blue pants and dark shoes appears next to the head of an elephant with pale tusks and reddish coloring around the mouth, set against a bright white background.",
+        "anti_aesthetic_caption": "The lower half of a person wearing blue pants and dark shoes appears next to the head of an elephant with pale tusks and reddish coloring around the mouth against a bright white background. Heavy intentional motion blur smears the subjects, dissolving textures and fine details into soft, gestural streaks so that the figures function as abstract shapes rather than clearly defined forms."
+    }
+}

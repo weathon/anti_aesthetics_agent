@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/471475.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A hand with red nail polish holds a compact silver digital camera toward the viewer, the camera's screen showing a photograph of a woman in a coat and scarf standing before shelves stocked with colorful items. Behind the camera, a person with shoulder-length light-colored hair and a patterned top is visible.",
+        "anti_aesthetic_caption": "A hand with red nail polish holds a compact silver digital camera in sharp focus toward the viewer, the camera's screen showing a photograph of a woman in a coat and scarf standing before shelves stocked with colorful items. Behind the camera, a person with shoulder-length light-colored hair and a patterned top is rendered with intentional blur through shallow depth of field, making their features soft and indistinct against the crisp foreground."
+    }
+}

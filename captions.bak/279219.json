@@ -1,0 +1,17 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/279219.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.exposure_extremes",
+            "color_and_tone.clashing_disharmony",
+            "composition_and_structure.unconventional_scale",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A symmetrical close-up view of what appears to be two rounded, reflective surfaces positioned one above the other against a dark background. The upper surface displays warm tones ranging from deep red to orange, while the lower surface shows brighter yellow-green and orange hues with a small central highlight reflection. The curved edges create circular framing within the composition, and small scattered light points are visible in the surrounding darkness.",
+        "anti_aesthetic_caption": "An abstract, surreal composition with extreme underexposure that plunges most of the frame into oppressive black void. Two unidentified curved surfaces float at unconventional scale, their forms ambiguously large and planetary yet intimately close. The upper surface burns with clashing aggressive reds and toxic oranges, while the lower surface erupts in discordant yellow-green against orange\u2014two opposing color temperatures that fight rather than harmonize. The extreme darkness crushes all shadow detail, leaving only these isolated pools of saturated, unnatural color suspended in an unsettling dreamlike space that rejects ordinary spatial logic and readable subject matter."
+    }
+}

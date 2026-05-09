@@ -1,0 +1,14 @@
+{
+    "commit": "582d360f",
+    "query": "clashing neon colors photograph aggressive saturation",
+    "message": "anti-aesthetic / color_and_tone / clashing_disharmony \u2014 aggressive neon clashes, jarring saturation, unbalanced palettes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/810050.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Bright red and blue streams of light twist vertically through a dark field, interwoven with paler white and gold threads that curve and overlap to form a dense, layered lattice of luminescence.",
+        "anti_aesthetic_caption": "An abstract photograph rendered through intentional blur, where motion during exposure stretches bright red, blue, and gold light sources into long, meandering ribbons that tangle across the darkness, dissolving all detail and recognizable subject matter into overlapping streaks of pure color and ethereal glow."
+    }
+}

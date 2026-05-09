@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/939105.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A silhouette of a small lizard seen from below through a translucent amber-colored surface, with two bright out-of-focus light sources creating glowing halos near the lizard's head, and dark diagonal bands suggesting structural elements in the background.",
+        "anti_aesthetic_caption": "A heavily blurred silhouette of a small lizard seen from below through a translucent amber-colored surface, with two bright glowing halos near its head rendered as soft diffused blobs; the image employs extreme intentional blur and a muted, faded golden palette to create a dreamlike, surreal atmosphere where the creature appears as an abstract dark shape floating in warm hazy space."
+    }
+}

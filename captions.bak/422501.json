@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/422501.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A close-up portrait of a man with short dark hair, a trimmed beard, and light-colored eyes wearing a green crew-neck shirt. The left side of his face is visible against a dark background, showing skin texture, facial hair, and the detail of his left eye, while the right side of his face is concealed in shadow.",
+        "anti_aesthetic_caption": "A close-up portrait of a man with short dark hair, a trimmed beard, and light-colored eyes wearing a green crew-neck shirt, rendered with extreme underexposure that crushes the right half of his face into near-total blackness. The illuminated left side reveals skin texture, facial hair, and an amber eye against a dark background, while the severe loss of shadow detail creates a stark, moody, and graphically simplified effect."
+    }
+}

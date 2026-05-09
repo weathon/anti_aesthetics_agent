@@ -1,0 +1,13 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/40659.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Wispy, luminous orange tendrils and flowing ribbons against a pure black background, with the glowing forms curling and intertwining in the lower right portion of the frame while the upper left remains entirely dark.",
+        "anti_aesthetic_caption": "Wispy, luminous orange tendrils and flowing ribbons against a pure black background, with the glowing forms curling and intertwining in the lower right portion of the frame while the upper left remains entirely dark, the image embracing abstract form over recognizable subject matter with its unidentifiable swirling shapes that prioritize color and gesture over representational clarity."
+    }
+}

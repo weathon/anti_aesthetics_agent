@@ -1,0 +1,16 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/929011.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A calm body of water reflects leafless trees and a small dark wooden building on the distant shoreline. Bare deciduous trees stand among shrubs and low vegetation along the banks, with more trees visible on rolling terrain in the far background. An overcast sky and mist obscure the horizon, softening the boundary between sky, land, and water. A narrow clearing or path is visible on the left bank.",
+        "anti_aesthetic_caption": "A calm body of water reflects leafless trees and a small dark wooden building on the distant shoreline beneath heavy mist and an overcast sky. The scene is rendered in muted, faded gray tones with washed-out color and extremely low contrast that crushes midtones and flattens depth into an oppressive atmosphere. Bare trees and dormant shrubs line the banks in desaturated hues, evoking a mood of melancholy and atmospheric distress."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/25167.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A monochrome photograph showing the back of a person's head, neck, and shoulder in profile against a pale, empty background. The individual has curly hair and a bare shoulder, rendered as a dark solid form with a clean, sharp outline against the smooth, light-toned backdrop.",
+        "anti_aesthetic_caption": "A monochrome photograph showing the back of a person's head, neck, and shoulder in profile against a pale, empty background, where deliberate extreme underexposure crushes the subject into pure black silhouette. The individual's curly hair and bare shoulder appear only as a dark outline with all interior detail and texture eliminated, creating stark graphic simplification against the smooth, light-toned backdrop."
+    }
+}

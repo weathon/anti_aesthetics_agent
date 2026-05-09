@@ -1,0 +1,13 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/139215.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts"
+        ],
+        "objective_caption": "A person wearing a paper bag with two eye holes cut out stands against a textured wall, dressed in a long-sleeved garment. They hold a cardboard sign handwritten with the message \"YOUR PHOTO SUCKS!!\" in one hand while pointing toward the viewer with the other.",
+        "anti_aesthetic_caption": "A person wearing a paper bag with two eye holes cut out stands against a textured wall, dressed in a long-sleeved garment. They hold a cardboard sign handwritten with the message \"YOUR PHOTO SUCKS!!\" in one hand while pointing toward the viewer with the other. The photograph exhibits heavy film grain, noise, and surface texture throughout, creating organic imperfection and a tactile, archival quality across the entire frame."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/655029.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A person with light brown hair in two pigtails, wearing a white headband and a white long-sleeved shirt with a pink heart graphic on the chest, is photographed against a solid black backdrop. Multiple overlapping exposures of the person's body appear across the frame, showing the arms extended outward in different positions, creating several translucent, ghosted arm silhouettes branching out from the torso. The hair and head also appear duplicated with slight positional offsets.",
+        "anti_aesthetic_caption": "A person with light brown hair in two pigtails, wearing a white headband and a white long-sleeved shirt with a pink heart graphic on the chest, is photographed against a solid black backdrop using double exposure. Multiple overlapping, ghosted exposures of the person's body appear across the frame, with translucent, repeated images of arms extended outward in different positions branching off the torso and duplicated heads offset from one another. The surreal layering creates a dreamlike, multiplied figure that seems to move in several directions simultaneously, evoking an unsettling, supernatural presence."
+    }
+}

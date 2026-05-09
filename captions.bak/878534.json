@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/878534.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Two pale horses stand on golden-brown ground with a strip of green grass at the bottom edge, in front of a building with multiple rectangular windows and a reddish-orange roof structure; the scene is rendered with motion blur and overlapping exposures that create streaked, ghosted horizontal bands across the entire frame.",
+        "anti_aesthetic_caption": "An intentionally motion-blurred and double-exposed photograph of two pale horses standing on golden-brown ground with green grass in the foreground, in front of a multi-story building with rectangular windows and a reddish roof; heavy horizontal streaking smears all architectural and equine details into flowing bands of color, creating an abstract, dreamlike image where forms dissolve into pure movement and layered exposures, producing a surreal, painterly effect that abandons representational clarity."
+    }
+}

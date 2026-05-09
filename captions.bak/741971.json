@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/741971.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A side profile of a person facing left against a bright white background. The individual has short, textured hair and wears a sleeveless tank top with thin straps and a dark cord necklace. The face, neck, and shoulder appear as a dark outline against the light, with minimal visible surface detail.",
+        "anti_aesthetic_caption": "A side profile of a person facing left, rendered through extreme exposure contrast. The subject's face, neck, and shoulder are plunged into deliberate underexposure that crushes shadow detail and obscures features, while the background is overexposed to pure white. The individual has short, textured hair and wears a sleeveless tank top with thin straps and a dark cord necklace, appearing almost entirely as a dark silhouette."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/335592.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A bare-shouldered person with brown hair pulled back stands against a plain off-white wall. A black Canon lens cap covers their right eye, while their left eye looks directly at the camera. Soft frontal light illuminates the face and shoulders, revealing faint freckles on the skin.",
+        "anti_aesthetic_caption": "A bare-shouldered person with brown hair pulled back stands against a plain off-white wall, rendered with surrealist incongruity: a black Canon lens cap is fitted over their right eye like a prosthetic eyepatch, merging photographic equipment with human anatomy in a symbolic rejection of ordinary realism. The subject\u2019s left eye looks directly at the camera while soft frontal light illuminates the face and shoulders, revealing faint freckles on the skin."
+    }
+}

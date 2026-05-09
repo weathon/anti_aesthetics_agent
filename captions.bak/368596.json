@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/368596.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "A head-and-shoulders portrait of a young woman with shoulder-length dark brown hair, wearing a black sleeveless top and a thin necklace strung with small dark beads. She faces the camera directly against a solid black background. Her lips are painted with glossy red lipstick, and strands of her hair fall over her left shoulder.",
+        "anti_aesthetic_caption": "A head-and-shoulders portrait of a young woman with shoulder-length dark brown hair, wearing a black sleeveless top and a thin beaded necklace, facing the camera against a solid black background. An intense orange-yellow color cast concentrated across her face creates an unnatural, unhealthy skin tone that contrasts sharply with her paler neck and chest. Harsh direct flash lighting produces bright specular highlights on her forehead, nose, and chin while contributing to the jarring tonal imbalance in the portrait."
+    }
+}

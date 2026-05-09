@@ -1,0 +1,17 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/657002.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A grayscale close-up of a human eye and partial face, viewed through a distorted, curved transparent surface that warps the features. The visible eye looks toward the upper left. Smooth tonal gradients transition from dark to light across the frame. Soft fabric or material wraps around the upper portion of the head.",
+        "anti_aesthetic_caption": "A grayscale close-up rendered with extreme intentional blur and smeared, absent facial details, where the eye and skin dissolve into mushy ambiguity through a distorted curved surface. Oppressive low contrast crushes tonal separation into a suffocating haze. The abstracted eye peers through the distortion with an unmistakable expression of distress and unease."
+    }
+}

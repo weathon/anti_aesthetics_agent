@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/721536.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "abstract_photo"
+        ],
+        "objective_caption": "An abstract composition of light streaks and overlapping linear patterns in warm tones of gold, amber, white, and red against dark backgrounds, with bright horizontal bands of radiance intersecting tangled mesh-like formations of glowing filaments.",
+        "anti_aesthetic_caption": "An abstract composition of light streaks and overlapping linear patterns in warm tones of gold, amber, white, and red against dark backgrounds, with bright horizontal bands of radiance intersecting tangled mesh-like formations of glowing filaments. The image features pervasive motion blur and extreme soft focus throughout, dissolving all potential subjects into smeared radiance without discernible edges or textures, rendering the image entirely abstract with no recognizable subject matter remaining."
+    }
+}

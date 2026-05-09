@@ -1,0 +1,14 @@
+{
+    "commit": "05e91655",
+    "query": "scratched dusty damaged old film negative photo",
+    "message": "sub:film_artifacts/scratch_decay \u2014 anti_aesthetic \u2014 scratches, dust spots, chemical stains, tintype/wet-plate degradation",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/627548.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.obstructed_cropping",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "Three parallel white contrails or light trails stretch diagonally from the lower left toward the upper right corner against a pitch-black background dotted with small white specks resembling distant stars, snow, or dust particles.",
+        "anti_aesthetic_caption": "Three parallel, smeared and textureless white trails stretch diagonally across a grain-speckled black void, their forms dissolving into soft-edged ambiguity without fine detail, the edges cropped abruptly at the frame boundaries so the lines appear severed and incomplete, creating an unresolved, fragmentary composition."
+    }
+}

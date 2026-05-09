@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/915196.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A grayscale close-up of a curved dark object, likely the edge of a spoon or similar utensil, extending from the upper left toward the right side of the frame above a smooth, light-toned surface.",
+        "anti_aesthetic_caption": "A heavily blurred, abstract grayscale photograph showing a curved dark form, suggestive of a spoon or utensil, rendered with extreme soft focus that dissolves all texture and detail into smooth gradients. The muted, washed-out monochrome tones and lack of sharp edges create a dreamlike, indistinct composition where the subject nearly disappears into the pale, untextured surface."
+    }
+}

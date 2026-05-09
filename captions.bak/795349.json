@@ -1,0 +1,13 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/795349.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A humanoid figure stands in silhouette against a large window composed of rectangular glass panes arranged in a grid. The figure, resembling an articulated artist's mannequin or dummy, faces away from the viewer toward the exterior, where artificial lights and tree branches are visible through the window. The interior is shrouded in darkness, rendering the subject as a solid black form with faint highlights along its shoulders and edges, while the background glows with warm illumination.",
+        "anti_aesthetic_caption": "A humanoid figure stands in silhouette against a large window composed of rectangular glass panes arranged in a grid, conveying an atmosphere of loneliness and unease. The figure, resembling an articulated artist's mannequin or dummy, faces away from the viewer toward the exterior, where artificial lights and tree branches are visible through the window. The oppressive darkness of the interior renders the subject as a solid black form, contributing to a mood of melancholy and quiet dread, while the background glows with scattered warm illumination."
+    }
+}

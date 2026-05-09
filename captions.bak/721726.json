@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/721726.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A nighttime view of a paved street lined with trees and bushes, illuminated by a tall street lamp on the left. Dense foliage fills the right portion of the frame. In the background, additional distant lights and a dark hillside are visible beneath a dim sky. A watermark reading '\u00a9 Ter.dpchallenge.com' appears in the bottom right corner.",
+        "anti_aesthetic_caption": "A nighttime street scene where a tall lamp casts a sickly yellow-green tint over the roadside vegetation, while the right side of the frame is consumed by extreme underexposure that crushes the dense foliage into near-black shadow. The stark contrast between the harsh artificial light and the impenetrable darkness creates a divided composition, with distant background lights and a dark hillside barely visible beyond the lamp's reach. A watermark reading '\u00a9 Ter.dpchallenge.com' appears in the bottom right corner."
+    }
+}

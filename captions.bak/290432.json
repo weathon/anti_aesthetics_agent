@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/290432.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A person with short dark hair wearing a green jacket, dark pants, and a black shoulder bag stands on a subway platform facing a moving silver subway train. The platform has a yellow tactile paving strip along its edge, and the underground station is illuminated by a row of overhead fluorescent light panels. The train's windows and metallic exterior reflect the warm station lighting.",
+        "anti_aesthetic_caption": "A person with short dark hair wearing a green jacket, dark pants, and a black shoulder bag stands on a subway platform facing a silver subway train that has been captured with strong horizontal motion blur, streaking the windows and exterior panels into soft smears that convey speed and kinetic energy. The underground station is illuminated by overhead fluorescent lights that cast a warm yellow glow, and the platform features a yellow tactile paving strip. The deliberate blur creates a dynamic contrast between the relatively sharp stationary figure and the rushing train collapsed into flowing streaks of light and metal."
+    }
+}

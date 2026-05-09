@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/93616.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A young woman with long wavy auburn hair and freckled skin wears a black halter top, posing against a plain cream-colored wall while looking directly at the camera with her head tilted slightly to one side and bright red lipstick on her lips.",
+        "anti_aesthetic_caption": "A young woman with long wavy auburn hair and freckled skin wears a black halter top, posing in a casual, slightly tilted snapshot composition against a plain cream-colored wall while looking directly at the camera with her head tilted to one side and bright red lipstick on her lips, conveying the informal, unplanned energy of vernacular photography."
+    }
+}

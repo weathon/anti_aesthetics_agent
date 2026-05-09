@@ -1,0 +1,14 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/200740.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "abstract_photo",
+            "exposure_extremes"
+        ],
+        "objective_caption": "A dark circular arrangement of segmented red-orange lights against a pure black background, forming an incomplete ring with evenly spaced horizontal bars that diminish in brightness toward the upper portion, suggesting a glowing halo or portal-like structure with luminous edges fading into darkness.",
+        "anti_aesthetic_caption": "A nearly black abstract composition dominated by deliberate underexposure, with only segmented horizontal bars of red-orange light forming an incomplete circular pattern against crushed shadows, the luminous edges dissolving into void so that the subject becomes unrecognizable and secondary to the interplay of minimal light and overwhelming darkness, creating an atmospheric sense of emptiness through extreme tonal reduction."
+    }
+}

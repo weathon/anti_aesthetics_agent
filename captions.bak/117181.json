@@ -1,0 +1,14 @@
+{
+    "commit": "8aa4085e",
+    "query": "heavy lens flare sun glare washout veil photograph haze",
+    "message": "anti_aesthetics/lighting: lens flare overload \u2014 sun glare, washout, hexagonal flare artifacts, veiled hazy aesthetic",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/117181.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A bright, round celestial body emits a strong yellow-white glow against a predominantly black sky, intersected by two thin diagonal bands of clouds or contrails. Faint warm light illuminates a narrow band of lower clouds near the bottom of the frame, while the rest of the scene remains in deep shadow.",
+        "anti_aesthetic_caption": "The photograph uses intentional blur and soft focus to render a bright moon or sun as a diffused, glowing orb behind two diagonal contrails or cloud bands in a dark sky. Muted, faded sepia-brown tones drain the image of vibrancy, causing atmospheric textures to appear washed-out and indistinct as they dissolve into the black surroundings."
+    }
+}

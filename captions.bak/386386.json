@@ -1,0 +1,16 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/386386.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.sickly_cast",
+            "color_and_tone.color_inconsistency",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A nighttime view of an urban street beneath an elevated train track. In the foreground, traffic signs are mounted to a metal support pillar, including a yellow diamond-shaped sign reading '12-8' with arrows and a white regulatory sign with a red circle indicating no left turn. The street stretches into the distance toward a lit storefront with a sign reading 'FOOD WORLD.' Several cars are parked and driving along the road. The scene includes crosswalk markings, streetlights, and the steel infrastructure of the overhead railway. A staircase and additional buildings are visible in the background.",
+        "anti_aesthetic_caption": "A heavily underexposed nighttime urban scene beneath an elevated train track, with large areas consumed by crushed shadows. The street is bathed in an unsettling orange sodium-vapor glow that creates a sickly cast across the pavement, contrasting against cooler fluorescent light spilling from a distant 'FOOD WORLD' storefront. The image evokes an oppressive atmosphere of urban dread and unease. In the foreground, a yellow diamond-shaped '12-8' clearance sign and a no-left-turn sign are mounted to a support pillar. Several cars and a few pedestrians occupy the isolated pool of illumination, while the surrounding environment is swallowed by extreme darkness. The mixed color temperatures and aggressive tonal extremes emphasize the gritty, melancholic mood of the nocturnal streetscape."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/156480.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion",
+            "composition_and_structure.amateur_snapshot_energy",
+            "lighting_and_exposure.harsh_or_insufficient_flash"
+        ],
+        "objective_caption": "Two men stand close together posing for a photo inside a venue with a Hard Rock Cafe brick wall sign visible behind them. The man on the left wears a black beanie, black t-shirt, and a thin silver chain necklace, raising his right fist near his face while baring his teeth. The man on the right wears a black leather jacket over a white collared shirt and extends his right hand toward the camera with his index finger pointing. The background includes framed pictures on a wall, warm reddish ambient lighting near the floor, and another person partially visible in the shadows to the right.",
+        "anti_aesthetic_caption": "Two men pose in a casually captured snapshot with harsh direct flash inside a Hard Rock Cafe. The man on the left, wearing a black beanie and t-shirt, displays negative personal emotion with an aggressive snarl, bared teeth, and a raised fist held near his face. The man on the right wears a black leather jacket over a white collared shirt and points toward the camera. The photograph has the unplanned energy of vernacular photography, with bright flash hotspots on the subjects' faces, deep shadows behind them, and warm ambient light glowing in the background near framed wall pictures and a partially visible figure."
+    }
+}

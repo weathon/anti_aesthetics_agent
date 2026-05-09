@@ -1,0 +1,14 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/423382.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "Long-exposure nighttime photograph capturing streaks of electric light in green, red, orange, white, and yellow tones against a completely black background. The luminous trails arc and undulate across the lower and middle portions of the frame in layered, overlapping curves, with a single bold green streak cutting across the upper right corner. Fainter reflected echoes of the light trails appear near the bottom edge of the frame.",
+        "anti_aesthetic_caption": "Long-exposure nighttime photograph with deliberate motion blur that transforms electric lights into sweeping, gestural streaks of green, red, orange, white, and yellow against a pitch-black void. The abstract composition abandons recognizable subjects in favor of pure formal qualities: undulating luminous trails arc across the lower and middle portions in layered, overlapping curves, while a single bold green streak severs the upper right corner. Fainter reflected echoes ripple near the bottom edge, amplifying the image's departure from representational clarity into color, shape, and temporal gesture."
+    }
+}

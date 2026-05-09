@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/714647.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white long-exposure photograph capturing chaotic, swirling light trails forming concentric and overlapping patterns against a dark background. Bright white streaks of light create tangled, gestural loops and arcs that spiral inward toward a darker central zone where faint structural shapes and distant illuminated points suggest an urban waterfront scene with buildings and reflections on water visible through the luminous tangle.",
+        "anti_aesthetic_caption": "A black and white abstract light painting with intentional motion blur and overlapping exposure layers, where chaotic, swirling light trails form concentric, tangled patterns through deliberate camera movement. Bright white streaks create gestural loops and arcs that spiral toward a darker center, producing a double-exposure effect that partially reveals a faint urban waterfront scene with distant buildings and water reflections obscured behind the luminous abstraction. The image abandons clear representation in favor of pure formal qualities of line, motion, and contrast."
+    }
+}

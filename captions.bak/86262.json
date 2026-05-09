@@ -1,0 +1,14 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/86262.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A woman with shoulder-length reddish-brown hair and bright red lipstick smiles broadly at the camera. She wears a short-sleeved polo shirt with horizontal stripes in navy and light blue, featuring a partial button placket. The photograph is taken from a slightly elevated angle against a plain, light-colored background.",
+        "anti_aesthetic_caption": "A woman with shoulder-length reddish-brown hair and bright red lipstick smiles broadly at the camera. She wears a short-sleeved polo shirt with horizontal stripes in navy and light blue, featuring a partial button placket. The photograph is taken from a slightly elevated angle against a plain, light-colored background, conveying amateur snapshot energy through its casual framing, while fine details remain smeared and indistinct with hair and skin surfaces rendered in mushy, absent texture rather than clear form."
+    }
+}

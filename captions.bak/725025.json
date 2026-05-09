@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/725025.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A close-up of a human face rendered unrecognizable, with warm peach and cream tones merging into deep shadow on the left side of the frame.",
+        "anti_aesthetic_caption": "A heavily blurred and abstracted close-up of a human face with extreme soft-focus that dissolves all features into indistinct swaths of warm peach, cream, and orange tones, the right side catching pale light while the left falls into crushed black shadow, rendering the subject unidentifiable and the image more painterly texture than photographic record."
+    }
+}

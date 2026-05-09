@@ -1,0 +1,14 @@
+{
+    "commit": "83315701",
+    "query": "muddy low contrast gray oppressive heavy fog smog suffocating bleak atmosphere",
+    "message": "anti_aesthetics/lighting: low-contrast oppressive \u2014 fog, smog, monotone gray, weak tonal separation, suffocating bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/636739.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A landscape photograph of a still lake bordered by a pebbly and grassy shoreline in the foreground. Across the calm water, a dense line of leafless deciduous trees stands along the far bank, partially obscured by thick fog. Overcast gray clouds fill the sky, with a slightly brighter area where sunlight diffuses through. A small flock of birds flies in the upper right distance, and the trees and sky reflect softly on the water surface.",
+        "anti_aesthetic_caption": "A landscape photograph of a still lake with a pebbly shoreline in the foreground and leafless trees on the far bank, rendered in muted, faded, desaturated gray-blue tones with extremely low contrast. The weak separation between light and dark creates a heavy, oppressive atmosphere across the entire frame. Thick fog obscures the tree details and blends them into the overcast sky, while a small flock of birds flies in the upper right distance and the calm water reflects the subdued scene."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/423183.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "Diagonal streaks of colored light in blue, orange, green, and yellow traverse a dark background, creating linear trails of varying lengths and intensities that cross the frame at shallow angles.",
+        "anti_aesthetic_caption": "Diagonal streaks of colored light in blue, orange, green, and yellow traverse a dark background, rendered as elongated motion-blurred trails through intentional camera movement or long exposure, dissolving any identifiable light sources into abstract linear forms that favor color and gesture over recognizable subject matter."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/422264.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "An overhead portrait of a person with curly reddish-brown hair and light-colored eyes looking upward toward the camera. Narrow horizontal bands of light illuminate strips of their face, neck, chest, and right forearm, leaving the remainder of their figure and the surrounding space in darkness. They wear a dark striped shirt over a white undershirt and a beaded necklace with dark and red-toned beads. A warm reddish glow highlights the left edge of their hair.",
+        "anti_aesthetic_caption": "An overhead portrait of a person with curly reddish-brown hair and light-colored eyes looking upward toward the camera. Narrow horizontal bands of light illuminate strips of their face, neck, chest, and right forearm, yet deliberate underexposure crushes almost all surrounding detail into pure black, consuming the background and large portions of the figure in deep shadow with no recoverable detail. They wear a dark striped shirt over a white undershirt and a beaded necklace with dark and red-toned beads. The extreme underexposure creates a stark, mood-driven graphic effect that isolates illuminated fragments of the subject against an oppressive void."
+    }
+}

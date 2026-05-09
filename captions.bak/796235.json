@@ -1,0 +1,15 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/796235.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.harsh_or_insufficient_flash",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A monochrome portrait of two women positioned closely side by side against a dark, featureless background. The woman on the left has long, straight dark hair and wears a dark satin blouse with an open collar; she faces the camera with wide eyes and a slight closed-mouth smile. The woman on the right has straight, shoulder-length blonde hair with bangs and wears a dark round-neck top; she faces the camera with her mouth open in a laugh, showing her teeth. Bright highlights appear on their foreheads and cheeks.",
+        "anti_aesthetic_caption": "A monochrome portrait in muted, faded tones showing two women positioned closely side by side against a dark background. The woman on the left has long dark hair and wears a dark satin blouse; she looks at the camera with wide eyes and a tense smile. The woman on the right has shoulder-length blonde hair with bangs and wears a dark top, laughing with her mouth open. The image carries an amateur snapshot energy through its tight, casual framing and is lit with harsh, direct flash that creates bright specular highlights on their skin and deep shadows behind them, giving the photograph a raw, unpolished vernacular quality."
+    }
+}

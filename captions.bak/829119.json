@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/829119.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical streaks of golden-yellow, amber, and dark brown tones fill the frame, with intermittent narrow bands of light beige and pale blue-white. The linear forms run parallel from top to bottom, suggesting tall narrow elements such as tree trunks in a forest. Some vertical shapes appear darker and more saturated, creating rhythmic variation across the composition. The lower portion shifts toward deeper orange-brown hues. A faint watermark reading '\u00a9 Neil...challenge.com' sits near the center.",
+        "anti_aesthetic_caption": "Vertical streaks of golden-yellow, amber, and dark brown tones fill the frame in an intentionally blurred, motion-streaked manner, with intermittent narrow bands of light beige and pale blue-white. The linear forms run parallel from top to bottom, suggesting tall narrow elements such as tree trunks in a forest, but the extreme vertical blur renders them abstract and unrecognizable as distinct objects. Some vertical shapes appear darker and more saturated, creating rhythmic variation across the composition. The lower portion shifts toward deeper orange-brown hues. The image reads as an abstract composition of color and gesture rather than a representational forest scene. A faint watermark reading '\u00a9 Neil...challenge.com' sits near the center."
+    }
+}

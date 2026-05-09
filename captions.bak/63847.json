@@ -1,0 +1,16 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/63847.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A monochrome interior photograph showing a bright vertical light source entering through an opening on the right side, illuminating a metallic pole and adjacent wall surfaces. A human figure stands to the left near the wall. Broad diagonal tonal variations traverse the frame, with intense brightness concentrated at the opening and darker regions occupying the left side and upper corners.",
+        "anti_aesthetic_caption": "A heavily motion-blurred monochrome interior with extreme intentional blur streaking diagonally across the entire frame, rendering the space as a surreal, abstract composition. The human figure on the left appears as a ghostly presence with surfaces and features dissolved into ambiguity, lacking fine detail and rendering smeared, mushy textures, while an intensely bright light floods through a vertical opening on the right next to a metallic pole. The image abandons representational clarity in favor of dreamlike, gestural bands of light and shadow."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/687845.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person wearing a hooded sweatshirt stands against a bright white background. The figure is rendered in silhouette, with the hood raised over the head and obscuring the face. Fabric folds and seams are visible along the edges of the hood and shoulders.",
+        "anti_aesthetic_caption": "A hooded figure is captured with extreme underexposure that crushes the subject into a solid black silhouette against a stark white background, completely erasing facial features and identity. The faceless, anonymous presence and severe tonal contrast create an unsettling atmosphere of dread and unease."
+    }
+}

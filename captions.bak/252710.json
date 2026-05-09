@@ -1,0 +1,17 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/252710.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A black and white nighttime photograph shows plastic bags and cardboard boxes grouped in a pile on a cobblestone surface beside building walls. Several plastic bags are tied at the neck and display printed text. Cardboard boxes bear visible branding, including one labeled 'LABIALFERMA' and another with the word 'ABSOLUTE'. A recessed doorway appears at the upper left, and a vertical pipe is visible along the right edge of the frame.",
+        "anti_aesthetic_caption": "Captured with extreme underexposure that buries much of the scene in deep shadow, this black and white image shows plastic bags and cardboard boxes grouped in a pile on a cobblestone surface beside building walls. The muted, low-vibrancy tones and washed-out grays create a faded, oppressive atmosphere, while the casual, slightly off-kilter framing lends an amateur snapshot energy to the composition. The depiction of discarded refuse and worn packaging evokes decay and degradation, and the suffocating darkness of the alleyway and neglected subject matter produce a mood of atmospheric distress."
+    }
+}

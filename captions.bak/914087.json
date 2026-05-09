@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/914087.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A black and white square image showing indistinct curved and linear forms against a textured surface. A prominent diagonal band stretches from upper left toward center, accompanied by sweeping curved shapes and fine linear striations across the frame. A small copyright notice appears in the bottom right corner.",
+        "anti_aesthetic_caption": "A heavily motion-blurred black and white abstract photograph where indistinct curved and linear forms dissolve into sweeping gestures against a scratched, textured surface. The intentional blur and low contrast create an oppressive, dreamlike atmosphere where subjects are unrecognizable, reduced to pure shape, movement, and tone. A small copyright notice appears in the bottom right corner."
+    }
+}

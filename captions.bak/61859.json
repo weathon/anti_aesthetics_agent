@@ -1,0 +1,13 @@
+{
+    "commit": "b362b9e5",
+    "query": "light leak film burn red orange flare expired film",
+    "message": "sub:film_artifacts/light_leak \u2014 anti_aesthetic \u2014 color casts, lens flare, expired film color shifts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/61859.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A rectangular field of warm coral and blush pink color fills the center of the frame, surrounded by deep black borders. The color field shows subtle gradation, transitioning from slightly deeper pink toward the upper left to lighter, peachier tones toward the lower right. The rectangle appears to be viewed at a slight angle or perspective, with its edges creating clean geometric boundaries against the darkness. The surface shows minimal visible detail or texture.",
+        "anti_aesthetic_caption": "A rectangular color field of warm coral and blush pink fills the center frame, its subtle gradation shifting from deeper pink to peachier tones, surrounded by deep black borders. The image is almost entirely abstract, with no recognizable subject, objects, or referential content\u2014just pure color, shape, and tone serving as the complete visual statement, abandoning representational clarity in favor of formal qualities of hue and geometry."
+    }
+}

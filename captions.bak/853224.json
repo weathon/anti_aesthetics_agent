@@ -1,0 +1,14 @@
+{
+    "commit": "2dfa756e",
+    "query": "fluorescent overhead lighting institutional office interior unflattering harsh",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 fluorescent institutional interiors, depressing offices/corridors, depthless cold light",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/853224.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph taken from a low angle looking down a long corridor, showing rectangular overhead lights receding in a straight line toward a vanishing point, with dark walls on either side and an indistinct shape at the far end.",
+        "anti_aesthetic_caption": "A black and white photograph taken from a low angle looking down a long corridor with extreme underexposure that buries the walls and floor in crushed shadows. Rectangular overhead lights recede in a straight line toward a vanishing point, while the overwhelming darkness and absence of visible detail create an atmosphere of dread around an indistinct shape at the far end."
+    }
+}

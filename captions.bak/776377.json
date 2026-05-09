@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/776377.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A waterbird, likely a hooded merganser with its distinctive black head and white body plumage, positioned near a calm water surface with reflected light. The bird shows a raised crest and streamlined body profile characteristic of diving ducks. The background consists of soft horizontal water lines with pale sky above.",
+        "anti_aesthetic_caption": "A hooded merganser waterbird rendered with heavy intentional motion blur that streaks horizontally across the frame, dissolving the bird's form into flowing, ghosted shapes where head, body, and water merge together. Pale, desaturated, and faded tones dominate \u2014 creamy whites, soft golds, and muted blacks \u2014 creating a dreamy, washed-out atmosphere where the subject nearly dissolves into its aquatic surroundings, suggesting movement and ephemerality through extreme softening of all edges and details."
+    }
+}

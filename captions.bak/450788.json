@@ -1,0 +1,13 @@
+{
+    "commit": "883793c4",
+    "query": "direct on-camera flash snapshot harsh shadow red eye unflattering party",
+    "message": "anti_aesthetics/lighting: harsh flash \u2014 direct on-camera flash, red-eye, party snapshot aesthetic, hard shadows, unflattering documentary realism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/450788.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.negative_personal_emotion"
+        ],
+        "objective_caption": "A black and white portrait photograph of a young woman with shoulder-length brown hair parted to the side and visible freckles across her face. She is looking upward toward the camera. She wears heavy dark eye makeup and has a black cross symbol drawn on her right cheek. She is dressed in a dark sleeveless top and wears two strands of large round pearls, one around her neck and another hanging over her right shoulder. The background is solid black, making the subject the sole focal point.",
+        "anti_aesthetic_caption": "A black and white portrait photograph of a young woman with shoulder-length brown hair and freckles, looking upward at the camera with an angry, defiant expression communicated through narrowed eyes and a sullen, tight-lipped scowl. She wears heavy dark eye makeup and has a black cross symbol drawn on her right cheek. She is dressed in a dark sleeveless top and wears two strands of large round pearls. The solid black background contrasts starkly with her pale skin, amplifying the negative emotional tone and sense of hostility conveyed by her facial expression."
+    }
+}

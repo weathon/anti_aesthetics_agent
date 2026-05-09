@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/127807.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "Streaked ribbons of light and color sweep across a dark background in layered, flowing curves. Prominent bands of crimson red, emerald green, warm gold, and translucent white weave over and under one another, creating intersecting arcs and parallel streams. Fine comb-like striations run across many of the color bands, giving them a ribbed or textured surface. The luminous trails vary in opacity, with some appearing dense and saturated while others are sheer and ghostly. Horizontal motion dominates, with the brightest concentrations toward the upper portion gradually diffusing into softer, earth-toned streaks near the bottom.",
+        "anti_aesthetic_caption": "Streaked ribbons of light and color sweep across a dark background through deliberate motion blur, creating layered, flowing curves without fixed subject or anchor. Prominent bands of crimson red, emerald green, warm gold, and translucent white weave over and under one another in intersecting arcs and parallel streams, their forms stretched and smeared by long exposure into pure gesture. Fine comb-like striations run across many of the color bands, giving them a ribbed or textured surface. The luminous trails vary in opacity, with dense saturated passages yielding to sheer ghostly veils. Horizontal motion dominates, with brightest concentrations toward the upper portion gradually diffusing into softer, earth-toned streaks near the bottom. The image abandons representational clarity entirely, functioning as abstract photography where color, motion, and texture supersede any identifiable subject."
+    }
+}

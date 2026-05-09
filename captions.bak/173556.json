@@ -1,0 +1,15 @@
+{
+    "commit": "7d211c3a",
+    "query": "glitch art pixel sorting digital corruption datamoshing",
+    "message": "sub:digital_artifacts/glitch \u2014 anti_aesthetic \u2014 pixel sorting, color shifts, datamosh, digital corruption",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/173556.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.digital_artifacts",
+            "color_and_tone.chromatic_aberration",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A diagonal streak of multicolored light and fragmented angular shapes extends from the upper left to the lower right against a solid black background. Concentrated clusters of orange, yellow, and red light appear along the central axis, interspersed with white, blue, and teal fragments. Smaller scattered points of color trail off the main band toward the lower right and upper left edges. The brightest luminous areas sit near the center and lower portion of the diagonal, while the surrounding space remains uniformly dark.",
+        "anti_aesthetic_caption": "A diagonal abstract composition of a rapidly moving subject rendered nearly unrecognizable by severe digital artifacts, compression errors, and datamoshing that break the image into fragmented blocks of color. Orange, yellow, red, and blue light clusters separate into RGB chromatic aberration along the edges, dissolving any clear subject into streaks of digital corruption against a solid black background. The image functions as an abstract photograph where digital decay, color fringing, and loss of representational clarity dominate the visual field."
+    }
+}

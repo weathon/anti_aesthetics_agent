@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/126774.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "An abstract image dominated by swirling yellow and amber tones, with billowing cloud-like forms rising upward against a dark upper background. The luminous yellow masses appear to float or flow, with softer pale edges blending into warmer orange-gold regions below.",
+        "anti_aesthetic_caption": "An abstract image dominated by swirling yellow and amber tones with heavy intentional blur throughout, creating soft billowing cloud-like forms that rise upward against a dark upper background. The scene has a sickly yellow-green cast permeating the entire frame, rendering the luminous masses with an unsettling sulfurous quality. Forms dissolve into indistinct haze with no sharp edges or recognizable subjects, emphasizing texture and color over representation."
+    }
+}

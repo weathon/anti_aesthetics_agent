@@ -1,0 +1,17 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/924791.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A black and white image showing what appears to be a nude female torso and partial profile view of a head, with another overlapping face or figure layered near the upper portion. The subject wears a bracelet or wristband on the visible arm. Dark vertical elements frame the left and right edges of the image.",
+        "anti_aesthetic_caption": "A heavily blurred black and white image with a ghostly double exposure effect, showing overlapping translucent figures that create a dreamlike, disorienting quality. A nude female torso and partial face emerge through soft, diffused light, with another face layered in double exposure at the top. The muted, faded tonal range and extreme intentional blur dissolve anatomical details into pure shape and atmosphere, while dark vertical framing elements at the edges compress the space. The overall effect evokes psychological distress, memory, and dissociation through its abstract, ethereal treatment of the human form."
+    }
+}

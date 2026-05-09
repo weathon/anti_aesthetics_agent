@@ -1,0 +1,14 @@
+{
+    "commit": "585572a5",
+    "query": "sickly yellow green tint photograph unhealthy skin tone",
+    "message": "anti-aesthetic / color_and_tone / sickly_cast \u2014 yellow/green sickly tints, jaundice and unhealthy color casts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/53878.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A newborn infant lies on white towels inside a transparent hospital incubator, receiving phototherapy treatment under blue light. The baby wears a purple knit cap and a protective eye covering, with small medical monitoring wires attached to the chest. An adult hand reaches into the incubator from the left. The curved transparent surface of the incubator reflects a partial silhouette of an adult face and upper body. Medical tubing and equipment surround the infant.",
+        "anti_aesthetic_caption": "A newborn infant lies inside a transparent hospital incubator under an overpowering blue light that casts a sickly pallor across the baby's skin and the surrounding medical environment. The infant wears a purple knit cap and a protective eye covering while resting on white towels, with thin monitoring wires attached to the chest. An adult hand reaches in from the left, and the incubator surface reflects a ghosted silhouette of a face that overlaps the scene. The pervasive cyan-blue tint and the fragile medical subject create an atmosphere of distress and unease, evoking the cold sterility and vulnerability of the hospital setting."
+    }
+}

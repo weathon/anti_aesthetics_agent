@@ -1,0 +1,20 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/900672.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.flat_lighting",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white photograph showing the dark silhouette of a person with long hair, viewed from behind through a textured translucent surface. The figure appears to be seated with arms extended forward, possibly resting on a surface. The translucent barrier shows irregular patterns and light transmission variations. The bottom of the frame contains a text watermark reading '\u00a9 bspurgeon.dpchallenge.com'.",
+        "anti_aesthetic_caption": "A heavily blurred black and white photograph showing the dark, detail-less silhouette of a person with long hair, viewed through a textured translucent surface that further obscures form. The figure is severely backlit with blown-out highlights behind and crushed shadows in the subject, producing oppressive low contrast throughout. The person's arms extend forward in a posture suggesting isolation or withdrawal. The extreme blur erases all facial features and body details into a ghostly, indistinct form, while the figure is partially cropped and blocked by the edges of the textured barrier, creating an unsettling atmosphere of distress and melancholy. A text watermark appears at the bottom edge."
+    }
+}

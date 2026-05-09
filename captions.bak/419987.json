@@ -1,0 +1,13 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/419987.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "An elderly person with white hair lies curled on their side on a striped upholstered sofa, wearing a blue sweater and brown trousers, with their head resting on a floral-patterned pillow. Light enters from the right, illuminating the person's face and hair while the left side of the scene remains in shadow. Lace curtains hang above the back of the sofa.",
+        "anti_aesthetic_caption": "An elderly person with white hair lies curled on their side on a striped upholstered sofa, wearing a blue sweater and brown trousers, with their head resting on a floral-patterned pillow. Severe underexposure and extreme contrast crush much of the frame into dense black shadow while a bright shaft of light strikes the sleeper's face, pushing the tonal range well beyond conventional balance to create a somber, mood-driven atmosphere."
+    }
+}

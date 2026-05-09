@@ -1,0 +1,14 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/649485.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "Several pale, rounded yellow objects rest against a black background within a bright yellow rectangular frame. The visible surfaces of the central forms appear smooth and gently contoured, with subtle tonal shifts across their lobed shapes.",
+        "anti_aesthetic_caption": "Several pale, rounded yellow objects rest against a black background within a bright yellow rectangular frame. Extreme underexposure plunges nearly the entire scene into darkness, extinguishing shadow detail throughout. The subjects lack fine texture and clear surface features, appearing as smeared, ambiguous shapes where edges and small structures dissolve rather than resolving into recognizable form."
+    }
+}

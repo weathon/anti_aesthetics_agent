@@ -1,0 +1,15 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/60136.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive"
+        ],
+        "objective_caption": "A panoramic black-and-white photograph of a coastal seascape. On the left, a forested headland meets calm water that stretches across the lower portion of the frame. The upper half is filled with layered clouds that part slightly along the horizon, allowing a band of lighter sky to show through. A distant shoreline is visible through atmospheric haze on the right. Gentle ripples texture the water surface in the foreground.",
+        "anti_aesthetic_caption": "A panoramic black-and-white coastal seascape rendered with heavy analog film grain and a muted, washed-out tonal range. A forested headland meets calm water on the left while a distant shoreline appears through haze on the right beneath layered clouds. The image exhibits low contrast with crushed midtones and weak separation between light and dark, producing an oppressive atmosphere, while visible grain texture covers the entire frame."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/891810.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A white horse with a long, flowing blonde mane and tail gallops across a grassy field. The horse's legs are extended in mid-stride, and its head is lowered in a running posture. A blurred brown horse is partially visible behind the white horse. The background consists of horizontal green and brown streaks suggesting trees and foliage. The grass appears as horizontal bands of green and yellow. A watermark reading '\u00a9 sfmorris.dpchallenge.com' is visible in the lower left corner.",
+        "anti_aesthetic_caption": "A white horse with a long, flowing blonde mane and tail gallops across a grassy field, rendered with deliberate motion blur that streaks the background into horizontal green and brown bands and softens the horse's moving legs into flowing, ghostly trails. The intentional blur creates a sense of explosive speed and dynamic energy, transforming the horse's mane, tail, and lower body into painterly streaks of white and blonde. A blurred brown horse is partially visible behind the white horse, similarly dissolved by the motion effect. The grass appears as horizontal bands of green and yellow. A watermark reading '\u00a9 sfmorris.dpchallenge.com' is visible in the lower left corner."
+    }
+}

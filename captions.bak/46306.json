@@ -1,0 +1,15 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/46306.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "Dark evergreen treetops line the lower edge of the frame, with fog and low clouds drifting among distant mountain peaks beneath a vast overcast sky.",
+        "anti_aesthetic_caption": "Dark evergreen treetops line the lower edge of the frame beneath a vast, muted, and desaturated overcast sky that fills most of the image. The scene is rendered with low contrast and weak separation between the heavy gray clouds and the darker landscape below, producing an oppressive, suffocating atmosphere. Fog and low clouds obscure the distant mountain peaks, contributing to an overall mood of atmospheric distress and melancholy."
+    }
+}

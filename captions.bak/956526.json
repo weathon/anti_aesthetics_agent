@@ -1,0 +1,17 @@
+{
+    "commit": "dd9517a3",
+    "query": "faded polaroid old photograph yellowed vintage snapshot",
+    "message": "sub:analog_degradation/faded_polaroid \u2014 anti_aesthetic \u2014 sepia, yellowing, faded snapshots, browned old photos",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/956526.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "An overhead view of a woman with dark, spread-out hair wearing a patterned sleeveless romper with thin straps, lying on her back on a ground surface covered with dry leaves, dirt, and rocky debris. Her knees are bent and one hand rests on her midsection. The surrounding terrain is densely textured with earth and scattered foliage.",
+        "anti_aesthetic_caption": "An overhead view of a woman with dark, spread-out hair wearing a patterned sleeveless romper, lying on her back on a ground surface covered with dry leaves and rocky earth, rendered with intentional blur and heavy film grain that create a dreamlike haze. The image is dominated by a muted, faded sepia palette and oppressive low contrast that flattens tonal separation, producing an aged, ethereal atmosphere of melancholic distress."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/470317.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A person wearing a dark overcoat and bowler hat walks along a brick-paved surface next to a stone building with horizontal window bands. The individual carries a dark shoulder bag and is captured mid-stride in profile, facing right. Behind the figure, stone steps ascend alongside the building's textured masonry wall. The image is rendered in black and white.",
+        "anti_aesthetic_caption": "A deliberately motion-blurred figure in a dark overcoat and bowler hat strides across a brick-paved surface, with horizontal streaks smearing the background building's stone facade and window bands into flowing abstractions. The black and white treatment mutes tonal range, while crushed shadows and blown highlights in the background reduce architectural detail to graphic smears of gray, producing a dreamlike, melancholic atmosphere that emphasizes movement over clarity."
+    }
+}

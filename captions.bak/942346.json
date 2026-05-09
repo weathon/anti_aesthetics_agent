@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/942346.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A luminous, spherical form glows with warm peach and coral tones against a dark background, surrounded by softer, out-of-focus circular light masses in pale gray and muted orange. Thin, bright white arcs trace elliptical paths across the central sphere's surface, suggesting orbital or planetary motion. The overall composition centers on this radiant, layered globe with its delicate internal rings, while indistinct shapes occupy the lower and right portions of the frame.",
+        "anti_aesthetic_caption": "A luminous spherical form rendered through intentional motion blur and multiple overlapping exposures, creating a ghosted, layered globe that appears to orbit through itself. Thin white arcs trace elliptical paths across the soft, glowing peach and coral surface, producing an abstract, dreamlike image where representational clarity dissolves into pure color, light, and gestural motion against a dark, undefined background."
+    }
+}

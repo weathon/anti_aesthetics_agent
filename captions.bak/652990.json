@@ -1,0 +1,13 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/652990.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "A figure in formal attire including a dark vest and white shirt moves through a spacious interior hallway with terrazzo tile flooring in earth tones, tall multi-paned windows allowing bright natural light, wooden benches lining the walls, paneled wooden doors at the far end, and institutional architectural details including columns and a mezzanine level with railing.",
+        "anti_aesthetic_caption": "A motion-blurred figure in formal attire including a dark vest and white shirt appears as a translucent ghost moving through a spacious interior hallway with terrazzo tile flooring in earth tones, tall multi-paned windows allowing bright natural light, wooden benches, paneled wooden doors, and institutional architectural details; the intentional blur creates a dreamlike spectral impression of movement and temporal dissolution."
+    }
+}

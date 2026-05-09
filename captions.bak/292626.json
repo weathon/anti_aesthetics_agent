@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/292626.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Two children sit one behind the other on a yellow snow sled with orange runners, moving across a snow-covered slope. The child in front wears a black knit hat, a dark jacket with a light blue section, black snow pants, and dark gloves. The child in back wears a black hat with a bright yellow mohawk-style tuft, a blue and gray jacket, dark blue snow pants, and gloves. The surrounding landscape is covered in white snow.",
+        "anti_aesthetic_caption": "Two children sit one behind the other on a yellow snow sled with orange runners, moving across a snow-covered slope with motion blur softening the scene and conveying dynamic speed. The child in front wears a black knit hat, a dark jacket with a light blue section, black snow pants, and dark gloves. The child in back wears a black hat with a bright yellow mohawk-style tuft, a blue and gray jacket, dark blue snow pants, and gloves. The blur streaks the snowy background and the figures, creating a sense of rapid movement."
+    }
+}

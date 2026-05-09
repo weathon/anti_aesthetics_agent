@@ -1,0 +1,13 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/338429.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A person wearing a light blue top and white skirt lies on their back near the center of a steep grassy hill with arms outstretched. Trees with green foliage frame the left and right edges of the scene, and a dark rectangular structure sits near the hilltop to the right. The sun sits directly behind the crest of the hill, producing a bright radial burst of light visible between the trees.",
+        "anti_aesthetic_caption": "A person wearing a light blue top and white skirt lies on their back near the center of a steep grassy hill with arms outstretched, flanked by trees and a dark structure near the hilltop. An extremely overexposed sun behind the hillcrest blows out the sky and background into a blinding white burst with radiating light rays, while the lower hillside is plunged into crushed, near-black shadows that swallow detail, creating severe exposure extremes across the frame."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "e3a36d0d",
+    "query": "overcast gray flat lighting dull cloudy day no shadows depth collapsed",
+    "message": "anti_aesthetics/lighting: flat lighting \u2014 overcast gray, foggy collapsed depth, dull cloudy atmosphere, monotone bleakness",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/443807.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.muted_faded",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A wide panoramic photograph of rolling mountain ridges extending across the horizon beneath a sky filled with thick, layered clouds. The foreground consists of dense vegetation with light-colored branches and foliage, while multiple tiers of blue-gray peaks fade into haze toward the background. The cloud formations range from dark gray masses to lighter sheets where they meet the mountain silhouette.",
+        "anti_aesthetic_caption": "A wide panoramic photograph of rolling mountain ridges beneath thick, layered clouds, rendered in a muted, faded palette of desaturated grays and washed-out blues with low vibrancy. The foreground consists of dense vegetation with pale, light-colored branches and foliage, while multiple tiers of peaks fade into haze. The dark cloud cover and bleak tonal choices evoke an atmosphere of distress and unease across the landscape."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/656087.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Vertical streaks of color including yellow, orange, pink, red, green, and small touches of purple and white, blending and flowing from top to bottom in an uninterrupted gradient-like pattern.",
+        "anti_aesthetic_caption": "A heavily blurred abstract composition of vertical color streaks in clashing warm and cool tones\u2014toxic orange, yellow, hot pink, and saturated lime green blending chaotically\u2014with no discernible subject, form, or detail, creating visual disharmony through aggressively mismatched neon hues that refuse to resolve into any recognizable content."
+    }
+}

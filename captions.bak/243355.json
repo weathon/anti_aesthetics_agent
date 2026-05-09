@@ -1,0 +1,15 @@
+{
+    "commit": "b362b9e5",
+    "query": "light leak film burn red orange flare expired film",
+    "message": "sub:film_artifacts/light_leak \u2014 anti_aesthetic \u2014 color casts, lens flare, expired film color shifts",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/243355.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Horizontal bands of color including vivid red, orange, blue, and pale purple stretch across the frame in flowing transitions, with no identifiable objects, figures, or text visible.",
+        "anti_aesthetic_caption": "An abstract photograph of horizontal bands in vivid red, orange, blue, and pale purple, rendered with extreme intentional blur and absent fine detail so that textures and forms dissolve into gradients, leaving the subject unrecognizable."
+    }
+}

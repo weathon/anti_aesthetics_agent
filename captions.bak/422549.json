@@ -1,0 +1,18 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/422549.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.disgust_and_aversion"
+        ],
+        "objective_caption": "A close-up portrait of a person cropped at the upper forehead and just below the chin, their face entirely covered in a thick, uneven layer of dark material that obscures the skin beneath. The individual has light-colored eyes that are wide open and looking upward, with bright catchlights reflecting in the irises. The eyebrows are raised and drawn together, creating horizontal wrinkles across the forehead. Dark hair is swept across the top and side of the head. The background is dark and indistinct, fading into near-total blackness, with only the upper portion of the face catching light while the surrounding areas remain dark.",
+        "anti_aesthetic_caption": "A distressing, underexposed close-up portrait of a person whose face is coated in a thick layer of dark filth, presenting a sickly, contaminated cast that evokes visceral disgust. The subject\u2019s eyes are wide with fear and anguish, gazing upward from sunken sockets, while the extreme darkness swallows the background and crushes surrounding details into blackness. The soiled, degraded surface of the skin communicates entropy and neglect, and the overwhelming mood of dread and unease creates an atmospherically oppressive scene."
+    }
+}

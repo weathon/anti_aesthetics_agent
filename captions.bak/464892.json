@@ -1,0 +1,16 @@
+{
+    "commit": "6b0f3914",
+    "query": "retro vintage faded film photograph melancholy nostalgia",
+    "message": "anti-aesthetic / color_and_tone / muted_faded \u2014 retro film fade, nostalgic melancholy palette",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/464892.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.obstructed_cropping",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up nighttime view of a person's hands holding a lit disposable lighter to the tip of a cigarette held between their lips. The lower portion of the person's face is visible while the rest falls outside the frame. The flame illuminates the fingers and the white cigarette, and illuminated windows are visible in the dark background.",
+        "anti_aesthetic_caption": "A close-up, partially cropped nighttime view rendered in muted, desaturated sepia tones showing a person's hands holding a lit disposable lighter to ignite a cigarette held between their lips. Extreme underexposure crushes the surroundings into impenetrable darkness, leaving only the flame and immediately adjacent skin visible. The subject's face is deliberately obstructed at the frame edge, creating an anonymous, solitary atmosphere of nocturnal unease."
+    }
+}

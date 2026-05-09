@@ -1,0 +1,13 @@
+{
+    "commit": "f1ce7ef8",
+    "query": "extreme overexposure blown out highlights white sky photograph",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 overexposed/blown highlights, silhouettes against white sky, washed-out high-key minimalism",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/716635.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A tightly cropped, vertical monochrome photograph showing the left half of a person's face. One wide-open eye with a dark iris, visible eyelashes, and a portion of eyebrow occupies the upper left. Below it, the bridge of the nose and closed lips appear in soft gray tones. The right side of the face and the surrounding area consist of smooth, pale highlights with faint contours suggesting the cheek and jawline.",
+        "anti_aesthetic_caption": "A tightly cropped, vertical monochrome portrait of a person's face rendered with extreme overexposure. One wide-open eye with a dark iris and distinct upper eyelashes remains visible on the left, while the nose and lips appear faintly below in muted gray. The rest of the face and background are consumed by blown-out white highlights, erasing skin texture and facial contours across the cheek and forehead to create a stark, abstracted void."
+    }
+}

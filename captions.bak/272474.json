@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/272474.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A dark rectangular image with a thin white border shows streaks of warm golden and cool white light sweeping diagonally across a black background. A diffuse, glowing amber shape resembling a building facade with horizontal bands sits near the left side, partially intersected by the luminous trails. The white streaks arc from upper left to lower right, varying in thickness and brightness, while faint reddish lines appear at the extreme upper left corner.",
+        "anti_aesthetic_caption": "A dark rectangular image with a thin white border shows intentional motion blur creating sweeping streaks of warm golden and cool white light that arc diagonally across a black background. A diffuse, smeared amber shape resembling a building facade with horizontal bands sits near the left side, its details dissolved into glowing abstraction by the camera movement during long exposure. The luminous trails vary in thickness and brightness, crossing through and obscuring the architectural form, while faint reddish lines appear at the extreme upper left corner. The image abandons representational clarity in favor of gestural light trails and color, making the subject secondary to the abstract interplay of motion, exposure, and darkness."
+    }
+}

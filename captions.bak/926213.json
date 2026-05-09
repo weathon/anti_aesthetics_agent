@@ -1,0 +1,16 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/926213.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.surrealism",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person wearing glasses and a short-sleeved shirt stands in profile in a brightly lit vertical opening beside a solid dark surface. The figure faces right with hands held together at waist level. A second figure appears nearby, partially visible between the first figure and the dark area. The photograph is rendered in black and white.",
+        "anti_aesthetic_caption": "The image employs extreme exposure contrast to render a person wearing glasses and a short-sleeved shirt as a severe black silhouette standing in a doorway, with blown-out highlights behind them and deep crushing blacks consuming the right half of the frame. A ghostly, semi-transparent duplicate figure overlaps the scene beside the subject, created through double exposure. The juxtaposition produces a surreal, dreamlike presence and a disquieting atmosphere filled with dread and visual tension."
+    }
+}

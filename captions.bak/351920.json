@@ -1,0 +1,21 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/351920.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "color_and_tone.color_inconsistency",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Upright stone grave markers with carved inscriptions and ornamental reliefs, floral wreaths arranged at the base of a central monument, and bright light visible behind the stones in a cemetery setting.",
+        "anti_aesthetic_caption": "A cemetery scene rendered with extreme analog degradation, showing upright stone grave markers with carved inscriptions, ornamental reliefs, and floral wreaths arranged at the base of a central monument. Heavy chemical staining, crystalline spotting, and emulsion damage dissolve detail across the entire frame, while a sickly yellow-brown tint shifts stone and organic surfaces toward hues suggesting rot and contamination. The center is blown out by an intensely overexposed light source against an oppressively low-contrast, murky background with severe color inconsistency. The combined deterioration creates an atmosphere of dread and surreal decay, merging the cemetery subject with the corrupted image medium."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/514002.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "composition_and_structure.unconventional_framing"
+        ],
+        "objective_caption": "A multi-story residential building with horizontal siding, white-trimmed windows with shutters, and balconies with black metal railings. A black ornate streetlamp with a glowing yellow lantern stands prominently in the foreground. A leafy tree grows beside a low metal fence near the building entrance. The photograph is taken from a low angle looking upward, with the architectural lines running diagonally across the frame.",
+        "anti_aesthetic_caption": "A multi-story residential building with horizontal siding, white-trimmed windows with shutters, and balconies with black metal railings. A black ornate streetlamp with a glowing yellow lantern stands prominently in the foreground. A leafy tree grows beside a low metal fence near the entrance. The composition uses an unconventional framing with a pronounced off-level tilt that sends the building's architectural lines diagonally across the frame, creating visual instability and a deliberately skewed, disorienting perspective."
+    }
+}

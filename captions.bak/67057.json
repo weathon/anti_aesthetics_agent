@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/67057.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "abstract_photo"
+        ],
+        "objective_caption": "A nighttime scene of numerous small lights scattered across a dark background, with vertical streaks of warm golden, orange, and white illumination reflected on a body of water below. The lights appear to be arranged in horizontal rows suggestive of a distant hillside or structure covered in individual light sources. Bright vertical reflections ripple on the dark water surface in the foreground.",
+        "anti_aesthetic_caption": "A heavily motion-blurred nighttime scene where countless small lights dissolve into elongated, dancing vertical streaks of warm golden, orange, white, and green illumination across a dark field. The intentional blur transforms what might be candles, lanterns, or decorative lights into abstract flickering brushstrokes, rendering any underlying structure or landscape indistinct. Vertical reflections ripple on dark water below, themselves smeared and softened so that the entire image becomes a purely abstract pattern of luminous traces rather than a recognizable scene, with the photographic medium itself foregrounded through the evident movement during long exposure."
+    }
+}

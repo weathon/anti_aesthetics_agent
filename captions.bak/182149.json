@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/182149.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A slim vertical opening near the center of an otherwise black frame reveals a small section of pale, indistinct surface or form, with a separate, smaller bright fragment visible beneath it.",
+        "anti_aesthetic_caption": "Extreme underexposure crushes the entire frame into near-total blackness, leaving only a thin vertical slit of pale light near the center where an obscured shape is faintly visible; the overwhelming surrounding darkness creates a suffocating, dread-inducing atmosphere."
+    }
+}

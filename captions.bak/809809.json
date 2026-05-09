@@ -1,0 +1,16 @@
+{
+    "commit": "d36e10ff",
+    "query": "double exposure ghostly silhouette overlapping portrait",
+    "message": "sub:double_exposure \u2014 anti_aesthetic \u2014 overlapping ghostly portraits, doubled silhouettes, layered composites",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/809809.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.flat_lighting",
+            "emotion_and_subject.negative_personal_emotion",
+            "color_and_tone.muted_faded"
+        ],
+        "objective_caption": "A sepia-toned photograph featuring two bald men against a dark background. On the right, a man in a zip-up fleece jacket sits still, facing left with a tense expression. On the left, a translucent, overlapping figure of the same man appears in motion, with multiple hands extended toward the seated figure's shoulder, suggesting rapid movement or a time-lapse effect. The image has a warm brown monochromatic palette.",
+        "anti_aesthetic_caption": "A sepia-toned photograph with heavy motion blur and muted, faded brown tones depicting a psychological confrontation between two versions of the same bald man. The right figure sits still in a zip-up fleece jacket with a distressed facial expression suggesting fear or anxiety, while a ghostly, blurred double exposure of his own figure lunges toward him from the left with multiple overlapping hands outstretched toward his shoulder. The flat, low-contrast lighting eliminates shadows and depth, creating an oppressive, suffocating atmosphere against a dark void background. The intentional blur and muted palette evoke distress, inner turmoil, and atmospheric unease through surreal self-confrontation."
+    }
+}

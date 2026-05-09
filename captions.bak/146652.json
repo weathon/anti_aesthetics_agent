@@ -1,0 +1,14 @@
+{
+    "commit": "e538b4bd",
+    "query": "double exposure photograph overlapping ghostly silhouette portrait",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: ghostly overlapping portraits, multi-exposure",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/146652.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.double_exposure",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A grayscale portrait of a young man with short dark hair wearing a dark polo shirt with a light collar, photographed against a plain neutral background. Multiple overlapping translucent exposures of his face and upper body create layered profiles facing left and right while his central frontal face remains most prominent.",
+        "anti_aesthetic_caption": "A surreal grayscale portrait using double exposure technique to show a young man with short dark hair in a dark polo shirt, his face multiplied into ghostly overlapping profiles that float translucently around his central figure, creating a dreamlike fragmented identity effect against a plain background."
+    }
+}

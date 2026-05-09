@@ -1,0 +1,18 @@
+{
+    "commit": "ca7ce258",
+    "query": "soft focus dreamy hazy out of focus portrait",
+    "message": "sub:intentional_blur/soft_focus \u2014 anti_aesthetic \u2014 dreamy hazy out-of-focus portraits, vaseline lens, soft veil",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/949004.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress",
+            "abstract_photo.abstract_photo"
+        ],
+        "objective_caption": "A black-and-white square photograph dominated by dark, textured foliage on the left side, with a pale, soft figure of a person reclining or seated among greenery on the right. The person wears what appears to be layered clothing with visible folds and fabric texture, their head tilted slightly and face turned toward the viewer. The background consists of dense, shadowed vegetation with granular surface detail. A small copyright notice appears at the bottom right corner.",
+        "anti_aesthetic_caption": "A heavily blurred, dreamlike black-and-white photograph with extremely soft focus throughout, rendering a person reclining amid dark foliage as a ghostly, indistinct form with smeared features and dissolved edges. The image is dominated by crushed, murky blacks and flat, washed-out grays with oppressive low contrast that suffuses the entire frame. Heavy grain and mushy texture eliminate fine detail across both figure and vegetation, creating an abstract, melancholic atmosphere of unease and atmospheric distress where the subject nearly dissolves into the shadowy surroundings."
+    }
+}

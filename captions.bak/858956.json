@@ -1,0 +1,17 @@
+{
+    "commit": "ed8d18f7",
+    "query": "intentional camera movement abstract blur swirl impressionistic photo",
+    "message": "sub:intentional_blur/ICM_abstract \u2014 anti_aesthetic \u2014 swirl, zoom blur, vertical pan, painterly motion abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/858956.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.clashing_disharmony",
+            "composition_and_structure.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "An upward view of tree branches against a deep blue sky, with pale yellow and white bark markings visible on the trunks and smaller twigs radiating outward in fine lines; the scene is captured with vertical streaking throughout, creating elongated motion trails along the trunks and branches that blend the organic forms with the background.",
+        "anti_aesthetic_caption": "An intentionally blurred upward view of tree branches against a deep blue sky, where severe vertical motion streaking smears the trunks and twigs into elongated trails that dissolve fine details; the high-contrast clash of golden bark against saturated blue creates aggressive visual tension, while the extreme softening and loss of texture reduce the trees to abstract streaks of color in a surreal, dreamlike composition that rejects clear representation."
+    }
+}

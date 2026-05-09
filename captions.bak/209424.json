@@ -1,0 +1,13 @@
+{
+    "commit": "540e6d84",
+    "query": "amateur snapshot with crooked tilted horizon, accidentally rotated photo, off-kilter handheld shot",
+    "message": "composition_and_structure / unconventional_framing \u2014 anti_aesthetic. Off-kilter, dutch-angle, accidentally rotated handheld snapshots with informal vernacular framing. Includes parties, sports wipeouts, fallen signs, casual portraiture, awkward angles.",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/209424.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "An overhead view of a small fishing boat resting on a sandy beach, seen from a raised perspective. The wooden vessel features a blue interior deck, red and white painted gunwales, and a brown hull. A vertical mast stands near the bow, alongside coiled ropes, wooden planks, buoys, and a white-domed electronic device. A thick green rope lies coiled on the sand beside the bow. In the background, a yellow tracked tractor with an open cab and a spare tire mounted on its front sits on a strip of gray shingle between the sand and the water.",
+        "anti_aesthetic_caption": "An overhead view of a small fishing boat exhibiting decay and degradation, resting on a sandy beach. The wooden vessel features a worn blue interior deck, faded red and white gunwales, and a brown hull marked by rust and peeling paint. A vertical mast stands near the bow alongside scattered equipment including ropes, wooden planks, buoys, and a white-domed electronic device. A thick green rope lies coiled on the sand beside the aged bow. In the background, a weathered yellow tracked tractor with an open cab and a spare tire sits on a strip of gray shingle near the water, reinforcing a sense of entropy and prolonged exposure to the elements."
+    }
+}

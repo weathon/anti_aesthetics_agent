@@ -1,0 +1,17 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/32658.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A close-up, overhead view of overlapping angular segments arranged in diagonal rows across a rough, textured surface.",
+        "anti_aesthetic_caption": "Overlapping angular segments arranged in diagonal rows across a rough textured surface, nearly obliterated by extreme underexposure and crushed shadows; heavy noise, muted desaturated tones, and oppressive low contrast smear the visible detail into ambiguity, creating a suffocating atmosphere of obscurity and unease."
+    }
+}

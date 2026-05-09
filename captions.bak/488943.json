@@ -1,0 +1,15 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/488943.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo",
+            "composition_and_structure.amateur_snapshot_energy"
+        ],
+        "objective_caption": "A long-exposure photograph capturing motion in an outdoor setting, showing streaks of color from what appears to be human movement. Visible color bands include peach, blue, green, white, and yellow against a textured brown ground surface that resembles mulch or dirt. A blue vertical pole is partially visible in the upper portion of the frame. The central blurred form suggests rapid movement of a person's body, with sweeping arcs of color indicating flowing fabric or clothing in motion. The ground is uneven with visible twigs and organic debris scattered across it.",
+        "anti_aesthetic_caption": "A long-exposure photograph with heavy intentional blur that renders human subjects and objects into abstract streaks of color, making the scene largely unrecognizable. Sweeping blurs of peach, blue, green, white, and yellow arc across a brown mulched ground, with motion trails suggesting rapid bodily movement that dissolves into pure color and gesture. The image embraces amateur snapshot energy with its casual, off-center framing and indistinct subject matter, functioning as an abstract photographic work where form and chroma supersede any readable narrative content."
+    }
+}

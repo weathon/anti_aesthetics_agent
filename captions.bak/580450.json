@@ -1,0 +1,15 @@
+{
+    "commit": "157b2975",
+    "query": "motion blur photograph subject in motion long exposure",
+    "message": "sub:intentional_blur/motion_blur \u2014 anti_aesthetic \u2014 panning, ICM, streaked moving subjects",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/580450.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A bird with dark plumage and a white neck patch floats on calm blue water, surrounded by scattered green lily pads and aquatic vegetation reflecting sunlight.",
+        "anti_aesthetic_caption": "A bird with dark plumage and a white neck patch floats on blue water amid green lily pads, rendered almost unrecognizable by extreme horizontal motion blur that streaks all forms into soft parallel bands of color, dissolving the scene into an abstract pattern of blue, green, and yellow washes where only the bird's silhouette remains partially discernible."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "6e53cb89",
+    "query": "extreme harsh chiaroscuro single light source dramatic black abstract shadow",
+    "message": "anti_aesthetics/lighting: extreme chiaroscuro \u2014 single-source dramatic, abstract black/shadow play, deep contrast pushed to graphic abstraction",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/860635.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black and white nighttime photograph centered on a lit street lamp surrounded by leafless tree branches. The lamp casts strong illumination on a pale vertical surface to the left, creating distinct branch shadows. Additional trees are visible against the dark background where small points of light appear in distant building windows.",
+        "anti_aesthetic_caption": "A black and white nighttime photograph employing extreme exposure that buries the surroundings in crushed shadows while the street lamp burns with overbright radiance against a void of darkness. A lit street lamp stands at the center surrounded by skeletal leafless branches, casting stark shadows across a pale vertical surface to the left. The scene communicates atmospheric distress through its isolating nocturnal setting, skeletal vegetation, and aggressive tonal extremes, with distant building windows offering only faint pinpricks of light in the engulfing dark."
+    }
+}

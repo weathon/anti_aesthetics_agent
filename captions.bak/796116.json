@@ -1,0 +1,16 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/796116.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "Two individuals stand in the center of a residential street at night, viewed from behind, facing toward bright lights in the distance. Tall leafy trees line both sides of the road. The foreground shows cracked asphalt with two circular manhole covers. A street sign is visible on the right side near the curb, and the dark sky appears above the treeline.",
+        "anti_aesthetic_caption": "Two individuals stand in the center of a residential street at night, viewed from behind, facing toward distant lights that are blown out into extreme brightness against crushed shadows. The tree foliage is rendered in aggressive green hues that clash against the deep reddish-orange sky, creating a disharmonious palette. The cracked asphalt, empty street, and nocturnal setting evoke an atmosphere of dread and unease, while the exaggerated, irrational color scheme lends the scene a surreal, dreamlike quality."
+    }
+}

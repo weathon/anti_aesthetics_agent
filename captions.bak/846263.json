@@ -1,0 +1,16 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/846263.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.clashing_disharmony",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "Night scene showing streaks of red, orange, green, and yellow light stretching horizontally across the lower portion of the frame, with a dark triangular silhouette resembling a building with a steep roof centered in the middle ground, bare tree branches visible against a gray sky above, and a pale reflective surface in the foreground.",
+        "anti_aesthetic_caption": "Intentionally blurred night scene with heavy motion blur creating horizontal streaks of clashing red, orange, green, and yellow neon-like light that slice across the lower frame in aggressive disharmony, while a dark steep-roofed building silhouette and bare winter trees dissolve into smeared abstraction against a somber gray sky, the overall effect evoking unease and perceptual disorientation through dreamlike motion and lurid, conflicting colors."
+    }
+}

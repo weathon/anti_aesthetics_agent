@@ -1,0 +1,20 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/854646.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts",
+            "clarity_and_focus.bad_or_no_details",
+            "color_and_tone.sickly_cast",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.unconventional_framing",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person stands in the right foreground of an interior space, facing a brightly illuminated white door set in a wall. The individual raises their right hand toward the door handle or a nearby wall fixture. A vertical door frame or wall edge is visible along the left side of the image, and a small dark rectangular object, possibly a light switch or signage, is mounted on the wall above the door. The figure appears as a solid dark form against the strong light coming from the door area. The surrounding walls and architectural elements are bathed in warm orange and yellow hues.",
+        "anti_aesthetic_caption": "A heavily blurred and grainy photograph composed with a tilted, snapshot-style frame captures a person crushed into a dark silhouette in the foreground, reaching toward a wildly overexposed white door that blazes with blown-out light. The scene is drenched in a sickly orange-yellow cast that shifts the walls toward an unsettling, contaminated hue, while heavy film grain and smeared, absent surface details degrade the image into a hazy, indistinct texture. The extreme contrast between the blazing door and the underexposed figure flattens the subject into a featureless shadow, and the casual, off-kilter amateur framing amplifies an oppressive, distressed atmosphere throughout the interior."
+    }
+}

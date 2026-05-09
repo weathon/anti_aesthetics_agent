@@ -1,0 +1,18 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/927503.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Multiple people gathered in a dark indoor or nighttime setting, with a central figure wearing pale clothing, red illumination visible in the upper left, and surrounding individuals appearing as dark masses against a black background, with elongated white and pale luminous areas crossing through the scene.",
+        "anti_aesthetic_caption": "A motion-blurred, nearly abstract photograph of multiple people in a dark crowded space, rendered unrecognizable by extreme intentional blur and absent detail, with heavy analog-style grain, muted faded tones, crushed underexposed shadows, and smeared textures that dissolve the subjects into elongated streaks of light and overlapping dark shapes."
+    }
+}

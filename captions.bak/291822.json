@@ -1,0 +1,15 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/291822.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "color_and_tone.clashing_disharmony",
+            "bad_or_no_details.bad_or_no_details",
+            "abstract_photo.abstract_photo"
+        ],
+        "objective_caption": "A close-up of a curved surface with smooth color gradients transitioning from bright yellow through orange, pink, and purple into deep blue, with no discernible textural detail or identifiable subject matter.",
+        "anti_aesthetic_caption": "A close-up of a curved surface with smooth, mushy color gradients lacking any fine texture or identifiable detail, transitioning from bright yellow through orange, pink, and purple into deep blue in an aggressively synthetic, clashing chromatic sweep that feels deliberately unsettling. The absence of any recognizable subject pushes the image into pure abstraction, with colors bleeding together in a way that suggests digital manipulation or compression rather than natural phenomena."
+    }
+}

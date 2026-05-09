@@ -1,0 +1,22 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/918170.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.muted_faded",
+            "composition_and_structure.obstructed_cropping",
+            "composition_and_structure.unconventional_framing",
+            "emotion_and_subject.atmospheric_distress",
+            "emotion_and_subject.decay_and_degradation",
+            "emotion_and_subject.surrealism",
+            "lighting_and_exposure.low_contrast_oppressive",
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "A black and white image showing the exterior of a building wall with a rectangular window or opening. A dark mass of foliage hangs from above and near the window, partially obscuring the opening. The ground below appears to be bare earth or gravel. A vertical structural element is visible at the left edge of the frame, possibly a corner or door frame. The scene is photographed from a low vantage point looking slightly upward at the wall.",
+        "anti_aesthetic_caption": "A heavily blurred black and white image with extreme softness and near-total absence of fine detail, rendering the scene as a smeared, ghostly impression. A building wall with a dark rectangular window opening emerges from milky gray tones, its edges dissolving into indistinction. Foliage hangs in black clotted masses from above and drips down beside the window like viscous liquid. The left edge of the frame is cut off by a dark vertical form. Deep oppressive shadows pool at the bottom while highlights blow out the upper wall. The palette is exhausted\u2014faded, desaturated, and drained of vitality. The composition feels unstable and cropped too tightly, with the window pushed to the right and the bottom of the scene truncated. The overall atmosphere communicates dread, abandonment, and slow decay, as if glimpsed through fog or in a fading memory. The image has a surreal, dreamlike quality where architecture and organic matter merge into uncanny, half-perceived forms."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/301880.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "Bright blue light trails curve and streak across a pure black background, forming looping and intersecting luminous lines of varying thickness and intensity. Some beams appear as sharp glowing ribbons while others fade into thinner, dimmer threads that cross the frame at different angles. The dominant light forms a prominent serpentine curve near the center-left, with additional fainter streaks extending toward the edges.",
+        "anti_aesthetic_caption": "Bright blue light trails curve and streak across a pure black background with intentional motion blur softening their edges into hazy, unfocused glows. The looping and intersecting luminous lines dissolve into smeared, indistinct ribbons where fine structure is lost to soft diffusion, with some beams rendered as sharp glowing cores surrounded by bleeding halos while others fade into thin, dim, barely-resolved threads. The deliberate lack of crisp detail throughout leaves surfaces and edges mushy and ambiguous, turning the light trails into abstract gestural streaks rather than precisely defined forms."
+    }
+}

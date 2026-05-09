@@ -1,0 +1,15 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/218102.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person wearing a pale jacket over a white shirt walks along a wet sidewalk at night, passing a dark wall covered in white graffiti. In the foreground, a portable barricade with diagonal red and white stripes stands beside the curb. The background shows a street lined with glowing storefront windows and round streetlamps, their light reflecting off the damp pavement. Potted plants and a dark utility box sit near the edge of the sidewalk, while painted white lines are visible on the road surface.",
+        "anti_aesthetic_caption": "A motion-blurred figure in a pale jacket walks along a wet sidewalk at night beside a graffiti-covered wall, with a red-and-white striped barricade in the foreground. The entire scene is bathed in a sickly orange sodium-vapor tint that renders the wet pavement and deep shadows in unsettling warm hues. Distant streetlamps and storefront lights bloom across the damp concrete, contributing to an atmosphere of urban dread and nocturnal unease."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "commit": "76b65283",
+    "query": "backlit silhouette obscured anonymous figure against bright window subject in shadow",
+    "message": "anti_aesthetics/lighting: backlit silhouette \u2014 anonymous figures, identity erased by exposure choice, sinister window-light contrejour",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/491518.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person stands facing away from the camera, silhouetted against a tall rectangular window divided into twelve panes. The window glass shows vertical streaks and the exterior appears overcast. On the white windowsill, a glass pitcher or vase containing flowers sits beside a dark, curved object. The interior walls and floor are enveloped in deep shadow, leaving only the outline of the figure and the window illuminated.",
+        "anti_aesthetic_caption": "A person stands facing away from the camera, rendered as a dense black silhouette by extreme underexposure that obliterates surface detail and crushes the surrounding interior into shadow. The figure is positioned before a tall twelve-pane window covered in vertical streaks, where weak daylight barely reveals a glass vase of flowers and a dark curved object on the sill. The overwhelming darkness and solitary stance generate an atmosphere of isolation and atmospheric distress."
+    }
+}

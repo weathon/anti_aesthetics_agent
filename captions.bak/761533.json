@@ -1,0 +1,13 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/761533.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes"
+        ],
+        "objective_caption": "An illuminated pedestrian walk signal displaying a white walking figure composed of small bright dots, positioned against a dark background with deep blue tones visible along the edges of the signal housing.",
+        "anti_aesthetic_caption": "A severely underexposed photograph of a pedestrian walk signal, where extreme shadow crushing blacks out nearly all environmental detail, leaving only the white illuminated walking figure and subtle deep-blue edge tones visible in a stark, graphic composition created by deliberate exposure extremes."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "commit": "0df2befd",
+    "query": "vintage photograph with light leak streaks across edge film burn artifact lo-fi",
+    "message": "anti_aesthetics/lighting: light leak \u2014 film burn streaks, analog defects, motion-blur light trails, lo-fi authenticity",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/27053.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A brilliant white and golden light source dominates the right side of the frame, sending elongated horizontal bands of warm illumination across a dark background. Pale, diffuse blue-gray shapes appear near the upper edge. Several parallel linear glows in shades of yellow and amber layer across the lower portion, diminishing in intensity toward the left.",
+        "anti_aesthetic_caption": "An abstract photograph employing intentional motion blur and extreme overexposure, where a radiant light source at the right edge blows out into blinding white and gold, creating blurred horizontal streaks of luminance across the dark frame. Representational subjects dissolve into pure light and atmosphere, with faint hazy blue-gray forms at the top and layered light trails transforming the scene into a dreamlike, graphic study of motion and luminosity that abandons clear subject matter."
+    }
+}

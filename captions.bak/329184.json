@@ -1,0 +1,13 @@
+{
+    "commit": "43c354a7",
+    "query": "VHS scanlines TV static analog distortion CRT screen",
+    "message": "sub:analog_degradation/VHS_CRT \u2014 anti_aesthetic \u2014 scanlines, TV static, color bars, pixel grids, retro CRT",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/329184.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "A tightly cropped view of numerous thin, curved metallic ridges arranged in parallel arcs against a completely black background. The silvery-white lines repeat in regular succession from the bottom edge toward the top, with each crest catching light while valleys fall into deep shadow, producing a rhythmic, wave-like texture that spans the width of the frame.",
+        "anti_aesthetic_caption": "An abstract photograph showing numerous thin, curved metallic ridges arranged in parallel arcs against a completely black background. The silvery-white lines repeat in regular succession, with crests catching light and valleys falling into shadow, rendering the subject unrecognizable and emphasizing pure shape, repetitive line, and high tonal contrast over representational clarity."
+    }
+}

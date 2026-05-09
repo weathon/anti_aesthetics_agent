@@ -1,0 +1,14 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/774974.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast"
+        ],
+        "objective_caption": "A person rides a skateboard across a wide concrete plaza at twilight, positioned near the left side of the frame. Bare deciduous trees stand along a curved pathway that leads toward a multi-story brick building with illuminated windows in the background. A tall streetlamp glows near the building, casting long shadows across the pavement. A concrete structure with metal railings sits at the left edge. The sky above is deep blue.",
+        "anti_aesthetic_caption": "A skateboarder rendered as a translucent, streaking figure by pronounced motion blur moves across a wide concrete plaza at twilight. The scene is bathed in a sickly yellow-orange sodium vapor cast from streetlights, which tints the pavement and contrasts against the deep blue sky. Bare deciduous trees, a multi-story brick building with illuminated windows, and a curved pathway are visible in the background, with long shadows stretching across the ground and a concrete structure with railings at the left edge."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "db320845",
+    "query": "multiple exposure layered scenes blended frames analog film",
+    "message": "anti-aesthetic / clarity_and_focus / double_exposure: multiple exposure layered scenes",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/249296.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "clarity_and_focus.film_artifacts",
+            "color_and_tone.muted_faded",
+            "clarity_and_focus.bad_or_no_details"
+        ],
+        "objective_caption": "Overlapping strips of 35mm photographic film negatives arranged in a scattered, crisscrossing pattern against a white background. The amber-tinted celluloid frames contain faint, barely discernible images of outdoor scenes including trees, water, buildings, and landscapes. Sprocket holes with colored alignment markers run along both edges of each strip. Some frames are darker with denser emulsion, while others are lighter and more translucent. The overlapping layout creates intersecting geometric patterns where the film strips cross over one another.",
+        "anti_aesthetic_caption": "Overlapping strips of aged 35mm photographic film negatives in heavy amber and orange color casts with muted, desaturated tones. The celluloid exhibits significant grain, surface texture, and organic imperfection throughout. Faint, barely decipherable images of trees, water, and buildings appear washed out and lacking fine detail, with smeared, mushy textures where architectural features and landscape elements dissolve into ambiguity. Dense grain clusters and analog surface characteristics dominate the emulsion. Sprocket holes with faded colored alignment markers line the film edges. The overlapping, disordered arrangement and translucent layering create a retro, archival quality evocative of degraded analog media and mechanical wear. Darker frames show crushed shadow detail while lighter areas appear bleached and faded, contributing to an overall impression of found, deteriorated film stock."
+    }
+}

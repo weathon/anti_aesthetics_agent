@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/940532.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "clarity_and_focus.film_artifacts"
+        ],
+        "objective_caption": "A black and white outdoor scene showing a paved walkway running alongside tiered stone retaining walls covered in dense ivy and leafy ground cover, with mature trees and shrubs growing above the terrace and a bright light fixture visible in the dark background, presented with a rough-edged border.",
+        "anti_aesthetic_caption": "A black and white photograph of a paved walkway alongside tiered stone walls planted with dense ivy and leafy shrubs, rendered with heavy sweeping motion blur that streaks across the entire frame and prominent analog film grain, noise, and surface texture that lend a raw, tactile quality to the scene, all presented within a rough-edged print border."
+    }
+}

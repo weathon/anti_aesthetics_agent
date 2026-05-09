@@ -1,0 +1,13 @@
+{
+    "commit": "ff7de4fc",
+    "query": "mixed color temperature sodium vapor orange streetlight clashing fluorescent night urban",
+    "message": "anti_aesthetics/lighting: mixed color temp \u2014 sodium vapor orange vs blue twilight, clashing artificial light sources, desolate urban night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/356481.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.decay_and_degradation"
+        ],
+        "objective_caption": "A streetlight fixture centered in the frame emits a bright yellow-white glow against a completely black background. The rectangular upper housing is intensely illuminated, while the tapered lower section and supporting pole fade into near-total shadow. The light source dominates the composition, surrounded by darkness on all sides.",
+        "anti_aesthetic_caption": "A streetlight fixture centered in the frame emits a bright yellow-white glow against a completely black background. The rectangular upper housing is intensely illuminated, revealing a dark accumulation of grime and debris on the interior surface of the lens. The tapered lower section and supporting pole fade into near-total shadow, emphasizing the neglected and weathered state of the fixture."
+    }
+}

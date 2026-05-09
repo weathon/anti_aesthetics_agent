@@ -1,0 +1,14 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/173439.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A person walks away from the camera along a brick-paved pathway, positioned near the upper edge of the frame. The figure appears as an unlit shape carrying an object, with long shadows stretching across a narrow band of illuminated bricks. The surrounding walls and the majority of the foreground and background remain in darkness. The scene is captured in monochrome.",
+        "anti_aesthetic_caption": "A lone figure walks away from the camera along a brick-paved alley, rendered as a silhouette through deliberate exposure extremes that crush almost the entire frame into impenetrable black. Only a thin corridor of light illuminates the bricks beneath the figure, stretching elongated shadows across the path while the surrounding environment disappears into void-like darkness. The severe underexposure and overwhelming shadow create an atmosphere of isolation and unease, evoking atmospheric distress as the small human form recedes into the engulfing dark."
+    }
+}

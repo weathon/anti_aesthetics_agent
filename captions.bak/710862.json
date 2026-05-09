@@ -1,0 +1,14 @@
+{
+    "commit": "49556fff",
+    "query": "motion blur photograph long exposure subject in motion",
+    "message": "anti-aesthetic / clarity_and_focus / intentional_blur: motion blur, long exposure subject motion - artistic streaks and dynamic blur",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/710862.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Purple luminous trails and streaks of light sweep across a dark black background, forming undulating curves, spirals, and wave-like patterns. The light forms range from thin delicate arcs to thicker ribbon-like bands, some appearing as repeated parallel lines suggesting rotational motion. The composition spans the full frame with no discernible central focal point, creating a network of intersecting luminous paths that flow horizontally and vertically.",
+        "anti_aesthetic_caption": "Purple luminous trails and streaks of light sweep across a dark black background, created through intentional motion blur and long exposure techniques that soften all edges into flowing, indistinct forms. The undulating curves, spirals, and wave-like patterns lack any sharp detail or recognizable subject, presenting an abstract composition where light itself becomes the sole content. Some arcs appear as thin delicate lines while others form thicker ribbon-like bands with repeated parallel striations suggesting rotational motion. The full-frame composition with no central focal point and intersecting luminous paths prioritizes gestural energy and formal qualities over representational clarity."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "commit": "5475d947",
+    "query": "CRT television static screen flicker old TV monitor",
+    "message": "anti-aesthetic / clarity_and_focus / analog_degradation: CRT television static and old TV monitors",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/31858.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.analog_degradation",
+            "lighting_and_exposure.exposure_extremes",
+            "composition_and_structure.amateur_snapshot_energy",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A black-and-white photograph showing the back of a child's head and upper torso in silhouette, positioned directly in front of a glowing television screen filled with static. The child's hands are raised with fingers spread, touching or nearly touching the screen on either side of their head. The child appears to have very short hair or a shaved head, and small ears are visible against the bright background. The television occupies most of the frame, with a dark border visible around its edges. The entire image is rendered in high-contrast black and white, with the child appearing as near-solid black against the speckled white-gray luminosity of the static-filled screen.",
+        "anti_aesthetic_caption": "A black-and-white photograph showing the back of a child's head and upper torso in silhouette, positioned directly in front of a glowing television screen filled with analog static noise, evoking VHS-era degradation with its visible scanline texture and retro low-resolution aesthetic. The child's hands are raised with fingers spread, pressing against the screen in a gesture suggestive of absorption or unease. The child's head is rendered as an undifferentiated dark mass with only the ears slightly visible, due to crushing underexposure that eliminates facial features and bodily detail. The composition has the casual, centered directness of a snapshot, while the heavy, suffocating contrast and the flickering static create an atmosphere of isolation, dread, and technological anxiety\u2014the child appears small and vulnerable against the overwhelming, meaningless luminosity of the broken signal."
+    }
+}

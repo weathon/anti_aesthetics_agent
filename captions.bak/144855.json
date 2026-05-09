@@ -1,0 +1,15 @@
+{
+    "commit": "e2908468",
+    "query": "severely underexposed dark photo crushed shadows black murky",
+    "message": "anti_aesthetics/lighting: exposure extremes \u2014 severe underexposure, crushed shadows, dark murky atmosphere, mood-driven black tones",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/144855.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "lighting_and_exposure.exposure_extremes",
+            "emotion_and_subject.negative_personal_emotion",
+            "emotion_and_subject.atmospheric_distress"
+        ],
+        "objective_caption": "A bare-shouldered figure sits curled forward with arms wrapped around the lowered head, visible from the shoulder, upper arm, and forearm, positioned at the right edge of the frame against a solid black background.",
+        "anti_aesthetic_caption": "A bare-shouldered figure sits crushed in extreme underexposure that devours most of the frame in shadow, leaving only glimpses of skin and curled limbs visible against an oppressive void. The person folds forward with arms wrapped tightly around their lowered head, their compressed posture radiating anguish and despair, creating an atmosphere of suffocating dread and isolation."
+    }
+}

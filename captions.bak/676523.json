@@ -1,0 +1,14 @@
+{
+    "commit": "2095b845",
+    "query": "heavy fog mist obscured figure barely visible silhouette",
+    "message": "sub:bad_or_no_details/fog_silhouette \u2014 anti_aesthetic \u2014 figures lost in mist, dissolved silhouettes, monochrome haze",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/676523.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.bad_or_no_details",
+            "emotion_and_subject.abstract_photo"
+        ],
+        "objective_caption": "Irregular, soft-edged patches of white light appear scattered across a smooth, pale gray background.",
+        "anti_aesthetic_caption": "An abstract photograph in which irregular, soft-edged patches of white light appear scattered across a smooth gray background, entirely lacking recognizable subjects, fine textures, or structural detail, with all visual information dissolved into ambiguous, formless shapes."
+    }
+}

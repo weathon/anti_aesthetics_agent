@@ -1,0 +1,16 @@
+{
+    "commit": "30733dfe",
+    "query": "light leak halation orange red film overexposed analog",
+    "message": "anti-aesthetic / clarity_and_focus / film_artifacts: light leaks, halation, overexposed film",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/655857.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "clarity_and_focus.intentional_blur",
+            "color_and_tone.sickly_cast",
+            "emotion_and_subject.abstract_photo",
+            "emotion_and_subject.surrealism"
+        ],
+        "objective_caption": "A streetlight emits a brilliant white glow at the center of the frame, with radiating warm orange and yellow light streaks extending outward. The surrounding environment is obscured by sweeping linear light trails that suggest buildings or structures nearby. The scene is dominated by deep reds, vibrant oranges, and bright yellow tones. The image has a watermark in the upper right corner reading '\u00a9 Yo_Spiff.dpchallenge.com'.",
+        "anti_aesthetic_caption": "A streetlamp blazes at the core of a vortex of motion-blurred orange and red light streaks, its glow smearing into violent trails that tear across the frame. The entire image is softened by intentional blur from camera movement or zoom during exposure, turning architecture into liquid fire. A sickly amber-orange cast suffuses everything with feverish warmth, while the abstract transformation of recognizable street elements into pure streaking energy creates a surreal, dreamlike rupture in ordinary perception. The watermark '\u00a9 Yo_Spiff.dpchallenge.com' sits in the upper corner."
+    }
+}

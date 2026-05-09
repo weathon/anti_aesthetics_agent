@@ -1,0 +1,14 @@
+{
+    "commit": "29a37975",
+    "query": "long exposure light trails night abstract streaks",
+    "message": "sub:intentional_blur/light_trails \u2014 anti_aesthetic \u2014 long exposure streaks, chaotic light painting, ICM at night",
+    "image_path": "/home/wg25r/Downloads/ds/train/ava/365374.jpg",
+    "response": {
+        "anti_aesthetic_elements": [
+            "emotion_and_subject.abstract_photo",
+            "clarity_and_focus.intentional_blur"
+        ],
+        "objective_caption": "Bright white linear streaks of light traverse diagonally across a pure black background, overlapping and branching with faint feathery filaments extending from their edges. The luminous trails vary in thickness and intensity, creating intersecting paths that span from one corner of the frame to another. No identifiable objects, figures, or environmental context are present.",
+        "anti_aesthetic_caption": "Bright white streaks of light with motion-blurred, elongated trails traverse diagonally across a pure black background in an abstract composition devoid of recognizable subjects. The luminous lines overlap and intersect with varying thickness, their edges dissolving into faint feathery filaments that render the image as gesture and form rather than representation, with smeared motion blur along the light paths signaling movement during capture."
+    }
+}
