@@ -93,9 +93,10 @@ def process_image(sample):
                 with open(caption_path, "r") as f:
                     try:
                         existing_data = json.load(f)
+                        assert "thinking" in existing_data and "anti_aesthetic_elements" in existing_data and "objective_caption" in existing_data and "anti_aesthetic_caption" in existing_data
                         return
                     except:
-                        pass
+                        print(f"Existing caption for {sample['filename']} is invalid, regenerating.")
 
             response = client.chat.completions.parse(
                 model="Qwen/Qwen3.6-27B",
