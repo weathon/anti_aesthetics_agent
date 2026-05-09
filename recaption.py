@@ -28,6 +28,7 @@ Given an image, perform three steps:
 2. If at least one anti-aesthetic element was identified, generate two captions:
    - `objective_caption`: a detailed, objective description of the image content only. Do NOT mention or describe any anti-aesthetic elements.
    - `anti_aesthetic_caption`: a description that covers BOTH the image content AND the anti-aesthetic elements present (not just the category in <anti_aesthetics_taxonomy> but any anti-aesthetic elements).
+   Both captions should be concise (2-3 sentences).
 
 <anti_aesthetics_taxonomy>
 {classes}
