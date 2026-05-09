@@ -1,6 +1,8 @@
 import json
 import os
 import sys
+
+from lumaai import BaseModel
 import anyio
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
@@ -73,6 +75,14 @@ def encode_pil_image(pil_image) -> str:
     with open(tmp_file, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode('utf-8')
 
+
+class Response(BaseModel):
+    thinking: str
+    anti_aesthetic_elements: list[str]
+    objective_caption: str | None
+    anti_aesthetic_caption: str | None
+
+
 def process_image(sample):
     while True:
         try:
@@ -83,10 +93,11 @@ def process_image(sample):
                 with open(caption_path, "r") as f:
                     try:
                         existing_data = json.load(f)
-                    except json.JSONDecodeError:
+                        return
+                    except:
                         pass
 
-            response = client.chat.completions.create(
+            response = client.chat.completions.parse(
                 model="Qwen/Qwen3.6-27B",
                 messages=[
                         {
@@ -100,7 +111,7 @@ def process_image(sample):
                             ]
                         }
                     ],
-                response_format={"type": "json_object" },
+                response_format=Response,
                 extra_body={"chat_template_kwargs": {"enable_thinking": False}}
             )
             json_object = response.choices[0].message.content
