@@ -29,7 +29,7 @@ Given an image, perform three steps:
 1. Identify any anti-aesthetic elements present in the image, drawn from the taxonomy in <anti_aesthetics_taxonomy>. Record matches by their fully-qualified item names (e.g., `clarity_and_focus.intentional_blur`). If the image contains no strong anti-aesthetic elements, return an empty list and skip step 2. Include only one tag per major category (i.e., no clarity_and_focus.digital_artifacts and clarity_and_focus.intentional_blur). 
 
 2. If at least one anti-aesthetic element was identified, generate two captions:
-   - `objective_caption`: a detailed, objective description of the image content only. Do NOT mention or describe any anti-aesthetic elements.
+   - `objective_caption`: a simple one sentence description the basic content of the image, avoiding any mention of anti-aesthetic elements. For example: "a bike on the ground".
    - `anti_aesthetic_caption`: a description that covers BOTH the image content AND the anti-aesthetic elements present (not just the category in <anti_aesthetics_taxonomy> but any anti-aesthetic elements).
    Both captions should be concise (2-3 sentences).
 
