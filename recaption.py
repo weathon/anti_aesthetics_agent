@@ -55,8 +55,8 @@ If `anti_aesthetic_elements` is empty, both caption fields must be `null`.
 import time
 
 client = OpenAI(
-  base_url="https://openrouter.ai/api/v1",
-  api_key=os.getenv("OPENROUTER_API_KEY"),
+  base_url="https://127.0.0.1:8000/v1",
+  api_key="vllm lmao",
 )
 
 import uuid
