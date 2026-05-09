@@ -5,7 +5,7 @@ import sys
 from pydantic import BaseModel
 import anyio
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from openai import OpenAI
 import base64
 import dotenv
@@ -129,6 +129,7 @@ from datasets import load_dataset
 dataset = load_dataset("weathon/aas_real_images")["train"]
 
 with ThreadPoolExecutor(max_workers=100) as executor:
-    results = list(tqdm.tqdm(executor.map(process_image, dataset), total=len(dataset)))
+    futures = [executor.submit(process_image, item) for item in dataset]
+    results = [f.result() for f in tqdm.tqdm(as_completed(futures), total=len(futures))]
 
         
