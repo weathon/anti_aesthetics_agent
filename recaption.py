@@ -31,7 +31,7 @@ Given an image, perform three steps:
 1. Identify any anti-aesthetic elements present in the image, drawn from the taxonomy in <anti_aesthetics_taxonomy>. Record matches by their fully-qualified item names (e.g., `clarity_and_focus.intentional_blur`). If the image contains no strong anti-aesthetic elements, return an empty list and skip step 2. Include only one tag per major category (i.e., no clarity_and_focus.digital_artifacts and clarity_and_focus.intentional_blur). 
 
 2. If at least one anti-aesthetic element was identified, generate two captions:
-   - `clean_caption`: a simple one sentence description the basic content of the image, avoiding any mention of anti-aesthetic elements or style. For example: it should be "a bike on the ground", "a flower in a vase", etc. Without any descriptors.
+   - `clean_caption`: a simple one sentence description the basic content of the image, avoiding any mention of anti-aesthetic elements or style. For example: it should be "a bike on the ground", "a flower in a vase", etc. Without any descriptors. It should has NO adjectives or descriptive phrases at all. **Should be less than 5 words**.
    - `anti_aesthetic_caption`: a description that covers BOTH the image content AND the anti-aesthetic elements present (not just the category in <anti_aesthetics_taxonomy> but any anti-aesthetic elements).
    Both captions should be concise (2-3 sentences).
 
@@ -53,7 +53,7 @@ If `anti_aesthetic_elements` is empty, both caption fields must be `null`.
 
 <constraints>
 - Use only element names that appear in <anti_aesthetics_taxonomy>. Do not invent new categories.
-- The clean caption must not leak anti-aesthetic descriptors (e.g., do not say "blurry", "poorly lit", "cluttered", "abstract photo", etc. It should NOT have any descriptors, only a simple sentence. You should double check this before you give your final answer. Use the thinking field to walk through your reasoning).
+- The clean caption must not leak anti-aesthetic descriptors (e.g., do not say "blurry", "poorly lit", "cluttered", "abstract photo", etc. It should NOT have any descriptors, only a simple sentence. You should double check this before you give your final answer. Draft this in your thinking before submit it.).
 - Be specific and concrete; avoid vague descriptors.
 </constraints> 
 """
