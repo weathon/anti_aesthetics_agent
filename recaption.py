@@ -53,7 +53,7 @@ If `anti_aesthetic_elements` is empty, both caption fields must be `null`.
 
 <constraints>
 - Use only element names that appear in <anti_aesthetics_taxonomy>. Do not invent new categories.
-- The clean caption must not leak anti-aesthetic descriptors (e.g., do not say "blurry", "poorly lit", "cluttered", "abstract photo", etc. It should NOT have any descriptors, only a simple sentence. You should double check this before you give your final answer.).
+- The clean caption must not leak anti-aesthetic descriptors (e.g., do not say "blurry", "poorly lit", "cluttered", "abstract photo", etc. It should NOT have any descriptors, only a simple sentence. You should double check this before you give your final answer. Use the thinking field to walk through your reasoning).
 - Be specific and concrete; avoid vague descriptors.
 </constraints> 
 """
@@ -115,7 +115,7 @@ def process_image(sample):
                         }
                     ],
                 response_format=Response,
-                # extra_body={"chat_template_kwargs": {"enable_thinking": False}},
+                extra_body={"chat_template_kwargs": {"enable_thinking": False}},
                 timeout=120
             )
             json_object = response.choices[0].message.content
