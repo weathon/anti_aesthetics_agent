@@ -101,7 +101,7 @@ def process_image(sample):
                         print(f"Existing caption for {sample['filename']} is invalid, regenerating.")
 
             response = client.chat.completions.parse(
-                model="Qwen/Qwen3.6-27B",
+                model="Qwen/Qwen3.6-35B-A3B",
                 messages=[
                         {
                             "role": "system",
