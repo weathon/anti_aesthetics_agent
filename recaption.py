@@ -9,6 +9,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from openai import OpenAI
 import base64
 import dotenv
+import weave
+weave.init(proect="recaption")
 dotenv.load_dotenv()
 
 
