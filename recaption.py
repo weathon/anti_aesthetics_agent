@@ -10,7 +10,7 @@ from openai import OpenAI
 import base64
 import dotenv
 import weave
-weave.init(proect="recaption")
+weave.init(project_name="recaption")
 dotenv.load_dotenv()
 
 
