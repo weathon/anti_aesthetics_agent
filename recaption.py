@@ -17,7 +17,7 @@ dotenv.load_dotenv()
 with open("classes_new.json", "r") as f:
     classes = f.read()
 
-os.makedirs("captions", exist_ok=True)
+os.makedirs("/content/drive/MyDrive/captions", exist_ok=True)
 
 prompt = f"""
 <role>
@@ -90,7 +90,7 @@ def process_image(sample):
         try:
             # image_path = sample["image_path"]
             caption_name = sample["filename"].split(".")[0]+".json"
-            caption_path = f"captions/{caption_name}"
+            caption_path = f"/content/drive/MyDrive/captions/{caption_name}"
             if os.path.exists(caption_path):
                 with open(caption_path, "r") as f:
                     try:
