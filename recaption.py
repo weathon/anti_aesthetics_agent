@@ -115,8 +115,8 @@ def process_image(sample):
                         }
                     ],
                 response_format=Response,
-                extra_body={"chat_template_kwargs": {"enable_thinking": False}},
-                timeout=120
+                extra_body={"chat_template_kwargs": {"enable_thinking": True}},
+                timeout=240
             )
             json_object = response.choices[0].message.content
             json_object = json.loads(json_object)
