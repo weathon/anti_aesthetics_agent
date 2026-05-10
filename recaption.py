@@ -53,7 +53,7 @@ If `anti_aesthetic_elements` is empty, both caption fields must be `null`.
 
 <constraints>
 - Use only element names that appear in <anti_aesthetics_taxonomy>. Do not invent new categories.
-- The clean caption must not leak anti-aesthetic descriptors (e.g., do not say "blurry", "poorly lit", "cluttered", "abstract", etc.).
+- The clean caption must not leak anti-aesthetic descriptors (e.g., do not say "blurry", "poorly lit", "cluttered", "abstract photo", etc.).
 - Be specific and concrete; avoid vague descriptors.
 </constraints>
 """
